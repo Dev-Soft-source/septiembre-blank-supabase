@@ -1,0 +1,91 @@
+{
+  "title": "Group Leader",
+  "description": "Become a Hotel Living Group Leader. Organize unforgettable stays, connect with like-minded people and generate income by sharing your lifestyle.",
+  "cards": {
+    "card2": {
+      "title": "ARE YOU EMPATHETIC, SOCIABLE AND OF GOOD CHARACTER?",
+      "line1": "If the answer is yes, you already have the most important thing to be an exceptional group leader at Hotel Living.",
+      "line2": "You don't need prior experience or to be an influencer. Just a warm attitude, desire to connect with people and ability to create unique moments. The system takes care of the rest."
+    },
+    "card3": {
+      "title": "YES. BEING A GROUP LEADER CAN BE ANYONE'S GREAT FUTURE",
+      "line1": "Any person, young, adult or retired can become a Group Leader and multiply their life and that of many others.",
+      "line2": "The Hotel-Living Group Leader is:",
+      "bullets": {
+        "future": "💡 A future activity that no artificial intelligence will ever be able to replace.",
+        "utility": "🏨 Absolute utility for the hotel: attracts clients, organizes them and is even their spokesperson.",
+        "fundamental": "🌍 Fundamental for millions of people who want to travel, relate and share activities.",
+        "treasure": "✨ A treasure increasingly necessary every day: one that produces interaction and conversation, sociability and human wealth."
+      },
+      "conclusion1": "Being a Group Leader means accompanying, integrating and creating community.",
+      "conclusion2": "It means multiplying one's own life and that of many more."
+    }
+  },
+  "cta": {
+    "register": "Register as Leader"
+  },
+  "faq": {
+    "whoCanBecome": {
+      "question": "WHO CAN BECOME A GROUP LEADER?",
+      "answer": "Anyone of any age who wants to have a privileged life, connect people and organize something beautiful. You don't need to be an influencer or have prior experience. You just need a warm attitude and ability to reach people."
+    },
+    "whatLeaderDoes": {
+      "question": "WHAT DOES A GROUP LEADER DO?",
+      "answer": "Organizes a group of people who stay at the same hotel, during stays of 8, 15, 22 or 29 days, all renewable and according to packages already available on the platform. Nothing more and nothing less than bringing people together to live better!"
+    },
+    "howMuchEarn": {
+      "question": "HOW AND HOW MUCH DO I EARN AS A LEADER?",
+      "answer": "For each person who books using your code, the system automatically gives you 5% of the total. When you bring several people together, you can even cover your own stay and then start receiving cash bonuses every Monday or the weekly day agreed with the hotel.\n\nYou set your own earning goal. A huge hotel will let you touch the sky, but remember that human contact is fundamental, and for very large groups (more than 30-40 people) supplementary help is necessary, which of course you can organize with friends and trusted people."
+    },
+    "howSystemKnows": {
+      "question": "AND HOW DOES THE SYSTEM KNOW WHO CAME THROUGH ME?",
+      "answer": "Very easy: each leader has a unique code (for example, XXXXX). You just have to share it with your group. When someone books and enters it, your bonus is automatically activated."
+    },
+    "themeGroup": {
+      "question": "IS IT BETTER TO CHOOSE A THEME FOR THE GROUP?",
+      "answer": "Yes, it helps a lot. There are people who join by affinity: yoga groups, hiking, local cooking, conversation in English, Spanish or any other language. There's no limit to imagination."
+    },
+    "organizeActivities": {
+      "question": "DO I HAVE TO ORGANIZE ACTIVITIES?",
+      "answer": "It's not mandatory, but it adds a lot. A dinner, a walk together or a simple excursion can make the difference and make your group grow through word of mouth. You can arrange with excursions, theaters, restaurants, etc., the commissions or benefits you deem appropriate. They're yours!"
+    },
+    "stayDuration": {
+      "question": "ARE STAYS ALWAYS THE SAME DURATION?",
+      "answer": "Yes, at Hotel Living we always work with fixed durations: 8, 15, 22 or 29 days. But you decide if you organize just one block... or stay several months to expand the stay possibilities for many different people!"
+    },
+    "groupSize": {
+      "question": "HOW MANY PEOPLE CAN JOIN MY GROUP?",
+      "answer": "As many as you want! The only limit is the hotel's availability on those dates."
+    },
+    "experienceNeeded": {
+      "question": "DO I NEED TO HAVE EXPERIENCE ORGANIZING TRIPS?",
+      "answer": "No, absolutely not. It's just about moving, motivating other people, and maintaining good energy. The system helps you with everything."
+    },
+    "multipleHotels": {
+      "question": "CAN I ORGANIZE GROUPS IN DIFFERENT HOTELS, AND OF DIFFERENT AFFINITIES?",
+      "answer": "Of course. You set the limits. It's just a matter of organizing yourself with time."
+    },
+    "declareIncome": {
+      "question": "DO I HAVE TO DECLARE THIS INCOME?",
+      "answer": "As long as you don't exceed certain levels, it's not necessary. But if at some point you earn a lot, you can declare them as sporadic income. But always consult the current legality in your country. This information may change and is not guaranteed."
+    },
+    "becomeAutonomous": {
+      "question": "SHOULD I BECOME SELF-EMPLOYED OR REGISTER AS A COMPANY?",
+      "answer": "No. You're not selling anything or providing services. You're simply receiving a bonus for moving people. You don't need to register as long as everything stays within the usual. But always consult the current legality in your country. This information may change and is not guaranteed."
+    },
+    "promotorAmbassador": {
+      "question": "CAN I ALSO BE A PROMOTER OR AMBASSADOR?",
+      "answer": "Yes, but with a different email. Each role in Hotel Living is linked to an email, for technical reasons. If you want to have several roles, use different accounts."
+    },
+    "groupBenefits": {
+      "question": "WHAT BENEFITS DO PEOPLE WHO JOIN MY GROUP HAVE?",
+      "answer": "First, fundamental: these benefits are only activated for people who enter your code when making the reservation. You have to be very careful to remember it and put your code everywhere, because if they don't include your code when making the reservation they won't be able to do it later and you'll lose your corresponding bonus. You can include all the benefits you want. Among others:",
+      "benefits": {
+        "exclusiveActivities": "• Access to exclusive group activities\nYour guests can participate in joint dinners, walks, informal talks, excursions or activities you propose. You don't need to do something complicated: the important thing is to create shared moments.",
+        "personalizedWelcome": "• Personalized welcome\nYou are their reference point at the hotel. You welcome them, integrate them into the group and help them feel accompanied from the first moment.",
+        "localRecommendations": "• Trusted local recommendations\nYou know the place, or at least researched well. So you can share your favorite spots: authentic restaurants, quiet areas, little markets, different activities or destination secrets. That's worth gold!",
+        "commonAffinity": "• A group with a common affinity (if you decide)\nFor many, the great reason why they choose to join a group."
+      }
+    }
+  }
+}

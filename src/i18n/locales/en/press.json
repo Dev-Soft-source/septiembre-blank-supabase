@@ -1,0 +1,102 @@
+{
+  "header": {
+    "line1": "THE FUTURE IS ALREADY HERE",
+    "line2": "Living in and among hotels, enjoying a vibrant social life, is now possible for everyone.",
+    "line3": "...and becomes a new way of life"
+  },
+  "introduction": {
+    "paragraph1": "Hotel-Living.com, created in the USA, proposes a revolutionary model: transforming empty hotel rooms into living opportunities. With stays of 8, 15, 22 or 29 days, it offers travelers freedom and community, and hotels immediate benefit. A clear alternative to Airbnb and Booking.",
+    "stats": [
+      "+5 billion empty hotel nights worldwide each year.",
+      "Up to $12 billion USD in potential annual profits.",
+      "Global international approach"
+    ],
+    "quotes": [
+      "Airbnb and Booking focus on single nights; Hotel Living creates meaningful long stays.",
+      "Hotel-Living.com: the platform that turns long stays into business for hotels and freedom for travelers",
+      "The revolution is not traveling, it's staying: living between hotels is the new housing alternative.",
+      "Global startup transforms empty hotel rooms into a new lifestyle",
+      "The extended tourism revolution: living between hotels as an alternative to Airbnb",
+      "It's not tourism, it's a new way of life: living in hotels without household chores or loneliness.",
+      "From losses to profits: a system created in the USA fills empty rooms worldwide",
+      "Over 500 million potential travelers seek freedom and community instead of rentals."
+    ]
+  },
+  "video": {
+    "title": "Press Release Video",
+    "placeholder": "MV6uoOWM4Oo"
+  },
+  "pressKit": {
+    "title": "Download Press Kit",
+    "buttons": {
+      "english": "English",
+      "spanish": "Español"
+    }
+  },
+  "headlines": {
+    "title": "Featured Headlines",
+    "items": [
+      "Hilton launches LivSmart Studios: over 300 hotels designed for stays of 20 nights or more",
+      "The extended-stay market will grow from $62.8B to $143.2B by 2034",
+      "Marriott, Hyatt and Wyndham compete to lead the segment with their new brands",
+      "Thousands of retirees, remote workers and digital nomads choose hotels as permanent home",
+      "Extended-stay hotels achieve higher occupancy with less staff and more profitability",
+      "The Social Hub, Hoxton and Soho House blend hotel, coworking and community: the new hybrid model",
+      "In Hong Kong, traditional hotels transform into coliving to ensure stable profitability",
+      "Hotel design evolves: rooms converted into spaces for living, working and socializing"
+    ]
+  },
+  "keyFigures": {
+    "title": "Key Figures",
+    "items": [
+      "+232,000 extended-stay nights added in the U.S. in 2024",
+      "+50% growth in extended-stay portfolio among major hotel chains in the last decade",
+      "+200 ECHO hotels announced by Wyndham",
+      "$9.31 → average labor cost per occupied room in extended-stay hotels",
+      "$20.34 → equivalent in traditional hotels",
+      "2,038 hotel rooms converted to coliving in Hong Kong",
+      "+60% of Millennials and Gen Z prefer flexible stays with included services"
+    ]
+  },
+  "brands": {
+    "title": "Hotel Brands",
+    "major": ["Hilton", "Marriott", "Hyatt", "Wyndham", "Accor", "WaterWalk"],
+    "specialized": ["The Manner", "The Social Hub", "StudioRes", "Gaiastays", "Echo", "LivSmart"]
+  },
+  "pressCoverage": {
+    "title": "Press Coverage",
+    "items": [
+      {
+        "media": "New York Times",
+        "link": "https://www.nytimes.com/2023/11/12/style/hotel-living-nomads.html"
+      },
+      {
+        "media": "Financial Times",
+        "link": "https://www.ft.com/content/6ccdb850-53ea-4778-9383-73dd711c859d"
+      },
+      {
+        "media": "New York Post",
+        "link": "https://nypost.com/2024/12/05/business/amar-lalvani-is-pioneering-a-new-style-of-luxury-at-the-manner/"
+      },
+      {
+        "media": "Livingetc",
+        "link": "https://www.livingetc.com/features/resort-core"
+      },
+      {
+        "media": "HospitalityNet",
+        "link": "https://www.hospitalitynet.org/opinion/4127709.html"
+      },
+      {
+        "media": "EHL Insights",
+        "link": "https://hospitalityinsights.ehl.edu/hotel-guest-community-integration"
+      }
+    ]
+  },
+  "closing": {
+    "line1": "The hotel industry is not simply changing...",
+    "line2": "it's evolving into a new way of inhabiting the world."
+  },
+  "legal": {
+    "disclaimer": "All brands, logos and references cited on this page belong to their respective owners and are included exclusively for informational, editorial or comparative purposes. Hoteldiving is not affiliated with or endorsed by such entities."
+  }
+}

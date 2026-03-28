@@ -1,0 +1,26 @@
+{
+  "dashboard": {
+    "rates": {
+      "title": "Rates & Pricing",
+      "mealPlans": {
+        "room_only": "Room only",
+        "breakfast": "Breakfast included", 
+        "half_board": "Half board",
+        "full_board": "Full board",
+        "all_inclusive": "All inclusive"
+      },
+      "roomTypes": {
+        "single": "Price per person (single room)",
+        "double": "Price per person (double room)"
+      },
+      "priceRounding": {
+        "enabled": true,
+        "rule": "Round up to nearest 5 or 10"
+      },
+      "maxPriceEnforcement": {
+        "enabled": true,
+        "range": "50-90% of maximum allowed"
+      }
+    }
+  }
+}

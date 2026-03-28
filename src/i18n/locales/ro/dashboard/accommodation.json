@@ -1,0 +1,35 @@
+
+{
+  "dashboard": {
+    "accommodationTerms": "CONDIȚII DE CAZARE",
+    "stayDuration": "DURATA ȘEDERII",
+    "selectStayDurations": "Selectați toate duratele de ședere pe care le oferiți:",
+    "days": "zile",
+    "singleCheckinCheckout": "ZI UNICĂ DE CHECK-IN / CHECK-OUT",
+    "selectCheckinDay": "Selectați ziua în care oaspeții fac check-in și check-out:",
+    "availabilityDates": "DATE DISPONIBILE",
+    "mealPlans": "PLANURI DE MASĂ",
+    "roomTypes": "TIPURI DE CAMERE",
+    "defineRoomTypes": "Definiți tipurile de camere cu fotografii și disponibilitate:",
+    "availableRoomTypes": "TIPURI DE CAMERE DISPONIBILE",
+    "none": "Niciunul",
+    "addRoomType": "ADĂUGAȚI TIP DE CAMERĂ",
+    "breakfastIncluded": "Mic dejun inclus",
+    "halfBoard": "Demipensiune",
+    "fullBoard": "Pensiune completă",
+    "allInclusive": "Totul inclus",
+    "laundry": "Spălătorie",
+    "externalLaundryService": "Serviciu extern de spălătorie disponibil",
+    "monday": "Luni",
+    "tuesday": "Marți",
+    "wednesday": "Miercuri",
+    "thursday": "Joi",
+    "friday": "Vineri",
+    "saturday": "Sâmbătă",
+    "sunday": "Duminică",
+    "doubleRoomsCanBeSingle": "Camere duble care pot fi folosite și ca single",
+    "roomPhotos": "Fotografii cameră",
+    "roomDescription": "Descrierea camerei",
+    "roomDescriptionPlaceholder": "Descrieți caracteristicile camerei, amenities și ce pot aștepta oaspeții"
+  }
+}

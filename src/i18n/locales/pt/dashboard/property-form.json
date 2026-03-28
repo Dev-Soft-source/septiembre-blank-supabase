@@ -1,0 +1,52 @@
+
+{
+  "dashboard": {
+    "generalInformation": "INFORMAÇÕES GERAIS",
+    "hotelProfile": "PERFIL DO HOTEL",
+    "accommodationTerms": "CONDIÇÕES DE HOSPEDAGEM",
+    "packagesAndRates": "PACOTES E TARIFAS",
+    "step1Of5": "Etapa 1 de 5",
+    "step2Of5": "Etapa 2 de 5",
+    "step3Of5": "Etapa 3 de 5",
+    "step4Of5": "Etapa 4 de 5",
+    "step5Of5": "Etapa 5 de 5",
+    "previous": "Anterior",
+    "next": "Próximo",
+    "hotelName": "Nome do Hotel",
+    "hotelNamePlaceholder": "Digite o nome do hotel",
+    "totalRooms": "Total de Quartos",
+    "totalRoomsPlaceholder": "Digite o número total de quartos",
+    "category": "Categoria",
+    "selectHotelCategory": "Selecione a categoria do hotel",
+    "propertyType": "Tipo de Propriedade",
+    "selectPropertyType": "Selecione o tipo de propriedade",
+    "styleOfProperty": "ESTILO DA PROPRIEDADE",
+    "selectPropertyStyle": "Selecione o estilo da propriedade",
+    "description": "Descrição",
+    "hotelDescription": "DESCRIÇÃO DO HOTEL",
+    "hotelDescriptionPlaceholder": "Digite uma descrição detalhada do seu hotel",
+    "idealGuestsEnjoy": "IDEAL PARA HÓSPEDES QUE GOSTAM DE…",
+    "idealGuestsPlaceholder": "Descreva seus hóspedes ideais e seus interesses",
+    "atmosphereIs": "O AMBIENTE É…",
+    "atmospherePlaceholder": "Descreva o ambiente e a atmosfera do seu hotel",
+    "locationPerfectFor": "NOSSA LOCALIZAÇÃO É PERFEITA PARA…",
+    "locationPlaceholder": "Descreva o que torna sua localização especial",
+    "defineRoomTypesStayDurations": "Por favor, defina os tipos de quarto, durações de estadia e regimes de refeições na Etapa 3 antes de estabelecer preços.",
+    "propertyStyles": {
+      "classic": "Clássico",
+      "classicElegant": "Clássico Elegante",
+      "modern": "Moderno",
+      "fusion": "Fusão",
+      "urban": "Urbano",
+      "rural": "Rural",
+      "minimalist": "Minimalista",
+      "luxury": "Luxo"
+    },
+    "propertyForm": {
+      "errors": {
+        "devModeUserCreationFailed": "Falha ao criar usuário de desenvolvimento para registro",
+        "foreignKeyConstraint": "Erro de restrição do banco de dados. Seus dados foram salvos localmente para nova tentativa."
+      }
+    }
+  }
+}

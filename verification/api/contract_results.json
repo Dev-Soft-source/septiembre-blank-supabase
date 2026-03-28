@@ -1,0 +1,12 @@
+{
+  "checks": [
+    {"name": "Error envelope schema", "status": "OK", "evidence": "Spec defines {success:false,error,timestamp}"},
+    {"name": "Idempotency-Key headers on critical endpoints", "status": "OK", "evidence": "Defined in spec"},
+    {"name": "ETag for public GETs", "status": "OK", "evidence": "Spec states support"}
+  ],
+  "gaps": [
+    {"name": "Monetary commission currency type", "status": "FAIL", "details": "DB uses NUMERIC; spec requires INTEGER USD"},
+    {"name": "Bookings hotel_id removal", "status": "FAIL", "details": "DB still has hotel_id and triggers depend on it"},
+    {"name": "Weekday validation trigger", "status": "FAIL", "details": "No trigger found to enforce weekday against hotel.check_in_weekday"}
+  ]
+}

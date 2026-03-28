@@ -1,0 +1,202 @@
+{
+  "fallbackAssociation": "asociația dumneavoastră hotelieră",
+  "heroSection": {
+    "incomeSource": "O MARE SURSĂ DE VENIT PENTRU ASOCIAȚIA DUMNEAVOASTRĂ",
+    "massiveOccupancy": "POSIBILĂ OCUPARE MASIVĂ PENTRU HOTELURILE DUMNEAVOASTRĂ AFILIATE",
+    "revolution": "💼 O REVOLUȚIE HOTELIERĂ PE CARE ASOCIAȚIA DUMNEAVOASTRĂ O POATE INTRODUCE ÎN PREMIERĂ PRINTRE HOTELURILE SALE",
+    "introduction": "Suntem Hotel-Living.com, revoluție hotelieră, creată de hotelierii pentru hotelierii.",
+    "expansion": "Suntem în expansiune completă, și când intrăm într-o țară nouă încercăm în mod logic să colaborăm cu ai noștri —asociațiile hoteliere— cu obiectivul ca toate beneficiile să rămână cât mai mult posibil în sectorul nostru."
+  },
+  "opportunitySection": {
+    "title": "📊 SUNTEM O OPORTUNITATE CONCRETĂ ȘI ÎN DERULARE",
+    "systemBenefits": "Un sistem care generează beneficii directe",
+    "forAssociation": "atât pentru asociație",
+    "forHotels": "cât și pentru hotelurile sale afiliate"
+  },
+  "industrySection": {
+    "title": "SOCIETATEA S-A SCHIMBAT. MODELUL NOSTRU NU.",
+    "knownFact": "Cum este cunoscut, marile lanțuri hoteliere (Hyatt, Marriott, Hilton, Accor, IHG, Radisson și multe altele) de ani de zile rentabilizează și extind noul model social pe care societatea noastră îl impune: șederile rezidențiale în hoteluri, de durată medie și lungă.",
+    "onlyForBigChains": "DOAR PENTRU MARILE LANȚURI HOTELIERE?",
+    "independentHotels": "În timp ce acestea își extind fără încetare modelele lor rezidențiale, sute de mii de hoteluri mici independente și lanțuri mici sau medii nu au putut rentabiliza până acum acest model, nici să acceseze beneficiile sale imense, din lipsa unui instrument comun specializat și accesibil."
+  },
+  "offerSection": {
+    "title": "CE OFERIM LA HOTEL-LIVING.COM?",
+    "toAssociations": "ASOCIAȚIILOR HOTELIERE:",
+    "description": "Asociația dumneavoastră va primi lunar 4% din rezervările generate de hotelurile sale în primele 18 luni, și 2% în următoarele 12. Acest venit nu afectează deloc hotelurile —provine din propriul nostru cost de management— și poate fi reinvestit în beneficiul asociației și membrilor săi."
+  },
+  "crisisSection": {
+    "title": "MAREA CRIZĂ A SECTORULUI HOTELIER",
+    "obsoleteModel": "Modelul actual este învechit. Indicii oficiali vorbesc de o ocupare de 50-55%, dar realitatea este mult mai rea.",
+    "realOccupancy": "Dacă includem hotelurile închise mare parte din an, ocuparea reală scade la 40%.",
+    "emptyRooms": "Aceasta reprezintă peste 5 miliarde de nopți de camere goale în fiecare an.",
+    "implicationsTitle": "CE IMPLICĂ ACEASTA?",
+    "implications": [
+      "Facilități subutilizate",
+      "Profitabilitate în cădere liberă",
+      "Pierderea locurilor de muncă și oportunităților",
+      "Decăderea progresivă a sectorului"
+    ],
+    "meanwhileTitle": "Între timp, în jurul lor, milioane de oameni doresc:",
+    "desires": [
+      "O formă de viață mai liberă și practică",
+      "Să scape de singurătate și să găsească afinități",
+      "Să cunoască locuri și oameni cu autenticitate",
+      "Să călătorească fără complicații",
+      "Să trăiască în și între hoteluri, călătorind și bucurându-se cu adevărat de viață, ca o opțiune continuă, nu ocazională"
+    ],
+    "lostOpportunity": "Fiecare cameră goală este o oportunitate pierdută.",
+    "finalWarning": "Și fiecare noapte goală, un pas în plus către decăderea hotelului care nu se adaptează."
+  },
+  "associationBenefitsSection": {
+    "title": "CE AVANTAJE OBȚIN HOTELURILE DUMNEAVOASTRĂ ASOCIATE PRIN ÎNREGISTRAREA PRIN ASOCIAȚIA DUMNEAVOASTRĂ?",
+    "benefitsTitle": "O SUMĂ IMPORTANTĂ DE BENEFICII",
+    "benefits": [
+      "Poziționare preferențială în rezultate",
+      "Publicare garantată în 48 de ore",
+      "Fișă evidențiată vizual",
+      "Participare automată la campaniile locale",
+      "Etichetă oficială de \"hotel aliat\"",
+      "Dreptul la feedback direct cu echipa Hotel Living",
+      "Includere în trageri la sorți promoționale",
+      "Onboarding asistat personalizat",
+      "Revizuire gratuită a fișei lor",
+      "Traducere prioritară a fișei lor în alte limbi",
+      "Beneficiu cumulativ dacă recomandă alte hoteluri (care nu aparțin niciunei asociații)",
+      "Acces anticipat la noile module ale sistemului Hotel Living",
+      "Pentru a testa funcțiile înainte de lansarea lor oficială",
+      "Atenție prioritară în suportul tehnic și rezolvarea incidentelor",
+      "Acces gratuit la training-uri exclusive despre optimizarea șederii lungi și revenue management pentru echipa lor",
+      "O mențiune sau publicație personalizată lunară (rotativă)",
+      "Eticheta \"Top Hotel Asociație\" pe fișa lor în primele 3 luni",
+      "Frecvență mai mare de apariție în segmente de afinități personalizate",
+      "Invitație preferențială la întâlniri sau mese rotunde cu alte hoteluri aliate"
+    ]
+  },
+  "ctaSection": {
+    "buttonText": "ÎNREGISTRAȚI ASOCIAȚIA DUMNEAVOASTRĂ"
+  },
+  "slogan": "O nouă sursă de venit pentru asociația dumneavoastră și mai multe rezervări pentru hotelurile dumneavoastră",
+  "revolutionTitle": "O REVOLUȚIE HOTELIERĂ LA ÎNDEMÂNA ASOCIAȚIEI DUMNEAVOASTRĂ",
+  "greeting": "Stimați reprezentanți ai {{associationName}}:",
+  "introduction": "Suntem Hotel-Living.com, o revoluție hotelieră, creată de hotelierii pentru hotelierii.",
+  "expansion": "Suntem în expansiune completă și ori de câte ori începem într-o țară încercăm să colaborăm cu colegii noștri: cu asociațiile hoteliere, pentru a încerca ca toate beneficiile să fie distribuite între toți membrii sectorului nostru.",
+  "opportunityTitle": "Suntem o oportunitate concretă și în derulare",
+  "opportunityDescription": "Un sistem care generează beneficii directe atât pentru asociație, cât și pentru fiecare dintre hotelurile sale afiliate.",
+  "knownFactTitle": "Cum este cunoscut",
+  "knownFactDescription": "Marile lanțuri hoteliere (Hyatt, Marriott, Hilton, Accor, IHG, Radisson și multe altele) de ani de zile profită și extind noul model social pe care societatea noastră îl impune: șederile rezidențiale în hoteluri, de durată medie și lungă.",
+  "onlyForBigChains": "NUMAI PENTRU MARILE LANȚURI HOTELIERE?",
+  "smallHotelsDescription": "În timp ce acestea își extind fără încetare modelele lor rezidențiale, sute de mii de hoteluri mici independente și lanțuri mici sau medii nu au putut profita până acum de acest model, nici să acceseze beneficiile sale imense, din lipsa unui instrument comun specializat și accesibil.",
+  "whatWeOfferTitle": "CE OFERIM LA HOTEL-LIVING.COM?",
+  "whatWeOfferDescription": "ASOCIAȚIILOR HOTELIERE: 4% din totalul rezervărilor generate de membrii lor, un procent care nu afectează deloc hotelurile lor, deoarece provine din propriul nostru cost de management.",
+  "onlineCalculatorTitle": "CALCULATOR ONLINE",
+  "accordionSection1": {
+    "title": "BENEFICII FĂRĂ PRECEDENT PENTRU HOTELURI",
+    "profitabilityTitle": "PROFITABILITATE ȘI OCUPARE",
+    "profitabilityPoints": [
+      "Punem capăt sezoanelor medii și joase",
+      "Umplem camerele lor pe care nimeni nu le umple, în mod tradițional goale",
+      "Monetizăm camerele cu cheltuieli deja acoperite: profitul pur pierdut",
+      "Activăm 100% din profitabilitatea hotelieră",
+      "Aducem clienți perfecți, selectați prin afinități",
+      "Avansăm 5% din fiecare rezervare: venit direct și nerambursabil",
+      "Comision total echitabil: doar 10%",
+      "Înmulțim radical beneficiile lor",
+      "Șederi mai lungi, profitabile și previzibile",
+      "Zero nopți goale",
+      "Coordonarea rezervărilor fără lacune",
+      "Venit mai mare cu mai puțin efort"
+    ],
+    "costsTitle": "COSTURI ȘI EFICIENȚĂ",
+    "costsPoints": [
+      "Reducerea costurilor operaționale",
+      "Mai puține curățenii, spălătorie și rotație",
+      "Sarcină mai mică pentru recepție",
+      "Check-in/check-out unificate într-o zi săptămânală",
+      "Management zilnic mai simplu și previzibil",
+      "Fără abonamente, subscripții sau taxe",
+      "Fără costuri în avans sau adaptări",
+      "Fără modificări ale sistemelor actuale"
+    ],
+    "staffTitle": "PERSONAL ȘI ECHIPĂ",
+    "staffPoints": [
+      "Stabilitate totală a echipei umane",
+      "Echipe motivate, antrenabile și stabile tot anul",
+      "Profesionalizarea reală a personalului operațional"
+    ],
+    "clientsTitle": "CLIENȚI ȘI COMUNITATE",
+    "clientsPoints": [
+      "Recuperăm foștii clienți Airbnb",
+      "Ne conectăm cu o nouă generație de călători",
+      "Revoluția afinităților Hotel-Living",
+      "Fiecare hotel își definește tipul ideal de oaspete: noi îl aducem"
+    ],
+    "technologyTitle": "TEHNOLOGIE ȘI PLATFORMĂ",
+    "technologyPoints": [
+      "Coordonăm check-in/check-out fără lacune",
+      "Segmentăm după interese și afinități",
+      "Marketing către comunități motivate",
+      "Acoperire globală cu țintire hiper-specifică",
+      "Integrare fără frecare",
+      "Ne adaptăm la hotel, nu invers",
+      "Completăm modelul tradițional"
+    ]
+  },
+  "accordionSection2": {
+    "title": "SUTE DE MILIOANE DE CLIENȚI AȘTEAPTĂ",
+    "introduction": "Societatea s-a schimbat radical în ultimii 50 de ani. Dar modelul hotelier... încă nu.",
+    "subtitle": "Sute de milioane de oameni vor să lase în urmă:",
+    "points": [
+      "Treburile casnice: gătitul, curățenia, spălatul...",
+      "Facturile în creștere",
+      "Izolarea și singurătatea",
+      "Chiriile imposibile: garanții, birocratii, prețuri mari",
+      "Naveta zilnică la muncă",
+      "Turismul fără suflet: chei în cutii, zero atenție, nesiguranță"
+    ]
+  },
+  "accordionSection3": {
+    "title": "SUNT SUTE DE MILIOANE DE CLIENȚI POTENȚIALI",
+    "clientTypes": [
+      "Pensionari activi care vor să trăiască cu adevărat",
+      "Lucrători online și nomazi digitali",
+      "Profesioniști în orașe dormitor",
+      "Chiriași sătui de dificultăți",
+      "Călători frecvenți în căutarea sufletului",
+      "Utilizatori de apartamente improvizate",
+      "Suflete libere care vor totul rezolvat",
+      "Cetățeni care doresc să rupă singurătatea și să întâlnească persoane cu aceleași idei"
+    ],
+    "commonFactor": "Toți au ceva în comun: caută un nou mod de a locui.",
+    "notAboutRenting": "Nu mai este vorba de închiriere. Nu mai este vorba de călătorie.",
+    "aboutLivingDifferent": "Este vorba de a trăi diferit.",
+    "hotelSolution": "Și pentru toate acestea, hotelul este soluția naturală.",
+    "hotelLivingChanges": "Hotel Living vine să o schimbe.",
+    "features": [
+      "Model de durată lungă",
+      "Implementat în faze cu module revoluționare",
+      "Monetizează, poziționează și modernizează",
+      "În prezent implementat doar 20%"
+    ]
+  },
+  "accordionSection4": {
+    "title": "MAREA CRIZĂ A SECTORULUI HOTELIER",
+    "obsoleteModel": "Modelul actual este învechit. Indicii oficiali vorbesc de 50-55% ocupare, dar realitatea este mai rea.",
+    "occupancyReality": "Dacă numărăm hotelurile închise o mare parte din an, ocuparea reală scade la 40%.",
+    "emptyRooms": "Aceasta înseamnă peste 5 miliarde de camere goale în fiecare an.",
+    "consequences": [
+      "Camere și hoteluri goale",
+      "Venituri pierdute",
+      "Locuri de muncă pierdute"
+    ],
+    "meanwhile": "Între timp, în jurul lor, sute de milioane doresc:",
+    "desires": [
+      "Să trăiască mai bine",
+      "Să scape de singurătate",
+      "Să cunoască oameni",
+      "Să călătorească diferit",
+      "Să locuiască în hoteluri în mod continuu"
+    ],
+    "emptyRoomOpportunity": "Fiecare cameră goală este o oportunitate pierdută.",
+    "finalWarning": "Și fiecare noapte goală, un pas în plus către decăderea hotelului care nu se adaptează."
+  }
+}

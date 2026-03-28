@@ -1,0 +1,60 @@
+
+{
+  "title": "Perguntas Frequentes",
+  "subtitle": "Encontre respostas para as perguntas mais comuns sobre Hotel-Living",
+  "search": "Pesquisar perguntas frequentes...",
+  "categories": {
+    "general": "Geral",
+    "booking": "Reservas",
+    "payment": "Pagamentos",
+    "accommodation": "Acomodação",
+    "cancellation": "Cancelamento",
+    "support": "Suporte"
+  },
+  "accordion": {
+    "stillRenting": "Ainda alugando?",
+    "hotel": "Hotel?",
+    "retired": "Aposentado?",
+    "commuter": "Viajante diário?",
+    "onlineWorker": "Trabalhador online?",
+    "freeSoul": "GRANDE VIAJANTE",
+    "society": "Sociedade?"
+  },
+  "avatarMessage": "Estou aqui.\nSe precisar de mim,\npergunte o que quiser.",
+  "identifyHeader": "COM QUEM VOCÊ SE IDENTIFICA?\nCLIQUE PARA SABER MAIS",
+  "linkText": "Retrato da Crise Hoteleira",
+  "avatars": {
+    "antonio": {
+      "shortMessage": "Sou Antonio, aposentado!",
+      "fullMessage": "Sou Antonio, aposentado! Podemos conversar"
+    },
+    "luisa": {
+      "shortMessage": "Sou Luisa, aposentada!",
+      "fullMessage": "Sou Luisa, aposentada! Podemos conversar"
+    },
+    "john": {
+      "shortMessage": "Sou John, trabalho online!",
+      "fullMessage": "Sou John, trabalho online! Podemos conversar"
+    },
+    "teresa": {
+      "shortMessage": "Sou Teresa! Amo viajar.",
+      "fullMessage": "Sou Teresa! Amo viajar. Podemos conversar"
+    },
+    "juan": {
+      "shortMessage": "Sou Juan! Chega apartamentos!",
+      "fullMessage": "Sou Juan! Não alugo apartamentos. Podemos conversar"
+    },
+    "ion": {
+      "shortMessage": "Sou Ion! Antes de aluguel.",
+      "fullMessage": "Sou Ion! Antes de aluguel. Podemos conversar"
+    },
+    "maria": {
+      "shortMessage": "Sou María! Vivia fora.",
+      "fullMessage": "Sou María! Vivia fora. Podemos conversar"
+    },
+    "martin": {
+      "shortMessage": "Sou Martín! Sou hoteleiro.",
+      "fullMessage": "Sou Martín! Sou hoteleiro. Podemos conversar"
+    }
+  }
+}

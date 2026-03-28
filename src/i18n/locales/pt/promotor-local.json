@@ -1,0 +1,111 @@
+
+{
+  "heading": "TORNE-SE UM PROMOTOR LOCAL HOTEL-LIVING",
+  "paragraph_1": "Este é um trabalho de uma só vez e uma oportunidade única. Do seu painel, você pode contatar e registrar quantos hotéis quiser. Para cada hotel que se juntar ao Hotel-Living nos próximos 30 dias, você começará a ganhar comissões automáticas por 30 meses consecutivos.\n\nVocê define o ritmo. O único limite é você. E lembre-se: este é um trabalho pontual, não requer visitas nem acompanhamentos constantes. Você só precisa colocar o hotel em contato com o Hotel-Living, e a partir daí o sistema fará o resto.\n\nÉ muito importante falar diretamente com a pessoa responsável do hotel e explicar nosso modelo para preencher seus quartos vazios, cobrir suas temporadas médias ou baixas, ou mesmo evitar ter que fechar durante meses de baixa ocupação. Se estiverem interessados, você pode até mesmo ajudá-los a completar seu registro e configurar sua conta na hora.\n\nQuando fizer isso, terá terminado sua tarefa: um trabalho de uma só vez, que gerará comissões automáticas durante 30 meses sem necessidade de voltar a intervir.",
+  "commissions": "Comissões automáticas: 2% pelos primeiros 18 meses e 1% pelos 12 meses seguintes.",
+  "commissions_title": "💰 Comissões",
+  "panel_description": "No seu painel, você poderá monitorar todos os hotéis contatados, ver seu status e acompanhar suas comissões.",
+  "panel_title": "📊 Painel de Controle",
+  "bank_data": "É obrigatório inserir seu número da conta bancária no perfil para receber os pagamentos mensais.",
+  "payment_requirements_title": "🏦 Requisitos de Pagamento",
+  "join_now_title": "🚀 Junte-se Agora!",
+  "join_now_description": "Comece sua jornada como Promotor Local do Hotel-Living e gere renda passiva por 30 meses para cada hotel que registrar.",
+  "join_button": "Junte-se como Promotor Local",
+  "registration": {
+    "title": "Torne-se um Promotor Local Hotel-Living",
+    "full_name": "Nome Completo",
+    "email": "Email",
+    "password": "Senha",
+    "bank_account": "Conta Bancária (IBAN)",
+    "accept_terms": "Aceito os termos e condições",
+    "submit": "Registrar como Promotor Local",
+    "login_link": "Já tem uma conta? Fazer login",
+    "errors": {
+      "email_exists": "Já existe uma conta com este email",
+      "invalid_email": "Por favor insira um email válido",
+      "weak_password": "A senha deve ter pelo menos 6 caracteres",
+      "required_fields": "Por favor preencha todos os campos obrigatórios",
+      "terms_required": "Você deve aceitar os termos e condições"
+    }
+  },
+  "calculator": {
+    "title": "Calculadora de Comissões para Promotores Locais",
+    "hotelsContacted": "Hotéis contactados pelo promotor local",
+    "emptyRoomsPerHotel": "Quartos vazios por hotel (média)",
+    "averageMonthlyPrice": "Preço médio do pacote mensal",
+    "commissionRate": "2% Comissão sobre vendas durante 18 meses + 1% durante 12 meses",
+    "estimatedMonthlyCommission": "Comissão estimada mensal:",
+    "estimatedTotalCommission": "Comissão estimada total em 30 meses:",
+    "disclaimer": "* Comissões automáticas sem trabalho posterior",
+    "explanatoryText": "Esta calculadora permitirá que você mostre ao hotel as diferentes possibilidades económicas do modelo Hotel Living. Nela você pode variar todos os campos para ir mostrando ao hotel como pode encontrar o seu melhor modelo económico Hotel Living."
+  },
+  "dashboard": {
+    "title": "Painel do Promotor Local",
+    "welcome": "Bem-vindo de volta, Promotor Local",
+    "agent_code": "Seu Código de Promotor Local",
+    "copy_code": "Copiar Código",
+    "code_copied": "Código do promotor local copiado para a área de transferência!",
+    "business_card_button": "👉 Prepare seu cartão de visita",
+    "quick_guide_title": "📌 GUIA RÁPIDO",
+    "modus_operandi": "🎯 Sua missão não é convencer nem vender nada, apenas dar a conhecer Hotel Living.com\\n\\n🏨 Dirija-se à Recepção do hotel e pergunte se já conhecem a aplicação Hotel-Living.com. Mostre-a no seu próprio celular e dê uma breve descrição (por exemplo: \\\"É a revolução hoteleira para que os hotéis tenham 100% de ocupação o ano todo. Funciona junto ao sistema habitual e não precisa de nenhuma adaptação\\\").\\n\\n📊 Mostre também a calculadora de benefícios (na página \\\"Hotel\\\") com um exemplo anônimo de benefícios de qualquer hotel anterior.\\n\\n⚠️ Fundamental: Nunca pergunte nem faça referência aos seus próprios quartos vazios. É um dado sensível sobre o qual não vão te informar.\\n\\n🤝 Pergunte então se pode falar com alguém. Em caso negativo, mostre sua disponibilidade para voltar quando for mais conveniente para eles.\\n\\n📧 Pode então perguntar pelo email público deles e abrir uma conta gratuita na hora (nome do hotel + email + senha simples que, você explica, podem modificar quando quiserem). Ao abrir a conta, insira seu código de referência: receberão um email com todos os dados e seu código de referência já ficará ligado a esse hotel.\\n\\n✨ DESTA FORMA HÁ TRÊS POSSIBILIDADES EXITOSAS DE CONTATO:\\n\\n🟢 Simples: fez contato e deixou seu cartão.\\n\\n🟡 Intermediário: abriu conta para eles e inseriu seu código de referência.\\n\\n🟠 Superior: se conseguir uma entrevista, mostra o portal e do próprio painel do hotel os ajuda a baixar a calculadora hotel-living, que é extremamente simples e intuitiva.\\n\\n💡 Novamente, lembre-se: sua missão não é convencer nem vender nada, apenas fazer conhecer www.hotel-living.com. O mais comum é que mais tarde olhem com calma, encontrando no portal toda a informação que possam precisar.",
+    "tabs": {
+      "hotels": "Hotéis Contatados",
+      "commissions": "Minhas Comissões",
+      "profile": "Meu Perfil"
+    },
+    "hotels": {
+      "add_hotel": "Adicionar Novo Hotel",
+      "hotel_name": "Nome do Hotel",
+      "hotel_email": "Email do Hotel",
+      "country": "País",
+      "contacted_date": "Data do Contato",
+      "add_button": "Adicionar Hotel",
+      "cancel": "Cancelar",
+      "status": {
+        "pending": "Pendente",
+        "registered": "Registrado",
+        "expired": "Expirado"
+      },
+      "no_hotels": "Nenhum hotel contatado ainda",
+      "table": {
+        "name": "Nome do Hotel",
+        "email": "Email",
+        "country": "País",
+        "contacted": "Contatado",
+        "status": "Status"
+      }
+    },
+    "commissions": {
+      "total_earned": "Total Ganho",
+      "total_paid": "Total Pago",
+      "total_pending": "Total Pendente",
+      "no_commissions": "Ainda não há comissões",
+      "monthly_payments": "As comissões são pagas mensalmente para sua conta bancária registrada."
+    },
+    "profile": {
+      "edit_profile": "Editar Perfil",
+      "full_name": "Nome Completo",
+      "email": "Email",
+      "current_password": "Senha Atual",
+      "new_password": "Nova Senha",
+      "bank_account": "Conta Bancária",
+      "save_changes": "Salvar Alterações",
+      "logout": "Logout",
+      "success": "Perfil atualizado com sucesso!",
+      "error": "Erro ao atualizar o perfil"
+    }
+  },
+  "card_generator": {
+    "title": "Gerador de Cartões de Visita",
+    "live_preview": "Visualização ao Vivo",
+    "card_data": "Dados do Cartão",
+    "name": "Nome",
+    "referral_code": "Código de Referência",
+    "phone": "Telefone",
+    "email": "Email (opcional)",
+    "footer_text": "Texto do Rodapé",
+    "default_footer": "Lembre-se de inserir meu código de referência para obter ajuda personalizada e gratuita.",
+    "download_cards": "Baixar meus cartões",
+    "download_description": "Gera um PDF em formato A4 com 10 cartões de visita por página (2 colunas × 5 fileiras). Cada cartão será de 85 × 55 mm com fundo branco."
+  }
+}

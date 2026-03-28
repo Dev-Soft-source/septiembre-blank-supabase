@@ -1,0 +1,35 @@
+
+{
+  "dashboard": {
+    "accommodationTerms": "CONDIÇÕES DE HOSPEDAGEM",
+    "stayDuration": "DURAÇÃO DA ESTADIA",
+    "selectStayDurations": "Selecione todas as durações de estadia que você oferece:",
+    "days": "dias",
+    "singleCheckinCheckout": "DIA ÚNICO DE ENTRADA / SAÍDA",
+    "selectCheckinDay": "Selecione o dia em que os hóspedes entram e saem:",
+    "availabilityDates": "DATAS DISPONÍVEIS",
+    "mealPlans": "REGIME DE REFEIÇÕES",
+    "roomTypes": "TIPOS DE QUARTO",
+    "defineRoomTypes": "Defina seus tipos de quarto com fotos e disponibilidade:",
+    "availableRoomTypes": "TIPOS DE QUARTO DISPONÍVEIS",
+    "none": "Nenhum",
+    "addRoomType": "ADICIONAR TIPO DE QUARTO",
+    "breakfastIncluded": "Café da manhã incluído",
+    "halfBoard": "Meia pensão",
+    "fullBoard": "Pensão completa",
+    "allInclusive": "Tudo incluído",
+    "laundry": "Lavanderia",
+    "externalLaundryService": "Serviço de lavanderia externo disponível",
+    "monday": "Segunda-feira",
+    "tuesday": "Terça-feira",
+    "wednesday": "Quarta-feira",
+    "thursday": "Quinta-feira",
+    "friday": "Sexta-feira",
+    "saturday": "Sábado",
+    "sunday": "Domingo",
+    "doubleRoomsCanBeSingle": "Quartos duplos que também podem ser usados como individuais",
+    "roomPhotos": "Fotos do quarto",
+    "roomDescription": "Descrição do quarto",
+    "roomDescriptionPlaceholder": "Descreva as características do quarto, amenities e o que os hóspedes podem esperar"
+  }
+}

@@ -1,0 +1,30 @@
+
+{
+  "contact": {
+    "title": "Contacta-nos",
+    "welcomeMessage": {
+      "listening": "Estamos aqui para ouvir.",
+      "feelFree": "Não hesites em contactar-nos em",
+      "loveToHear": "— adoraríamos ouvir de ti."
+    },
+    "form": {
+      "departmentInstruction": "Por favor, selecione uma das seguintes áreas para garantir que sua mensagem chegue à equipe certa:",
+      "departments": {
+        "customerService": "Atendimento ao Cliente",
+        "technicalSupport": "Suporte Técnico",
+        "pressMedia": "Imprensa e Mídia",
+        "businessPartnerships": "Parcerias Comerciais",
+        "otherInquiries": "Outras Consultas"
+      },
+      "name": "Seu Nome",
+      "email": "Seu Email",
+      "message": "Sua Mensagem",
+      "department": "Departamento",
+      "send": "Enviar Mensagem",
+      "sending": "Enviando...",
+      "success": "Obrigado pela sua mensagem! Entraremos em contacto em breve.",
+      "error": "Desculpe, ocorreu um erro ao enviar sua mensagem. Tente novamente.",
+      "emailDestination": "Sua mensagem será enviada para:"
+    }
+  }
+}

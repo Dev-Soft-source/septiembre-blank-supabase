@@ -1,0 +1,54 @@
+{
+  "packageManager": {
+    "title": "Availability Package Management",
+    "description": "Manage your hotel's availability packages with real-time synchronization",
+    "addPackage": "Add Package",
+    "editPackage": "Edit Package",
+    "deletePackage": "Delete Package",
+    "packageCreated": "Package created successfully",
+    "packageUpdated": "Package updated successfully",
+    "packageDeleted": "Package deleted successfully",
+    "createPackageTitle": "Create New Availability Package",
+    "editPackageTitle": "Edit Availability Package",
+    "deleteConfirmTitle": "Delete Package",
+    "deleteConfirmMessage": "Are you sure you want to delete this package? This action cannot be undone.",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "duration": "Duration (Days)",
+    "totalRooms": "Total Rooms",
+    "availableRooms": "Available Rooms",
+    "status": "Status",
+    "actions": "Actions",
+    "noPackages": "No availability packages found",
+    "createFirstPackage": "Create your first availability package to start accepting bookings",
+    "validation": {
+      "startDateRequired": "Start date is required",
+      "endDateRequired": "End date is required",
+      "pastDate": "Start date cannot be in the past",
+      "endDateBeforeStart": "End date must be after start date",
+      "invalidWeekday": "Start date must match your hotel's check-in day",
+      "roomsMinimum": "At least 1 room is required",
+      "roomsMaximum": "Maximum 100 rooms allowed",
+      "invalidDuration": "Duration must be 8, 15, 22, or 29 days",
+      "dateOverlap": "Package dates overlap with existing packages",
+      "cannotReduceRooms": "Cannot reduce rooms below already booked count"
+    },
+    "status": {
+      "active": "Active",
+      "upcoming": "Upcoming",
+      "past": "Past",
+      "available": "Available",
+      "soldOut": "Sold Out"
+    },
+    "rules": {
+      "title": "Package Management Rules",
+      "noOverlap": "Packages cannot overlap in dates",
+      "fixedDurations": "Duration must be 8, 15, 22, or 29 days",
+      "weekdayRestriction": "Check-in day must match hotel's preferred weekday",
+      "bookingRestrictions": "Packages with bookings cannot be edited or deleted",
+      "deleteRestriction": "Only future packages with no bookings can be deleted",
+      "roomIncrease": "Room count can only be increased if there are active bookings",
+      "realTimeSync": "All changes sync in real-time across the platform"
+    }
+  }
+}

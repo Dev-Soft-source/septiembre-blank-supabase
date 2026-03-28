@@ -1,0 +1,13 @@
+{
+  "highDemandCountry": "Alta demanda para {{country}}, pero aún no tenemos hoteles disponibles.",
+  "highDemandSearch": "Alta demanda para esta búsqueda, pero aún no tenemos hoteles disponibles.",
+  "noResults": {
+    "withCountry": "¡Gran oportunidad!<br><br>Tenemos alta demanda para {{country}} y... ¡ahora estamos sumando nuestros hoteles colaboradores allí! Porque... ¡el próximo 8 de septiembre es nuestro lanzamiento internacional!<br><br>Si lo deseas, ¡aún puedes ser parte de nuestra expansión!<br><br>¡Los hoteles de tu ciudad o región te lo agradecerán!<br><br>💵 <a href=\"/promotor-local\" target=\"_blank\">Házte Promotor Hotel-Living</a> (¡Obtén excelentes beneficios mensuales pasivos!)<br>🚀 <a href=\"/lider-living\" target=\"_blank\">Házte Líder de Grupos, gana y multiplica tu vida</a><br>🏆 <a href=\"https://www.hotel-living.com/ambassador\" target=\"_blank\">Conviértete en Embajador Hotel-Living</a>",
+    "generic": "¡Gran oportunidad!<br><br>Tenemos alta demanda para su criterio de búsqueda y... ¡ahora estamos sumando nuestros hoteles colaboradores allí! Porque... ¡el próximo 8 de septiembre es nuestro lanzamiento internacional!<br><br>Si lo deseas, ¡aún puedes ser parte de nuestra expansión!<br><br>¡Los hoteles de tu ciudad o región te lo agradecerán!<br><br>💵 <a href=\"/promotor-local\" target=\"_blank\">Házte Promotor Hotel-Living</a> (¡Obtén excelentes beneficios mensuales pasivos!)<br>🚀 <a href=\"/lider-living\" target=\"_blank\">Házte Líder de Grupos, gana y multiplica tu vida</a><br>🏆 <a href=\"https://www.hotel-living.com/ambassador\" target=\"_blank\">Conviértete en Embajador Hotel-Living</a>",
+    "byCriteria": "No encontramos hoteles que cumplan con este criterio de búsqueda. Puedes ayudarnos a expandir la red recomendando hoteles de tu ciudad o región. ¡También pueden beneficiarse de Hotel-Living!<br><br>Si lo deseas, ¡aún puedes ser parte de nuestra expansión!<br><br>¡Los hoteles de tu ciudad o región te lo agradecerán!<br><br>💵 <a href=\"/promotor-local\" target=\"_blank\">Házte Promotor Hotel-Living</a> (¡Obtén excelentes beneficios mensuales pasivos!)<br>🚀 <a href=\"/lider-living\" target=\"_blank\">Házte Líder de Grupos, gana y multiplica tu vida</a><br>🏆 <a href=\"https://www.hotel-living.com/ambassador\" target=\"_blank\">Conviértete en Embajador Hotel-Living</a>",
+    "promoterLink": "Promotor Hotel-Living local y gana beneficios mensuales pasivos",
+    "benefits": "",
+    "or": "o conviértete en un",
+    "ambassadorLink": "Embajador Hotel-Living"
+  }
+}

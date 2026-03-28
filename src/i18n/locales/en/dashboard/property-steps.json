@@ -1,0 +1,53 @@
+
+{
+  "dashboard": {
+    "hotelImages": "Hotel Images",
+    "dragDropPhotos": "Drag and drop photos here",
+    "orClickToBrowse": "or click to browse",
+    "uploadAtLeastOneImage": "Please upload at least one image",
+    "stayDuration": "Stay Duration",
+    "selectStayDurations": "Select Stay Durations",
+    "days": "days",
+    "singleCheckinCheckout": "Single Check-in/Check-out Day",
+    "selectCheckinDay": "Select Check-in Day",
+    "monday": "Monday",
+    "tuesday": "Tuesday", 
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "affinities": "Affinities",
+    "activities": "Activities",
+    "hotelFeatures": "Hotel Features",
+    "roomFeatures": "Room Features",
+    "defineRoomTypesStayDurations": "Define Room Types & Stay Durations",
+    "importantStep4": "Important: Complete all required fields",
+    "enableDynamicPricing": "Enable Dynamic Pricing",
+    "maximumPriceIncrease": "Maximum Price Increase",
+    "maxPriceIncreaseDescription": "Set the maximum percentage increase allowed for dynamic pricing",
+    "howDynamicPricingWorks": "How Dynamic Pricing Works",
+    "generalInformation": "General Information",
+    "stepTitles": {
+      "hotelProfile": "Hotel Profile",
+      "generalInformation": "General Information",
+      "accommodationTerms": "Accommodation Terms",
+      "packagesBuilder": "Packages Builder",
+      "faqTerms": "FAQ & Terms and Conditions"
+    },
+    "validation": {
+      "required": "This field is required",
+      "minLength": "Minimum length required",
+      "maxLength": "Maximum length exceeded",
+      "invalidFormat": "Invalid format",
+      "uploadRequired": "At least one image must be uploaded"
+    },
+    "pictures": {
+      "title": "Pictures",
+      "uploadInstructions": "Upload high-quality images of your property",
+      "supportedFormats": "Supported formats: JPG, PNG, WebP",
+      "maxFileSize": "Maximum file size: 10MB per image",
+      "recommendedSize": "Recommended size: 1920x1080 pixels"
+    }
+  }
+}

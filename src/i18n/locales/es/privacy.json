@@ -1,0 +1,78 @@
+{
+  "privacy": {
+    "title": "Privacidad y Cookies",
+    "introduction": {
+      "title": "Introducción",
+      "content1": "Estamos comprometidos a proteger su privacidad y garantizar la seguridad de sus datos. Esta Política de Privacidad y Cookies describe cómo recopilamos, usamos y protegemos su información.",
+      "content2": "En Hotel-Living.com, respetamos su privacidad y estamos comprometidos a protegerla a través de nuestro cumplimiento con esta política."
+    },
+    "informationWeCollect": {
+      "title": "Información que Recopilamos",
+      "content": "Recopilamos varios tipos de información de y sobre los usuarios de nuestro sitio web, incluyendo:",
+      "points": [
+        "Información personal como nombre, dirección de correo electrónico, dirección postal, número de teléfono e información de pago cuando se registra, hace una reserva o nos contacta.",
+        "Información sobre su conexión a internet, el equipo que usa para acceder a nuestro sitio web y detalles de uso.",
+        "Información recopilada a través de cookies y otras tecnologías de seguimiento."
+      ]
+    },
+    "howWeUseInformation": {
+      "title": "Cómo Usamos Su Información",
+      "content": "Usamos la información que recopilamos sobre usted o que nos proporciona para:",
+      "points": [
+        "Presentar nuestro sitio web y su contenido a usted.",
+        "Proporcionarle información, productos o servicios que nos solicite.",
+        "Cumplir cualquier otro propósito para el cual la proporcione.",
+        "Cumplir nuestras obligaciones y hacer valer nuestros derechos derivados de cualquier contrato celebrado entre usted y nosotros.",
+        "Notificarle sobre cambios en nuestro sitio web o cualquier producto o servicio que ofrecemos o proporcionamos.",
+        "Mejorar nuestro sitio web y servicio al cliente.",
+        "De cualquier otra manera que podamos describir cuando proporcione la información.",
+        "Para cualquier otro propósito con su consentimiento."
+      ]
+    },
+    "cookiesAndTracking": {
+      "title": "Cookies y Tecnologías de Seguimiento",
+      "content1": "Usamos cookies y tecnologías de seguimiento similares para rastrear la actividad en nuestro sitio web y mantener cierta información.",
+      "content2": "Las cookies son archivos con una pequeña cantidad de datos que pueden incluir un identificador único anónimo. Las cookies se envían a su navegador desde un sitio web y se almacenan en su dispositivo.",
+      "content3": "Puede instruir a su navegador para que rechace todas las cookies o para que indique cuándo se está enviando una cookie. Sin embargo, si no acepta cookies, es posible que no pueda usar algunas partes de nuestro sitio web.",
+      "content4": "Tipos de cookies que usamos:",
+      "cookieTypes": [
+        "Cookies Esenciales: Requeridas para el funcionamiento de nuestro sitio web.",
+        "Cookies Analíticas/de Rendimiento: Nos permiten reconocer y contar el número de visitantes y ver cómo los visitantes se mueven por nuestro sitio web.",
+        "Cookies de Funcionalidad: Se usan para reconocerle cuando regresa a nuestro sitio web.",
+        "Cookies de Segmentación: Registran su visita a nuestro sitio web, las páginas que ha visitado y los enlaces que ha seguido."
+      ]
+    },
+    "dataSecurity": {
+      "title": "Seguridad de Datos",
+      "content1": "Hemos implementado medidas diseñadas para asegurar su información personal contra pérdida accidental y contra acceso, uso, alteración y divulgación no autorizados.",
+      "content2": "La seguridad de su información también depende de usted. Donde le hemos dado (o donde ha elegido) una contraseña para acceso a ciertas partes de nuestro sitio web, usted es responsable de mantener esta contraseña confidencial.",
+      "content3": "Desafortunadamente, la transmisión de información a través de internet no es completamente segura. Aunque hacemos nuestro mejor esfuerzo para proteger su información personal, no podemos garantizar la seguridad de su información personal transmitida a nuestro sitio web."
+    },
+    "yourRights": {
+      "title": "Sus Derechos",
+      "content": "Dependiendo de su ubicación, puede tener ciertos derechos con respecto a su información personal, tales como:",
+      "points": [
+        "El derecho a acceder a su información personal.",
+        "El derecho a rectificar información personal inexacta.",
+        "El derecho a solicitar la eliminación de su información personal.",
+        "El derecho a restringir el procesamiento de su información personal.",
+        "El derecho a la portabilidad de datos.",
+        "El derecho a objetar el procesamiento de su información personal."
+      ],
+      "contact": "Para ejercer cualquiera de estos derechos, póngase en contacto con nosotros usando la información proporcionada a continuación."
+    },
+    "policyChanges": {
+      "title": "Cambios a Nuestra Política de Privacidad",
+      "content1": "Podemos actualizar nuestra Política de Privacidad de vez en cuando. Le notificaremos de cualquier cambio publicando la nueva Política de Privacidad en esta página y actualizando la fecha de 'Última Actualización' en la parte superior de esta Política de Privacidad.",
+      "content2": "Se le aconseja revisar esta Política de Privacidad periódicamente para cualquier cambio. Los cambios a esta Política de Privacidad son efectivos cuando se publican en esta página."
+    },
+    "contactUs": {
+      "title": "Contáctenos",
+      "content": "Si tiene alguna pregunta sobre esta Política de Privacidad, póngase en contacto con nosotros:",
+      "points": [
+        "Por correo electrónico: privacy@hotel-living.com",
+        "Visitando la página de contacto en nuestro sitio web"
+      ]
+    }
+  }
+}

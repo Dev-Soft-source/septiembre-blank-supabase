@@ -1,0 +1,2 @@
+
+export { PropertiesContent } from './PropertiesContent';

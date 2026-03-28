@@ -1,0 +1,77 @@
+
+{
+  "affinity": {
+    "affinityStaysTitle": "Hotel-Living\nAffinities™",
+    "affinityDescription": "Choose hotels based on your interests and preferences to share unique experiences with like-minded people.",
+    "exploreThemes": "Explore themes and interests",
+    "joinAffinityGroups": "Join thematic groups",
+    "createAffinityExperience": "Create thematic experience",
+    "howardSchultzQuote": "When you're surrounded by people who share a passionate commitment around a common purpose, anything is possible",
+    "howardSchultzAuthor": "Howard Schultz",
+    "slogans": {
+      "notJustStay": "Your people are waiting",
+      "meetShareBelong": "Those who share your tastes and mindset.",
+      "stayWithThoseWhoGetYou": "Hotel-Living Affinities™<br>help you meet them",
+      "tiredOfRandom": "Because the best stays begin<br>with who you share them with",
+      "stayAndConnect": "Hotel-Living Affinities™.<br>Your new life begins here"
+    },
+    "faq": {
+      "whatAreAffinityHotels": {
+        "question": "What are Hotel-Living Affinities™?",
+        "answer": "They are common themes or interests that allow guests to connect with each other and share experiences during their stay."
+      },
+      "tiredOfTravelingAlone": {
+        "question": "Tired of traveling alone? Want to meet people who truly understand you?",
+        "answer": "Hotel-Living makes it easy to find people who share your interests, so your stay is more social and enriching."
+      },
+      "whatExactlyIsAffinityHotel": {
+        "question": "What exactly is an Affinity Hotel?",
+        "answer": "It's a hotel that publishes a theme and invites clients interested in a specific theme, helping guests with similar affinities to come together."
+      },
+      "willIMakeFriends": {
+        "question": "Will I make friends?",
+        "answer": "It's very possible. Affinity hotels are designed to foster connection between people with similar tastes and interests."
+      },
+      "doesHotelOrganizeActivities": {
+        "question": "Does the hotel organize activities?",
+        "answer": "Some hotels may offer optional activities related to the affinity theme, but it's not mandatory to participate."
+      },
+      "isThereAlwaysGroupLeader": {
+        "question": "Is there always a coordinator or host?",
+        "answer": "Not necessarily. Some hotels have a coordinator, but others simply create the environment for connections to flow naturally."
+      },
+      "isHotelDecoratedAroundTheme": {
+        "question": "Is the hotel decorated around the theme?",
+        "answer": "Generally not, but in some cases the hotel's decoration and atmosphere may be aligned with the chosen affinity theme."
+      },
+      "howLongAreStays": {
+        "question": "How long are the stays?",
+        "answer": "Stays, renewable based on availability, are 8, 15, 22, or 29 days, depending on the plan you choose and the hotel."
+      },
+      "canITryDifferentAffinities": {
+        "question": "Can I try different affinities at different hotels?",
+        "answer": "Of course. You can choose different affinities for each new stay or even combine several at the same hotel if available."
+      },
+      "whatIfJustWantToRelax": {
+        "question": "What if I just want to relax?",
+        "answer": "No problem. You only participate in what you like. Peace and privacy are guaranteed."
+      },
+      "isThisForSoloTravelers": {
+        "question": "Is this just for solo travelers?",
+        "answer": "No. Affinities are for all types of travelers: solo, couples, groups, or families."
+      },
+      "whatIfDontFindTheme": {
+        "question": "What if I don't find a theme that fits my interests?",
+        "answer": "You can always choose a hotel without a specific affinity and equally enjoy the Hotel-Living experience."
+      },
+      "areAffinityThemesAvailable": {
+        "question": "Are affinity themes available at all partner hotels?",
+        "answer": "Not all of them. It depends on each hotel's offering, but you'll always have affinity options in the portal."
+      },
+      "canIConnectWithoutTheme": {
+        "question": "Can I connect even if there's no specific theme?",
+        "answer": "Yes. Even without a specific theme, the Hotel-Living environment encourages meeting and connecting between people."
+      }
+    }
+  }
+}

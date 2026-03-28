@@ -1,0 +1,9 @@
+{
+  "header": {
+    "customerService": {
+      "label": "Customer Service",
+      "phone": "+1 210 548 3002"
+    },
+    "scrollingMessage": "Our customer support team is currently attending a high number of calls. Please feel free to contact us through our contact page."
+  }
+}

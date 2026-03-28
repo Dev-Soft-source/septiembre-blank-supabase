@@ -1,0 +1,15 @@
+{
+  "sample_findings": [
+    {
+      "file": "src/components/dashboard/user/FirstTimeUserBanner.tsx",
+      "hardcoded": [
+        "Welcome to your first experience!",
+        "Follow the guided steps and enjoy your themed stay.",
+        "How it works"
+      ],
+      "status": "RAW_TEXT",
+      "severity": "critical"
+    }
+  ],
+  "rules": "All user-facing strings must be provided in en/es/pt/ro with no raw keys."
+}

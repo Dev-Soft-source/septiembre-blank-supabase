@@ -1,0 +1,111 @@
+
+{
+  "heading": "BECOME A HOTEL-LIVING LOCAL PROMOTER",
+  "paragraph_1": "This is one-time work and a unique opportunity. From your panel, you can contact and register as many hotels as you want. For every hotel that joins Hotel-Living within the next 30 days, you'll start earning automatic commissions for 30 consecutive months.\n\nYou set the pace. The only limit is you. And remember: this is one-time work, it doesn't require constant visits or follow-ups. You just need to connect the hotel with Hotel-Living, and from there the system will do the rest.\n\nIt is very important to speak directly with the person in charge at the hotel and explain our model to fill their empty rooms, cover their mid or low seasons, or even avoid having to close during months of low occupancy. If they're interested, you can even help them complete their registration and set up their account right on the spot.\n\nOnce you do this, you will have completed your task: one-time work that will generate automatic commissions for 30 months without needing to intervene again.",
+  "commissions": "Automatic commissions: 2% for the first 18 months and 1% for the next 12 months.",
+  "commissions_title": "💰 Commissions",
+  "panel_description": "In your dashboard you can monitor all contacted hotels, see their status, and track your commissions.",
+  "panel_title": "📊 Control Panel",
+  "bank_data": "You must add your bank account number in your profile to receive monthly payments.",
+  "payment_requirements_title": "🏦 Payment Requirements",
+  "join_now_title": "🚀 Join Now!",
+  "join_now_description": "Start your journey as a Hotel-Living Local Promoter and generate passive income for 30 months for each hotel you register.",
+  "join_button": "Join as Local Promoter",
+  "registration": {
+    "title": "Join as Hotel-Living Local Promoter",
+    "full_name": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "bank_account": "Bank Account (IBAN)",
+    "accept_terms": "I accept the terms and conditions",
+    "submit": "Register as Local Promoter",
+    "login_link": "Already have an account? Sign in",
+    "errors": {
+      "email_exists": "An account with this email already exists",
+      "invalid_email": "Please enter a valid email address",
+      "weak_password": "Password must be at least 6 characters",
+      "required_fields": "Please fill in all required fields",
+      "terms_required": "You must accept the terms and conditions"
+    }
+  },
+  "calculator": {
+    "title": "Local Promoter Commission Calculator",
+    "hotelsContacted": "Hotels contacted by local promoter",
+    "emptyRoomsPerHotel": "Empty rooms per hotel (average)",
+    "averageMonthlyPrice": "Average monthly package price",
+    "commissionRate": "2% Commission on sales for 18 months + 1% for 12 months",
+    "estimatedMonthlyCommission": "Estimated monthly commission:",
+    "estimatedTotalCommission": "Estimated total commission in 30 months:",
+    "disclaimer": "* Automatic commissions with no further work",
+    "explanatoryText": "This calculator will allow you to show the hotel the different economic possibilities of the Hotel Living model. In it you can vary all the fields to show the hotel how it can find its best Hotel Living economic model."
+  },
+  "dashboard": {
+    "title": "Local Promoter Dashboard",
+    "welcome": "Welcome back, Local Promoter",
+    "agent_code": "Your Local Promoter Code",
+    "copy_code": "Copy Code",
+    "code_copied": "Local promoter code copied to clipboard!",
+    "business_card_button": "👉 Prepare your business card",
+    "quick_guide_title": "📌 QUICK GUIDE",
+    "modus_operandi": "🎯 Your mission is not to convince or sell anything, just to make Hotel Living.com known.\\n\\n🏨 Go to the hotel Reception and ask if they already know the Hotel-Living.com app. Show it on your own mobile and give them a brief description (for example: \\\"It's the hotel revolution to have 100% occupancy all year round. It works alongside the usual system and doesn't need any adaptation\\\").\\n\\n📊 Also show the benefits calculator (on the \\\"Hotel\\\" page) with an anonymous example of benefits from any previous hotel.\\n\\n⚠️ Essential: Never ask or refer to their own empty rooms. It's sensitive data they won't inform you about.\\n\\n🤝 Ask then if you can speak with someone. If negative, show your availability to return when more convenient for them.\\n\\n📧 You can then ask for their public email and open a free account right there (hotel name + email + simple password that, you explain, they can modify whenever they want). When opening the account, insert your referral code: they'll receive an email with all the data and your referral code will already be linked to that hotel.\\n\\n✨ THIS WAY THERE ARE THREE SUCCESSFUL CONTACT POSSIBILITIES:\\n\\n🟢 Simple: you made contact and left your card.\\n\\n🟡 Intermediate: you opened an account for them and inserted your referral code.\\n\\n🟠 Superior: if you achieve an interview, you show the portal and from their own hotel panel you help them download the hotel-living calculator, which is extremely simple and intuitive.\\n\\n💡 Again, remember: your mission is not to convince or sell anything, just to make www.hotel-living.com known. Most commonly they'll look at it carefully later, finding all the information they might need on the portal.",
+    "tabs": {
+      "hotels": "Contacted Hotels",
+      "commissions": "My Commissions", 
+      "profile": "My Profile"
+    },
+    "hotels": {
+      "add_hotel": "Add New Hotel",
+      "hotel_name": "Hotel Name",
+      "hotel_email": "Hotel Email",
+      "country": "Country",
+      "contacted_date": "Date Contacted",
+      "add_button": "Add Hotel",
+      "cancel": "Cancel",
+      "status": {
+        "pending": "Pending",
+        "registered": "Registered",
+        "expired": "Expired"
+      },
+      "no_hotels": "No hotels contacted yet",
+      "table": {
+        "name": "Hotel Name",
+        "email": "Email",
+        "country": "Country",
+        "contacted": "Contacted",
+        "status": "Status"
+      }
+    },
+    "commissions": {
+      "total_earned": "Total Earned",
+      "total_paid": "Total Paid",
+      "total_pending": "Total Pending",
+      "no_commissions": "No commissions yet",
+      "monthly_payments": "Commissions are paid monthly to your registered bank account."
+    },
+    "profile": {
+      "edit_profile": "Edit Profile",
+      "full_name": "Full Name",
+      "email": "Email",
+      "current_password": "Current Password",
+      "new_password": "New Password",
+      "bank_account": "Bank Account",
+      "save_changes": "Save Changes",
+      "logout": "Logout",
+      "success": "Profile updated successfully!",
+      "error": "Error updating profile"
+    }
+  },
+  "card_generator": {
+    "title": "Business Card Generator",
+    "live_preview": "Live Preview",
+    "card_data": "Card Data",
+    "name": "Name",
+    "referral_code": "Referral Code",
+    "phone": "Phone",
+    "email": "Email (optional)",
+    "footer_text": "Footer Text",
+    "default_footer": "Remember to insert my referral code to get personalized and free help.",
+    "download_cards": "Download my cards",
+    "download_description": "Generate a PDF in A4 format with 10 business cards per page (2 columns × 5 rows). Each card will be 85 × 55 mm with white background."
+  }
+}

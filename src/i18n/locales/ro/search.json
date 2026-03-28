@@ -1,0 +1,13 @@
+{
+  "highDemandCountry": "Cerere mare pentru {{country}}, dar momentan nu avem hoteluri disponibile.",
+  "highDemandSearch": "Cerere mare pentru această căutare, dar momentan nu avem hoteluri disponibile.",
+  "noResults": {
+    "withCountry": "Oportunitate mare!<br><br>Avem cerere mare pentru {{country}} și... acum adăugăm hotelurile noastre partenere acolo! Pentru că... 8 septembrie este lansarea noastră internațională!<br><br>Dacă doriți, încă puteți face parte din expansiunea noastră!<br><br>Hotelurile din orașul sau regiunea dumneavoastră vă vor mulțumi!<br><br>💵 <a href=\"/promotor-local\" target=\"_blank\">Deveniți Promotor Hotel-Living</a> (Obțineți beneficii lunare pasive excelente!)<br>🚀 <a href=\"/lider-living\" target=\"_blank\">Devii Lider de Grup, câștigă și înmulțește-ți viața</a><br>🏆 <a href=\"https://www.hotel-living.com/ambassador\" target=\"_blank\">Deveniți Ambasador Hotel-Living</a>",
+    "generic": "Oportunitate mare!<br><br>Avem cerere mare pentru criteriile dumneavoastră de căutare și... acum adăugăm hotelurile noastre partenere acolo! Pentru că... 8 septembrie este lansarea noastră internațională!<br><br>Dacă doriți, încă puteți face parte din expansiunea noastră!<br><br>Hotelurile din orașului sau regiunea dumneavoastră vă vor mulțumi!<br><br>💵 <a href=\"/promotor-local\" target=\"_blank\">Deveniți Promotor Hotel-Living</a> (Obțineți beneficii lunare pasive excelente!)<br>🚀 <a href=\"/lider-living\" target=\"_blank\">Devii Lider de Grup, câștigă și înmulțește-ți viața</a><br>🏆 <a href=\"https://www.hotel-living.com/ambassador\" target=\"_blank\">Deveniți Ambasador Hotel-Living</a>",
+    "byCriteria": "Nu am găsit hoteluri care să îndeplinească acest criteriu de căutare. Ne puteți ajuta să extindem rețeaua recomandând hoteluri din orașul sau regiunea dumneavoastră. Și ei pot beneficia de Hotel-Living!<br><br>Dacă doriți, încă puteți face parte din expansiunea noastră!<br><br>Hotelurile din orașul sau regiunea dumneavoastră vă vor mulțumi!<br><br>💵 <a href=\"/promotor-local\" target=\"_blank\">Deveniți Promotor Hotel-Living</a> (Obțineți beneficii lunare pasive excelente!)<br>🚀 <a href=\"/lider-living\" target=\"_blank\">Devii Lider de Grup, câștigă și înmulțește-ți viața</a><br>🏆 <a href=\"https://www.hotel-living.com/ambassador\" target=\"_blank\">Deveniți Ambasador Hotel-Living</a>",
+    "promoterLink": "Promotor Hotel-Living local și câștigați beneficii lunare pasive",
+    "benefits": "",
+    "or": "sau deveniți un",
+    "ambassadorLink": "Ambasador Hotel-Living"
+  }
+}

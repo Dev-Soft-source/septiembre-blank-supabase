@@ -1,0 +1,39 @@
+{
+  "register": {
+    "title": "Registar como Líder de Grupo",
+    "subtitle": "Cria a tua conta de Líder de Grupo e começa a construir comunidades",
+    "form": {
+      "firstName": "Nome próprio",
+      "firstNamePlaceholder": "Nome próprio",
+      "lastName": "Apelido",
+      "lastNamePlaceholder": "Apelido",
+      "email": "Endereço de email",
+      "emailPlaceholder": "Endereço de email",
+      "phone": "Telefone (opcional)",
+      "phonePlaceholder": "Telefone (opcional)",
+      "password": "Palavra-passe (mín. 6 caracteres)",
+      "passwordPlaceholder": "Palavra-passe (mín. 6 caracteres)",
+      "confirmPassword": "Confirmar palavra-passe",
+      "confirmPasswordPlaceholder": "Confirmar palavra-passe",
+      "acceptTerms": "Aceito os",
+      "termsAndConditions": "Termos e Condições",
+      "createAccount": "Criar conta de Líder de Grupo",
+      "alreadyHaveAccount": "Já tens uma conta de Líder de Grupo?",
+      "signInHere": "Inicia sessão aqui"
+    },
+    "validation": {
+      "fillRequiredFields": "Por favor, preenche todos os campos obrigatórios",
+      "passwordsDoNotMatch": "As palavras-passe não coincidem",
+      "passwordTooShort": "A palavra-passe deve ter pelo menos 6 caracteres",
+      "acceptTermsRequired": "Por favor, aceita os Termos e Condições",
+      "emailAlreadyExists": "Este email já está registado com outro papel. Cada email só pode ter um papel.",
+      "emailAlreadyRegistered": "Este email já está registado. Por favor usa a página de início de sessão.",
+      "passwordRequirements": "A palavra-passe não cumpre os requisitos. Por favor escolhe uma palavra-passe mais forte."
+    },
+    "success": {
+      "registrationSuccessful": "Registo bem-sucedido! Por favor, verifica o teu email para o link de verificação.",
+      "redirecting": "A redirecionar para o teu painel de controlo..."
+    },
+    "backToHome": "Voltar ao início"
+  }
+}

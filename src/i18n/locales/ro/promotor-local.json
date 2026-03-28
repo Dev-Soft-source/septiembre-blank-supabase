@@ -1,0 +1,111 @@
+
+{
+  "heading": "DEVINO PROMOTOR LOCAL HOTEL-LIVING",
+  "paragraph_1": "Aceasta este muncă o singură dată și o oportunitate unică. Din panoul tău, poți contacta și înregistra câte hoteluri dorești. Pentru fiecare hotel care se alătură Hotel-Living în următoarele 30 de zile, vei începe să câștigi comisioane automate timp de 30 de luni consecutive.\n\nTu îți stabilești ritmul. Singura limită ești tu. Și amintește-ți: aceasta este muncă punctuală, nu necesită vizite sau urmărire constantă. Trebuie doar să pui hotelul în contact cu Hotel-Living, și de acolo sistemul va face restul.\n\nEste foarte important să vorbești direct cu persoana responsabilă de la hotel și să explici modelul nostru pentru a-și umple camerele goale, pentru a-și acoperi sezoanele medii sau slabe, sau chiar pentru a evita să trebuiască să închidă în lunile cu ocupare scăzută. Dacă sunt interesați, îi poți ajuta chiar să-și completeze înregistrarea și să-și configureze contul pe loc.\n\nCând faci asta, îți vei fi terminat sarcina: muncă o singură dată, care va genera comisioane automate timp de 30 de luni fără a fi nevoie să intervii din nou.",
+  "commissions": "Comisioane automate: 2% pentru primele 18 luni și 1% pentru următoarele 12 luni.",
+  "commissions_title": "💰 Comisioane",
+  "panel_description": "În panoul tău vei putea monitoriza toate hotelurile contactate, starea lor și comisioanele tale.",
+  "panel_title": "📊 Panou de Control",
+  "bank_data": "Este obligatoriu să adaugi contul tău bancar în profil pentru a primi plățile lunare.",
+  "payment_requirements_title": "🏦 Cerințe de Plată",
+  "join_now_title": "🚀 Alătură-te Acum!",
+  "join_now_description": "Începe călătoria ta ca Promotor Local Hotel-Living și generează venit pasiv timp de 30 de luni pentru fiecare hotel pe care îl înregistrezi.",
+  "join_button": "Alătură-te ca Promotor Local",
+  "registration": {
+    "title": "Devino Promotor Local Hotel-Living",
+    "full_name": "Numele Complet",
+    "email": "Email",
+    "password": "Parolă",
+    "bank_account": "Cont Bancar (IBAN)",
+    "accept_terms": "Accept termenii și condițiile",
+    "submit": "Înregistrare ca Promotor Local",
+    "login_link": "Ai deja un cont? Autentifică-te",
+    "errors": {
+      "email_exists": "Există deja un cont cu acest email",
+      "invalid_email": "Te rog să introduci un email valid",
+      "weak_password": "Parola trebuie să aibă cel puțin 6 caractere",
+      "required_fields": "Te rog să completezi toate câmpurile obligatorii",
+      "terms_required": "Trebuie să accepți termenii și condițiile"
+    }
+  },
+  "calculator": {
+    "title": "Calculator de Comisioane pentru Promotori Locali",
+    "hotelsContacted": "Hoteluri contactate de promotorul local",
+    "emptyRoomsPerHotel": "Camere libere pe hotel (medie)",
+    "averageMonthlyPrice": "Prețul mediu al pachetului lunar",
+    "commissionRate": "2% Comision din vânzări pentru 18 luni + 1% pentru 12 luni",
+    "estimatedMonthlyCommission": "Comisionul lunar estimat:",
+    "estimatedTotalCommission": "Comisionul total estimat în 30 de luni:",
+    "disclaimer": "* Comisioane automate fără muncă ulterioară",
+    "explanatoryText": "Acest calculator vă va permite să arătați hotelului diferitele posibilități economice ale modelului Hotel Living. În el puteți varia toate câmpurile pentru a arăta hotelului cum poate găsi cel mai bun model economic Hotel Living."
+  },
+  "dashboard": {
+    "title": "Panoul Promotorului Local",
+    "welcome": "Bun venit înapoi, Promotor Local",
+    "agent_code": "Codul Tău de Promotor Local",
+    "copy_code": "Copiază Codul",
+    "code_copied": "Codul promotorului local copiat în clipboard!",
+    "business_card_button": "👉 Pregătește-ți cartea de vizită",
+    "quick_guide_title": "📌 GHID RAPID",
+    "modus_operandi": "🎯 Misiunea ta nu este să convingi sau să vinzi ceva, ci doar să faci cunoscut Hotel Living.com\\n\\n🏨 Du-te la Recepția hotelului și întreabă dacă știu deja aplicația Hotel-Living.com. Arată-le pe propriul tău telefon și oferă-le o scurtă descriere (de exemplu: \\\"Este revoluția hotelieră pentru ca hotelurile să aibă 100% ocupare tot anul. Funcționează alături de sistemul obișnuit și nu necesită nicio adaptare\\\").\\n\\n📊 Arată și calculatorul de beneficii (pe pagina \\\"Hotel\\\") cu un exemplu anonim de beneficii de la orice hotel anterior.\\n\\n⚠️ Esențial: Nu întreba niciodată și nu face referire la propriile lor camere goale. Este o informație sensibilă despre care nu te vor informa.\\n\\n🤝 Întreabă apoi dacă poți vorbi cu cineva. În caz negativ, arată disponibilitatea ta de a reveni când le este mai convenabil.\\n\\n📧 Poți apoi să îi întrebi despre emailul lor public și să le deschizi un cont gratuit chiar acolo (numele hotelului + email + parolă simplă care, explici, o pot modifica oricând doresc). Când deschizi contul, introdu codul tău de recomandare: vor primi un email cu toate datele și codul tău de recomandare va fi deja legat de acel hotel.\\n\\n✨ ÎN ACEST FEL EXISTĂ TREI POSIBILITĂȚI DE CONTACT DE SUCCES:\\n\\n🟢 Simplă: ai făcut contact și ai lăsat cartea ta.\\n\\n🟡 Intermediară: le-ai deschis cont și ai introdus codul tău de recomandare.\\n\\n🟠 Superioară: dacă reușești un interviu, arăți portalul și din propriul lor panel de hotel îi ajuți să descarce calculatorul hotel-living, care este extrem de simplu și intuitiv.\\n\\n💡 Din nou, amintește-ți: misiunea ta nu este să convingi sau să vinzi ceva, ci doar să faci cunoscut www.hotel-living.com. Cel mai frecvent se vor uita mai târziu cu atenție, găsind în portal toată informația de care ar putea avea nevoie.",
+    "tabs": {
+      "hotels": "Hoteluri Contactate",
+      "commissions": "Comisioanele Mele",
+      "profile": "Profilul Meu"
+    },
+    "hotels": {
+      "add_hotel": "Adaugă Hotel Nou",
+      "hotel_name": "Numele Hotelului",
+      "hotel_email": "Email Hotel",
+      "country": "Țara",
+      "contacted_date": "Data Contactării",
+      "add_button": "Adaugă Hotel",
+      "cancel": "Anulează",
+      "status": {
+        "pending": "În așteptare",
+        "registered": "Înregistrat",
+        "expired": "Expirat"
+      },
+      "no_hotels": "Nu ai contactat încă niciun hotel",
+      "table": {
+        "name": "Numele Hotelului",
+        "email": "Email",
+        "country": "Țara",
+        "contacted": "Contactat",
+        "status": "Status"
+      }
+    },
+    "commissions": {
+      "total_earned": "Total Câștigat",
+      "total_paid": "Total Plătit",
+      "total_pending": "Total În Așteptare",
+      "no_commissions": "Nu există comisioane încă",
+      "monthly_payments": "Comisioanele se plătesc lunar în contul tău bancar înregistrat."
+    },
+    "profile": {
+      "edit_profile": "Editează Profilul",
+      "full_name": "Numele Complet",
+      "email": "Email",
+      "current_password": "Parola Actuală",
+      "new_password": "Parola Nouă",
+      "bank_account": "Cont Bancar",
+      "save_changes": "Salvează Modificările",
+      "logout": "Deconectare",
+      "success": "Profil actualizat cu succes!",
+      "error": "Eroare la actualizarea profilului"
+    }
+  },
+  "card_generator": {
+    "title": "Generator de Cărți de Vizită",
+    "live_preview": "Previzualizare în Timp Real",
+    "card_data": "Date Carte",
+    "name": "Nume",
+    "referral_code": "Cod de Recomandare",
+    "phone": "Telefon",
+    "email": "Email (opțional)",
+    "footer_text": "Text Subsol",
+    "default_footer": "Amintește-te să introduci codul meu de recomandare pentru a obține ajutor personalizat și gratuit.",
+    "download_cards": "Descarcă cărțile mele",
+    "download_description": "Generează un PDF în format A4 cu 10 cărți de vizită per pagină (2 coloane × 5 rânduri). Fiecare carte va fi 85 × 55 mm cu fundal alb."
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "dashboard": {
+    "features": {
+      "title": "Features & Amenities",
+      "hotelFeatures": "Hotel Features",
+      "roomFeatures": "Room Features",
+      "activities": "Activities",
+      "affinities": "Affinities",
+      "themes": "Themes",
+      "categories": "Categories",
+      "selectFeatures": "Select Features",
+      "wifi": "Wi-Fi",
+      "pool": "Swimming Pool",
+      "gym": "Fitness Center",
+      "spa": "Spa",
+      "restaurant": "Restaurant",
+      "bar": "Bar",
+      "businessCenter": "Business Center",
+      "meetingRooms": "Meeting Rooms",
+      "laundry": "Laundry Service",
+      "roomService": "Room Service",
+      "concierge": "Concierge Service",
+      "airConditioning": "Air Conditioning",
+      "heating": "Heating",
+      "balcony": "Balcony",
+      "terrace": "Terrace",
+      "kitchenette": "Kitchenette",
+      "minibar": "Minibar",
+      "safe": "Safe",
+      "tv": "Television",
+      "entertainment": "Entertainment",
+      "outdoorActivities": "Outdoor Activities",
+      "indoorActivities": "Indoor Activities",
+      "sports": "Sports",
+      "wellness": "Wellness",
+      "cultural": "Cultural",
+      "business": "Business"
+    }
+  }
+}

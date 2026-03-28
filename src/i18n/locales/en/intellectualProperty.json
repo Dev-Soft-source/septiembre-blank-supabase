@@ -1,0 +1,24 @@
+
+{
+  "intellectualProperty": {
+    "title": "Intellectual Property Rights",
+    "content1": "Hotel-Living.com and all of its contents, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof) are owned by Hotel-Living.com, its licensors, or other providers of such material and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.",
+    "content2": "This site, as well as its innovative booking system, are internationally registered and protected both as Utility Models and by Copyright. Any reproduction or copy of the system will be legally pursued. Those interested in national franchises may contact us.",
+    "trademarks": {
+      "title": "Trademarks",
+      "content": "The Hotel-Living name, logo, and all related names, logos, product and service names, designs, and slogans are trademarks of Hotel-Living.com or its affiliates or licensors. You must not use such marks without the prior written permission of Hotel-Living.com."
+    },
+    "copyright": {
+      "title": "Copyright Notice",
+      "content": "© {year} Hotel-Living.com. All rights reserved. No part of this website may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner."
+    },
+    "patent": {
+      "title": "Patent Information",
+      "content": "Various aspects of the Hotel-Living.com platform and booking system are patent protected or patent pending. Unauthorized use, reproduction, or distribution of these technologies is strictly prohibited."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "content": "For inquiries regarding intellectual property rights, permissions, or franchising opportunities, please feel free to contact us completing the form you'll find in {contactLink}"
+    }
+  }
+}

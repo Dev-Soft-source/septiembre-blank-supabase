@@ -1,0 +1,16 @@
+{
+  "title": "Our Leaders",
+  "description": "Discover leaders and active groups at Hotel‑Living",
+  "seeOurLeaders": "See our leaders →",
+  "labels": {
+    "affinity": "Affinity",
+    "activities": "Activities",
+    "currentGroup": "Current group",
+    "packages": "Available packages",
+    "occupancy": "Occupancy",
+    "price": "Price",
+    "book": "Book"
+  },
+  "noPackages": "No packages available right now",
+  "notFound": "Leader not found"
+}

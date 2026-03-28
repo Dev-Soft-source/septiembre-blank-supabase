@@ -1,0 +1,81 @@
+{
+  "heroSection": {
+    "revolutionHasCome": "O FUTURO CHEGOU",
+    "liveInHotels": "VIVE EM HOTÉIS", 
+    "boostYourLife": "A vida de verdade",
+    "slogans": {
+      "block1": [
+        "Revolucione sua forma de viver",
+        "Esqueça as tarefas domésticas",
+        "Multiplique seu nível de vida",
+        "A vida que você sempre sonhou"
+      ],
+      "block2": [
+        "Potencialize sua vida social",
+        "Cerque-se de pessoas afins",
+        "Escolha temas, não apenas hotéis",
+        "Some-se a grupos, some-se à vida"
+      ],
+      "block3": [
+        "Aproveite cada instante",
+        "Viva viajando, viaje vivendo",
+        "Aproveite a revolução Hotel-Living",
+        "Os hotéis, as suas casas pelo mundo"
+      ]
+    }
+  },
+  "filters": {
+    "search": "Pesquisar"
+  },
+  "bubbleCounter": {
+    "home": "{{count}} pessoas estão explorando o Hotel-Living neste momento!",
+    "hotel": "{{count}} pessoas estão vendo este hotel agora mesmo!"
+  },
+  "helpAssistant": {
+    "message": "Olá! Estou aqui para ajudá-lo.",
+    "mainMessage": "Fale ou escreva sua pergunta para mim.",
+    "inputLabel": "Digite sua mensagem aqui...",
+    "avatars": {
+      "antonio": { 
+        "name": "Antonio", 
+        "description": "Aposentado",
+        "greeting": "Sou Antonio!\nAPOSENTADO\nPodemos conversar!"
+      },
+      "luisa": { 
+        "name": "Luisa", 
+        "description": "Aposentada",
+        "greeting": "Sou Luisa!\nAPOSENTADA\nPodemos conversar!"
+      },
+      "john": { 
+        "name": "John", 
+        "description": "Trabalhador Remoto",
+        "greeting": "Sou John!\nTRABALHADOR ONLINE\nPodemos conversar!"
+      },
+      "teresa": { 
+        "name": "Teresa", 
+        "description": "Amante de Viagens",
+        "greeting": "Sou Teresa!\nAMO VIAJAR\nPodemos conversar!"
+      },
+      "juan": { 
+        "name": "Juan", 
+        "description": "Ex-Senhorio",
+        "greeting": "Sou Juan!\nNÃO ALUGO MAIS APARTAMENTOS TURÍSTICOS\nPodemos conversar!"
+      },
+      "ion": { 
+        "name": "Ion", 
+        "description": "Ex-Inquilino",
+        "greeting": "Sou Ion!\nEX-INQUILINO\nPodemos conversar!"
+      },
+      "maria": { 
+        "name": "María", 
+        "description": "Residente Suburbana",
+        "greeting": "Sou María!\nEX-VIAJANTE\nPodemos conversar!"
+      },
+      "martin": { 
+        "name": "Martin", 
+        "description": "Dono de Hotel",
+        "greeting": "Sou Martin!\nHOTELEIRO\nPodemos conversar!"
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Registro de Asociación",
+  "subtitle": "Registre su asociación para acceder al panel de gestión",
+  "form": {
+    "associationName": "Nombre de la Asociación",
+    "associationNamePlaceholder": "Ej: Asociación Marítima",
+    "responsiblePersonName": "Nombre completo del responsable",
+    "email": "Email",
+    "emailPlaceholder": "email@asociacion.com",
+    "password": "Contraseña",
+    "passwordPlaceholder": "Crear una contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "confirmPasswordPlaceholder": "Confirme su contraseña",
+    "country": "País",
+    "countryPlaceholder": "Seleccione su país",
+    "submitButton": "Registrar Asociación",
+    "submittingButton": "Registrando..."
+  },
+  "countries": {
+    "Argentina": "Argentina",
+    "Brasil": "Brasil",
+    "Chile": "Chile",
+    "Colombia": "Colombia",
+    "España": "España",
+    "México": "México",
+    "Perú": "Perú",
+    "Uruguay": "Uruguay",
+    "Otro": "Otro"
+  },
+  "validation": {
+    "requiredFields": "Por favor complete todos los campos requeridos",
+    "passwordSecurity": "La contraseña no cumple con los requisitos de seguridad",
+    "passwordMismatch": "Las contraseñas no coinciden",
+    "emailExists": "Este email ya está registrado. Por favor use otro email o inicie sesión.",
+    "registrationError": "Error en el registro",
+    "userCreationError": "Error al crear la cuenta de usuario",
+    "associationCreationError": "Error al registrar la asociación",
+    "emailError": "Registro exitoso, pero hubo un problema enviando el email de confirmación. Por favor contacte al soporte.",
+    "emailSendError": "Registro exitoso, pero no se pudo enviar el email de confirmación. Por favor contacte al soporte.",
+    "generalError": "Error durante el registro. Por favor intente nuevamente."
+  },
+  "success": {
+    "emailSent": "¡Registro exitoso! Hemos enviado un email de confirmación a su dirección.",
+    "completed": "¡Registro completado! Revise su email para confirmar su cuenta y acceder al panel de asociación."
+  }
+}

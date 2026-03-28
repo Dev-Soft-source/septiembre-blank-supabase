@@ -1,0 +1,31 @@
+
+{
+  "dashboard": {
+    "property": {
+      "title": "Property Information",
+      "basicInfo": "Basic Information",
+      "propertyDetails": "Property Details",
+      "propertyType": "Property Type",
+      "propertyCategory": "Property Category",
+      "propertyStyle": "Property Style",
+      "propertySize": "Property Size",
+      "numberOfRooms": "Number of Rooms",
+      "numberOfFloors": "Number of Floors",
+      "yearBuilt": "Year Built",
+      "lastRenovated": "Last Renovated",
+      "architecture": "Architecture",
+      "designStyle": "Design Style",
+      "targetMarket": "Target Market",
+      "businessModel": "Business Model",
+      "operatingModel": "Operating Model",
+      "managementType": "Management Type",
+      "ownership": "Ownership",
+      "chain": "Chain/Brand",
+      "independent": "Independent",
+      "franchise": "Franchise",
+      "management": "Management Contract",
+      "lease": "Lease",
+      "ownership": "Full Ownership"
+    }
+  }
+}

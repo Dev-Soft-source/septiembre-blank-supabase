@@ -1,0 +1,17 @@
+
+{
+  "customerService": {
+    "title": "Customer Service",
+    "description": "Please fill out the form below to contact our customer service team. We'll get back to you as soon as possible.",
+    "form": {
+      "name": "Name",
+      "email": "Email Address",
+      "country": "Country",
+      "city": "City",
+      "message": "Your Message",
+      "sending": "Sending...",
+      "send": "Send Message"
+    },
+    "success": "Thank you for your message! We'll get back to you soon."
+  }
+}

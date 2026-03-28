@@ -1,0 +1,171 @@
+{
+  "landing": {
+    "hero": {
+      "title": "Join Our Hotel Association Network",
+      "subtitle": "Connect your hotel association with Nomad Heaven and start generating commissions for every booking made by our digital nomads.",
+      "registerButton": "Register My Association"
+    },
+    "benefits": {
+      "globalNetwork": {
+        "title": "Global Network",
+        "description": "Access a global network of hotels and increase your international visibility."
+      },
+      "commissions": {
+        "title": "Attractive Commissions",
+        "description": "Generate additional income with our competitive commission system."
+      },
+      "digitalNomads": {
+        "title": "Digital Nomads",
+        "description": "Connect with a growing community of remote professionals."
+      },
+      "secureManagement": {
+        "title": "Secure Management",
+        "description": "Secure control panel to manage hotels and commissions."
+      }
+    },
+    "howItWorks": {
+      "title": "How Does It Work?",
+      "steps": [
+        {
+          "title": "Register",
+          "description": "Complete the registration form with your hotel association data."
+        },
+        {
+          "title": "Add Hotels",
+          "description": "Add your association's hotels to our platform from your panel."
+        },
+        {
+          "title": "Generate Commissions",
+          "description": "Receive commissions automatically for every booking made at your hotels."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Join our hotel association network and start generating additional income today.",
+      "registerButton": "Register Association",
+      "dashboardButton": "Access Panel"
+    },
+    "contact": {
+      "title": "Have Questions?",
+      "email": "associations@nomadheaven.com"
+    }
+  },
+  "slogans": [
+    "WE ARE HOTEL-LIVING.COM",
+    "WE ARE POSSIBLE MASS OCCUPANCY FOR YOUR AFFILIATED HOTELS",
+    "WE ARE A GREAT SOURCE OF INCOME FOR YOUR ASSOCIATION",
+    {
+      "lines": [
+        "WE ARE THE GLOBAL HOTEL REVOLUTION",
+        "THAT YOUR ASSOCIATION CAN BE THE FIRST",
+        "TO COMMUNICATE TO ITS AFFILIATES"
+      ]
+    }
+  ],
+  "offers": {
+    "title": "What we offer your association",
+    "firstPeriod": {
+      "percentage": "4%",
+      "text": "of generated bookings",
+      "duration": "During the first 18 months"
+    },
+    "secondPeriod": {
+      "percentage": "2%",
+      "text": "of generated bookings",
+      "duration": "During the following 12 months"
+    },
+    "note": {
+      "highlight": "This income does not affect hotels at all",
+      "description": "It comes from our own management cost (10%) and can be reinvested for the benefit of the association and its members."
+    }
+  },
+  "calculator": {
+    "title": "Online calculator",
+    "labels": {
+      "hotels": "HOW MANY AFFILIATED HOTELS?",
+      "rooms": "HOW MANY EMPTY ROOMS DAILY ON AVERAGE?",
+      "price": "MONTHLY PRICE PER ROOM?"
+    },
+    "results": {
+      "hotelBenefits": "Benefits for hotels *:",
+      "associationBenefits": "Benefits for the association *:"
+    }
+  },
+  "accordion": {
+    "advantages": {
+      "title": "WHAT ADVANTAGES DO YOUR ASSOCIATED HOTELS GET BY REGISTERING THROUGH YOUR ASSOCIATION?",
+      "items": [
+        "Preferred positioning in results",
+        "Guaranteed publication in 48 hours",
+        "Visually highlighted listing",
+        "Automatic participation in local campaigns",
+        "Official \"allied hotel\" tag",
+        "Right to direct feedback with the Hotel-Living team",
+        "Inclusion in promotional draws",
+        "Personalized assisted onboarding",
+        "Free review of their listing",
+        "Priority translation of their listing to other languages",
+        "Cumulative benefit if they refer other hotels (not belonging to any association)",
+        "Early access to new Hotel-Living system modules",
+        "To test features before their official launch",
+        "Priority attention in technical support and incident resolution",
+        "Free access to exclusive training on long-stay optimization and revenue management for their team",
+        "A personalized monthly mention or publication (rotating)",
+        "\"Top Association Hotel\" tag on their listing during the first 3 months",
+        "Higher frequency of appearance in personalized affinity segments",
+        "Preferred invitation to meetings or round tables with other allied hotels"
+      ]
+    },
+    "clients": {
+      "title": "HUNDREDS OF MILLIONS OF CUSTOMERS ARE WAITING",
+      "items": [
+        "Active retirees who want to truly live",
+        "Online workers and digital nomads",
+        "Professionals in dormitory cities",
+        "Tenants tired of difficulties",
+        "Frequent travelers seeking soul",
+        "Users of improvised apartments",
+        "Free souls who want everything resolved",
+        "Citizens who wish to break loneliness and meet like-minded people"
+      ],
+      "conclusion": [
+        "They all have something in common: they seek a new way of living.",
+        "It's no longer about renting. It's no longer about traveling.",
+        "It's about living differently.",
+        "And for all that, the hotel is the natural solution.",
+        "Hotel-Living comes to change it.",
+        "Long-duration model",
+        "Deployed in phases with revolutionary modules",
+        "Monetizes, positions and modernizes",
+        "Currently only deployed at 20% of its totality"
+      ]
+    }
+  },
+  "disclaimer": {
+    "text": [
+      "* The figures presented are estimates based on maximum occupancy potential.",
+      "Actual results may vary based on the number of packages actually sold and the average monthly price.",
+      "The latter —set at $1,300— represents a weighted average that considers stays without meal service, as well as hotels of different categories, with both single and double occupancies."
+    ]
+  },
+  "benefits": {
+    "title": "We are Hotel-Living and these are some of the direct benefits for your affiliated members",
+    "items": [
+      "We eliminate low and medium seasons.",
+      "We radically multiply hotel profits.",
+      "We activate 100% profitability of vacant rooms.",
+      "The hotel collects 5% of each reservation in advance, non-refundable net profit.",
+      "No subscriptions – No memberships – No monthly fees – No forced contracts – No advance costs – No adaptations.",
+      "We recover clients who chose vacation rentals.",
+      "We reduce operational costs.",
+      "We bring longer and more profitable stays.",
+      "We unify check-ins and check-outs on a single weekly day.",
+      "We simplify daily management.",
+      "We provide absolute staff stability.",
+      "We fill hotels with life and attractiveness.",
+      "We bring hotels their ideal clients according to affinities chosen by the hotel itself.",
+      "We connect your association with a new era of profitability and stability."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+
+{
+  "contact": {
+    "title": "Contactează-ne",
+    "welcomeMessage": {
+      "listening": "Suntem aici să ascultăm.",
+      "feelFree": "Nu ezita să ne contactezi la",
+      "loveToHear": "— ne-ar plăcea să auzim de la tine."
+    },
+    "form": {
+      "departmentInstruction": "Vă rugăm să selectați una dintre următoarele zone pentru a ne asigura că mesajul dvs. ajunge la echipa potrivită:",
+      "departments": {
+        "customerService": "Serviciul pentru Clienți",
+        "technicalSupport": "Suport Tehnic",
+        "pressMedia": "Presă și Media",
+        "businessPartnerships": "Parteneriate de Afaceri",
+        "otherInquiries": "Alte Întrebări"
+      },
+      "name": "Numele Dvs.",
+      "email": "Email-ul Dvs.",
+      "message": "Mesajul Dvs.",
+      "department": "Departament",
+      "send": "Trimite Mesajul",
+      "sending": "Se trimite...",
+      "success": "Mulțumim pentru mesajul dvs.! Vă vom contacta în curând.",
+      "error": "Ne pare rău, a fost o eroare la trimiterea mesajului. Încercați din nou.",
+      "emailDestination": "Mesajul dvs. va fi trimis la:"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "identification": {
+    "title": "Coduri de Identificare",
+    "description": "Gestionați codurile de identificare pentru diferite tipuri de entități",
+    "entities": {
+      "agent": "Promotor",
+      "hotel": "Hotel", 
+      "association": "Asociație",
+      "leader": "Lider de Grup",
+      "ambassador": "Ambasador"
+    },
+    "formats": {
+      "commission": "7 caractere: {prefix} + 5 cifre + literă finală (A-Z, except O)",
+      "nonCommission": "6 caractere: {prefix} + 5 cifre (fără literă finală)",
+      "examples": "Exemple",
+      "requirements": "Cerințe de Format"
+    },
+    "validation": {
+      "required": "Codul este obligatoriu",
+      "invalidLength": "Codul trebuie să aibă exact {length} caractere",
+      "invalidPrefix": "Codul trebuie să înceapă cu '{prefix}'",
+      "noLetterO": "Codul nu poate conține litera O",
+      "invalidDigits": "Caracterele 2-6 trebuie să fie cifre (0-9)",
+      "invalidSuffix": "Ultimul caracter trebuie să fie o literă A-Z (except O)",
+      "notUnique": "Acest cod este deja în uz",
+      "valid": "Cod {entity} valid",
+      "checking": "Validez...",
+      "failed": "Nu s-a putut valida codul"
+    },
+    "actions": {
+      "generate": "Generează Cod {entity}",
+      "generating": "Generez...",
+      "copy": "Copiază Codul",
+      "copied": "Cod copiat în clipboard!"
+    },
+    "info": {
+      "startsWith": "Începe cu \"{prefix}\" (pentru {entity})",
+      "followedBy": "Urmat de 5 cifre (0-9)",
+      "endsWith": "Se termină cu o literă (A-Z, except O)",
+      "noLetterO": "Fără litera \"O\" nicăieri în cod",
+      "totalLength": "Lungime totală: {length} caractere"
+    },
+    "commission": {
+      "title": "Entități cu Comision",
+      "description": "Entitățile care primesc comisioane folosesc coduri de 7 caractere",
+      "types": "Hoteluri, Asociații, Promotori"
+    },
+    "nonCommission": {
+      "title": "Entități fără Comision", 
+      "description": "Entitățile fără comisioane folosesc coduri de 6 caractere",
+      "types": "Lideri de Grup, Ambasadori"
+    }
+  }
+}

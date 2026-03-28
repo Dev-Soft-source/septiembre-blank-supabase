@@ -1,0 +1,58 @@
+{
+  "title": "Association Panel",
+  "subtitle": "Manage your hotels and commissions",
+  "logoutButton": "Sign Out",
+  "tabs": {
+    "registeredHotels": "Registered Hotels",
+    "commissions": "Commissions", 
+    "suggestedLetter": "Suggested Letter",
+    "analytics": "Analytics",
+    "calculadora": "Calculator",
+    "myData": "My Data",
+    "foundingAssociation": "Founding Association"
+  },
+  "analytics": {
+    "totalBookings": "Total Bookings",
+    "commissions": "Commissions",
+    "activeHotels": "Active Hotels",
+    "growth": "Growth",
+    "monthlyPerformance": "Monthly Performance",
+    "hotelPerformance": "Hotel Performance",
+    "bookings": "bookings",
+    "months": {
+      "jan": "Jan",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Apr",
+      "may": "May",
+      "jun": "Jun"
+    }
+  },
+  "commissions": {
+    "totalCommissions": "Total Commissions",
+    "thisMonth": "This Month",
+    "bookings": "Bookings",
+    "history": "Commission History",
+    "noCommissions": "No commissions registered yet",
+    "paid": "Paid",
+    "bookingDate": "Booking date"
+  },
+  "hotels": {
+    "uploadHotelList": "Upload Hotel List",
+    "dragDropCsv": "Drag a CSV file here or click to select",
+    "expectedFormat": "Expected format: hotel_name, city, contact_email",
+    "selectCsvFile": "Select CSV file",
+    "pasteCsvData": "Or paste CSV data directly:",
+    "processData": "Process Data",
+    "provideCsvData": "Please provide CSV data to process",
+    "processingCsvData": "Processing CSV data..."
+  },
+  "foundingAssociation": {
+    "title": "Founding Association",
+    "description": "Become a Founding Association of Hotel Living. By selecting Yes, you will benefit from free publicity on our portal and from public recognition, as well as the benefits corresponding to a founding entity in our project.",
+    "no": "No",
+    "yes": "Yes",
+    "notificationSent": "Notification sent successfully",
+    "notificationError": "Error sending notification"
+  }
+}

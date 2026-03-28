@@ -1,0 +1,42 @@
+{
+  "hotelFeatures": {
+    "wifi": "Wi-Fi",
+    "pool": "Swimming Pool",
+    "gym": "Fitness Center",
+    "spa": "Spa",
+    "restaurant": "Restaurant",
+    "bar": "Bar",
+    "businessCenter": "Business Center",
+    "meetingRooms": "Meeting Rooms",
+    "laundry": "Laundry Service",
+    "roomService": "Room Service",
+    "concierge": "Concierge Service",
+    "parking": "Parking",
+    "elevator": "Elevator",
+    "reception24h": "24h Reception",
+    "garden": "Garden",
+    "terrace": "Terrace",
+    "conferenceRoom": "Conference Room",
+    "luggageStorage": "Luggage Storage"
+  },
+  "roomFeatures": {
+    "airConditioning": "Air Conditioning",
+    "heating": "Heating",
+    "balcony": "Balcony",
+    "kitchenette": "Kitchenette",
+    "minibar": "Minibar",
+    "safe": "Safe",
+    "tv": "Television",
+    "desk": "Work Desk",
+    "wardrobe": "Wardrobe",
+    "privateBathroom": "Private Bathroom",
+    "hairDryer": "Hair Dryer",
+    "iron": "Iron",
+    "coffeeMaker": "Coffee Maker",
+    "blackoutCurtains": "Blackout Curtains",
+    "cityView": "City View",
+    "seaView": "Sea View",
+    "mountainView": "Mountain View",
+    "gardenView": "Garden View"
+  }
+}

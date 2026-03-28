@@ -1,0 +1,30 @@
+{
+  "phrase1": "Travel. Connect. Make the world yours",
+  "phrase2": "We are the Traveliving revolution",
+  "phrase3": "We are the new way to live and be",
+  "phrase1Desktop": {
+    "line1": "Travel. Connect.",
+    "line2": "Make the world yours"
+  },
+  "phrase2Desktop": {
+    "line1": "We are the",
+    "line2": "Traveliving revolution"
+  },
+  "phrase3Desktop": {
+    "line1": "We are the",
+    "line2": "new way to live and be"
+  },
+  "phrase1Mobile": {
+    "line1": "Travel. Connect.",
+    "line2": "Make the world yours"
+  },
+  "phrase2Mobile": {
+    "line1": "We are the",
+    "line2": "Traveliving revolution"
+  },
+  "phrase3Mobile": {
+    "line1": "We are the",
+    "line2": "new way to live and be"
+  },
+  "clickToSkip": "Tap to skip"
+}

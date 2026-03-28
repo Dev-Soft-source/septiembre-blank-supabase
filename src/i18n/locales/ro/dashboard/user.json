@@ -1,0 +1,139 @@
+{
+  "userDashboard": {
+    "title": "TABLOU DE BORD UTILIZATOR",
+    "navigation": {
+      "dashboard": "Tablou de bord",
+      "bookings": "Rezervări",
+      "threeNights": "Obține trei nopți",
+      "becomeAmbassador": "Devino ambasador",
+      "history": "Istoric",
+      "payments": "Plăți",
+      "profile": "Profil"
+    },
+    "help": {
+      "needHelp": "Ai nevoie de ajutor?",
+      "supportDescription": "Echipa noastră de suport este disponibilă 24/7 pentru a vă asista cu orice întrebări.",
+      "contactSupport": "Contactează suportul"
+    },
+    "actions": {
+      "logOut": "Deconectare"
+    },
+    "dashboard": {
+      "stats": {
+        "totalBookings": "Total rezervări",
+        "savedHotels": "Hoteluri salvate",
+        "reviewsWritten": "Recenzii scrise",
+        "freeNights": "Nopți gratuite"
+      },
+      "welcome": {
+        "title": "Bun venit la Hotel-Living!",
+        "subtitle": "Descoperă hoteluri uimitoare adaptate preferințelor tale. Actualizează-ți afinitățile în profil pentru recomandări personalizate.",
+        "expertWelcome": "Bun venit înapoi, expert Hotel-Living! Descoperă noi destinații și bucură-te de funcții exclusive."
+      },
+      "quickActions": {
+        "title": "Acțiuni rapide",
+        "browseHotels": "Explorează hoteluri",
+        "browseHotelsDesc": "Descoperă locuri uimitoare unde să stai.",
+        "myBookings": "Rezervările mele",
+        "myBookingsDesc": "Vezi și gestionează rezervările tale.",
+        "savedHotels": "Hoteluri salvate",
+        "savedHotelsDesc": "Vezi proprietățile tale preferate.",
+        "writeReview": "Scrie recenzie",
+        "writeReviewDesc": "Împărtășește experiența ta cu alții."
+      },
+      "recentActivity": {
+        "recentBookings": "Rezervări recente",
+        "noBookings": "Încă nu există rezervări",
+        "noBookingsDesc": "Începe să explorezi hoteluri pentru a face prima rezervare",
+        "savedHotelsSection": "Hoteluri salvate",
+        "noSavedHotels": "Încă nu există hoteluri salvate",
+        "noSavedHotelsDesc": "Salvează hotelurile care îți plac pentru a le găsi ușor mai târziu"
+      }
+    },
+    "bookings": {
+      "title": "Rezervările mele",
+      "noBookings": "Nu s-au găsit rezervări",
+      "noBookingsDesc": "Nu ai făcut încă nicio rezervare. Începe să explorezi hotelurile noastre!",
+      "loading": "Se încarcă rezervările...",
+      "viewDetails": "Vezi detalii",
+      "leaveReview": "Lasă recenzie",
+      "status": {
+        "confirmed": "Confirmată",
+        "pending": "În așteptare",
+        "cancelled": "Anulată", 
+        "completed": "Finalizată"
+      }
+    },
+    "getThreeNights": {
+      "title": "Obține trei nopți",
+      "subtitle": "Învață cum să câștigi nopți gratuite prin programul nostru de fidelitate."
+    },
+    "becomeAmbassador": {
+      "title": "Devino ambasador",
+      "subtitle": "Alătură-te programului nostru de ambasadori și începe să câștigi recompense.",
+      "agreementRequired": "Acord necesar",
+      "agreementMessage": "Te rugăm să confirmi interesul tău pentru a deveni ambasador."
+    },
+    "history": {
+      "title": "Istoric",
+      "subtitle": "Vezi istoricul complet al călătoriilor și rezervările anterioare.",
+      "loading": "Se încarcă istoricul...",
+      "noHistory": "Fără istoric de șederi",
+      "noHistoryDesc": "Nu ai încă șederi anterioare.",
+      "errorLoading": "Eroare la încărcarea istoricului de șederi",
+      "errorDescription": "Nu am putut să încărcăm istoricul tău de șederi. Te rugăm să încerci din nou mai târziu."
+    },
+    "payments": {
+      "title": "Plăți",
+      "subtitle": "Gestionează metodele de plată și vezi istoricul tranzacțiilor."
+    },
+    "profile": {
+      "title": "Profil",
+      "subtitle": "Actualizează informațiile personale și preferințele de călătorie."
+    },
+    "getThreeNights": {
+      "programTitle": "Programul Trei Nopți Gratuite",
+      "programDescription": "Programul nostru de Trei Nopți Gratuite te recompensează pentru că ne ajuți să dezvoltăm comunitatea Hotel-Living. Pentru fiecare hotel pe care îl introduci personal pe platforma noastră și care se înscrie în 15 zile, vei câștiga trei nopți gratuite.",
+      "howItWorks": "Cum funcționează:",
+      "step1": "Recomandă hoteluri pe care le iubești și prezintă-le personal la Hotel-Living",
+      "step2": "Hotelul trebuie să se înregistreze pe platforma noastră în termen de 15 zile calendaristice de la referința ta",
+      "step3": "Odată verificat, vei primi credite pentru trei nopți gratuite",
+      "step4": "Folosește nopțile tale gratuite la orice hotel participant de pe platforma noastră",
+      "additionalInfo": "Acest program recompensează conexiunile și referințele tale personale. Fereastra de 15 zile asigură înregistrări în timp util. Nu există limită pentru câte hoteluri poți recomanda sau câte nopți gratuite poți câștiga!",
+      "benefit1": "Câștigă trei nopți gratuite pentru referințe de succes",
+      "benefit2": "Fără limită pentru câte hoteluri poți recomanda",
+      "benefit3": "Ajută hotelurile tale preferate să câștige vizibilitate",
+      "benefit4": "Bucură-te de sejururi gratuite la proprietăți excepționale"
+    },
+    "becomeAmbassador": {
+      "applicationTitle": "Aplicație Ambasador",
+      "name": "Nume",
+      "email": "Email",
+      "additionalMessage": "Mesaj Adițional (Opțional)",
+      "placeholder": "Spune-ne de ce ai vrea să devii ambasador sau orice experiență relevantă...",
+      "interestMessage": "Sunt interesrat să devin ambasador și aș vrea să fiu contactat despre această oportunitate.",
+      "submitApplication": "Trimite Aplicația",
+      "applicationSubmitted": "Aplicație Trimisă",
+      "applicationSuccess": "Aplicația ta de ambasador a fost trimisă cu succes. Te vom contacta în curând!",
+      "submissionFailed": "Trimiterea a eșuat",
+      "submissionError": "A fost o eroare la trimiterea aplicației tale. Te rugăm să încerci din nou."
+    },
+    "upcomingStay": {
+      "title": "Următoarea Ședere",
+      "noUpcomingStays": "Fără șederi viitoare",
+      "noUpcomingStaysDesc": "Rezervă următoarea ta experiență hotelieră tematică.",
+      "browseHotels": "Explorează hoteluri",
+      "viewDetails": "Vezi detalii",
+      "contactHotel": "Contactează hotelul",
+      "checkIn": "Check-in",
+      "checkOut": "Check-out",
+      "duration": "Durata",
+      "days": "zile"
+    },
+    "savedHotels": {
+      "noSavedHotels": "Fără hoteluri salvate",
+      "noSavedHotelsDesc": "Nu ai salvat încă niciun hotel.",
+      "browseHotels": "Explorează hoteluri"
+    }
+  }
+}

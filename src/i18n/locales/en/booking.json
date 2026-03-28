@@ -1,0 +1,81 @@
+{
+  "booking": {
+    "title": "Book Your Stay",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Guests",
+    "rooms": "Rooms",
+    "adults": "Adults",
+    "children": "Children",
+    "bookNow": "Book Now",
+    "totalPrice": "Total Price",
+    "pricePerNight": "per night",
+    "selectDates": "Select your dates",
+    "selectGuests": "Select guests",
+    "availability": "Availability",
+    "noAvailability": "No availability for selected dates",
+    "modifySearch": "Modify search",
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled",
+      "completed": "Completed"
+    },
+    "actions": {
+      "modify": "Modify Booking",
+      "cancel": "Cancel Booking",
+      "confirmCancel": "Are you sure you want to cancel this booking? This action cannot be undone.",
+      "confirmModify": "Save changes to this booking?",
+      "modifying": "Modifying...",
+      "cancelling": "Cancelling..."
+    },
+    "messages": {
+      "cancelSuccess": "Booking cancelled successfully",
+      "cancelError": "Failed to cancel booking",
+      "modifySuccess": "Booking modified successfully",
+      "modifyError": "Failed to modify booking",
+      "cannotModify": "This booking cannot be modified",
+      "cannotCancel": "This booking cannot be cancelled"
+    },
+    "modify": {
+      "title": "Modify Booking",
+      "newCheckIn": "New Check-in Date",
+      "newCheckOut": "New Check-out Date",
+      "save": "Save Changes",
+      "cancel": "Cancel Changes"
+    },
+    "roomUsage": "Room Usage",
+    "singleRoom": "Single Room",
+    "doubleRoom": "Double Room",
+    "singleOccupancy": "Single occupancy (1 guest)",
+    "doubleOccupancy": "Double occupancy (2 guests)",
+    "pricePerPerson": "Price per person",
+    "reserve": "Reserve",
+    "reservePackage": "Reserve Package",
+    "packageBooking": "Package Booking",
+    "paymentOnArrival": "Payment will be required on arrival or via Hotel Living once the payment gateway is activated."
+  },
+  "weeklyCheckIn": "Weekly Check-In/Out Day",
+  "meals": "Meals",
+  "roomType": "Room Type",
+  "tariffsPerPerson": "TARIFFS PER PERSON",
+  "bookingConfirmed": "Booking Confirmed",
+  "and": "and",
+  "bookYourStay": "Book Your Stay",
+  "checkInDate": "Check-in Date",
+  "stayDuration": "Stay Duration",
+  "completeBooking": "Complete Booking",
+  "priceDisplay": {
+    "pricingInfo": "Pricing Information",
+    "perPersonPerNight": "per person per night",
+    "totalPrice": "Total Price",
+    "notAvailable": "Prices Not Available",
+    "contactRates": "Contact us for rates",
+    "takeAdvantage": "Take Advantage!",
+    "smartPricing": "Smart Pricing System",
+    "selectDates": "Select dates to see pricing",
+    "priceIncludes": "Price includes",
+    "taxes": "taxes",
+    "fees": "fees"
+  }
+}

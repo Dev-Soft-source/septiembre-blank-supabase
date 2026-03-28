@@ -1,0 +1,44 @@
+
+{
+  "ourValues": {
+    "title": "Our Values and Standards",
+    "respect": {
+      "title": "Respect",
+      "content": "We demand respect in the interactions between our employees, customers, and partners. We do not accept any form of harassment, discrimination, manipulation, physical violence, or any other abusive or threatening behavior."
+    },
+    "community": {
+      "title": "Community",
+      "content": "When staying at an accommodation or using other Hotel-Living.com services, we ask that you consider the local community. Try to limit or minimize noise that might disturb the neighborhood, respect local laws and traditions, and be mindful of your impact on the environment."
+    },
+    "integrity": {
+      "title": "Integrity",
+      "content": "At Hotel-Living.com, we expect our partners and customers to interact through our platform with honesty and professionalism, not to misrepresent themselves, and to respect the agreements they reach."
+    },
+    "compliance": {
+      "title": "Compliance with the Law",
+      "content": "Hotel-Living.com does not tolerate theft, vandalism, criminal activities, or extortion. Any type of illegal or dangerous activity may result in the blocking of the account or accommodation."
+    },
+    "safety": {
+      "title": "Physical Safety",
+      "content": "At Hotel-Living.com, the physical safety of our customers, partners, and employees is our priority. Therefore, we ask you not to participate in or promote activities that may cause harm to others or be considered animal cruelty."
+    },
+    "personalInfo": {
+      "title": "Personal Information",
+      "content": "Hotel-Living.com does not allow its partners or affiliates to use the personal data of third parties in ways that violate our agreement or applicable law."
+    },
+    "recordings": {
+      "title": "Audio and Video Recordings",
+      "points": [
+        "When providing services to Hotel-Living.com or using its services, be mindful of others' personal space, privacy, and belongings. If you are staying at a hotel or someone's home, respect the accommodation and house rules.",
+        "If an accommodation installs cameras, they must only be placed in common areas, positioned where they can be seen, and customers must be informed before their stay."
+      ]
+    },
+    "privacy": {
+      "title": "Privacy",
+      "points": [
+        "At Hotel-Living.com, we are committed to providing the best possible experience to those who use our travel services. This means we take privacy very seriously and are committed to protecting and safeguarding it in accordance with our Privacy Policy and Cookies and applicable law.",
+        "The security of your data is important to us. That's why, at Hotel-Living.com, we protect your personal data and credit card information in accordance with applicable law, including GDPR and the Payment Card Industry Data Security Standards (PCI DSS)."
+      ]
+    }
+  }
+}

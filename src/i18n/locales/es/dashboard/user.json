@@ -1,0 +1,139 @@
+{
+  "userDashboard": {
+    "title": "PANEL DE USUARIO",
+    "navigation": {
+      "dashboard": "Dashboard",
+      "bookings": "Reservas",
+      "threeNights": "Obtener Tres Noches",
+      "becomeAmbassador": "Ser Embajador",
+      "history": "Historial",
+      "payments": "Pagos",
+      "profile": "Perfil"
+    },
+    "help": {
+      "needHelp": "¿Necesitas Ayuda?",
+      "supportDescription": "Nuestro equipo de soporte está disponible 24/7 para ayudarte con cualquier pregunta.",
+      "contactSupport": "Contactar Soporte"
+    },
+    "actions": {
+      "logOut": "Cerrar Sesión"
+    },
+    "dashboard": {
+      "stats": {
+        "totalBookings": "Reservas Totales",
+        "savedHotels": "Hoteles Guardados",
+        "reviewsWritten": "Reseñas Escritas", 
+        "freeNights": "Noches Gratis"
+      },
+      "welcome": {
+        "title": "¡Bienvenido a Hotel-Living!",
+        "subtitle": "Descubre hoteles increíbles adaptados a tus preferencias. Actualiza tus afinidades en tu perfil para obtener recomendaciones personalizadas.",
+        "expertWelcome": "¡Bienvenido de vuelta, Experto de Hotel-Living! Descubre nuevos destinos y disfruta de características exclusivas."
+      },
+      "quickActions": {
+        "title": "Acciones Rápidas",
+        "browseHotels": "Explorar Hoteles",
+        "browseHotelsDesc": "Descubre lugares increíbles para hospedarte.",
+        "myBookings": "Mis Reservas",
+        "myBookingsDesc": "Ve y gestiona tus reservaciones.",
+        "savedHotels": "Hoteles Guardados", 
+        "savedHotelsDesc": "Ve tus propiedades favoritas.",
+        "writeReview": "Escribir Reseña",
+        "writeReviewDesc": "Comparte tu experiencia con otros."
+      },
+      "recentActivity": {
+        "recentBookings": "Reservas Recientes",
+        "noBookings": "Aún no hay reservas",
+        "noBookingsDesc": "Comienza explorando hoteles para hacer tu primera reserva",
+        "savedHotelsSection": "Hoteles Guardados",
+        "noSavedHotels": "Aún no hay hoteles guardados",
+        "noSavedHotelsDesc": "Guarda hoteles que te gusten para encontrarlos fácilmente más tarde"
+      }
+    },
+    "bookings": {
+      "title": "Mis Reservas",
+      "noBookings": "No se encontraron reservas",
+      "noBookingsDesc": "Aún no has hecho ninguna reserva. ¡Empieza explorando nuestros hoteles!",
+      "loading": "Cargando reservas...",
+      "viewDetails": "Ver Detalles",
+      "leaveReview": "Dejar Reseña",
+      "status": {
+        "confirmed": "Confirmada", 
+        "pending": "Pendiente",
+        "cancelled": "Cancelada",
+        "completed": "Completada"
+      }
+    },
+    "getThreeNights": {
+      "title": "Obtener Tres Noches",
+      "subtitle": "Aprende cómo ganar noches gratis a través de nuestro programa de lealtad."
+    },
+    "becomeAmbassador": {
+      "title": "Ser Embajador",
+      "subtitle": "Únete a nuestro programa de embajadores y comienza a ganar recompensas.",
+      "agreementRequired": "Acuerdo Requerido",
+      "agreementMessage": "Por favor confirma tu interés en convertirte en embajador."
+    },
+    "history": {
+      "title": "Historial",
+      "subtitle": "Ve tu historial completo de viajes y reservas pasadas.",
+      "loading": "Cargando historial...",
+      "noHistory": "Sin historial de estadías",
+      "noHistoryDesc": "Aún no tienes estadías pasadas.",
+      "errorLoading": "Error cargando historial de estadías",
+      "errorDescription": "No pudimos cargar tu historial de estadías. Por favor intenta de nuevo más tarde."
+    },
+    "payments": {
+      "title": "Pagos", 
+      "subtitle": "Gestiona tus métodos de pago y ve el historial de transacciones."
+    },
+    "profile": {
+      "title": "Perfil",
+      "subtitle": "Actualiza tu información personal y preferencias de viaje."
+    },
+    "getThreeNights": {
+      "programTitle": "Programa Tres Noches Gratis",
+      "programDescription": "Nuestro programa de Tres Noches Gratis te recompensa por ayudarnos a hacer crecer la comunidad Hotel-Living. Por cada hotel que introduzcas personalmente a nuestra plataforma y se una dentro de 15 días, ganarás tres noches gratis.",
+      "howItWorks": "Cómo funciona:",
+      "step1": "Recomienda hoteles que ames e introdúcelos personalmente a Hotel-Living",
+      "step2": "El hotel debe registrarse en nuestra plataforma dentro de 15 días calendario desde tu referencia",
+      "step3": "Una vez verificado, recibirás créditos por tres noches gratis",
+      "step4": "Canjea tus noches gratis en cualquier hotel participante de nuestra plataforma",
+      "additionalInfo": "Este programa recompensa tus conexiones personales y referencias. La ventana de 15 días asegura registros oportunos. ¡No hay límite en cuántos hoteles puedes referir o cuántas noches gratis puedes ganar!",
+      "benefit1": "Gana tres noches gratis por referencias exitosas",
+      "benefit2": "Sin límite en cuántos hoteles puedes referir",
+      "benefit3": "Ayuda a tus hoteles favoritos a ganar exposición",
+      "benefit4": "Disfruta estadías gratis en propiedades excepcionales"
+    },
+    "becomeAmbassador": {
+      "applicationTitle": "Solicitud de Embajador",
+      "name": "Nombre",
+      "email": "Correo",
+      "additionalMessage": "Mensaje Adicional (Opcional)",
+      "placeholder": "Cuéntanos por qué te gustaría ser embajador o cualquier experiencia relevante...",
+      "interestMessage": "Estoy interesado en convertirme en embajador y me gustaría ser contactado sobre esta oportunidad.",
+      "submitApplication": "Enviar Solicitud",
+      "applicationSubmitted": "Solicitud Enviada",
+      "applicationSuccess": "Tu solicitud de embajador ha sido enviada exitosamente. ¡Te contactaremos pronto!",
+      "submissionFailed": "Envío Falló",
+      "submissionError": "Hubo un error enviando tu solicitud. Por favor intenta de nuevo."
+    },
+    "upcomingStay": {
+      "title": "Próxima Estadía",
+      "noUpcomingStays": "Sin próximas estadías",
+      "noUpcomingStaysDesc": "Reserva tu próxima experiencia hotelera temática.",
+      "browseHotels": "Explorar Hoteles",
+      "viewDetails": "Ver Detalles",
+      "contactHotel": "Contactar Hotel",
+      "checkIn": "Check-in",
+      "checkOut": "Check-out",
+      "duration": "Duración",
+      "days": "días"
+    },
+    "savedHotels": {
+      "noSavedHotels": "Sin hoteles guardados",
+      "noSavedHotelsDesc": "Aún no has guardado ningún hotel.",
+      "browseHotels": "Explorar Hoteles"
+    }
+  }
+}

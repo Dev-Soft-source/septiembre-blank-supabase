@@ -1,0 +1,50 @@
+{
+  "dashboard": {
+    "propertyForm": {
+      "title": "Información de Propiedad",
+      "basicInfo": "Información Básica",
+      "hotelName": "Nombre del Hotel",
+      "hotelNamePlaceholder": "Ingrese el nombre de su hotel",
+      "totalRooms": "Total de Habitaciones",
+      "totalRoomsPlaceholder": "Ingrese el número total de habitaciones",
+      "propertyType": "Tipo de Propiedad",
+      "hotelCategory": "Categoría del Hotel",
+      "description": "Descripción",
+      "descriptionPlaceholder": "Describa su propiedad...",
+      "shortDescription": "Descripción Corta",
+      "longDescription": "Descripción Detallada",
+      "features": "Características",
+      "amenities": "Comodidades",
+      "services": "Servicios",
+      "accessibility": "Características de Accesibilidad",
+      "validation": {
+        "required": "Este campo es obligatorio",
+        "minLength": "La longitud mínima es {min} caracteres",
+        "maxLength": "La longitud máxima es {max} caracteres",
+        "invalidFormat": "Formato inválido",
+        "invalidEmail": "Dirección de correo electrónico inválida",
+        "invalidPhone": "Número de teléfono inválido",
+        "invalidUrl": "Formato de URL inválido"
+      },
+      "errors": {
+        "submitFailed": "Falló el envío de información de la propiedad",
+        "loadFailed": "Falló la carga de datos de la propiedad",
+        "saveFailed": "Falló guardar los cambios",
+        "devModeUserCreationFailed": "Error al crear usuario de desarrollo para el registro",
+        "foreignKeyConstraint": "Error de restricción de base de datos. Los datos se han guardado localmente para reintento."
+      },
+      "selectPropertyStyle": "Seleccionar Estilo de Propiedad",
+      "styleOfProperty": "ESTILO DE PROPIEDAD",
+      "propertyStyles": {
+        "classic": "Clásico",
+        "classicElegant": "Clásico Elegante",
+        "modern": "Moderno",
+        "fusion": "Fusión",
+        "urban": "Urbano",
+        "rural": "Rural",
+        "minimalist": "Minimalista",
+        "luxury": "Lujo"
+      }
+    }
+  }
+}

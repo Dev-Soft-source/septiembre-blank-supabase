@@ -1,0 +1,17 @@
+{
+  "fallbackAssociation": "Estimada Asociación",
+  "greeting": "Estimada {{associationName}}",
+  "question": "¿Cuánto dinero pierden cada año ustedes y sus hoteles por tantos miles de habitaciones vacías?",
+  "calculatorTitle": "Calculadora Integrada",
+  "resultsTitle": "RESULTADOS INSTANTÁNEOS",
+  "societyChanged": {
+    "title": "LA SOCIEDAD HA CAMBIADO. NUESTRO MODELO NO.",
+    "content": [
+      "Las grandes cadenas hoteleras (Hyatt, Marriott, Hilton, Accor, IHG, Radisson y muchas más) hace ya años que están rentabilizando y ampliando el nuevo modelo social que nuestra sociedad va imponiendo: las estancias residenciales en hoteles, de media y larga duración.",
+      "¿SÓLO PARA LAS GRANDES CADENAS HOTELERAS?",
+      "No. Gracias a Hotel-Living.com centenares de miles de hoteles independientes pueden comenzar a cobrar ya los inmensos beneficios de este modelo.",
+      "Y aun más: nuestro modelo ofrece herramientas únicas diseñadas especialmente para los hoteles independientes, que otorga beneficios aun mayores frente a las grandes cadenas."
+    ]
+  },
+  "joinButton": "Únase sin compromiso"
+}

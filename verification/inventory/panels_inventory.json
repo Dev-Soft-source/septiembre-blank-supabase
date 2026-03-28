@@ -1,0 +1,44 @@
+{
+  "panels": [
+    {
+      "role": "user",
+      "route": "/dashboard",
+      "features": [
+        {
+          "feature_id": "free_nights_banner",
+          "component": "FreeNightsCard | equivalent",
+          "eligibility": "has free_nights_rewards where owner_type='user' and status='available'",
+          "data_source": {"table": "free_nights_rewards", "endpoint": "/rewards/me"},
+          "texts": {"en": "Three Free Nights Available", "es": "Tres noches gratis disponibles", "pt": "Três noites grátis disponíveis", "ro": "Trei nopți gratuite disponibile"}
+        }
+      ]
+    },
+    {
+      "role": "hotel_owner",
+      "route": "/hotel-dashboard",
+      "features": [
+        {
+          "feature_id": "free_nights_banner",
+          "component": "FreeNightsCard | equivalent",
+          "eligibility": "has free_nights_rewards where owner_type='hotel' and status='available'",
+          "data_source": {"table": "free_nights_rewards", "endpoint": "/rewards/me"},
+          "texts": {"en": "Three Free Nights Available", "es": "Tres noches gratis disponibles", "pt": "Três noites grátis disponíveis", "ro": "Trei nopți gratuite disponibile"}
+        }
+      ]
+    },
+    {
+      "role": "admin",
+      "route": "/admin",
+      "features": [
+        {
+          "feature_id": "commission_audit",
+          "component": "AdminCommissionAuditView",
+          "eligibility": "admin",
+          "data_source": {"table": "commission_audit", "endpoint": "/admin/commissions/audit"},
+          "texts": {"en": "Commission Audit", "es": "Auditoría de comisiones", "pt": "Auditoria de comissões", "ro": "Audit de comisioane"}
+        }
+      ]
+    }
+  ],
+  "notes": ["Preliminary inventory based on current codebase and spec; to be expanded in subsequent passes."]
+}

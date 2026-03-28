@@ -1,0 +1,85 @@
+
+{
+  "dashboard": {
+    "ratesCalculator": {
+      "utilities": "UTILITIES",
+      "cleaning": "CLEANING", 
+      "meals": "MEALS",
+      "utilitiesContent": {
+        "title": "**PREDICTABILITY – RESPONSIBILITY – EFFICIENCY**",
+        "hotelLivingGuests": "⚙️ HOTEL-LIVING GUESTS ARE NOT TRANSIENT TOURISTS",
+        "respectfulResidents": "They are respectful long-stay residents who remain for 8, 16, 24 or 32 days.",
+        "smarterGuests": "🌿 SMARTER GUESTS, SMARTER RESOURCE USE",
+        "consciousUse": "Due to the longer duration of stays and the more personal relationship they establish with your property, these guests tend to be more conscious in their use of resources.",
+        "temporaryTenants": "They feel more like temporary tenants than short-stay visitors — and that makes all the difference.",
+        "utilityConsumption": "⚡ UTILITY CONSUMPTION IS LOWER AND MORE STABLE",
+        "energyEfficiency": "💡 ENERGY EFFICIENCY SYSTEMS (such as LED lighting and moderate climate control) are even more effective",
+        "feelingAtHome": "🌱 FEELING AT HOME, guests naturally adopt more conservative habits",
+        "sharedResponsibility": "💜 A SENSE OF SHARED RESPONSIBILITY",
+        "accessibleRates": "Since Hotel-Living offers accessible rates, guests are usually aware and respectful of the opportunity they are given.",
+        "balanceAndCare": "They know this model depends on balance, care and sustainability — and most act accordingly.",
+        "optimizedOperations": "🔄 OPTIMIZED OPERATIONS = OPTIMIZED CONSUMPTION",
+        "lowerTurnover": "Thanks to lower room turnover and simplified cleaning protocols, utility usage remains constant and optimized, with fewer peaks in electricity or water demand."
+      },
+      "cleaningContent": {
+        "title": "**HOME-STYLE CLEANING – LONG-TERM COMFORT**",
+        "newStandard": "🧼 HOTEL-LIVING MEANS A NEW HOSPITALITY STANDARD",
+        "feelsLikeHome": "🏡 ONE THAT FEELS MORE LIKE HOME.",
+        "approachDescription": "Unlike traditional hotels with daily cleaning, our approach reflects the pace of real life.",
+        "lightHelp": "Just like someone living at home might receive light help a few times a week, our guests enjoy attentive and discreet care that respects their independence and comfort.",
+        "completeCleaning": "🧹 COMPLETE CLEANING — ONCE A WEEK",
+        "completeCleaningDesc": "A complete room cleaning every 7 days ensures hygiene and freshness, with minimal intrusion.",
+        "lightRefresh": "🔄 LIGHT DAILY REFRESH (ON REQUEST)",
+        "lightRefreshDesc": "Small optional touch-ups — 🗑️ trash removal, 🧺 light tidying, 🌬️ ventilation — are available, respecting privacy and lifestyle.",
+        "beddingChange": "🛏️ BEDDING CHANGE — EVERY 5 DAYS",
+        "beddingChangeDesc": "Sheets and towels are renewed regularly, following home comfort standards.",
+        "operationalBenefits": "💼 OPERATIONAL BENEFITS",
+        "benefitsDescription": "This model reduces operational costs for hotels, while offering guests a residential experience:",
+        "fewerInterruptions": "• Fewer interruptions",
+        "morePrivacy": "• More privacy",
+        "feelingBelonging": "• The feeling of truly belonging — not just staying."
+      },
+      "mealsContent": {
+        "title": "THE HOTEL-LIVING MEALS MODEL: SIMPLE, HEALTHY, HOME-STYLE",
+        "luxuryException": "Except in luxury hotels, high-end boutiques or short 8-day stays focused on gastronomy or culinary experiences, Hotel-Living is not based on gourmet cooking or luxurious buffets.",
+        "comfortBased": "In most cases, the Hotel-Living experience is based on comfort, simplicity and sustainability.",
+        "notForLuxury": "Our guests are not here for luxury.",
+        "residents": "They are not tourists. They are long-stay residents looking for a reliable, healthy and affordable meal routine — something that resembles real life at home.",
+        "foodModelTitle": "🔧 THAT'S WHY OUR FOOD MODEL IS:",
+        "balanced": "✅ 🥗 Balanced, home-style and easy to prepare",
+        "moderation": "✅ 🍎 Designed for moderation and wellness, not excess",
+        "compatible": "✅ 👨‍🍳 Compatible with your hotel's existing kitchen and staff",
+        "lowWaste": "✅ ♻️ Low waste and low cost — without sacrificing quality or care",
+        "flexibleMeals": "🍳 FLEXIBLE MEAL PLANS",
+        "mealPlansDesc": "Whether you offer breakfast only or full board, Hotel-Living meal plans are designed for:",
+        "consistency": "• 🧘 Consistency",
+        "comfort": "• 🏡 Comfort",
+        "satisfaction": "• 🙂 Guest satisfaction — not culinary exhibitions.",
+        "operationalAdvantages": "💼 OPERATIONAL ADVANTAGES:",
+        "lowerComplexity": "🧑‍🍳 Lower operational complexity",
+        "predictableCosts": "🧾 Predictable costs and portion control",
+        "relaxedDining": "😊 A relaxed and familiar dining experience that your guests truly value",
+        "budgetBenefits": "📊 BUDGET AND PLANNING BENEFITS:",
+        "advanceBookings": "Since all bookings are made in advance and with fixed duration:",
+        "knowGuests": "✅ 📅 You will know exactly how many guests are coming — and for how long.",
+        "zeroWaste": "✅ 🚫 Food waste can reach practically zero.",
+        "kitchenStrategy": "🔁 SIMPLE AND EFFICIENT KITCHEN STRATEGY:",
+        "strategyDesc": "For simple kitchens, there is a proven and profitable strategy:",
+        "rotatingMenus": "🔄 ROTATING WEEKLY MENUS",
+        "fixedMenus": "Where each day of the week has a fixed menu that can be repeated weekly, allowing:",
+        "bulkPurchasing": "• 🛒 Bulk purchasing",
+        "simplifiedPrep": "• 🍳 Simplified preparation",
+        "costReduction": "• 💰 Additional cost reduction",
+        "result": "🔑 THE RESULT:",
+        "hotelSaves": "🏨 Your hotel saves",
+        "guestsAtHome": "🏡 Your guests feel at home",
+        "scalableExperience": "🌍 And the entire experience becomes scalable, sustainable and deeply human."
+      },
+      
+      "buildYourModel": {
+        "title": "Build Your Model",
+        "description": "Customize rates and calculate profits for your specific hotel needs."
+      }
+    }
+  }
+}

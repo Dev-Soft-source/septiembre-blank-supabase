@@ -1,0 +1,30 @@
+
+{
+  "contact": {
+    "title": "Contact Us",
+    "welcomeMessage": {
+      "listening": "We're here to listen.",
+      "feelFree": "Feel free to reach out to us at",
+      "loveToHear": "— we'd love to hear from you."
+    },
+    "form": {
+      "departmentInstruction": "Please select one of the following areas to ensure your message reaches the right team:",
+      "departments": {
+        "customerService": "Customer Service",
+        "technicalSupport": "Technical Support",
+        "pressMedia": "Press & Media", 
+        "businessPartnerships": "Business Partnerships",
+        "otherInquiries": "Other Inquiries"
+      },
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "department": "Department",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you for your message! We'll get back to you soon.",
+      "error": "Sorry, there was an error sending your message. Please try again.",
+      "emailDestination": "Your message will be sent to:"
+    }
+  }
+}

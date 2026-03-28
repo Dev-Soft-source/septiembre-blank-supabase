@@ -1,0 +1,16 @@
+{
+  "hotel": "hotel",
+  "and": "and",
+  "location": "Location",
+  "highlights": {
+    "propertyStyle": "This {{type}} is {{style}} style",
+    "stayDuration": "Offers stays of {{days}} days",
+    "mealPlanIncluded": "With {{plan}} included",
+    "laundryIncluded": "Laundry service included",
+    "laundryAvailable": "Laundry service available",
+    "monthlyPrice": "Monthly price USD {{price}}",
+    "clientAffinities": "Ideal for those who enjoy {{affinities}}",
+    "perfectActivitySingle": "Perfect for {{activities}}",
+    "perfectActivityPlural": "Perfect for {{activities}}"
+  }
+}

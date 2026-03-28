@@ -1,0 +1,24 @@
+{
+  "requestGroupLeader": {
+    "title": "Por que solicitar um Líder de Grupo?",
+    "subtitle": "O Líder de Grupo é essencial para o sucesso do seu hotel",
+    "benefit1": "Eles trazem clientes para o seu hotel",
+    "benefit2": "Eles organizam atividades para os hóspedes",
+    "benefit3": "Eles cuidam do grupo o dia todo",
+    "benefit4": "Eles atuam como o elo único entre os hóspedes e o hotel",
+    "commission": "Comissão:",
+    "commissionText": "O Líder só trabalha com base num bônus de 5%: inicialmente para cobrir as suas próprias despesas, e uma vez cobertas, o restante é um bônus em dinheiro.",
+    "formTitle": "Solicitar um Líder de Grupo",
+    "formDescription": "Preencha o formulário abaixo para solicitar um líder de grupo para o seu hotel",
+    "affinity": "Afinidade",
+    "affinityPlaceholder": "ex., MAR, Tecnologia, Artes",
+    "dates": "Datas Solicitadas",
+    "datesPlaceholder": "ex., Junho, Julho, Agosto 2024",
+    "rooms": "Número de Quartos Solicitados",
+    "roomsPlaceholder": "ex., 40",
+    "email": "Endereço de Email de Contacto",
+    "emailPlaceholder": "seu.email@exemplo.com",
+    "submitting": "Enviando...",
+    "submit": "Enviar Solicitação"
+  }
+}

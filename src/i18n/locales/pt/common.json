@@ -1,0 +1,26 @@
+
+{
+  "intro": {
+    "welcome": "A REVOLUÇÃO\nCHEGOU",
+    "tagline": "VIVA AO MÁXIMO!",
+    "experience": "ESQUEÇA AS\nTAREFAS DOMÉSTICAS",
+    "style": "VIVA EM HOTÉIS\nO ANO TODO",
+    "community": "DESFRUTE DO ESTILO\nQUE MERECE",
+    "people": "CERQUE-SE DE PESSOAS\nCOM A MESMA ENERGIA",
+    "passion": "FAÇA DE SUAS PAIXÕES\nSUA VIDA DIÁRIA"
+  },
+  "noHotelsInCountry": {
+    "title": "Precisamos de hotéis neste país",
+    "description": "Conhece um ótimo hotel aqui? Ajude-nos a crescer! Você pode recomendar seus hotéis favoritos diretamente do seu painel de usuário e entraremos em contato com eles para enviar nossos clientes.",
+    "recommendButton": "Recomendar um hotel"
+  },
+  "noHotelsAvailable": {
+    "caseA": "Temos alta demanda para este país, mas ainda não temos nenhum hotel disponível. Pode participar ativamente:",
+    "caseB": "Seu critério de busca (\"{criterio}\") não retornou resultados e temos alta demanda para este tipo de hotel. Pode participar ativamente ajudando-nos a incorporá-los:",
+    "promoterLink": "Torne-se um Promotor Hotel-Living",
+    "ambassadorLink": "Torne-se um Embaixador Hotel-Living",
+    "promoterBenefit": "(obtenha benefícios mensais passivos)",
+    "or": "ou"
+  },
+  "liveVisitors": "{{count}} pessoas estão visualizando agora"
+}

@@ -1,0 +1,235 @@
+
+{
+  "dashboard": {
+    "quickGuide": "Guia Rápido",
+    "autoSave": {
+      "success": "Salvo automaticamente",
+      "error": "Erro no salvamento automático",
+      "draftSaved": "Rascunho salvo automaticamente",
+      "draftSaveFailed": "Falha ao salvar rascunho",
+      "saving": "Salvando...",
+      "savedAt": "Salvo {time}",
+      "justNow": "agora mesmo",
+      "minutesAgo": "há {minutes}m",
+      "draftLoaded": "Rascunho Carregado",
+      "draftLoadedDescription": "Seu trabalho anterior foi restaurado"
+    },
+    "addProperty2Title": "Adicionar Propriedade 2",
+    "title": "Painel de controle",
+    "welcome": "Bem-vindo",
+    "overview": "Visão geral",
+    "statistics": "Estatísticas",
+    "recentActivity": "Atividade recente",
+    "quickActions": "Ações rápidas",
+    "notifications": "Notificações",
+    "profile": "Perfil",
+    "account": "Conta",
+    "welcomeOverview": "Visão geral de boas-vindas",
+    "calculateModel": "CALCULAR MODELO",
+    "ratesAndProfits": "TARIFAS E LUCROS",
+    "properties": "Propriedades",
+    "advertising": "Publicidade",
+    "bookings": "Reservas",
+    "guests": "Hóspedes",
+    "adminMessages": "Mensagens do admin",
+    "finances": "Finanças",
+    "reviews": "Avaliações",
+    "analytics": "Análises",
+    "settings": "Configurações",
+    "standardEconomicModel": "CRIE SEU PRÓPRIO MODELO HOTEL-LIVING",
+    "costsAndProfits": "Estadias Longas\n=\nCustos Reduzidos",
+    "buildOwnModel": "Construa Seu Próprio Modelo Hotel Living",
+    "costs": "CUSTOS",
+    "profits": "LUCROS",
+    "selectAll": "Selecionar tudo",
+    "deselectAll": "Desmarcar tudo",
+    "hotelManagement": "GESTÃO HOTELEIRA",
+    "logOut": "Sair",
+    "needHelp": "Precisa de ajuda?",
+    "supportDescription": "Nossa equipe de suporte está disponível 24/7 para ajudá-lo com quaisquer dúvidas.",
+    "contactSupport": "Contatar suporte",
+    "totalBookings": "Total de reservas",
+    "revenue": "Receita",
+    "avgRating": "Avaliação média",
+    "welcomeToHotelLiving": "Bem-vindo ao Hotel-Living!",
+    "welcomeMessage": "Comece adicionando sua primeira propriedade ou explorando os recursos do painel.",
+    "addPropertyAction": "Adicionar propriedade",
+    "addPropertyDescription": "Liste sua primeira propriedade no Hotel-Living",
+    "viewBookings": "Ver reservas",
+    "viewBookingsDescription": "Gerencie reservas atuais e futuras",
+    "viewAnalytics": "Ver análises",
+    "viewAnalyticsDescription": "Acompanhe o desempenho e insights",
+    "manageReviews": "Gerenciar avaliações",
+    "manageReviewsDescription": "Responda às avaliações e feedback dos hóspedes",
+    "recentReviews": "Avaliações recentes",
+    "noReviews": "Ainda não há avaliações",
+    "noReviewsMessage": "As avaliações dos hóspedes aparecerão aqui",
+    "recentBookings": "Reservas recentes",
+    "noBookings": "Ainda não há reservas",
+    "noBookingsMessage": "As reservas para sua propriedade aparecerão aqui",
+    "guestManagement": "Gestão de Hóspedes",
+    "noGuestData": "Ainda não há dados de hóspedes",
+    "messagesFromAdmin": "Mensagens do Administrador",
+    "noMessagesYet": "Ainda não há mensagens",
+    "noMessagesMessage": "Você ainda não recebeu mensagens do administrador da plataforma.",
+    "financialOverview": "Resumo Financeiro",
+    "financialDataMessage": "Seus dados financeiros e histórico de transações aparecerão aqui assim que você tiver reservas.",
+    "checkinOut": "Check-in/Check-out",
+    "autoPriceIncrease": "Aumento Automático de Preço",
+    "checkinOutPolicy": "Política de Check-in/Check-out",
+    "checkInOutPolicy": "Política de Check-in/Check-out",
+    "advertising": {
+      "title": "Publicidade e Promoção"
+    },
+    "images": {
+      "limitReached": "Limite de Imagens Atingido",
+      "maxImagesAllowed": "Máximo {max} imagens permitidas por propriedade",
+      "uploadRateLimitReached": "Limite de Upload",
+      "tooManyUploadsPerMinute": "Muitos uploads. Máximo {max} uploads por minuto",
+      "fileTooLarge": "{fileName} é muito grande. Máximo {maxSize}MB permitido",
+      "invalidFileType": "{fileName} não é um arquivo de imagem válido",
+      "imagesCount": "Imagens: {current}/{max}",
+      "remainingUploads": "Uploads restantes neste minuto: {remaining}",
+      "maxFileSize": "Tamanho máximo: {size}MB",
+      "selectedFiles": "Arquivos Selecionados",
+      "uploading": "Enviando...",
+      "uploadPhotos": "Enviar Fotos",
+      "uploadedPhotos": "Fotos Enviadas",
+      "mainImage": "Principal",
+      "selectMainImage": "Selecionar imagem principal"
+    },
+    "validation": {
+      "hotelNameRequired": "Nome do hotel é obrigatório",
+      "categoryRequired": "Categoria é obrigatória",
+      "propertyTypeRequired": "Tipo de propriedade é obrigatório",
+      "descriptionRequired": "Descrição é obrigatória",
+      "descriptionTooShort": "Descrição deve ter pelo menos 50 caracteres",
+      "countryRequired": "País é obrigatório",
+      "cityRequired": "Cidade é obrigatória",
+      "invalidEmail": "Formato de email inválido",
+      "invalidPhone": "Formato de telefone inválido",
+      "invalidLatitude": "Latitude deve estar entre -90 e 90",
+      "invalidLongitude": "Longitude deve estar entre -180 e 180",
+      "imagesRequired": "Pelo menos uma imagem do hotel é obrigatória",
+      "themesRequired": "Pelo menos um tema deve ser selecionado",
+      "activitiesRequired": "Pelo menos uma atividade deve ser selecionada",
+      "roomTypesRequired": "Pelo menos um tipo de quarto deve ser definido"
+    },
+    "cancelEditing": "Cancelar Edição",
+    "avatar": {
+      "upload": "Enviar Avatar",
+      "uploading": "Enviando...",
+      "uploadSuccess": "Avatar enviado com sucesso",
+      "uploadError": "Erro ao enviar avatar",
+      "remove": "Remover Avatar",
+      "removeSuccess": "Avatar removido com sucesso",
+      "removeError": "Erro ao remover avatar",
+      "fileTooLarge": "Arquivo muito grande. Máximo 5MB permitido",
+      "invalidFormat": "Formato de arquivo inválido. Apenas JPG, PNG e WEBP são permitidos",
+      "dimensionsRecommendation": "Dimensões recomendadas: 512x512px"
+    },
+    "preferences": {
+      "title": "Preferências",
+      "notifications": "Preferências de Notificação",
+      "notificationBookings": "Notificações de reservas",
+      "notificationMessages": "Notificações de mensagens",
+      "notificationPromotions": "Notificações promocionais",
+      "affinities": "Minhas Afinidades",
+      "saveSuccess": "Preferências salvas com sucesso",
+      "saveError": "Erro ao salvar preferências"
+    },
+    "referrals": {
+      "title": "Indicar Hotéis – Ganhar Comissões",
+      "description": "Convide hotéis para se juntarem ao Hotel-Living e ganhe comissões para cada reserva ativa que eles receberem.",
+      "hotelSubmission": "Submissão de hotel",
+      "country": "País",
+      "city": "Cidade",
+      "hotelName": "Nome do hotel",
+      "addAnother": "Adicionar outro hotel",
+      "paymentInfo": "Informações de Pagamento",
+      "paymentInfoDescription": "Para receber suas comissões, forneça seus dados bancários.",
+      "fullName": "Nome completo",
+      "bankName": "Nome do banco",
+      "bankCountry": "País do banco",
+      "ibanAccount": "IBAN / Número da conta",
+      "swiftBic": "Código SWIFT / BIC",
+      "submittedHotels": "Hotéis que você submeteu",
+      "remove": "Remover",
+      "confirmRemove": "Tem certeza de que deseja remover este hotel?",
+      "successMessage": "Obrigado! Sua submissão foi recebida.",
+      "errorMessage": "Houve um erro ao enviar o formulário. Tente novamente.",
+      "validation": {
+        "fullNameRequired": "Nome completo é obrigatório",
+        "bankNameRequired": "Nome do banco é obrigatório",
+        "bankCountryRequired": "País do banco é obrigatório",
+        "ibanRequired": "IBAN ou número da conta é obrigatório",
+        "hotelNameRequired": "Nome do hotel é obrigatório",
+        "hotelsRequired": "Pelo menos um hotel deve ser submetido"
+      }
+    },
+    "tabs": {
+      "dashboard": "Dashboard",
+      "experience": "Experience", 
+      "bookings": "Bookings",
+      "history": "History",
+      "saved": "Hotéis Salvos",
+      "payments": "Payments",
+      "getThreeNights": "Get Three Nights",
+      "becomeAmbassador": "Become Ambassador",
+      "profile": "Profile",
+      "settings": "Settings",
+      "notifications": "Notifications"
+    },
+    "guide": {
+      "tabTitle": "Guia Rápido",
+      "section1": {
+        "title": "COMBINE OS DOIS SISTEMAS",
+        "content": [
+          "Tradicional → continue preenchendo quartos pelo maior preço possível.",
+          "Hotel-Living → preencha o restante dos quartos, tradicionalmente vazios em determinados momentos do ano, com estadias longas rentáveis.",
+          "Objetivo: eliminar perdas e multiplicar lucros."
+        ]
+      },
+      "section2": {
+        "title": "IDENTIFIQUE O NÚMERO DE QUARTOS TRADICIONALMENTE VAZIOS",
+        "content": [
+          "Localize a qualquer momento do ano quartos livres por pelo menos 7 noites consecutivas.",
+          "Verifique sua disponibilidade para pacotes de 8, 15, 22 e 29 dias."
+        ]
+      },
+      "section3": {
+        "title": "DECIDA SEU DIA ÚNICO SEMANAL PARA ENTRADAS E SAÍDAS",
+        "content": [
+          "Otimize o trabalho da equipe e elimine lacunas desnecessárias."
+        ]
+      },
+      "section4": {
+        "title": "DECIDA SUAS MELHORES AFINIDADES E ATIVIDADES",
+        "content": [
+          "Selecione que tipo de clientes você deseja atrair com base nas características do hotel ou da área.",
+          "Não é necessário organizar nada: clientes com interesses comuns se conhecerão e interagirão.",
+          "DICA: Em hotéis grandes pode ser conveniente organizar atividades.",
+          "DICA: É possível listar atividades próximas gerenciadas por terceiros."
+        ]
+      },
+      "section5": {
+        "title": "DECIDA SEU PLANO DE REFEIÇÕES",
+        "content": [
+          "Se necessário, você pode colaborar com um restaurante próximo e terceirizar o serviço de lavanderia semanal."
+        ]
+      },
+      "section6": {
+        "title": "USE NOSSA CALCULADORA DE MODELO HOTEL-LIVING",
+        "content": [
+          "Baixe o arquivo Excel do seu painel e verifique tarifas, serviços e lucros em minutos."
+        ]
+      },
+      "section7": {
+        "title": "CARREGUE AS INFORMAÇÕES NO PORTAL",
+        "content": [
+          "Crie e gerencie seus Pacotes de Disponibilidade do seu painel de Hotel."
+        ]
+      }
+    }
+  }
+}

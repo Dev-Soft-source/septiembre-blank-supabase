@@ -1,0 +1,7 @@
+
+{
+  "scripts": {
+    "extract-texts": "node scripts/extract-texts.js",
+    "scan-texts": "npx i18next-scanner --config i18next-scanner.config.js"
+  }
+}

@@ -1,0 +1,13 @@
+
+{
+  "dashboard": {
+    "affinities": "2.1- AFINIDADES",
+    "affinitiesDescription": "Faça seu hotel se destacar da concorrência incorporando afinidades grupais para atrair seus hóspedes mais adequados e afins",
+    "moreInformation": "Mais informações",
+    "activities": "2.2- ATIVIDADES",
+    "hotelFeatures": "2.3- SERVIÇOS DO HOTEL",
+    "roomFeatures": "2.4- SERVIÇOS DOS QUARTOS",
+    "selectAll": "Selecionar Tudo",
+    "deselectAll": "Desmarcar Tudo"
+  }
+}

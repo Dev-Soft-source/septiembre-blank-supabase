@@ -1,0 +1,17 @@
+{
+  "fallbackAssociation": "Dear Association",
+  "greeting": "Dear {{associationName}}",
+  "question": "How much money do you and your hotels lose each year from so many thousands of empty rooms?",
+  "calculatorTitle": "Integrated Calculator",
+  "resultsTitle": "INSTANT RESULTS",
+  "societyChanged": {
+    "title": "SOCIETY HAS CHANGED. OUR MODEL HAS NOT.",
+    "content": [
+      "As is well known, the major hotel chains (Hyatt, Marriott, Hilton, Accor, IHG, Radisson and many more) have been monetizing and expanding for years the new social model that our society is imposing: residential stays in hotels, of medium and long duration.",
+      "ONLY FOR THE BIG HOTEL CHAINS?",
+      "No. Thanks to Hotel-Living.com, hundreds of thousands of independent hotels can now start collecting the immense benefits of this model.",
+      "And even more: our model offers unique tools designed especially for independent hotels, which grants even greater benefits compared to the big chains."
+    ]
+  },
+  "joinButton": "Join without commitment"
+}

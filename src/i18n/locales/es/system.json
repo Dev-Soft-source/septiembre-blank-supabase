@@ -1,0 +1,41 @@
+{
+  "console": {
+    "userNotDetected": "Usuario autenticado no detectado",
+    "redirectingBasedOnRole": "Redirigiendo basado en el rol",
+    "logoutButtonClicked": "Botón de cierre de sesión presionado",
+    "logoutSuccessful": "Cierre de sesión exitoso", 
+    "errorDuringLogout": "Error durante el cierre de sesión",
+    "errorFetching": "Error al obtener",
+    "errorCreating": "Error al crear",
+    "errorDeleting": "Error al eliminar",
+    "errorUpdating": "Error al actualizar",
+    "processingData": "Procesando datos",
+    "dataFetched": "Datos obtenidos exitosamente"
+  },
+  "validation": {
+    "error": "Error",
+    "required": "Requerido",
+    "invalid": "Inválido",
+    "fieldRequired": "Este campo es requerido",
+    "invalidEmail": "Formato de email inválido",
+    "passwordTooShort": "Contraseña muy corta",
+    "passwordMismatch": "Las contraseñas no coinciden"
+  },
+  "location": {
+    "notSpecified": "Ubicación no especificada",
+    "cityCountry": "{{city}}, {{country}}"
+  },
+  "pricing": {
+    "onRequest": "Precio bajo consulta",
+    "perMonth": "por mes",
+    "from": "Desde",
+    "currency": "EUR"
+  },
+  "state": {
+    "loading": "Cargando...",
+    "noItems": "No hay elementos para mostrar",
+    "noOptions": "No se encontraron opciones",
+    "noResults": "No se encontraron resultados",
+    "tryAgain": "Por favor, inténtalo de nuevo"
+  }
+}

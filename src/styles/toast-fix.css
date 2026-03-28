@@ -1,0 +1,55 @@
+/* CRITICAL TOAST STYLING OVERRIDE - BRAND COMPLIANCE */
+.toaster {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 9999;
+}
+
+.toast {
+  background-color: #7E26A6 !important; /* Brand Purple */
+  color: #FFFFFF !important; /* White text for contrast */
+  border: 1px solid rgba(126, 38, 166, 0.3) !important;
+  box-shadow: 0 4px 12px rgba(126, 38, 166, 0.3) !important;
+}
+
+.toast[data-type="error"], 
+.toast[data-variant="destructive"] {
+  background-color: #DC2626 !important; /* Red for errors */
+  color: #FFFFFF !important;
+  border-color: rgba(220, 38, 38, 0.3) !important;
+}
+
+.toast[data-type="success"] {
+  background-color: #059669 !important; /* Green for success */
+  color: #FFFFFF !important;
+  border-color: rgba(5, 150, 105, 0.3) !important;
+}
+
+.toast[data-type="warning"] {
+  background-color: #D97706 !important; /* Orange for warnings */
+  color: #FFFFFF !important;
+  border-color: rgba(217, 119, 6, 0.3) !important;
+}
+
+/* Ensure toast titles and descriptions have proper contrast */
+.toast .toast-title {
+  color: #FFFFFF !important;
+  font-weight: 600;
+}
+
+.toast .toast-description {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+/* Toast close button styling */
+.toast .toast-close {
+  color: rgba(255, 255, 255, 0.8) !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.toast .toast-close:hover {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  color: #FFFFFF !important;
+}

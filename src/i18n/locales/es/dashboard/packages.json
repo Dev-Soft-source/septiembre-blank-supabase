@@ -1,0 +1,54 @@
+{
+  "packageManager": {
+    "title": "Gestión de Paquetes de Disponibilidad",
+    "description": "Gestiona los paquetes de disponibilidad de tu hotel con sincronización en tiempo real",
+    "addPackage": "Agregar Paquete",
+    "editPackage": "Editar Paquete",
+    "deletePackage": "Eliminar Paquete",
+    "packageCreated": "Paquete creado exitosamente",
+    "packageUpdated": "Paquete actualizado exitosamente",
+    "packageDeleted": "Paquete eliminado exitosamente",
+    "createPackageTitle": "Crear Nuevo Paquete de Disponibilidad",
+    "editPackageTitle": "Editar Paquete de Disponibilidad",
+    "deleteConfirmTitle": "Eliminar Paquete",
+    "deleteConfirmMessage": "¿Estás seguro de que quieres eliminar este paquete? Esta acción no se puede deshacer.",
+    "startDate": "Fecha de Inicio",
+    "endDate": "Fecha de Fin",
+    "duration": "Duración (Días)",
+    "totalRooms": "Habitaciones Totales",
+    "availableRooms": "Habitaciones Disponibles",
+    "status": "Estado",
+    "actions": "Acciones",
+    "noPackages": "No se encontraron paquetes de disponibilidad",
+    "createFirstPackage": "Crea tu primer paquete de disponibilidad para comenzar a aceptar reservas",
+    "validation": {
+      "startDateRequired": "La fecha de inicio es obligatoria",
+      "endDateRequired": "La fecha de fin es obligatoria",
+      "pastDate": "La fecha de inicio no puede estar en el pasado",
+      "endDateBeforeStart": "La fecha de fin debe ser posterior a la fecha de inicio",
+      "invalidWeekday": "La fecha de inicio debe coincidir con el día de check-in de tu hotel",
+      "roomsMinimum": "Se requiere al menos 1 habitación",
+      "roomsMaximum": "Máximo 100 habitaciones permitidas",
+      "invalidDuration": "La duración debe ser de 8, 15, 22 o 29 días",
+      "dateOverlap": "Las fechas del paquete se superponen con paquetes existentes",
+      "cannotReduceRooms": "No se pueden reducir las habitaciones por debajo del número ya reservado"
+    },
+    "status": {
+      "active": "Activo",
+      "upcoming": "Próximo",
+      "past": "Pasado",
+      "available": "Disponible",
+      "soldOut": "Agotado"
+    },
+    "rules": {
+      "title": "Reglas de Gestión de Paquetes",
+      "noOverlap": "Los paquetes no pueden superponerse en fechas",
+      "fixedDurations": "La duración debe ser de 8, 15, 22 o 29 días",
+      "weekdayRestriction": "El día de check-in debe coincidir con el día preferido del hotel",
+      "bookingRestrictions": "Los paquetes con reservas no pueden editarse o eliminarse",
+      "deleteRestriction": "Solo se pueden eliminar paquetes futuros sin reservas",
+      "roomIncrease": "El número de habitaciones solo puede aumentarse si hay reservas activas",
+      "realTimeSync": "Todos los cambios se sincronizan en tiempo real en toda la plataforma"
+    }
+  }
+}

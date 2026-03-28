@@ -1,0 +1,130 @@
+{
+  "navigation": {
+    "home": "Início",
+    "hotels": "Hotéis",
+    "hotelGroups": "GRUPOS\nHOTELEIROS",
+    "dashboard": "Painel",
+    "login": "Entrar",
+    "logout": "Sair",
+    "signup": "Juntar-se",
+    "profile": "Perfil",
+    "settings": "Configurações",
+    "bookings": "Reservas",
+    "admin": "Admin",
+    "language": "Idioma",
+    "help": "Ajuda",
+    "faq": "Vantagens",
+    "contact": "Contato",
+    "videos": "Vídeos",
+    "ourLeaders": "Nossos Líderes",
+    "featuredHotels": "Hotéis Destaque",
+    "affinityStays": "Estadias por Afinidade",
+    "register": "Registrar",
+    "aboutUs": "Sobre Nós",
+    "press": "Imprensa",
+    "dashboards": {
+      "admin": "Painel Admin",
+      "hotel": "Painel Hotel",
+      "association": "Painel Associação",
+      "promoter": "Painel Promotor",
+      "agent": "Painel Agente",
+      "user": "Painel Usuário",
+      "groupLeader": "Líder de Grupo"
+    },
+    "menuRoles": {
+      "user": "Usuário",
+      "hotel": "Hotel",
+      "groupLeader": "Líder de Grupo",
+      "promoterLocal": "Promotor Local",
+      "association": "Associação"
+    }
+  },
+  "panelLabels": {
+    "user": "Painel – Usuário",
+    "hotel": "Painel – Hotel",
+    "admin": "Painel – Admin",
+    "association": "Dashboard – Associação",
+    "promoter": "Painel – Promotor"
+  },
+  "mainNavigationContent": {
+    "faq": {
+      "line1": "CLIENTES",
+      "line2": "HOTEL LIVING",
+      "mobile": "CLIENTES HOTEL LIVING"
+    },
+    "affinityStays": {
+      "line1": "AFINIDADES",
+      "line2": "HOTEL-LIVING™",
+      "mobile": "AFINIDADES HOTEL-LIVING™"
+    },
+    "videos": {
+      "line1": "VÍDEOS",
+      "line2": "E IMPRENSA",
+      "mobile": "VÍDEOS E IMPRENSA"
+    },
+    "ambassador": {
+      "line1": "CRESÇA",
+      "line2": "CONOSCO",
+      "mobile": "CRESÇA CONOSCO"
+    },
+    "frequentQuestions": {
+      "line1": "PERGUNTAS",
+      "line2": "FREQUENTES",
+      "mobile": "PERGUNTAS FREQUENTES"
+    },
+    "signup": {
+      "line1": "ABRIR\nCONTA",
+      "line2": "",
+      "mobile": "ABRIR CONTA"
+    },
+    "login": {
+      "line1": "FAZER\nLOGIN",
+      "line2": "",
+      "mobile": "FAZER LOGIN"
+    },
+    "hotel": {
+      "line1": "HOTEL?",
+      "line2": "",
+      "mobile": "HOTEL?"
+    },
+    "featuredHotels": "HOTÉIS DESTAQUE",
+    "hotelDashboard": "Painel Hotel",
+    "adminDashboard": "Painel Admin",
+    "logout": "Sair",
+    "press": {
+      "line1": "IMPRENSA",
+      "line2": "",
+      "mobile": "IMPRENSA"
+    },
+    "growWithUs": {
+      "ambassador": "Embaixador",
+      "localPromoter": "Promotor Local"
+    },
+    "videosAndPress": {
+      "videos": "Vídeos",
+      "press": "Imprensa"
+    },
+    "mobileMenu": {
+      "aboutUs": "SOBRE NÓS",
+      "legal": "LEGAL",
+      "ourTeam": "EQUIPE",
+      "ourValues": "VALORES",
+      "ourServices": "SERVIÇOS",
+      "customerService": "ATENDIMENTO AO CLIENTE",
+      "contact": "CONTATO",
+      "intellectualProperty": "PROPRIEDADE INTELECTUAL",
+      "termsAndConditions": "TERMOS E CONDIÇÕES",
+      "privacyAndCookies": "PRIVACIDADE E COOKIES"
+    },
+    "mobileSimple": {
+      "customers": "CLIENTES",
+      "affinities": "AFINIDADES",
+      "press": "IMPRENSA",
+      "videos": "VÍDEOS",
+      "groupLeader": "LÍDER DE GRUPO",
+      "ambassador": "EMBAIXADOR",
+      "promoter": "PROMOTOR",
+      "hotel": "HOTEL?"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Painel de Associação",
+  "subtitle": "Gerencie seus hotéis e comissões",
+  "logoutButton": "Sair",
+  "tabs": {
+    "registeredHotels": "Hotéis Registrados",
+    "commissions": "Comissões",
+    "suggestedLetter": "Carta Sugerida",
+    "analytics": "Análises",
+    "calculadora": "Calculadora",
+    "myData": "Meus Dados",
+    "foundingAssociation": "Associação Fundadora"
+  },
+  "analytics": {
+    "totalBookings": "Total de Reservas",
+    "commissions": "Comissões",
+    "activeHotels": "Hotéis Ativos",
+    "growth": "Crescimento",
+    "monthlyPerformance": "Desempenho Mensal",
+    "hotelPerformance": "Desempenho por Hotel",
+    "bookings": "reservas",
+    "months": {
+      "jan": "Jan",
+      "feb": "Fev",
+      "mar": "Mar",
+      "apr": "Abr",
+      "may": "Mai",
+      "jun": "Jun"
+    }
+  },
+  "commissions": {
+    "totalCommissions": "Total de Comissões",
+    "thisMonth": "Este Mês",
+    "bookings": "Reservas",
+    "history": "Histórico de Comissões",
+    "noCommissions": "Nenhuma comissão registrada ainda",
+    "paid": "Pago",
+    "bookingDate": "Data da reserva"
+  },
+  "hotels": {
+    "uploadHotelList": "Carregar Lista de Hotéis",
+    "dragDropCsv": "Arraste um arquivo CSV aqui ou clique para selecionar",
+    "expectedFormat": "Formato esperado: hotel_name, city, contact_email",
+    "selectCsvFile": "Selecionar arquivo CSV",
+    "pasteCsvData": "Ou cole os dados CSV diretamente:",
+    "processData": "Processar Dados",
+    "provideCsvData": "Por favor, forneça dados CSV para processar",
+    "processingCsvData": "Processando dados CSV..."
+  },
+  "foundingAssociation": {
+    "title": "Associação Fundadora",
+    "description": "Torne-se uma Associação Fundadora da Hotel Living. Ao dizer Sim, beneficiará de publicidade gratuita no nosso portal e do reconhecimento público, bem como dos benefícios correspondentes a uma entidade fundadora no nosso projeto.",
+    "no": "Não",
+    "yes": "Sim",
+    "notificationSent": "Notificação enviada com sucesso",
+    "notificationError": "Erro ao enviar notificação"
+  }
+}

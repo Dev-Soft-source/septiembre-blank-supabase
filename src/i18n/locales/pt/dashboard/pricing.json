@@ -1,0 +1,13 @@
+
+{
+  "dashboard": {
+    "packagesAndRates": "PACOTES E TARIFAS",
+    "defineRoomTypesStayDurations": "Por favor, defina os tipos de quarto, durações de estadia e regimes de refeições na Etapa 3 antes de estabelecer preços.",
+    "enableDynamicPricing": "ATIVAR PREÇO DINÂMICO BASEADO EM NOITES VENDIDAS",
+    "maximumPriceIncrease": "AUMENTO MÁXIMO DO PREÇO",
+    "maxPriceIncreaseDescription": "Esta é a porcentagem máxima que os preços podem aumentar devido à demanda.",
+    "howDynamicPricingWorks": "Como funciona o preço dinâmico",
+    "priceIncreaseDescription": "O preço aumenta 1% para cada X noites vendidas em um mês, onde X é calculado como:",
+    "priceIncreaseExample": "Por exemplo, com 30 quartos × 30 dias = 900 noites totais e um aumento máximo de {percent}%, o preço aumentaria 1% para cada {nights} noites vendidas."
+  }
+}

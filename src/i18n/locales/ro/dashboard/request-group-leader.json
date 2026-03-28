@@ -1,0 +1,24 @@
+{
+  "requestGroupLeader": {
+    "title": "De ce să soliciți un Lider de Grup?",
+    "subtitle": "Liderul de Grup este esențial pentru succesul hotelului tău",
+    "benefit1": "Ei aduc clienți la hotelul tău",
+    "benefit2": "Ei organizează activități pentru oaspeți",
+    "benefit3": "Ei au grijă de grup toată ziua",
+    "benefit4": "Ei acționează ca legătura unică între oaspeți și hotel",
+    "commission": "Comision:",
+    "commissionText": "Liderul lucrează doar pe baza unui bonus de 5%: inițial pentru a-și acoperi propriile cheltuieli, iar odată acoperite, restul este un bonus în numerar.",
+    "formTitle": "Solicită un Lider de Grup",
+    "formDescription": "Completează formularul de mai jos pentru a solicita un lider de grup pentru hotelul tău",
+    "affinity": "Afinitate",
+    "affinityPlaceholder": "ex., MARE, Tehnologie, Arte",
+    "dates": "Datele Solicitate",
+    "datesPlaceholder": "ex., Iunie, Iulie, August 2024",
+    "rooms": "Numărul de Camere Solicitate",
+    "roomsPlaceholder": "ex., 40",
+    "email": "Adresa de Email de Contact",
+    "emailPlaceholder": "email.tau@exemplu.com",
+    "submitting": "Se trimite...",
+    "submit": "Trimite Solicitarea"
+  }
+}

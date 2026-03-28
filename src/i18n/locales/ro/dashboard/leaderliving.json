@@ -1,0 +1,180 @@
+{
+  "title": "Panou Lider de Grup",
+  "tabs": {
+    "presentation": "Prezentare",
+    "presentationDesc": "Bun venit și prezentare generală",
+    "myGroups": "Grupurile Mele",
+    "myGroupsDesc": "Gestionează grupurile tale",
+    "proposeGroup": "Propune Grup Nou",
+    "proposeGroupDesc": "Creează propuneri de grup",
+    "publicPage": "Pagina Mea Publică",
+    "publicPageDesc": "Profilul tău public",
+    "hotelProposals": "Propuneri de Hoteluri",
+    "hotelProposalsDesc": "Vezi ofertele hotelurilor",
+    "finances": "Finanțele Mele",
+    "financesDesc": "Urmărește câștigurile",
+    "myData": "Datele Mele",
+    "myDataDesc": "Setări profil"
+  },
+  "hotelProposals": {
+    "title": "Propuneri de Hoteluri",
+    "noProposals": "Nu există încă propuneri de hoteluri",
+    "noProposalsDesc": "Hotelurile îți vor trimite propuneri pentru șederi de grup aici",
+    "fields": {
+      "hotelName": "Numele Hotelului",
+      "city": "Oraș",
+      "affinity": "Afinitate",
+      "proposedDates": "Datele Propuse",
+      "availableRooms": "Camere Disponibile",
+      "hotelPage": "Pagina Hotelului"
+    }
+  },
+  "finances": {
+    "title": "Finanțele Mele",
+    "totalEarned": "Total Câștigat",
+    "pendingPayment": "Plată în Așteptare",
+    "totalPaid": "Total Plătit",
+    "paymentHistory": "Istoricul Plăților",
+    "noPayments": "Nu este disponibil niciun istoric de plăți"
+  },
+  "myData": {
+    "title": "Datele Profilului Meu",
+    "updateProfile": "Actualizează informațiile profilului tău",
+    "comingSoon": "Această funcție va fi disponibilă în curând"
+  },
+  "publicPage": {
+    "title": "Pagina Mea Publică",
+    "description": "Vezi profilul tău public de lider"
+  },
+  "welcome": {
+    "title": "🎉 Ești pregătit pentru o viață nouă?",
+    "subtitle": "Poți începe să locuiești în hoteluri, să organizezi șederi cu persoane care gândesc la fel și să generezi venituri doar prin partajarea stilului tău de viață. Tu stabilești limita. Călătorește, creează-ți grupul, partajează-ți energia și transformă-ți modul de a trăi.",
+    "personalCode": "Cod personal",
+    "copyCode": "Copiază codul meu",
+    "shareMessage": "Partajează acest cod cu persoanele pe care le inviți. Activează beneficiile lor speciale și bonusurile tale."
+  },
+  "myGroup": {
+    "title": "Grupul Meu",
+    "groupSummary": {
+      "title": "Rezumatul Grupului",
+      "linkedHotel": "Hotel asociat",
+      "affinity": "Afinitate",
+      "noHotel": "Niciun hotel asociat",
+      "noAffinity": "Nicio afinitate definită"
+    },
+    "invitedPeople": {
+      "title": "Persoane invitate",
+      "name": "Nume complet",
+      "status": "Status",
+      "comment": "Comentariu",
+      "pending": "În așteptare",
+      "confirmed": "Confirmat",
+      "addPerson": "Adaugă persoană",
+      "save": "Salvează",
+      "cancel": "Anulează",
+      "edit": "Editează",
+      "delete": "Șterge"
+    },
+    "confirmedReservations": {
+      "title": "Rezervări confirmate",
+      "guestName": "Oaspete",
+      "hotel": "Hotel",
+      "stayDates": "Datele șederii",
+      "codeUsed": "Cod folosit",
+      "status": "Status",
+      "confirmed": "Confirmat",
+      "cancelled": "Anulat",
+      "pending": "În așteptare",
+      "yes": "Da",
+      "no": "Nu"
+    },
+    "accumulatedBonuses": {
+      "title": "Bonusuri acumulate",
+      "total": "Total",
+      "breakdown": "Defalcare",
+      "name": "Nume",
+      "amount": "Sumă",
+      "status": "Status",
+      "paid": "Plătit",
+      "pending": "În așteptare",
+      "bonusNote": "Bonusurile se completează doar când clientul plătește diferența de 85% la hotel"
+    }
+  },
+  "myGroups": {
+    "title": "Grupurile Mele",
+    "groupName": "Numele Grupului",
+    "affinity": "Afinitate",
+    "hotel": "Hotel",
+    "dates": "Datele Grupului",
+    "members": "Persoane care s-au alăturat grupului",
+    "memberName": "Nume",
+    "stayData": "Date Ședere",
+    "memberStatus": "Status",
+    "memberComments": "Comentarii",
+    "joined": "Alăturat",
+    "pending": "În așteptare",
+    "noGroups": "Niciun grup creat încă",
+    "proposeGroup": {
+      "title": "Propune un Grup Nou",
+      "groupTopic": "Tema grupului",
+      "proposedHotel": "Hotel propus",
+      "submit": "Trimite la Hotel Living"
+    }
+  },
+  "publicPage": {
+    "link": "Pagina Mea Publică"
+  },
+  "leaderTools": {
+    "title": "Instrumentele Liderului",
+    "editProfile": {
+      "title": "Editează profilul",
+      "name": "Nume",
+      "languages": "Limbi",
+      "bio": "Biografie",
+      "affinity": "Afinitate (opțional)",
+      "save": "Salvează modificările",
+      "cancel": "Anulează"
+    },
+    "createGroup": {
+      "title": "Creează sau propune un grup",
+      "groupName": "Numele grupului",
+      "affinity": "Afinitate (opțional)",
+      "hotel": "Hotel",
+      "selectHotel": "Selectează hotelul",
+      "saveProposal": "Salvează propunerea"
+    },
+    "helpSupport": {
+      "title": "Ajutor și Suport",
+      "faqs": "Întrebări frecvente Lider de Grup",
+      "chatWithMaria": "Chat automat cu Maria",
+      "supportForm": "Formular de suport",
+      "yourName": "Numele tău",
+      "yourEmail": "Email-ul tău",
+      "message": "Mesaj",
+      "send": "Trimite"
+    }
+  },
+  "quickActions": {
+    "title": "Acțiuni Rapide",
+    "invitePeople": "Invită persoane",
+    "inviteMessage": "Alătură-te grupului meu la Hotel Living. Poți alege 8, 15, 22 sau 29 de zile la hotelul pe care l-am ales. Folosește acest cod: {code} pentru a primi beneficii speciale și pentru a împărtăși această experiență cu mine.",
+    "hotelLink": "Vezi pagina hotelului",
+    "leaderProfile": "Profilul meu public"
+  },
+  "footer": {
+    "message": "Cu cât se alătură mai multe persoane, cu atât mai mare va fi bonusul tău."
+  },
+  "actions": {
+    "logOut": "Deconectare"
+  },
+  "notifications": {
+    "codeCopied": "Cod copiat în clipboard",
+    "inviteMessageCopied": "Mesaj de invitație copiat",
+    "profileUpdated": "Profil actualizat cu succes",
+    "groupCreated": "Grup creat cu succes",
+    "supportMessageSent": "Mesaj de suport trimis",
+    "personAdded": "Persoană adăugată cu succes",
+    "personUpdated": "Persoană actualizată cu succes",
+    "personDeleted": "Persoană ștearsă cu succes"
+  }
+}

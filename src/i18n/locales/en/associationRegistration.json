@@ -1,0 +1,46 @@
+{
+  "title": "Association Registration",
+  "subtitle": "Register your association to access the management panel",
+  "form": {
+    "associationName": "Association Name",
+    "associationNamePlaceholder": "E.g., Maritime Association",
+    "responsiblePersonName": "Full name of responsible person",
+    "email": "Email",
+    "emailPlaceholder": "email@association.com",
+    "password": "Password",
+    "passwordPlaceholder": "Create a password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "country": "Country",
+    "countryPlaceholder": "Select your country",
+    "submitButton": "Register Association",
+    "submittingButton": "Registering..."
+  },
+  "countries": {
+    "Argentina": "Argentina",
+    "Brasil": "Brazil",
+    "Chile": "Chile",
+    "Colombia": "Colombia",
+    "España": "Spain",
+    "México": "Mexico",
+    "Perú": "Peru",
+    "Uruguay": "Uruguay",
+    "Otro": "Other"
+  },
+  "validation": {
+    "requiredFields": "Please complete all required fields",
+    "passwordSecurity": "Password does not meet security requirements",
+    "passwordMismatch": "Passwords do not match",
+    "emailExists": "This email is already registered. Please use a different email or sign in.",
+    "registrationError": "Registration error",
+    "userCreationError": "Error creating user account",
+    "associationCreationError": "Error registering association",
+    "emailError": "Registration successful, but there was an issue sending the confirmation email. Please contact support.",
+    "emailSendError": "Registration successful, but confirmation email could not be sent. Please contact support.",
+    "generalError": "Error during registration. Please try again."
+  },
+  "success": {
+    "emailSent": "Registration successful! We have sent a confirmation email to your address.",
+    "completed": "Registration completed! Check your email to confirm your account and access the association panel."
+  }
+}

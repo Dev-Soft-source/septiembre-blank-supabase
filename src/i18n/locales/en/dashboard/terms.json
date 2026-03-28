@@ -1,0 +1,28 @@
+
+{
+  "dashboard": {
+    "terms": {
+      "title": "Terms & Conditions",
+      "hotelTerms": "Hotel Terms",
+      "bookingTerms": "Booking Terms",
+      "cancellationTerms": "Cancellation Terms",
+      "paymentTerms": "Payment Terms",
+      "houseRules": "House Rules",
+      "policies": "Policies",
+      "liability": "Liability",
+      "privacy": "Privacy Policy",
+      "dataProtection": "Data Protection",
+      "termsOfService": "Terms of Service",
+      "userAgreement": "User Agreement",
+      "disclaimer": "Disclaimer",
+      "copyright": "Copyright",
+      "intellectualProperty": "Intellectual Property",
+      "disputes": "Dispute Resolution",
+      "governingLaw": "Governing Law",
+      "severability": "Severability",
+      "amendments": "Amendments",
+      "effectiveDate": "Effective Date",
+      "lastUpdated": "Last Updated"
+    }
+  }
+}

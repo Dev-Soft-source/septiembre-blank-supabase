@@ -1,0 +1,102 @@
+{
+  "header": {
+    "line1": "EL FUTURO YA ESTÁ AQUÍ",
+    "line2": "Vivir en y entre hoteles, disfrutando de una gran vida social, ya es posible para todos.",
+    "line3": "…y se convierte en una nueva forma de vida"
+  },
+  "introduction": {
+    "paragraph1": "Hotel-Living.com, creada en EE.UU., propone un modelo revolucionario: transformar las habitaciones vacías de hoteles en oportunidades de vida. Con estancias de 8, 15, 22 o 29 días, ofrece a los viajeros libertad y comunidad, y a los hoteles un beneficio inmediato. Una alternativa clara frente a Airbnb y Booking.",
+    "stats": [
+      "+5.000 millones de noches de hotel vacías en el mundo cada año.",
+      "Hasta 12.000M USD de beneficios potenciales anuales.",
+      "Enfoque internacional global"
+    ],
+    "quotes": [
+      "Airbnb y Booking se enfocan en noches sueltas; Hotel Living crea estancias largas con sentido.",
+      "Hotel-Living.com: la plataforma que convierte estancias largas en negocio para hoteles y libertad para viajeros",
+      "La revolución no es viajar, es quedarse: vivir entre hoteles es la nueva alternativa habitacional.",
+      "Startup global transforma habitaciones vacías de hotel en un nuevo estilo de vida",
+      "La revolución del turismo prolongado: vivir entre hoteles como alternativa a Airbnb",
+      "No es turismo, es un nuevo modo de vida: vivir en hoteles sin tareas del hogar ni soledad.",
+      "De las pérdidas a beneficios: un sistema creado en EE.UU. llena habitaciones vacías en todo el mundo",
+      "Más de 500 millones de viajeros potenciales buscan libertad y comunidad en lugar de alquileres."
+    ]
+  },
+  "video": {
+    "title": "Video de Comunicado de Prensa",
+    "placeholder": "R8u7a3bYTJQ"
+  },
+  "pressKit": {
+    "title": "Descargar material de prensa",
+    "buttons": {
+      "english": "English",
+      "spanish": "Español"
+    }
+  },
+  "headlines": {
+    "title": "Titulares Destacados",
+    "items": [
+      "Hilton lanza LivSmart Studios: más de 300 hoteles pensados para vivir estancias de 20 noches o más",
+      "El mercado de extended-stay crecerá de $62.800M a $143.200M antes de 2034",
+      "Marriott, Hyatt y Wyndham compiten por liderar el segmento con sus nuevas marcas",
+      "Miles de jubilados, teletrabajadores y nómadas digitales eligen hoteles como hogar permanente",
+      "Los hoteles extended-stay logran mayor ocupación con menos personal y más rentabilidad",
+      "The Social Hub, Hoxton y Soho House mezclan hotel, coworking y comunidad: el nuevo modelo híbrido",
+      "En Hong Kong, hoteles tradicionales se transforman en coliving para asegurar rentabilidad estable",
+      "El diseño hotelero evoluciona: habitaciones convertidas en espacios para vivir, trabajar y socializar"
+    ]
+  },
+  "keyFigures": {
+    "title": "Cifras Clave",
+    "items": [
+      "+232,000 noches extended-stay añadidas en EE.UU. en 2024",
+      "+50% crecimiento en el portafolio extended-stay entre las principales cadenas hoteleras en la última década",
+      "+200 hoteles ECHO anunciados por Wyndham",
+      "$9,31 → costo promedio de mano de obra por habitación ocupada en hoteles extended-stay",
+      "$20,34 → equivalente en hoteles tradicionales",
+      "2,038 habitaciones de hotel convertidas a coliving en Hong Kong",
+      "+60% de Millennials y Gen Z prefieren estadías flexibles con servicios incluidos"
+    ]
+  },
+  "brands": {
+    "title": "Marcas Hoteleras",
+    "major": ["Hilton", "Marriott", "Hyatt", "Wyndham", "Accor", "WaterWalk"],
+    "specialized": ["The Manner", "The Social Hub", "StudioRes", "Gaiastays", "Echo", "LivSmart"]
+  },
+  "pressCoverage": {
+    "title": "Cobertura de Prensa",
+    "items": [
+      {
+        "media": "New York Times",
+        "link": "https://www.nytimes.com/2023/11/12/style/hotel-living-nomads.html"
+      },
+      {
+        "media": "Financial Times",
+        "link": "https://www.ft.com/content/6ccdb850-53ea-4778-9383-73dd711c859d"
+      },
+      {
+        "media": "New York Post",
+        "link": "https://nypost.com/2024/12/05/business/amar-lalvani-is-pioneering-a-new-style-of-luxury-at-the-manner/"
+      },
+      {
+        "media": "Livingetc",
+        "link": "https://www.livingetc.com/features/resort-core"
+      },
+      {
+        "media": "HospitalityNet",
+        "link": "https://www.hospitalitynet.org/opinion/4127709.html"
+      },
+      {
+        "media": "EHL Insights",
+        "link": "https://hospitalityinsights.ehl.edu/hotel-guest-community-integration"
+      }
+    ]
+  },
+  "closing": {
+    "line1": "La industria hotelera no está simplemente cambiando…",
+    "line2": "está evolucionando hacia una nueva forma de habitar el mundo."
+  },
+  "legal": {
+    "disclaimer": "Todas las marcas, logotipos y referencias citadas en esta página pertenecen a sus respectivos propietarios y se incluyen exclusivamente con fines informativos, editoriales o comparativos. Hoteldiving no está afiliado ni respaldado por dichas entidades."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Liderii noștri",
+  "description": "Descoperă lideri și grupuri active la Hotel‑Living",
+  "seeOurLeaders": "Vezi liderii noștri →",
+  "labels": {
+    "affinity": "Afinitate",
+    "activities": "Activități",
+    "currentGroup": "Grup actual",
+    "packages": "Pachete disponibile",
+    "occupancy": "Ocupare",
+    "price": "Preț",
+    "book": "Rezervă"
+  },
+  "noPackages": "Nu există pachete disponibile acum",
+  "notFound": "Liderul nu a fost găsit"
+}

@@ -1,0 +1,39 @@
+{
+  "register": {
+    "title": "Registrarse como Líder de Grupo",
+    "subtitle": "Crea tu cuenta de Líder de Grupo y comienza a construir comunidades",
+    "form": {
+      "firstName": "Nombre",
+      "firstNamePlaceholder": "Nombre",
+      "lastName": "Apellido", 
+      "lastNamePlaceholder": "Apellido",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "Correo electrónico",
+      "phone": "Teléfono (opcional)",
+      "phonePlaceholder": "Teléfono (opcional)",
+      "password": "Contraseña (mín. 6 caracteres)",
+      "passwordPlaceholder": "Contraseña (mín. 6 caracteres)",
+      "confirmPassword": "Confirmar contraseña",
+      "confirmPasswordPlaceholder": "Confirmar contraseña",
+      "acceptTerms": "Acepto los",
+      "termsAndConditions": "Términos y Condiciones",
+      "createAccount": "Crear cuenta de Líder de Grupo",
+      "alreadyHaveAccount": "¿Ya tienes una cuenta de Líder de Grupo?",
+      "signInHere": "Inicia sesión aquí"
+    },
+    "validation": {
+      "fillRequiredFields": "Por favor, rellena todos los campos obligatorios",
+      "passwordsDoNotMatch": "Las contraseñas no coinciden",
+      "passwordTooShort": "La contraseña debe tener al menos 6 caracteres",
+      "acceptTermsRequired": "Por favor, acepta los Términos y Condiciones",
+      "emailAlreadyExists": "Este email ya está registrado con otro rol. Cada email solo puede tener un rol.",
+      "emailAlreadyRegistered": "Este email ya está registrado. Por favor usa la página de inicio de sesión.",
+      "passwordRequirements": "La contraseña no cumple con los requisitos. Por favor elige una contraseña más fuerte."
+    },
+    "success": {
+      "registrationSuccessful": "¡Registro exitoso! Por favor, revisa tu email para el enlace de verificación.",
+      "redirecting": "Redirigiendo a tu panel de control..."
+    },
+    "backToHome": "Volver al inicio"
+  }
+}

@@ -1,0 +1,51 @@
+
+{
+  "dashboard": {
+    "propertyForm": {
+      "title": "Property Information",
+      "basicInfo": "Basic Information",
+      "hotelName": "Hotel Name",
+      "hotelNamePlaceholder": "Enter your hotel name",
+      "totalRooms": "Total Rooms",
+      "totalRoomsPlaceholder": "Enter total number of rooms",
+      "propertyType": "Property Type",
+      "hotelCategory": "Hotel Category",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe your property...",
+      "shortDescription": "Short Description",
+      "longDescription": "Long Description",
+      "features": "Features",
+      "amenities": "Amenities",
+      "services": "Services",
+      "accessibility": "Accessibility Features",
+      "validation": {
+        "required": "This field is required",
+        "minLength": "Minimum length is {min} characters",
+        "maxLength": "Maximum length is {max} characters",
+        "invalidFormat": "Invalid format",
+        "invalidEmail": "Invalid email address",
+        "invalidPhone": "Invalid phone number",
+        "invalidUrl": "Invalid URL format"
+      },
+      "errors": {
+        "submitFailed": "Failed to submit property information",
+        "loadFailed": "Failed to load property data",
+        "saveFailed": "Failed to save changes",
+        "devModeUserCreationFailed": "Failed to create development user for registration",
+        "foreignKeyConstraint": "Database constraint error. Your data has been saved locally for retry."
+      },
+      "selectPropertyStyle": "Select Property Style",
+      "styleOfProperty": "STYLE OF PROPERTY",
+      "propertyStyles": {
+        "classic": "Classic",
+        "classicElegant": "Classic Elegant",
+        "modern": "Modern",
+        "fusion": "Fusion",
+        "urban": "Urban",
+        "rural": "Rural",
+        "minimalist": "Minimalist",
+        "luxury": "Luxury"
+      }
+    }
+  }
+}

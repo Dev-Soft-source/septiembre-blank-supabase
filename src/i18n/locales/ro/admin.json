@@ -1,0 +1,37 @@
+{
+  "priceCorrector": {
+    "title": "Corector Global de Prețuri",
+    "description": "Actualizează toate prețurile pachetelor hoteliere conform Tabelului de Prețuri Sacru",
+    "runButton": "Rulează Corectorul Global de Prețuri",
+    "running": "Rulează Corectorul...",
+    "success": "Corectorul Global de Prețuri finalizat!",
+    "successDescription": "Corectate {{count}} pachete în {{hotels}} hoteluri.",
+    "failed": "Corecția prețurilor a eșuat",
+    "rules": {
+      "title": "Reguli de Prețuri Sacre",
+      "mealPlans": "Procente Planuri de Masă:",
+      "accommodationOnly": "Doar cazare → 40% (minim)",
+      "breakfast": "Mic dejun → 60% din prețul maxim",
+      "halfBoard": "Demipensiune → 80% din prețul maxim",
+      "fullBoard": "Pensiune completă → 100% (maxim)",
+      "priceEndings": "Terminații Prețuri:",
+      "endingsRule": "Toate prețurile trebuie să se termine în 0, 5 sau 9",
+      "categoryBased": "Bazat pe categoria hotelului (3★, 4★, 5★)",
+      "durations": "Durate sejur: 8, 15, 22, 29 zile",
+      "occupancy": "Ocupare: Camere Duble sau Individuale"
+    },
+    "stats": {
+      "hotelsProcessed": "Hoteluri Procesate",
+      "packagesChecked": "Pachete Verificate",
+      "packagesCorrected": "Pachete Corectate"
+    },
+    "results": {
+      "title": "Rezultate Corecție",
+      "corrected": "corectate",
+      "errors": "erori",
+      "correctionsApplied": "Corecții Aplicate:",
+      "errorsFound": "Erori Găsite:"
+    },
+    "lastRun": "Ultima rulare: {{date}}"
+  }
+}

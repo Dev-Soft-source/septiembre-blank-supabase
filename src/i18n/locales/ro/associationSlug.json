@@ -1,0 +1,17 @@
+{
+  "fallbackAssociation": "Stimată Asociație",
+  "greeting": "Stimată {{associationName}}",
+  "question": "Câți bani pierdeți dumneavoastră și hotelurile dumneavoastră în fiecare an din cauza atâtor mii de camere goale?",
+  "calculatorTitle": "Calculator Integrat",
+  "resultsTitle": "REZULTATE INSTANTANEE",
+  "societyChanged": {
+    "title": "SOCIETATEA S-A SCHIMBAT. MODELUL NOSTRU NU.",
+    "content": [
+      "După cum se știe, marile lanțuri hoteliere (Hyatt, Marriott, Hilton, Accor, IHG, Radisson și multe altele) de ani de zile rentabilizează și extind noul model social pe care societatea noastră îl impune: șederile rezidențiale în hoteluri, de durată medie și lungă.",
+      "DOAR PENTRU MARILE LANȚURI HOTELIERE?",
+      "Nu. Mulțumită Hotel-Living.com, sute de mii de hoteluri independente pot începe să încaseze deja beneficiile imense ale acestui model.",
+      "Și chiar mai mult: modelul nostru oferă instrumente unice proiectate special pentru hotelurile independente, care acordă beneficii și mai mari față de marile lanțuri."
+    ]
+  },
+  "joinButton": "Alăturați-vă fără angajament"
+}

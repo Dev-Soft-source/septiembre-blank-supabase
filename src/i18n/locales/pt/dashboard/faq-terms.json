@@ -1,0 +1,12 @@
+
+{
+  "dashboard-faq-terms": {
+    "title": "FAQ e Termos e Condições",
+    "frequentlyAskedQuestions": "Perguntas Frequentes",
+    "questionPlaceholder": "Digite sua pergunta aqui...",
+    "answerPlaceholder": "Digite a resposta aqui...",
+    "addQuestion": "Adicionar Pergunta",
+    "hotelLivingTerms": "Termos e Condições do Hotel-Living",
+    "termsContent": "Aqui vão os termos e condições específicos do hotel..."
+  }
+}

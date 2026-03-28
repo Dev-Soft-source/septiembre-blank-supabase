@@ -1,0 +1,210 @@
+{
+  "fallbackAssociation": "su asociación hotelera",
+  "heroSection": {
+    "incomeSource": "UNA GRAN FUENTE DE INGRESOS PARA SU ASOCIACIÓN",
+    "massiveOccupancy": "POSIBLE OCUPACIÓN MASIVA PARA SUS HOTELES AFILIADOS",
+    "revolution": "💼 UNA REVOLUCIÓN HOTELERA QUE SU ASOCIACIÓN PUEDE INTRODUCIR EN PRIMICIA ENTRE SUS HOTELES",
+    "introduction": "Somos Hotel-Living.com, revolución hotelera, creada por hoteleros para hoteleros.",
+    "expansion": "Estamos en plena expansión, y al entrar en un nuevo país intentamos lógicamente colaborar con los nuestros —las asociaciones hoteleras— con el objetivo de que todos los beneficios queden en lo posible en nuestro sector."
+  },
+  "opportunitySection": {
+    "title": "📊 SOMOS UNA OPORTUNIDAD CONCRETA Y EN MARCHA",
+    "systemBenefits": "Un sistema que genera beneficios directos",
+    "forAssociation": "tanto para la asociación",
+    "forHotels": "como para sus hoteles afiliados"
+  },
+  "industrySection": {
+    "title": "LA SOCIEDAD HA CAMBIADO. NUESTRO MODELO NO.",
+    "knownFact": "Como es sabido Las grandes cadenas hoteleras (Hyatt, Marriott, Hilton, Accor, IHG, Radisson y muchas más) hace ya años que están rentabilizando y ampliando el nuevo modelo social que nuestra sociedad va imponiendo: las estancias residenciales en hoteles, de media y larga duración.",
+    "onlyForBigChains": "¿SÓLO PARA LAS GRANDES CADENAS HOTELERAS?",
+    "independentHotels": "Mientras estas expanden sin cesar sus modelos residenciales, centenares de miles de pequeños hoteles independientes y cadenas pequeñas o medianas no han podido rentabilizar hasta ahora este modelo, ni acceder a sus inmensos beneficios, por falta de una herramienta común especializada y accesible."
+  },
+  "offerSection": {
+    "title": "¿QUÉ OFRECEMOS EN HOTEL-LIVING.COM?",
+    "toAssociations": "A LAS ASOCIACIONES HOTELERAS:",
+    "description": "Su asociación recibirá cada mes el 4% de las reservas generadas por sus hoteles durante los primeros 18 meses, y el 2% durante los 12 siguientes. Este ingreso no afecta en nada a los hoteles —proviene de nuestro propio coste de gestión— y podrá ser reinvertido en beneficio de la asociación y sus miembros."
+  },
+  "crisisSection": {
+    "title": "LA GRAN CRISIS DEL SECTOR HOTELERO",
+    "obsoleteModel": "El modelo actual está obsoleto. Los índices oficiales hablan de una ocupación del 50-55%, pero la realidad es mucho peor.",
+    "realOccupancy": "Si incluimos los hoteles cerrados gran parte del año, la ocupación real cae al 40%.",
+    "emptyRooms": "Eso representa más de 5.000 millones de noches de habitaciones vacías cada año.",
+    "implicationsTitle": "¿QUÉ IMPLICA ESTO?",
+    "implications": [
+      "Instalaciones infrautilizadas",
+      "Rentabilidad en caída libre",
+      "Pérdida de empleos y oportunidades",
+      "Decadencia progresiva del sector"
+    ],
+    "meanwhileTitle": "Mientras tanto, a su alrededor, millones de personas desean:",
+    "desires": [
+      "Una forma de vida más libre y práctica",
+      "Salir de la soledad y encontrar afinidades",
+      "Conocer lugares y personas con autenticidad",
+      "Viajar sin complicaciones",
+      "Vivir en y entre hoteles, viajando y disfrutando de verdad de la vida, como una opción continua, no ocasional"
+    ],
+    "lostOpportunity": "Cada habitación vacía es una oportunidad perdida.",
+    "finalWarning": "Y cada noche vacía, un paso más hacia la decadencia del hotel que no se adapta."
+  },
+  "associationBenefitsSection": {
+    "title": "¿QUÉ VENTAJAS OBTIENEN SUS HOTELES ASOCIADOS POR REGISTRARSE A TRAVÉS DE SU ASOCIACIÓN?",
+    "benefitsTitle": "UNA SUMA IMPORTANTE DE BENEFICIOS",
+    "benefits": [
+      "Posicionamiento preferente en los resultados",
+      "Publicación garantizada en 48 horas",
+      "Ficha destacada visualmente",
+      "Participación automática en campañas locales",
+      "Etiqueta oficial de \"hotel aliado\"",
+      "Derecho a feedback directo con el equipo de Hotel Living",
+      "Inclusión en sorteos promocionales",
+      "Onboarding asistido personalizado",
+      "Revisión gratuita de su ficha",
+      "Traducción prioritaria de su ficha a otros idiomas",
+      "Beneficio acumulativo si refiere a otros hoteles (no pertenecientes a ninguna asociación)",
+      "Acceso anticipado a nuevos módulos del sistema Hotel Living",
+      "Para probar funciones antes de su lanzamiento oficial",
+      "Atención prioritaria en soporte técnico y resolución de incidencias",
+      "Acceso gratuito a formaciones exclusivas sobre optimización de estancias largas y revenue management para su equipo",
+      "Una mención o publicación personalizada mensual (rotativa)",
+      "Etiqueta de \"Top Hotel Asociación\" en su ficha durante los 3 primeros meses",
+      "Mayor frecuencia de aparición en segmentos de afinidades personalizadas",
+      "Convocatoria preferente a encuentros o mesas redondas con otros hoteles aliados"
+    ]
+  },
+  "ctaSection": {
+    "buttonText": "REGISTRE SU ASOCIACIÓN"
+  },
+  "slogan": "UNA GRAN FUENTE DE INGRESOS PARA SU ASOCIACIÓN Y POSIBLE OCUPACIÓN MASIVA PARA SUS HOTELES AFILIADOS",
+  "revolutionTitle": "UNA REVOLUCIÓN HOTELERA QUE SU ASOCIACIÓN PUEDE INTRODUCIR EN PRIMICIA ENTRE SUS HOTELES",
+  "greeting": "Estimados representantes de {{associationName}}:",
+  "introduction": "Somos Hotel-Living.com, una revolución hotelera, creada de hoteleros para hoteleros.",
+  "expansion": "Estamos en plena expansión, y siempre que comenzamos en un país intentamos colaborar con los nuestros: con las asociaciones hoteleras, para intentar que todos los beneficios se repartan entre todos los miembros de nuestro sector.",
+  "opportunityTitle": "Somos una oportunidad concreta y en marcha",
+  "opportunityDescription": "Un sistema que genera beneficios directos tanto para la asociación como para cada uno de sus hoteles afiliados.",
+  "knownFactTitle": "Como es sabido",
+  "knownFactDescription": "Las grandes cadenas hoteleras (Hyatt, Marriott, Hilton, Accor, IHG, Radisson y muchas más) hace ya años que están rentabilizando y ampliando el nuevo modelo social que nuestra sociedad va imponiendo: las estancias residenciales en hoteles, de media y larga duración.",
+  "onlyForBigChains": "¿SÓLO PARA LAS GRANDES CADENAS HOTELERAS?",
+  "smallHotelsDescription": "Mientras estas expanden sin cesar sus modelos residenciales, centenares de miles de pequeños hoteles independientes y cadenas pequeñas o medianas no han podido rentabilizar hasta ahora este modelo, ni acceder a sus inmensos beneficios, por falta de una herramienta común especializada y accesible.",
+  "whatWeOfferTitle": "¿QUÉ OFRECEMOS EN HOTEL-LIVING.COM?",
+  "whatWeOfferDescription": "A LAS ASOCIACIONES HOTELERAS: un 4% del total de las reservas generadas por sus miembros, un porcentaje que no afecta en absoluto a sus hoteles, pues proviene de nuestro propio coste de gestión.",
+  "onlineCalculatorTitle": "CALCULADORA ONLINE",
+  "calculator": {
+    "title": "BENEFICIO ANUAL ESTIMADO PARA SU ASOCIACIÓN",
+    "hotelMembers": "¿CUÁNTOS HOTELES MIEMBROS TIENE SU ASOCIACIÓN?",
+    "emptyRooms": "¿CUÁNTAS HABITACIONES VACÍAS TIENEN POR DÍA EN PROMEDIO?",
+    "monthlyPrice": "PRECIO PROMEDIO DEL PAQUETE MENSUAL",
+    "commissionLabel": "4% COMISIÓN PARA SU ASOCIACIÓN",
+    "disclaimer": "Todas las cifras mostradas son aproximadas. El modelo considera el escenario de ocupación sin servicios de comidas incluidos y una mezcla estimada de hoteles de 3 y 4 estrellas con ocupación media doble o individual."
+  },
+  "accordionSection1": {
+    "title": "BENEFICIOS INÉDITOS PARA LOS HOTELES",
+    "profitabilityTitle": "RENTABILIDAD Y OCUPACIÓN",
+    "profitabilityPoints": [
+      "Acabamos con las temporadas medias y bajas",
+      "Llenamos sus habitaciones que nadie llena, tradicionalmente vacías",
+      "Rentabilizamos habitaciones con gastos ya cubiertos: el beneficio puro perdido",
+      "Activamos el 100% de la rentabilidad hotelera",
+      "Traemos clientes perfectos, seleccionados por afinidades",
+      "Adelantamos el 5% de cada reserva: ingreso directo y no reembolsable",
+      "Comisión total justa: solo 10%",
+      "Multiplicamos radicalmente sus beneficios",
+      "Estancias más largas, rentables y predecibles",
+      "Cero noches vacías",
+      "Coordinación de reservas sin huecos",
+      "Mayor ingreso con menos esfuerzo"
+    ],
+    "costsTitle": "COSTES Y EFICIENCIA",
+    "costsPoints": [
+      "Reducción de costes operativos",
+      "Menos limpiezas, lavandería y rotación",
+      "Menor carga para recepción",
+      "Entradas/salidas unificadas en un día semanal",
+      "Gestión diaria más simple y previsible",
+      "Sin membresías, suscripciones ni cuotas",
+      "Sin costes anticipados ni adaptaciones",
+      "Sin cambios en sistemas actuales"
+    ],
+    "staffTitle": "PERSONAL Y EQUIPO",
+    "staffPoints": [
+      "Estabilidad total del equipo humano",
+      "Equipos motivados, entrenables y estables todo el año",
+      "Profesionalización real del personal operativo"
+    ],
+    "clientsTitle": "CLIENTES Y COMUNIDAD",
+    "clientsPoints": [
+      "Recuperamos antiguos clientes de Airbnb",
+      "Conectamos con una nueva generación de viajeros",
+      "Revolución de las Afinidades Hotel-Living™",
+      "Cada hotel define su tipo de huésped ideal: nosotros lo traemos"
+    ],
+    "technologyTitle": "TECNOLOGÍA Y PLATAFORMA",
+    "technologyPoints": [
+      "Coordinamos entradas/salidas sin huecos",
+      "Segmentamos por intereses y afinidades",
+      "Marketing a comunidades motivadas",
+      "Alcance global con targeting hiper-específico",
+      "Integración sin fricciones",
+      "Nos adaptamos al hotel, no al revés",
+      "Complementamos el modelo tradicional"
+    ]
+  },
+  "accordionSection2": {
+    "title": "CIENTOS DE MILLONES DE CLIENTES ESPERAN",
+    "introduction": "La sociedad ha cambiado radicalmente en los últimos 50 años. Pero el modelo hotelero... todavía no.",
+    "subtitle": "Cientos de millones de personas quieren dejar atrás:",
+    "points": [
+      "Las tareas del hogar: cocinar, limpiar, fregar...",
+      "Las facturas crecientes",
+      "El aislamiento y la soledad",
+      "Los alquileres imposibles: avales, burocracias, altos precios",
+      "Los traslados diarios al trabajo",
+      "El turismo sin alma: llaves en cajitas, cero atención, inseguridad"
+    ]
+  },
+  "accordionSection3": {
+    "title": "SON CIENTOS DE MILLONES DE CLIENTES POTENCIALES",
+    "clientTypes": [
+      "Jubilados activos que quieren vivir de verdad",
+      "Trabajadores online y nómadas digitales",
+      "Profesionales en ciudades dormitorio",
+      "Inquilinos hartos de dificultades",
+      "Viajeros frecuentes buscando alma",
+      "Usuarios de apartamentos improvisados",
+      "Almas libres que quieren todo resuelto",
+      "Ciudadanos que desean romper la soledad y conocer afines"
+    ],
+    "commonFactor": "Todos ellos tienen algo en común: buscan un nuevo modo de habitar.",
+    "notAboutRenting": "Ya no se trata de alquilar. Ya no se trata de viajar.",
+    "aboutLivingDifferent": "Se trata de vivir distinto.",
+    "hotelSolution": "Y para todo eso, el hotel es la solución natural.",
+    "hotelLivingChanges": "Hotel-Living llega para cambiarlo.",
+    "features": [
+      "Modelo de larga duración",
+      "Desplegado en fases con módulos revolucionarios",
+      "Rentabiliza, posiciona y moderniza",
+      "Actualmente solo desplegado en un 20%"
+    ]
+  },
+  "accordionSection4": {
+    "title": "LA GRAN CRISIS DEL SECTOR HOTELERO",
+    "obsoleteModel": "El modelo actual está obsoleto. Los índices oficiales hablan de 50-55% de ocupación, pero la realidad es peor.",
+    "occupancyReality": "Si contamos los hoteles cerrados gran parte del año, la ocupación real cae al 40%.",
+    "emptyRooms": "Esto significa más de 5.000 millones de habitaciones vacías cada año.",
+    "consequences": [
+      "Habitaciones y hoteles vacíos",
+      "Ingresos perdidos",
+      "Empleos perdidos"
+    ],
+    "meanwhile": "Mientras, a su alrededor, cientos de millones desean:",
+    "desires": [
+      "Vivir mejor",
+      "Salir de la soledad",
+      "Conocer gente",
+      "Viajar diferente",
+      "Habitar hoteles de forma continua"
+    ],
+    "emptyRoomOpportunity": "Cada habitación vacía es una oportunidad perdida.",
+    "finalWarning": "Y cada noche vacía, un paso más hacia la decadencia del hotel que no se adapta."
+  }
+}

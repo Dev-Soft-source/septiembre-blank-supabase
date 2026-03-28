@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "backup_date": "2024-01-01",
+    "description": "Complete index of ALL filter options backed up in all languages",
+    "warning": "DO NOT MODIFY - This is a preservation backup",
+    "backup_completeness": "✅ COMPLETE",
+    "languages_covered": 4,
+    "data_sets_covered": 11
+  },
+  "backup_summary": {
+    "activities": {
+      "total_items": 68,
+      "backup_file": "activities-all-languages.json",
+      "languages": ["spanish", "english", "portuguese", "romanian"],
+      "status": "✅ COMPLETE"
+    },
+    "affinities": {
+      "total_items": 100,
+      "backup_file": "affinities-all-languages.json", 
+      "languages": ["spanish", "english", "portuguese", "romanian"],
+      "status": "✅ COMPLETE"
+    },
+    "property_types": {
+      "total_items": 5,
+      "backup_file": "filters-all-languages.json",
+      "languages": ["spanish", "english", "portuguese", "romanian"],
+      "items": ["hotel", "resort", "boutiqueHotel", "countryHouse", "roadsideMotel"],
+      "status": "✅ COMPLETE"
+    },
+    "property_styles": {
+      "total_items": 8,
+      "backup_file": "filters-all-languages.json",
+      "languages": ["spanish", "english", "portuguese", "romanian"],
+      "items": ["classic", "classicElegant", "modern", "fusion", "urban", "minimalist", "luxury", "rural"],
+      "status": "✅ COMPLETE"
+    },
+    "hotel_features": {
+      "total_items": 21,
+      "backup_file": "filters-all-languages.json",
+      "languages": ["spanish", "english", "portuguese", "romanian"],
+      "sample_items": ["wifi", "pool", "gym", "spa", "restaurant", "bar", "parking"],
+      "status": "✅ COMPLETE"
+    },
+    "room_features": {
+      "total_items": 18,
+      "backup_file": "filters-all-languages.json",
+      "languages": ["spanish", "english", "portuguese", "romanian"],
+      "sample_items": ["airConditioning", "balcony", "minibar", "safe", "tv", "wifi"],
+      "status": "✅ COMPLETE"
+    },
+    "countries": {
+      "total_items": 10,
+      "backup_file": "filters-all-languages.json",
+      "languages": ["spanish", "english", "portuguese", "romanian"],
+      "items": ["spain", "france", "italy", "usa", "egypt", "turkey", "unitedKingdom", "germany", "portugal", "greece"],
+      "status": "✅ COMPLETE"
+    },
+    "meal_plans": {
+      "total_items": 7,
+      "backup_file": "filters-all-languages.json",
+      "languages": ["spanish", "english", "portuguese", "romanian"],
+      "items": ["accommodationOnly", "breakfastIncluded", "halfBoard", "fullBoard", "allInclusive", "laundryIncluded", "externalLaundry"],
+      "status": "✅ COMPLETE"
+    },
+    "months": {
+      "total_items": 12,
+      "backup_file": "filters-all-languages.json",
+      "languages": ["spanish", "english", "portuguese", "romanian"],
+      "items": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+      "status": "✅ COMPLETE"
+    },
+    "categories": {
+      "total_items": 18,
+      "backup_file": "filters-all-languages.json",
+      "note": "Affinity categories included in filters",
+      "status": "✅ COMPLETE"
+    },
+    "price_ranges": {
+      "total_items": 4,
+      "backup_file": "filters-all-languages.json",
+      "items": ["upTo1000", "1000to1500", "1500to2000", "moreThan2000"],
+      "status": "✅ COMPLETE"
+    }
+  },
+  "preservation_guarantee": {
+    "total_filter_options_backed_up": 271,
+    "languages_preserved": 4,
+    "backup_validation": "✅ ALL FILTER OPTIONS FROM USER IMAGE CONFIRMED BACKED UP",
+    "restoration_ready": true,
+    "data_integrity": "VERIFIED"
+  },
+  "restoration_instructions": {
+    "activities": "Restore from activities-all-languages.json to public/locales/{lang}/activities.json",
+    "affinities": "Restore from affinities-all-languages.json to public/locales/{lang}/affinities.json", 
+    "filters": "Restore from filters-all-languages.json to src/i18n/locales/{lang}/filters.json",
+    "hotel_features": "Included in filters backup - restore to hotel-registration-features.json files"
+  }
+}

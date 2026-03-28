@@ -1,0 +1,57 @@
+{
+  "leaders": {
+    "seeOurLeaders": "See our leaders →",
+    "slogans": {
+      "1": "Live for free in hotels",
+      "2": "Travel the world", 
+      "3": "Work freely",
+      "4": "Multiply your world",
+      "5": "Multiply your standard of living",
+      "6": "Multiply your social life"
+    }
+  },
+  "navigation": {
+    "previousPage": "Previous Page",
+    "nextPage": "Next Page",
+    "toggleSidebar": "Toggle Sidebar",
+    "toggleMenu": "Toggle menu"
+  },
+  "actions": {
+    "close": "Close",
+    "more": "More"
+  },
+  "carousel": {
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide"
+  },
+  "pagination": {
+    "morePages": "More pages",
+    "goToPreviousPage": "Go to previous page",
+    "goToNextPage": "Go to next page"
+  },
+  "modal": {
+    "close": "Close modal"
+  },
+  "search": {
+    "searchFaqs": "Search FAQs",
+    "clearSearch": "Clear search",
+    "searchGuests": "Search guests by name"
+  },
+  "gallery": {
+    "previousImage": "Previous image",
+    "nextImage": "Next image"
+  },
+  "accessibility": {
+    "breadcrumb": "breadcrumb",
+    "pagination": "pagination",
+    "virtualizedList": "Virtualized list"
+  },
+  "state": {
+    "loading": "Loading...",
+    "error": "Error",
+    "noItems": "No items to display"
+  },
+  "emoji": {
+    "smile": "smile"
+  }
+}

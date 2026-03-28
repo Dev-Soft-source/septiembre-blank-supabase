@@ -1,0 +1,60 @@
+
+{
+  "title": "Frequently Asked Questions",
+  "subtitle": "Find answers to the most common questions about Hotel-Living",
+  "search": "Search FAQs...",
+  "categories": {
+    "general": "General",
+    "booking": "Bookings",
+    "payment": "Payments",
+    "accommodation": "Accommodation",
+    "cancellation": "Cancellation",
+    "support": "Support"
+  },
+  "accordion": {
+    "stillRenting": "Still renting?",
+    "hotel": "Hotel?",
+    "retired": "Retired?",
+    "commuter": "Commuter?",
+    "onlineWorker": "Online worker?",
+    "freeSoul": "GREAT TRAVELER",
+    "society": "Society?"
+  },
+  "avatarMessage": "I'm here.\nIf you need me,\nask me anything.",
+  "identifyHeader": "WHO DO YOU IDENTIFY WITH?\nCLICK TO LEARN MORE",
+  "linkText": "Portrait of the Hotel Crisis",
+  "avatars": {
+    "antonio": {
+      "shortMessage": "I'm Antonio, retired!",
+      "fullMessage": "I'm Antonio, retired! We can talk"
+    },
+    "luisa": {
+      "shortMessage": "I'm Luisa, retired!",
+      "fullMessage": "I'm Luisa, retired! We can talk"
+    },
+    "john": {
+      "shortMessage": "I'm John, work online!",
+      "fullMessage": "I'm John, work online! We can talk"
+    },
+    "teresa": {
+      "shortMessage": "I'm Teresa! Love traveling.",
+      "fullMessage": "I'm Teresa! Love traveling. We can talk"
+    },
+    "juan": {
+      "shortMessage": "I'm Juan! No more apartments!",
+      "fullMessage": "I'm Juan! No longer rent apartments. We can talk"
+    },
+    "ion": {
+      "shortMessage": "I'm Ion! Used to rent.",
+      "fullMessage": "I'm Ion! Used to rent. We can talk"
+    },
+    "maria": {
+      "shortMessage": "I'm María! Lived outside.",
+      "fullMessage": "I'm María! Lived outside. We can talk"
+    },
+    "martin": {
+      "shortMessage": "I'm Martín! I'm hotelier.",
+      "fullMessage": "I'm Martín! I'm hotelier. We can talk"
+    }
+  }
+}

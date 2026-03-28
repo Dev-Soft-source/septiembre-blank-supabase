@@ -1,0 +1,180 @@
+{
+  "title": "Group Leader Dashboard",
+  "tabs": {
+    "presentation": "Presentation",
+    "presentationDesc": "Welcome and overview",
+    "myGroups": "My Groups",
+    "myGroupsDesc": "Manage your groups",
+    "proposeGroup": "Propose New Group",
+    "proposeGroupDesc": "Create group proposals",
+    "publicPage": "My Public Page",
+    "publicPageDesc": "Your public profile",
+    "hotelProposals": "Hotel Proposals",
+    "hotelProposalsDesc": "View hotel offers",
+    "finances": "My Finances",
+    "financesDesc": "Track earnings",
+    "myData": "My Data",
+    "myDataDesc": "Profile settings"
+  },
+  "hotelProposals": {
+    "title": "Hotel Proposals",
+    "noProposals": "No hotel proposals yet",
+    "noProposalsDesc": "Hotels will send you proposals for group stays here",
+    "fields": {
+      "hotelName": "Hotel Name",
+      "city": "City",
+      "affinity": "Affinity",
+      "proposedDates": "Proposed Dates",
+      "availableRooms": "Available Rooms",
+      "hotelPage": "Hotel Page"
+    }
+  },
+  "finances": {
+    "title": "My Finances",
+    "totalEarned": "Total Earned",
+    "pendingPayment": "Pending Payment",
+    "totalPaid": "Total Paid",
+    "paymentHistory": "Payment History",
+    "noPayments": "No payment history available"
+  },
+  "myData": {
+    "title": "My Profile Data",
+    "updateProfile": "Update your profile information",
+    "comingSoon": "This feature will be available soon"
+  },
+  "publicPage": {
+    "title": "My Public Page",
+    "description": "View your public leader profile"
+  },
+  "welcome": {
+    "title": "🎉 Are you ready for a new life?",
+    "subtitle": "You can start living in hotels, organize stays with like-minded people and generate income just by sharing your lifestyle. You set the limit. Travel, create your group, share your energy and transform your way of living.",
+    "personalCode": "Personal code",
+    "copyCode": "Copy my code",
+    "shareMessage": "Share this code with the people you invite. It activates their special benefits and your bonuses."
+  },
+  "myGroup": {
+    "title": "My Group",
+    "groupSummary": {
+      "title": "Group Summary",
+      "linkedHotel": "Linked hotel",
+      "affinity": "Affinity",
+      "noHotel": "No hotel linked",
+      "noAffinity": "No affinity defined"
+    },
+    "invitedPeople": {
+      "title": "Invited people",
+      "name": "Full name",
+      "status": "Status",
+      "comment": "Comment",
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "addPerson": "Add person",
+      "save": "Save",
+      "cancel": "Cancel",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "confirmedReservations": {
+      "title": "Confirmed reservations",
+      "guestName": "Guest",
+      "hotel": "Hotel", 
+      "stayDates": "Stay dates",
+      "codeUsed": "Code used",
+      "status": "Status",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled",
+      "pending": "Pending",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "accumulatedBonuses": {
+      "title": "Accumulated bonuses",
+      "total": "Total",
+      "breakdown": "Breakdown",
+      "name": "Name",
+      "amount": "Amount",
+      "status": "Status",
+      "paid": "Paid",
+      "pending": "Pending",
+      "bonusNote": "Bonuses are only completed when the client pays the 85% difference at the hotel"
+    }
+  },
+  "myGroups": {
+    "title": "My Groups",
+    "groupName": "Group Name",
+    "affinity": "Affinity",
+    "hotel": "Hotel",
+    "dates": "Group Dates",
+    "members": "People who joined the group",
+    "memberName": "Name",
+    "stayData": "Stay Data",
+    "memberStatus": "Status",
+    "memberComments": "Comments",
+    "joined": "Joined",
+    "pending": "Pending",
+    "noGroups": "No groups created yet",
+    "proposeGroup": {
+      "title": "Propose a New Group",
+      "groupTopic": "Group topic",
+      "proposedHotel": "Proposed hotel",
+      "submit": "Send to Hotel Living"
+    }
+  },
+  "publicPage": {
+    "link": "My Public Page"
+  },
+  "leaderTools": {
+    "title": "Leader Tools",
+    "editProfile": {
+      "title": "Edit profile",
+      "name": "Name",
+      "languages": "Languages",
+      "bio": "Biography",
+      "affinity": "Affinity (optional)",
+      "save": "Save changes",
+      "cancel": "Cancel"
+    },
+    "createGroup": {
+      "title": "Create or propose a group",
+      "groupName": "Group name",
+      "affinity": "Affinity (optional)",
+      "hotel": "Hotel",
+      "selectHotel": "Select hotel",
+      "saveProposal": "Save proposal"
+    },
+    "helpSupport": {
+      "title": "Help & Support",
+      "faqs": "Group Leader FAQs",
+      "chatWithMaria": "Automated chat with María",
+      "supportForm": "Support form",
+      "yourName": "Your name",
+      "yourEmail": "Your email",
+      "message": "Message",
+      "send": "Send"
+    }
+  },
+  "quickActions": {
+    "title": "Quick Actions",
+    "invitePeople": "Invite people",
+    "inviteMessage": "Join my group at Hotel Living. You can choose 8, 15, 22 or 29 days at the hotel I have chosen. Use this code: {code} to receive special benefits and share this experience with me.",
+    "hotelLink": "View hotel page",
+    "leaderProfile": "My public profile"
+  },
+  "footer": {
+    "message": "The more people join, the bigger your bonus will be."
+  },
+  "actions": {
+    "logOut": "Sign Out"
+  },
+  "notifications": {
+    "codeCopied": "Code copied to clipboard",
+    "inviteMessageCopied": "Invite message copied",
+    "profileUpdated": "Profile updated successfully",
+    "groupCreated": "Group created successfully",
+    "supportMessageSent": "Support message sent",
+    "personAdded": "Person added successfully",
+    "personUpdated": "Person updated successfully",
+    "personDeleted": "Person deleted successfully"
+  }
+}

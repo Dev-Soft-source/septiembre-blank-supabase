@@ -1,0 +1,4 @@
+file,string,en,es,pt,ro,status
+src/components/dashboard/user/FirstTimeUserBanner.tsx,Welcome to your first experience!,NO,NO,NO,NO,CRITICAL
+src/components/dashboard/user/FirstTimeUserBanner.tsx,Follow the guided steps and enjoy your themed stay.,NO,NO,NO,NO,CRITICAL
+src/components/dashboard/user/FirstTimeUserBanner.tsx,How it works,NO,NO,NO,NO,CRITICAL

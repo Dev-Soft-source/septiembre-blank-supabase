@@ -1,0 +1,57 @@
+{
+  "leaders": {
+    "seeOurLeaders": "Ver nossos líderes →",
+    "slogans": {
+      "1": "Viva de graça em hotéis",
+      "2": "Viaje pelo mundo",
+      "3": "Trabalhe em liberdade",
+      "4": "Multiplique o seu mundo",
+      "5": "Multiplique o seu padrão de vida",
+      "6": "Multiplique a sua vida social"
+    }
+  },
+  "navigation": {
+    "previousPage": "Página Anterior",
+    "nextPage": "Próxima Página",
+    "toggleSidebar": "Alternar Barra Lateral",
+    "toggleMenu": "Alternar menu"
+  },
+  "actions": {
+    "close": "Fechar",
+    "more": "Mais"
+  },
+  "carousel": {
+    "previousSlide": "Slide anterior",
+    "nextSlide": "Próximo slide"
+  },
+  "pagination": {
+    "morePages": "Mais páginas",
+    "goToPreviousPage": "Ir para página anterior",
+    "goToNextPage": "Ir para próxima página"
+  },
+  "modal": {
+    "close": "Fechar modal"
+  },
+  "search": {
+    "searchFaqs": "Pesquisar FAQs",
+    "clearSearch": "Limpar pesquisa",
+    "searchGuests": "Pesquisar hóspedes por nome"
+  },
+  "gallery": {
+    "previousImage": "Imagem anterior",
+    "nextImage": "Próxima imagem"
+  },
+  "accessibility": {
+    "breadcrumb": "trilha de navegação",
+    "pagination": "paginação",
+    "virtualizedList": "Lista virtualizada"
+  },
+  "state": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "noItems": "Nenhum item para exibir"
+  },
+  "emoji": {
+    "smile": "sorriso"
+  }
+}

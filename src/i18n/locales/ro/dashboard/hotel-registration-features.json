@@ -1,0 +1,42 @@
+{
+  "hotelFeatures": {
+    "wifi": "Wi-Fi",
+    "pool": "Piscină",
+    "gym": "Sală de Fitness",
+    "spa": "Spa",
+    "restaurant": "Restaurant",
+    "bar": "Bar",
+    "businessCenter": "Centru de Afaceri",
+    "meetingRooms": "Săli de Întâlniri",
+    "laundry": "Serviciu de Spălătorie",
+    "roomService": "Serviciu în Cameră",
+    "concierge": "Serviciu de Concierge",
+    "parking": "Parcare",
+    "elevator": "Ascensor",
+    "reception24h": "Recepție 24h",
+    "garden": "Grădină",
+    "terrace": "Terasă",
+    "conferenceRoom": "Sala de Conferințe",
+    "luggageStorage": "Depozit Bagaje"
+  },
+  "roomFeatures": {
+    "airConditioning": "Aer Condiționat",
+    "heating": "Încălzire",
+    "balcony": "Balcon",
+    "kitchenette": "Bucătărie Mică",
+    "minibar": "Minibar",
+    "safe": "Seif",
+    "tv": "Televizor",
+    "desk": "Birou de Lucru",
+    "wardrobe": "Dulap",
+    "privateBathroom": "Baie Privată",
+    "hairDryer": "Uscător de Păr",
+    "iron": "Fier de Călcat",
+    "coffeeMaker": "Aparat de Cafea",
+    "blackoutCurtains": "Perdele Blackout",
+    "cityView": "Vedere la Oraș",
+    "seaView": "Vedere la Mare",
+    "mountainView": "Vedere la Munte",
+    "gardenView": "Vedere la Grădină"
+  }
+}

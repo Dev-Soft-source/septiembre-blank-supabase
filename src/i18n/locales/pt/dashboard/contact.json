@@ -1,0 +1,10 @@
+
+{
+  "dashboard": {
+    "contactInformation": "INFORMAÇÕES DE CONTATO",
+    "contactName": "Nome de Contato",
+    "email": "E-mail",
+    "phone": "Telefone",
+    "completeAllRequiredFields": "Por favor, complete todos os campos obrigatórios"
+  }
+}

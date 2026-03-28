@@ -1,0 +1,9 @@
+{
+  "leaderRequests": {
+    "title": "Solicitudes de Líderes",
+    "description": "Gestionar solicitudes de líderes de grupo de hoteles",
+    "noRequests": "No se encontraron solicitudes de líderes",
+    "approve": "Aprobar",
+    "reject": "Rechazar"
+  }
+}

@@ -1,0 +1,102 @@
+/* Mobile-specific styles for FAQ avatars - SURGICAL PRECISION */
+@media (max-width: 768px) {
+  
+  /* Avatar speech bubble positioning - reduced by 50% */
+  html body div.absolute.-top-28,
+  html body .EnhancedAvatarAssistant div.absolute.-top-28,
+  html body div[data-avatar-id] div.absolute.-top-28 {
+    top: -3.5rem !important; /* Reduced from -7rem (-top-28) to -3.5rem (-top-14) */
+  }
+  
+  /* NUCLEAR: All possible speech bubble selectors - MAXIMUM SPECIFICITY - REDUCED SIZE BY 25% */
+  html body div[style*="#FBF3B4"],
+  html body div[style*="#fbf3b4"],
+  html body div[style*="rgb(251, 243, 180)"],
+  html body div[style*="backgroundColor"],
+  html body div.absolute[style*="#FBF3B4"],
+  html body div.rounded-lg[style*="#FBF3B4"],
+  html body .EnhancedAvatarAssistant div[style*="#FBF3B4"],
+  html body div[data-avatar-id] div[style*="#FBF3B4"],
+  html body * > div[style*="#FBF3B4"] {
+    font-size: 18px !important; /* Reduced from 24px to 18px (25% smaller) */
+    line-height: 1.3 !important;
+    max-width: 320px !important; /* Increased width for 2-3 line text display */
+    min-width: 320px !important; /* Force minimum width for better text layout */
+    width: 320px !important; /* Force exact width for consistent display */
+    padding: 9px 12px !important; /* Reduced padding by 25% */
+    white-space: normal !important;
+    text-align: center !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+  }
+
+  /* NUCLEAR: ALL TEXT ELEMENTS inside speech bubbles - FORCE 18px (25% smaller) */
+  html body div[style*="#FBF3B4"] *,
+  html body div[style*="#fbf3b4"] *,
+  html body div[style*="rgb(251, 243, 180)"] *,
+  html body div[style*="backgroundColor"] *,
+  html body div[style*="#FBF3B4"] span,
+  html body div[style*="#FBF3B4"] p,
+  html body div[style*="#FBF3B4"] div,
+  html body div[style*="#FBF3B4"] text,
+  html body .EnhancedAvatarAssistant div[style*="#FBF3B4"] span,
+  html body div[data-avatar-id] div[style*="#FBF3B4"] span {
+    font-size: 18px !important; /* Reduced from 24px to 18px (25% smaller) */
+    line-height: 1.3 !important;
+    white-space: inherit !important;
+  }
+  
+  /* Scrolling bar/booking notifications - REDUCED BY 12.5% (middle of 10-15%) */
+  html body div[class*="scroll"]:not(.marquee-scroll),
+  html body div[class*="marquee"]:not(.marquee-scroll),
+  html body .booking-notification,
+  html body .scrolling-message {
+    font-size: 87.5% !important; /* Reduced by 12.5% */
+    transform: scale(0.875) !important; /* Additional size reduction by 12.5% */
+  }
+
+  /* Keep marquee animation working - only apply font-size reduction */
+  html body .marquee-scroll {
+    font-size: 87.5% !important; /* Only font size reduction */
+    /* NO transform scale - would interfere with translateX animation */
+  }
+
+  /* UNIVERSAL: Microphone buttons - half of avatar face size (96px) */
+  html body .EnhancedAvatarAssistant button,
+  html body div[data-avatar-id] button,
+  html body .EnhancedAvatarAssistant div.relative button,
+  html body div[data-avatar-id] div.relative button {
+    width: 96px !important; /* Half of 192px avatar face */
+    height: 96px !important; /* Half of 192px avatar face */
+    min-width: 96px !important;
+    min-height: 96px !important;
+  }
+
+  /* UNIVERSAL: Microphone icons - half of button size (48px) */
+  html body .EnhancedAvatarAssistant button svg,
+  html body div[data-avatar-id] button svg {
+    width: 48px !important; /* Half of 96px button */
+    height: 48px !important; /* Half of 96px button */
+  }
+
+  /* Avatar images - keep current sizing */
+  html body .max-md\:w-144 {
+    width: 12rem !important;
+  }
+  
+  html body .max-md\:h-144 {
+    height: 12rem !important;
+  }
+
+  /* Local Promoter Calculator Mobile Adjustments */
+  label.text-2xl.font-bold.uppercase,
+  .text-2xl.font-bold.uppercase {
+    font-size: 1.05rem !important;
+    text-align: center !important;
+  }
+
+  input.text-4xl.font-bold {
+    font-size: 1.125rem !important;
+    text-align: center !important;
+  }
+}

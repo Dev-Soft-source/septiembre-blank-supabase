@@ -1,0 +1,139 @@
+{
+  "userDashboard": {
+    "title": "PAINEL DO USUÁRIO",
+    "navigation": {
+      "dashboard": "Dashboard",
+      "bookings": "Reservas",
+      "threeNights": "Obter Três Noites",
+      "becomeAmbassador": "Tornar-se Embaixador",
+      "history": "Histórico",
+      "payments": "Pagamentos",
+      "profile": "Perfil"
+    },
+    "help": {
+      "needHelp": "Precisa de ajuda?",
+      "supportDescription": "Nossa equipe de suporte está disponível 24/7 para ajudá-lo com quaisquer dúvidas.",
+      "contactSupport": "Contatar suporte"
+    },
+    "actions": {
+      "logOut": "Sair"
+    },
+    "dashboard": {
+      "stats": {
+        "totalBookings": "Total de Reservas",
+        "savedHotels": "Hotéis Salvos",
+        "reviewsWritten": "Avaliações Escritas",
+        "freeNights": "Noites Grátis"
+      },
+      "welcome": {
+        "title": "Bem-vindo ao Hotel-Living!",
+        "subtitle": "Descubra hotéis incríveis adaptados às suas preferências. Atualize suas afinidades em seu perfil para obter recomendações personalizadas.",
+        "expertWelcome": "Bem-vindo de volta, Especialista Hotel-Living! Descubra novos destinos e desfrute de recursos exclusivos."
+      },
+      "quickActions": {
+        "title": "Ações Rápidas",
+        "browseHotels": "Explorar Hotéis",
+        "browseHotelsDesc": "Descubra lugares incríveis para ficar.",
+        "myBookings": "Minhas Reservas",
+        "myBookingsDesc": "Veja e gerencie suas reservas.",
+        "savedHotels": "Hotéis Salvos",
+        "savedHotelsDesc": "Veja suas propriedades favoritas.",
+        "writeReview": "Escrever Avaliação",
+        "writeReviewDesc": "Compartilhe sua experiência com outros."
+      },
+      "recentActivity": {
+        "recentBookings": "Reservas Recentes",
+        "noBookings": "Ainda sem reservas", 
+        "noBookingsDesc": "Comece explorando hotéis para fazer sua primeira reserva",
+        "savedHotelsSection": "Hotéis Salvos",
+        "noSavedHotels": "Ainda sem hotéis salvos",
+        "noSavedHotelsDesc": "Salve hotéis que você gosta para encontrá-los facilmente mais tarde"
+      }
+    },
+    "bookings": {
+      "title": "Minhas Reservas",
+      "noBookings": "Nenhuma reserva encontrada",
+      "noBookingsDesc": "Você ainda não fez nenhuma reserva. Comece explorando nossos hotéis!",
+      "loading": "Carregando reservas...",
+      "viewDetails": "Ver Detalhes",
+      "leaveReview": "Deixar Avaliação",
+      "status": {
+        "confirmed": "Confirmada",
+        "pending": "Pendente",
+        "cancelled": "Cancelada",
+        "completed": "Concluída"
+      }
+    },
+    "getThreeNights": {
+      "title": "Obter Três Noites",
+      "subtitle": "Aprenda como ganhar noites grátis através do nosso programa de fidelidade."
+    },
+    "becomeAmbassador": {
+      "title": "Tornar-se Embaixador",
+      "subtitle": "Junte-se ao nosso programa de embaixadores e comece a ganhar recompensas.",
+      "agreementRequired": "Acordo Necessário",
+      "agreementMessage": "Por favor, confirme seu interesse em se tornar um embaixador."
+    },
+    "history": {
+      "title": "Histórico",
+      "subtitle": "Veja seu histórico completo de viagem e reservas passadas.",
+      "loading": "Carregando histórico...",
+      "noHistory": "Sem histórico de estadias",
+      "noHistoryDesc": "Você ainda não tem estadias passadas.",
+      "errorLoading": "Erro ao carregar histórico de estadias",
+      "errorDescription": "Não foi possível carregar seu histórico de estadias. Tente novamente mais tarde."
+    },
+    "payments": {
+      "title": "Pagamentos",
+      "subtitle": "Gerencie seus métodos de pagamento e veja o histórico de transações."
+    },
+    "profile": {
+      "title": "Perfil",
+      "subtitle": "Atualize suas informações pessoais e preferências de viagem."
+    },
+    "getThreeNights": {
+      "programTitle": "Programa Três Noites Grátis",
+      "programDescription": "Nosso programa de Três Noites Grátis recompensa você por nos ajudar a crescer a comunidade Hotel-Living. Para cada hotel que você apresentar pessoalmente à nossa plataforma e se juntar dentro de 15 dias, você ganhará três noites grátis.",
+      "howItWorks": "Como funciona:",
+      "step1": "Recomende hotéis que você ama e apresente-os pessoalmente ao Hotel-Living",
+      "step2": "O hotel deve se registrar em nossa plataforma dentro de 15 dias corridos da sua indicação",
+      "step3": "Uma vez verificado, você receberá créditos por três noites grátis",
+      "step4": "Resgate suas noites grátis em qualquer hotel participante em nossa plataforma",
+      "additionalInfo": "Este programa recompensa suas conexões pessoais e indicações. A janela de 15 dias garante registros oportunos. Não há limite para quantos hotéis você pode indicar ou quantas noites grátis pode ganhar!",
+      "benefit1": "Ganhe três noites grátis por indicações bem-sucedidas",
+      "benefit2": "Sem limite de quantos hotéis você pode indicar",
+      "benefit3": "Ajude seus hotéis favoritos a ganhar exposição",
+      "benefit4": "Desfrute de estadias grátis em propriedades excepcionais"
+    },
+    "becomeAmbassador": {
+      "applicationTitle": "Aplicação de Embaixador",
+      "name": "Nome",
+      "email": "Email",
+      "additionalMessage": "Mensagem Adicional (Opcional)",
+      "placeholder": "Nos conte por que gostaria de se tornar um embaixador ou qualquer experiência relevante...",
+      "interestMessage": "Estou interessado em me tornar um embaixador e gostaria de ser contatado sobre esta oportunidade.",
+      "submitApplication": "Enviar Aplicação",
+      "applicationSubmitted": "Aplicação Enviada",
+      "applicationSuccess": "Sua aplicação de embaixador foi enviada com sucesso. Entraremos em contato em breve!",
+      "submissionFailed": "Envio Falhou",
+      "submissionError": "Houve um erro ao enviar sua aplicação. Tente novamente."
+    },
+    "upcomingStay": {
+      "title": "Próxima Estadia",
+      "noUpcomingStays": "Sem próximas estadias",
+      "noUpcomingStaysDesc": "Reserve sua próxima experiência hoteleira temática.",
+      "browseHotels": "Explorar Hotéis",
+      "viewDetails": "Ver Detalhes",
+      "contactHotel": "Contatar Hotel",
+      "checkIn": "Check-in",
+      "checkOut": "Check-out",
+      "duration": "Duração",
+      "days": "dias"
+    },
+    "savedHotels": {
+      "noSavedHotels": "Sem hotéis salvos",
+      "noSavedHotelsDesc": "Você ainda não salvou nenhum hotel.",
+      "browseHotels": "Explorar Hotéis"
+    }
+  }
+}

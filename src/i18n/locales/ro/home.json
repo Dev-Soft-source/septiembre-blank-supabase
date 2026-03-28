@@ -1,0 +1,81 @@
+{
+  "heroSection": {
+    "revolutionHasCome": "VIITORUL A SOSIT",
+    "liveInHotels": "TRĂIEȘTE ÎN HOTELURI",
+    "boostYourLife": "Viața adevărată",
+    "slogans": {
+      "block1": [
+        "Revoluționează-ți modul de a trăi",
+        "Uită de treburile casnice",
+        "Înmulțește-ți nivelul de viață",
+        "Viața pe care ți-ai dorit-o mereu"
+      ],
+      "block2": [
+        "Dezvoltă-ți viața socială",
+        "Alătură-te celor ca tine",
+        "Alege teme, nu doar hoteluri",
+        "Alătură-te grupurilor, alătură-te vieții"
+      ],
+      "block3": [
+        "Profită de fiecare clipă",
+        "Trăiește călătorind, călătorește trăind",
+        "Bucură-te de revoluția Hotel-Living",
+        "Hotelurile, casele tale în lume"
+      ]
+    }
+  },
+  "filters": {
+    "search": "Căutare"
+  },
+  "bubbleCounter": {
+    "home": "{{count}} de persoane explorează Hotel-Living chiar acum!",
+    "hotel": "{{count}} de persoane vizualizează acest hotel chiar acum!"
+  },
+  "helpAssistant": {
+    "message": "Salut! Sunt aici să te ajut.",
+    "mainMessage": "Vorbește sau scrie întrebarea către mine.",
+    "inputLabel": "Scrie mesajul tău aici...",
+    "avatars": {
+      "antonio": { 
+        "name": "Antonio", 
+        "description": "Pensionar",
+        "greeting": "Sunt Antonio!\nPENSIONAR\nPutem discuta!"
+      },
+      "luisa": { 
+        "name": "Luisa", 
+        "description": "Pensionară",
+        "greeting": "Sunt Luisa!\nPENSIONARĂ\nPutem discuta!"
+      },
+      "john": { 
+        "name": "John", 
+        "description": "Lucrător la Distanță",
+        "greeting": "Sunt John!\nLUCRĂTOR ONLINE\nPutem discuta!"
+      },
+      "teresa": { 
+        "name": "Teresa", 
+        "description": "Iubitoare de Călătorii",
+        "greeting": "Sunt Teresa!\nIUBESC CĂLĂTORIILE\nPutem discuta!"
+      },
+      "juan": { 
+        "name": "Juan", 
+        "description": "Fost Proprietar",
+        "greeting": "Sunt Juan!\nNU MAI ÎNCHIRIEZ APARTAMENTE TURISTICE\nPutem discuta!"
+      },
+      "ion": { 
+        "name": "Ion", 
+        "description": "Fost Chiriaș",
+        "greeting": "Sunt Ion!\nFOST CHIRIAȘ\nPutem discuta!"
+      },
+      "maria": { 
+        "name": "María", 
+        "description": "Rezidentă Suburbană",
+        "greeting": "Sunt María!\nFOSTĂ NAVETISTĂ\nPutem discuta!"
+      },
+      "martin": { 
+        "name": "Martin", 
+        "description": "Proprietar Hotel",
+        "greeting": "Sunt Martin!\nHOTELIER\nPutem discuta!"
+      }
+    }
+  }
+}

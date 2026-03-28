@@ -1,0 +1,4 @@
+feature_id,role,route,api_method,api_path,status,notes
+free_nights_banner,user,/dashboard,GET,/rewards/me,API_ONLY,UI component not yet wired in code; spec ready
+free_nights_banner,hotel_owner,/hotel-dashboard,GET,/rewards/me,API_ONLY,UI component not yet wired in code; spec ready
+commission_audit,admin,/admin,GET,/commissions?*,PARTIAL,Admin view exists in spec; verify UI presence

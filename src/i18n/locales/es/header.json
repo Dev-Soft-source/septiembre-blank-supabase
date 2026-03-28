@@ -1,0 +1,9 @@
+{
+  "header": {
+    "customerService": {
+      "label": "Atención al cliente",
+      "phone": "+1 210 548 3002"
+    },
+    "scrollingMessage": "Nuestro equipo de atención al cliente está atendiendo un gran número de llamadas en este momento. Por favor, no dude en contactarnos a través de la página de Contacto."
+  }
+}

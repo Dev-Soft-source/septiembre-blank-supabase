@@ -1,0 +1,54 @@
+{
+  "packageManager": {
+    "title": "Gestionarea Pachetelor de Disponibilitate",
+    "description": "Gestionează pachetele de disponibilitate ale hotelului tău cu sincronizare în timp real",
+    "addPackage": "Adaugă Pachet",
+    "editPackage": "Editează Pachet",
+    "deletePackage": "Șterge Pachet",
+    "packageCreated": "Pachet creat cu succes",
+    "packageUpdated": "Pachet actualizat cu succes",
+    "packageDeleted": "Pachet șters cu succes",
+    "createPackageTitle": "Creează Pachet Nou de Disponibilitate",
+    "editPackageTitle": "Editează Pachet de Disponibilitate",
+    "deleteConfirmTitle": "Șterge Pachet",
+    "deleteConfirmMessage": "Ești sigur că vrei să ștergi acest pachet? Această acțiune nu poate fi anulată.",
+    "startDate": "Data de Început",
+    "endDate": "Data de Sfârșit",
+    "duration": "Durata (Zile)",
+    "totalRooms": "Camere Totale",
+    "availableRooms": "Camere Disponibile",
+    "status": "Status",
+    "actions": "Acțiuni",
+    "noPackages": "Nu s-au găsit pachete de disponibilitate",
+    "createFirstPackage": "Creează primul tău pachet de disponibilitate pentru a începe să accepți rezervări",
+    "validation": {
+      "startDateRequired": "Data de început este obligatorie",
+      "endDateRequired": "Data de sfârșit este obligatorie",
+      "pastDate": "Data de început nu poate fi în trecut",
+      "endDateBeforeStart": "Data de sfârșit trebuie să fie după data de început",
+      "invalidWeekday": "Data de început trebuie să coincidă cu ziua de check-in a hotelului tău",
+      "roomsMinimum": "Este necesară cel puțin 1 cameră",
+      "roomsMaximum": "Maxim 100 de camere permise",
+      "invalidDuration": "Durata trebuie să fie de 8, 15, 22 sau 29 de zile",
+      "dateOverlap": "Datele pachetului se suprapun cu pachete existente",
+      "cannotReduceRooms": "Nu se pot reduce camerele sub numărul deja rezervat"
+    },
+    "status": {
+      "active": "Activ",
+      "upcoming": "Viitor",
+      "past": "Trecut",
+      "available": "Disponibil",
+      "soldOut": "Epuizat"
+    },
+    "rules": {
+      "title": "Reguli de Gestionare a Pachetelor",
+      "noOverlap": "Pachetele nu se pot suprapune în date",
+      "fixedDurations": "Durata trebuie să fie de 8, 15, 22 sau 29 de zile",
+      "weekdayRestriction": "Ziua de check-in trebuie să coincidă cu ziua preferată a hotelului",
+      "bookingRestrictions": "Pachetele cu rezervări nu pot fi editate sau șterse",
+      "deleteRestriction": "Doar pachetele viitoare fără rezervări pot fi șterse",
+      "roomIncrease": "Numărul de camere poate fi mărit doar dacă există rezervări active",
+      "realTimeSync": "Toate modificările se sincronizează în timp real pe întreaga platformă"
+    }
+  }
+}

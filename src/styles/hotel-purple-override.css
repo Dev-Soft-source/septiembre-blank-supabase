@@ -1,0 +1,205 @@
+/* 
+ * Global Hotel Purple Color Override Patch
+ * Replaces all instances of old purple variants with unified color #7204B8
+ */
+
+:root {
+  /* Define the unified hotel purple color */
+  --hotel-purple-unified: #7204B8;
+  
+  /* Map old color variables to new unified color */
+  --hotel-purple-old1: var(--hotel-purple-unified); /* Replaces #7A0486 */
+  --hotel-purple-old2: var(--hotel-purple-unified); /* Replaces #5C0869 */
+  --hotel-purple-old3: var(--hotel-purple-unified); /* Replaces #5D0478 */
+}
+
+/* COMPREHENSIVE GLOBAL COLOR OVERRIDE - HIGHEST PRIORITY */
+/* Target ALL purple variants used in dashboard components */
+
+/* Direct hex color overrides in inline styles */
+[style*="#7A0486"], [style*="#7a0486"],
+[style*="#5C0869"], [style*="#5c0869"], 
+[style*="#5D0478"], [style*="#5d0478"],
+[style*="#9939f9"], [style*="#a54afe"], 
+[style*="#bd48ef"], [style*="#8B5CF6"],
+[style*="#A855F7"], [style*="#9333EA"] {
+  background-color: #7204B8 !important;
+}
+
+/* Tailwind arbitrary value classes */
+.bg-\[#7a0486\], .bg-\[#7A0486\],
+.bg-\[#5c0869\], .bg-\[#5C0869\],
+.bg-\[#5d0478\], .bg-\[#5D0478\],
+.bg-\[#9939f9\], .bg-\[#a54afe\],
+.bg-\[#bd48ef\], .bg-\[#8B5CF6\],
+.bg-\[#A855F7\], .bg-\[#9333EA\] {
+  background-color: #7204B8 !important;
+}
+
+/* Fuchsia and Purple Tailwind variants */
+.bg-fuchsia-500, .bg-fuchsia-600, .bg-fuchsia-700,
+.bg-purple-500, .bg-purple-600, .bg-purple-700,
+.bg-violet-500, .bg-violet-600, .bg-violet-700 {
+  background-color: #7204B8 !important;
+}
+
+/* Glass card backgrounds with purple */
+.glass-card[style*="#"], 
+.glass-card.bg-\[,
+div[class*="bg-\[#"][class*="glass"],
+div[class*="glass"][class*="bg-\[#"] {
+  background-color: #7204B8 !important;
+}
+
+/* Specific component targeting */
+.dashboard-card, .stat-card, .action-card,
+[class*="DashboardCard"], [class*="StatCard"], [class*="ActionCard"] {
+  background-color: #7204B8 !important;
+}
+
+/* Gradients - update all purple gradient variants */
+.bg-gradient-to-br.from-fuchsia-500\/20.to-fuchsia-900\/20,
+.bg-gradient-to-r.from-purple-500.to-purple-700,
+.bg-gradient-to-br.from-purple-500\/20.to-purple-900\/20 {
+  background: linear-gradient(to bottom right, rgba(114, 4, 184, 0.2), rgba(114, 4, 184, 0.8)) !important;
+}
+
+/* Border colors */
+.border-fuchsia-500\/20, .border-purple-500\/20 {
+  border-color: rgba(114, 4, 184, 0.2) !important;
+}
+
+/* Text colors */
+.text-fuchsia-300, .text-purple-300 {
+  color: #c084fc !important;
+}
+
+/* Hover states */
+.hover\:bg-fuchsia-500\/10:hover,
+.hover\:bg-purple-500\/10:hover {
+  background-color: rgba(114, 4, 184, 0.1) !important;
+}
+
+/* Mobile-specific overrides */
+@media (max-width: 768px) {
+  .glass-card, .dashboard-card, .stat-card, .action-card,
+  [class*="bg-\[#"], [style*="#7A0486"], [style*="#5C0869"], [style*="#5D0478"],
+  [style*="#9939f9"], [style*="#a54afe"], [style*="#bd48ef"] {
+    background-color: #7204B8 !important;
+  }
+}
+
+/* Force override any remaining purple variants */
+* {
+  --purple-override: #7204B8;
+}
+
+*[style*="#7A0486"], *[style*="#5C0869"], *[style*="#5D0478"],
+*[style*="#9939f9"], *[style*="#a54afe"], *[style*="#bd48ef"] {
+  background-color: var(--purple-override) !important;
+}
+
+/* RGBA overrides with proper opacity preservation */
+[style*="rgba(122, 4, 134"], [style*="rgba(92, 8, 105"], [style*="rgba(93, 4, 120"],
+[style*="rgba(153, 57, 249"], [style*="rgba(165, 74, 254"], [style*="rgba(189, 72, 239"] {
+  background-color: rgba(114, 4, 184, var(--tw-bg-opacity, 1)) !important;
+}
+
+/* TEXT VISIBILITY PATCH FOR PURPLE BACKGROUNDS */
+/* Ensure all form text is visible on purple backgrounds */
+
+/* Global form field text color fixes for purple backgrounds */
+.bg-\[#7E26A6\] input,
+.bg-\[#7E26A6\] textarea, 
+.bg-\[#7E26A6\] select,
+.bg-\[#7204B8\] input,
+.bg-\[#7204B8\] textarea,
+.bg-\[#7204B8\] select,
+.bg-purple-500 input,
+.bg-purple-600 input,
+.bg-purple-700 input,
+.bg-purple-500 textarea,
+.bg-purple-600 textarea,
+.bg-purple-700 textarea,
+.bg-fuchsia-500 input,
+.bg-fuchsia-600 input,
+.bg-fuchsia-700 input,
+.bg-fuchsia-500 textarea,
+.bg-fuchsia-600 textarea,
+.bg-fuchsia-700 textarea,
+[class*="bg-\[#"][class*="purple"] input,
+[class*="bg-\[#"][class*="purple"] textarea,
+[style*="#7E26A6"] input,
+[style*="#7E26A6"] textarea,
+[style*="#7204B8"] input,
+[style*="#7204B8"] textarea {
+  color: #FFFFFF !important;
+  caret-color: #FFFFFF !important;
+}
+
+/* Placeholder text visibility */
+.bg-\[#7E26A6\] input::placeholder,
+.bg-\[#7E26A6\] textarea::placeholder,
+.bg-\[#7204B8\] input::placeholder,
+.bg-\[#7204B8\] textarea::placeholder,
+.bg-purple-500 input::placeholder,
+.bg-purple-600 input::placeholder,
+.bg-purple-700 input::placeholder,
+.bg-purple-500 textarea::placeholder,
+.bg-purple-600 textarea::placeholder,
+.bg-purple-700 textarea::placeholder,
+.bg-fuchsia-500 input::placeholder,
+.bg-fuchsia-600 input::placeholder,
+.bg-fuchsia-700 input::placeholder,
+.bg-fuchsia-500 textarea::placeholder,
+.bg-fuchsia-600 textarea::placeholder,
+.bg-fuchsia-700 textarea::placeholder,
+[class*="bg-\[#"][class*="purple"] input::placeholder,
+[class*="bg-\[#"][class*="purple"] textarea::placeholder,
+[style*="#7E26A6"] input::placeholder,
+[style*="#7E26A6"] textarea::placeholder,
+[style*="#7204B8"] input::placeholder,
+[style*="#7204B8"] textarea::placeholder {
+  color: #FFFFFF !important;
+  opacity: 0.8 !important;
+}
+
+/* Labels and form legends on purple backgrounds */
+.bg-\[#7E26A6\] label,
+.bg-\[#7E26A6\] legend,
+.bg-\[#7E26A6\] .form-label,
+.bg-\[#7204B8\] label,
+.bg-\[#7204B8\] legend,
+.bg-\[#7204B8\] .form-label,
+.bg-purple-500 label,
+.bg-purple-600 label,
+.bg-purple-700 label,
+.bg-purple-500 legend,
+.bg-purple-600 legend,
+.bg-purple-700 legend,
+.bg-fuchsia-500 label,
+.bg-fuchsia-600 label,
+.bg-fuchsia-700 label,
+.bg-fuchsia-500 legend,
+.bg-fuchsia-600 legend,
+.bg-fuchsia-700 legend,
+[class*="bg-\[#"][class*="purple"] label,
+[class*="bg-\[#"][class*="purple"] legend,
+[style*="#7E26A6"] label,
+[style*="#7E26A6"] legend,
+[style*="#7204B8"] label,
+[style*="#7204B8"] legend {
+  color: #FFFFFF !important;
+}
+
+/* Additional form elements visibility */
+.bg-\[#7E26A6\] .text-black,
+.bg-\[#7204B8\] .text-black,
+.bg-purple-500 .text-black,
+.bg-purple-600 .text-black,
+.bg-purple-700 .text-black,
+.bg-fuchsia-500 .text-black,
+.bg-fuchsia-600 .text-black,
+.bg-fuchsia-700 .text-black {
+  color: #FFFFFF !important;
+}

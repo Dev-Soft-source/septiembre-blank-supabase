@@ -1,0 +1,180 @@
+{
+  "title": "Panel Líder de Grupo",
+  "tabs": {
+    "presentation": "Presentación",
+    "presentationDesc": "Bienvenida y resumen",
+    "myGroups": "Mis Grupos",
+    "myGroupsDesc": "Gestiona tus grupos",
+    "proposeGroup": "Proponer Nuevo Grupo",
+    "proposeGroupDesc": "Crear propuestas de grupo",
+    "publicPage": "Mi Página Pública",
+    "publicPageDesc": "Tu perfil público",
+    "hotelProposals": "Propuestas de Hoteles",
+    "hotelProposalsDesc": "Ver ofertas de hoteles",
+    "finances": "Mis Finanzas",
+    "financesDesc": "Seguir ganancias",
+    "myData": "Mis Datos",
+    "myDataDesc": "Configuración de perfil"
+  },
+  "hotelProposals": {
+    "title": "Propuestas de Hoteles",
+    "noProposals": "Aún no hay propuestas de hoteles",
+    "noProposalsDesc": "Los hoteles te enviarán propuestas para estancias grupales aquí",
+    "fields": {
+      "hotelName": "Nombre del Hotel",
+      "city": "Ciudad",
+      "affinity": "Afinidad",
+      "proposedDates": "Fechas Propuestas",
+      "availableRooms": "Habitaciones Disponibles",
+      "hotelPage": "Página del Hotel"
+    }
+  },
+  "finances": {
+    "title": "Mis Finanzas",
+    "totalEarned": "Total Ganado",
+    "pendingPayment": "Pago Pendiente",
+    "totalPaid": "Total Pagado",
+    "paymentHistory": "Historial de Pagos",
+    "noPayments": "No hay historial de pagos disponible"
+  },
+  "myData": {
+    "title": "Mis Datos de Perfil",
+    "updateProfile": "Actualiza la información de tu perfil",
+    "comingSoon": "Esta función estará disponible pronto"
+  },
+  "publicPage": {
+    "title": "Mi Página Pública",
+    "description": "Ver tu perfil público de líder"
+  },
+  "welcome": {
+    "title": "🎉 ¿Estás preparado para una nueva vida?",
+    "subtitle": "Puedes comenzar a vivir en hoteles, organizar estancias con personas afines y generar ingresos solo por compartir tu estilo de vida. El límite lo marcas tú. Viaja, crea tu grupo, comparte tu energía y transforma tu forma de vivir.",
+    "personalCode": "Código personal",
+    "copyCode": "Copiar mi código",
+    "shareMessage": "Comparte este código con las personas que invites. Activa sus benefícios especiales y tus bonificaciones."
+  },
+  "myGroup": {
+    "title": "Mi Grupo",
+    "groupSummary": {
+      "title": "Resumen del Grupo",
+      "linkedHotel": "Hotel vinculado",
+      "affinity": "Afinidad",
+      "noHotel": "Ningún hotel vinculado",
+      "noAffinity": "Sin afinidad definida"
+    },
+    "invitedPeople": {
+      "title": "Personas invitadas",
+      "name": "Nombre completo",
+      "status": "Estado",
+      "comment": "Comentario",
+      "pending": "Pendiente",
+      "confirmed": "Confirmada",
+      "addPerson": "Añadir persona",
+      "save": "Guardar",
+      "cancel": "Cancelar",
+      "edit": "Editar",
+      "delete": "Eliminar"
+    },
+    "confirmedReservations": {
+      "title": "Reservas confirmadas",
+      "guestName": "Huésped",
+      "hotel": "Hotel",
+      "stayDates": "Fechas de estancia",
+      "codeUsed": "Código usado",
+      "status": "Estado",
+      "confirmed": "Confirmada",
+      "cancelled": "Cancelada",
+      "pending": "Pendiente",
+      "yes": "Sí",
+      "no": "No"
+    },
+    "accumulatedBonuses": {
+      "title": "Bonificaciones acumuladas",
+      "total": "Total",
+      "breakdown": "Desglose",
+      "name": "Nombre",
+      "amount": "Cantidad",
+      "status": "Estado",
+      "paid": "Pagado",
+      "pending": "Pendiente",
+      "bonusNote": "Los bonos solo se completan cuando el cliente abone en el hotel la diferencia del 85%"
+    }
+  },
+  "myGroups": {
+    "title": "Mis Grupos",
+    "groupName": "Nombre del Grupo",
+    "affinity": "Afinidad",
+    "hotel": "Hotel",
+    "dates": "Fechas del Grupo",
+    "members": "Personas que se han sumado al grupo",
+    "memberName": "Nombre",
+    "stayData": "Datos de Estancia",
+    "memberStatus": "Estado",
+    "memberComments": "Comentarios",
+    "joined": "Unido",
+    "pending": "Pendiente",
+    "noGroups": "No hay grupos creados aún",
+    "proposeGroup": {
+      "title": "Proponer un Nuevo Grupo",
+      "groupTopic": "Tema del grupo",
+      "proposedHotel": "Hotel propuesto",
+      "submit": "Enviar a Hotel Living"
+    }
+  },
+  "publicPage": {
+    "link": "Mi Página Pública"
+  },
+  "leaderTools": {
+    "title": "Herramientas del Líder",
+    "editProfile": {
+      "title": "Editar perfil",
+      "name": "Nombre",
+      "languages": "Idiomas",
+      "bio": "Biografía",
+      "affinity": "Afinidad (opcional)",
+      "save": "Guardar cambios",
+      "cancel": "Cancelar"
+    },
+    "createGroup": {
+      "title": "Crear o proponer un grupo",
+      "groupName": "Nombre del grupo",
+      "affinity": "Afinidad (opcional)",
+      "hotel": "Hotel",
+      "selectHotel": "Seleccionar hotel",
+      "saveProposal": "Guardar propuesta"
+    },
+    "helpSupport": {
+      "title": "Ayuda y Soporte",
+      "faqs": "Preguntas frecuentes Líder de Grupo",
+      "chatWithMaria": "Chat automático con María",
+      "supportForm": "Formulario de soporte",
+      "yourName": "Tu nombre",
+      "yourEmail": "Tu email",
+      "message": "Mensaje",
+      "send": "Enviar"
+    }
+  },
+  "quickActions": {
+    "title": "Acciones Rápidas",
+    "invitePeople": "Invitar personas",
+    "inviteMessage": "Únete a mi grupo en Hotel Living. Puedes elegir 8, 15, 22 o 29 días en el hotel que he elegido. Usa este código: {code} para recibir beneficios especiales y compartir esta experiencia conmigo.",
+    "hotelLink": "Ver página del hotel",
+    "leaderProfile": "Mi perfil público"
+  },
+  "footer": {
+    "message": "Cuantas más personas se sumen, más grande será tu bonificación."
+  },
+  "actions": {
+    "logOut": "Cerrar sesión"
+  },
+  "notifications": {
+    "codeCopied": "Código copiado al portapapeles",
+    "inviteMessageCopied": "Mensaje de invitación copiado",
+    "profileUpdated": "Perfil actualizado con éxito",
+    "groupCreated": "Grupo creado con éxito",
+    "supportMessageSent": "Mensaje de soporte enviado",
+    "personAdded": "Persona añadida con éxito",
+    "personUpdated": "Persona actualizada con éxito",
+    "personDeleted": "Persona eliminada con éxito"
+  }
+}

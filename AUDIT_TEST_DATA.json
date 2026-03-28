@@ -1,0 +1,300 @@
+{
+  "testUsers": {
+    "regularUser": {
+      "email": "audit.user@test-audit.com",
+      "password": "AuditTest123!",
+      "firstName": "Audit",
+      "lastName": "User",
+      "role": "user"
+    },
+    "hotelOwner": {
+      "email": "audit.hotel@test-audit.com", 
+      "password": "AuditHotel123!",
+      "firstName": "Hotel",
+      "lastName": "Owner",
+      "role": "hotel_owner"
+    },
+    "association": {
+      "email": "audit.association@test-audit.com",
+      "password": "AuditAssoc123!",
+      "firstName": "Association",
+      "lastName": "Manager", 
+      "role": "association"
+    },
+    "promoter": {
+      "email": "audit.promoter@test-audit.com",
+      "password": "AuditPromo123!",
+      "firstName": "Promoter",
+      "lastName": "Agent",
+      "role": "promoter"
+    },
+    "agent": {
+      "email": "audit.agent@test-audit.com",
+      "password": "AuditAgent123!",
+      "firstName": "Sales",
+      "lastName": "Agent",
+      "role": "agent"
+    },
+    "leader": {
+      "email": "audit.leader@test-audit.com",
+      "password": "AuditLeader123!",
+      "firstName": "Group",
+      "lastName": "Leader",
+      "role": "leaderliving"
+    }
+  },
+  "testHotel": {
+    "name": "Audit Test Hotel",
+    "description": "A beautiful test hotel for external audit validation purposes. This hotel showcases all platform features and capabilities in a controlled testing environment.",
+    "country": "Spain",
+    "city": "Barcelona",
+    "address": "123 Audit Street, Test District",
+    "postal_code": "08001",
+    "contact_name": "Audit Hotel Manager",
+    "contact_email": "audit.hotel@test-audit.com",
+    "contact_phone": "+34 123 456 789",
+    "property_type": "Hotel",
+    "style": "Modern",
+    "category": 4,
+    "total_rooms": 50,
+    "ideal_guests": "Digital nomads and remote workers seeking comfortable accommodation",
+    "atmosphere": "Professional yet relaxed environment perfect for work and leisure",
+    "perfect_location": "Located in the heart of Barcelona with excellent transport connections",
+    "room_description": "Comfortable rooms with modern amenities, high-speed Wi-Fi, and workspace areas",
+    "weekly_laundry_included": true,
+    "external_laundry_available": true,
+    "stay_lengths": [8, 15, 22, 29],
+    "meals_offered": ["breakfast", "half_board", "full_board"],
+    "available_months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+    "price_per_month": 1200,
+    "check_in_weekday": "Monday",
+    "features_hotel": {
+      "wifi": true,
+      "parking": true,
+      "gym": true,
+      "pool": false,
+      "spa": true,
+      "restaurant": true,
+      "bar": true,
+      "conference_room": true
+    },
+    "features_room": {
+      "air_conditioning": true,
+      "heating": true,
+      "tv": true,
+      "minibar": true,
+      "safe": true,
+      "balcony": false,
+      "kitchenette": true,
+      "workspace": true
+    },
+    "themes": ["Digital Nomad", "Business Travel"],
+    "activities": ["City Tours", "Coworking Spaces", "Networking Events"]
+  },
+  "testAvailabilityPackages": [
+    {
+      "start_date": "2024-04-01",
+      "end_date": "2024-04-08", 
+      "duration_days": 8,
+      "total_rooms": 10,
+      "available_rooms": 8,
+      "occupancy_mode": "double",
+      "meal_plan": "breakfast",
+      "base_price_usd": 800,
+      "current_price_usd": 750
+    },
+    {
+      "start_date": "2024-04-15",
+      "end_date": "2024-04-29",
+      "duration_days": 15,
+      "total_rooms": 15,
+      "available_rooms": 12,
+      "occupancy_mode": "double",
+      "meal_plan": "half_board",
+      "base_price_usd": 1500,
+      "current_price_usd": 1400
+    },
+    {
+      "start_date": "2024-05-01",
+      "end_date": "2024-05-22",
+      "duration_days": 22,
+      "total_rooms": 20,
+      "available_rooms": 18,
+      "occupancy_mode": "single",
+      "meal_plan": "full_board",
+      "base_price_usd": 2200,
+      "current_price_usd": 2100
+    },
+    {
+      "start_date": "2024-06-01",
+      "end_date": "2024-06-29",
+      "duration_days": 29,
+      "total_rooms": 25,
+      "available_rooms": 20,
+      "occupancy_mode": "double",
+      "meal_plan": "breakfast",
+      "base_price_usd": 2900,
+      "current_price_usd": 2750
+    }
+  ],
+  "validationCheckpoints": {
+    "1_account_creation": {
+      "title": "Account Creation & Email Verification",
+      "steps": [
+        "Navigate to /auth page",
+        "Click 'Create Account' for each role type",
+        "Fill out registration form with test data",
+        "Submit registration",
+        "Check email for verification link",
+        "Click verification link", 
+        "Confirm account is activated"
+      ],
+      "expectedResults": [
+        "Registration form accepts valid data",
+        "Verification email delivered within 60 seconds",
+        "Verification link is functional and secure",
+        "Account status changes to verified",
+        "User can sign in after verification"
+      ]
+    },
+    "2_signin_process": {
+      "title": "Sign-in Authentication",
+      "steps": [
+        "Navigate to /auth page",
+        "Enter verified email and password",
+        "Click sign in button",
+        "Verify redirection to appropriate dashboard"
+      ],
+      "expectedResults": [
+        "Authentication succeeds with valid credentials",
+        "Role-appropriate dashboard loads",
+        "Session persists across page reloads",
+        "Invalid credentials are rejected with clear error"
+      ]
+    },
+    "3_dashboard_access": {
+      "title": "Role-based Dashboard Access",
+      "steps": [
+        "Sign in as each role type",
+        "Verify dashboard features match role permissions",
+        "Test role-specific functionality",
+        "Verify no access to unauthorized features"
+      ],
+      "expectedResults": [
+        "Each role sees appropriate dashboard",
+        "Role permissions strictly enforced",
+        "No cross-role data access",
+        "Admin features only accessible to admins"
+      ]
+    },
+    "4_language_switching": {
+      "title": "Multi-language Support",
+      "steps": [
+        "Access any page of the application",
+        "Use language selector in header",
+        "Switch to Spanish (ES)",
+        "Switch to Portuguese (PT)", 
+        "Switch to Romanian (RO)",
+        "Return to English (EN)",
+        "Verify translations across different pages"
+      ],
+      "expectedResults": [
+        "Language changes immediately",
+        "All UI elements translate correctly",
+        "Language preference persists",
+        "No untranslated content visible"
+      ]
+    },
+    "5_data_protection": {
+      "title": "Data Protection & Privacy",
+      "steps": [
+        "Access hotel pages without authentication",
+        "Sign in as regular user and re-access",
+        "Sign in as hotel owner and access own hotel",
+        "Sign in as admin and access all data"
+      ],
+      "expectedResults": [
+        "Public view shows only non-sensitive data",
+        "Contact details hidden from public",
+        "Users only see own data",
+        "Owners only access owned hotels",
+        "Admins have appropriate full access"
+      ]
+    },
+    "6_hotel_registration": {
+      "title": "Hotel Registration Flow",
+      "steps": [
+        "Access hotel registration page",
+        "Complete registration with test hotel data",
+        "Submit registration form",
+        "Check email for verification",
+        "Verify email and activate hotel account",
+        "Sign in to hotel dashboard",
+        "Verify hotel appears as 'pending approval'"
+      ],
+      "expectedResults": [
+        "Registration form validation works correctly",
+        "All required fields are enforced",
+        "Email verification is mandatory",
+        "Hotel dashboard becomes accessible",
+        "Hotel status shows as pending",
+        "Admin receives notification of new hotel"
+      ]
+    },
+    "7_availability_packages": {
+      "title": "Availability Package Management",
+      "steps": [
+        "Sign in as hotel owner",
+        "Navigate to availability package section",
+        "Create new package with 8-day duration",
+        "Create new package with 15-day duration", 
+        "Create new package with 22-day duration",
+        "Create new package with 29-day duration",
+        "Verify packages save to database",
+        "Check packages appear in hotel dashboard",
+        "Verify packages visible on public hotel page"
+      ],
+      "expectedResults": [
+        "Package creation form validates input",
+        "Only valid durations (8,15,22,29) accepted",
+        "Packages save successfully to Supabase",
+        "Packages appear in hotel management dashboard",
+        "Packages display on public hotel page",
+        "All language variants work correctly",
+        "Price and availability data accurate"
+      ]
+    }
+  },
+  "securityTests": {
+    "rls_validation": {
+      "title": "Row Level Security Validation",
+      "description": "Verify that users cannot access data they don't own",
+      "tests": [
+        "Attempt to access another user's profile data",
+        "Try to modify another hotel's information",
+        "Verify bookings are isolated per user",
+        "Confirm admin-only data is protected"
+      ]
+    },
+    "authentication_bypass": {
+      "title": "Authentication Bypass Prevention", 
+      "description": "Verify protected routes require authentication",
+      "tests": [
+        "Access dashboard without login (should redirect)",
+        "Access admin routes without admin role",
+        "Verify JWT token validation works",
+        "Test session expiration handling"
+      ]
+    },
+    "data_validation": {
+      "title": "Input Validation & Sanitization",
+      "description": "Verify all inputs are properly validated",
+      "tests": [
+        "Test SQL injection prevention",
+        "Verify XSS protection",
+        "Test file upload security",
+        "Verify email format validation"
+      ]
+    }
+  }
+}

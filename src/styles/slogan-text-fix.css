@@ -1,0 +1,29 @@
+/* Slogan text color fix - Maximum specificity to override all conflicts */
+
+/* Target the specific slogan span elements with maximum specificity */
+.slogan-text,
+.slogan-text span,
+span.slogan-text {
+  color: #FFEB3B !important;
+  /* Computed RGB: rgb(255, 235, 59) */
+}
+
+/* Additional specificity for animation-safe rendering */
+.slogan-container .slogan-text,
+.slogan-container .slogan-text span,
+div.slogan-container span.slogan-text {
+  color: #FFEB3B !important;
+}
+
+/* Ensure the color persists during any transitions/animations */
+.slogan-text,
+.slogan-text * {
+  color: #FFEB3B !important;
+  transition: none !important; /* Prevent color transitions that might override */
+}
+
+/* Override any potential inherited text colors */
+.slogan-text {
+  -webkit-text-fill-color: #FFEB3B !important;
+  text-fill-color: #FFEB3B !important;
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Nossos líderes",
+  "description": "Descubra líderes e grupos ativos do Hotel‑Living",
+  "seeOurLeaders": "Ver nossos líderes →",
+  "labels": {
+    "affinity": "Afinidade",
+    "activities": "Atividades",
+    "currentGroup": "Grupo atual",
+    "packages": "Pacotes disponíveis",
+    "occupancy": "Ocupação",
+    "price": "Preço",
+    "book": "Reservar"
+  },
+  "noPackages": "Não há pacotes disponíveis agora",
+  "notFound": "Líder não encontrado"
+}

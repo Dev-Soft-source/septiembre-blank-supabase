@@ -1,0 +1,15 @@
+
+{
+  "misc": {
+    "comingSoon": "Coming Soon",
+    "underConstruction": "Under Construction",
+    "pageNotFound": "Page Not Found",
+    "serverError": "Server Error",
+    "tryAgain": "Try Again",
+    "goHome": "Go Home",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "showLess": "Show Less",
+    "viewAll": "View All"
+  }
+}

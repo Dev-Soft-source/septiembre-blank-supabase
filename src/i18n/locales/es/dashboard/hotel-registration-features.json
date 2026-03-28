@@ -1,0 +1,42 @@
+{
+  "hotelFeatures": {
+    "wifi": "Wi-Fi",
+    "pool": "Piscina",
+    "gym": "Gimnasio",
+    "spa": "Spa",
+    "restaurant": "Restaurante",
+    "bar": "Bar",
+    "businessCenter": "Centro de Negocios",
+    "meetingRooms": "Salas de Reuniones",
+    "laundry": "Servicio de Lavandería",
+    "roomService": "Servicio a la Habitación",
+    "concierge": "Servicio de Conserjería",
+    "parking": "Estacionamiento",
+    "elevator": "Ascensor",
+    "reception24h": "Recepción 24h",
+    "garden": "Jardín",
+    "terrace": "Terraza",
+    "conferenceRoom": "Sala de Conferencias",
+    "luggageStorage": "Depósito de Equipaje"
+  },
+  "roomFeatures": {
+    "airConditioning": "Aire Acondicionado",
+    "heating": "Calefacción",
+    "balcony": "Balcón",
+    "kitchenette": "Cocineta",
+    "minibar": "Minibar",
+    "safe": "Caja Fuerte",
+    "tv": "Televisión",
+    "desk": "Escritorio de Trabajo",
+    "wardrobe": "Armario",
+    "privateBathroom": "Baño Privado",
+    "hairDryer": "Secador de Cabello",
+    "iron": "Plancha",
+    "coffeeMaker": "Cafetera",
+    "blackoutCurtains": "Cortinas Blackout",
+    "cityView": "Vista a la Ciudad",
+    "seaView": "Vista al Mar",
+    "mountainView": "Vista a la Montaña",
+    "gardenView": "Vista al Jardín"
+  }
+}

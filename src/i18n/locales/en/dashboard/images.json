@@ -1,0 +1,29 @@
+
+{
+  "dashboard": {
+    "images": {
+      "title": "Images",
+      "hotelImages": "Hotel Images",
+      "roomImages": "Room Images",
+      "amenityImages": "Amenity Images",
+      "uploadImages": "Upload Images",
+      "dragDropPhotos": "Drag and drop photos here",
+      "orClickToBrowse": "or click to browse",
+      "uploadAtLeastOneImage": "Please upload at least one image",
+      "supportedFormats": "Supported formats: JPG, PNG, WebP",
+      "maxFileSize": "Maximum file size: 10MB",
+      "maxImages": "Maximum images: 20",
+      "imageGallery": "Image Gallery",
+      "mainImage": "Main Image",
+      "setAsMain": "Set as Main",
+      "deleteImage": "Delete Image",
+      "imageDescription": "Image Description",
+      "imageAltText": "Alt Text",
+      "uploadProgress": "Upload Progress",
+      "uploadComplete": "Upload Complete",
+      "uploadFailed": "Upload Failed",
+      "processing": "Processing...",
+      "optimizing": "Optimizing images..."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "fallbackAssociation": "Cara Associação",
+  "greeting": "Cara {{associationName}}",
+  "question": "Quanto dinheiro vocês e seus hotéis perdem a cada ano por tantos milhares de quartos vazios?",
+  "calculatorTitle": "Calculadora Integrada",
+  "resultsTitle": "RESULTADOS INSTANTÂNEOS",
+  "societyChanged": {
+    "title": "A SOCIEDADE MUDOU. NOSSO MODELO NÃO.",
+    "content": [
+      "Como é sabido, as grandes redes hoteleiras (Hyatt, Marriott, Hilton, Accor, IHG, Radisson e muitas mais) há anos vêm rentabilizando e ampliando o novo modelo social que nossa sociedade vai impondo: as estadias residenciais em hotéis, de média e longa duração.",
+      "APENAS PARA AS GRANDES REDES HOTELEIRAS?",
+      "Não. Graças ao Hotel-Living.com, centenas de milhares de hotéis independentes podem começar a cobrar já os imensos benefícios deste modelo.",
+      "E ainda mais: nosso modelo oferece ferramentas únicas projetadas especialmente para hotéis independentes, que concede benefícios ainda maiores frente às grandes redes."
+    ]
+  },
+  "joinButton": "Junte-se sem compromisso"
+}

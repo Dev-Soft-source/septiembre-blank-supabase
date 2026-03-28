@@ -1,0 +1,29 @@
+
+{
+  "dashboard": {
+    "contact": {
+      "title": "Contact Information",
+      "contactDetails": "Contact Details",
+      "phone": "Phone",
+      "email": "Email",
+      "website": "Website",
+      "socialMedia": "Social Media",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "contactPerson": "Contact Person",
+      "managerName": "Manager Name",
+      "managerEmail": "Manager Email",
+      "managerPhone": "Manager Phone",
+      "emergencyContact": "Emergency Contact",
+      "businessHours": "Business Hours",
+      "checkInTime": "Check-in Time",
+      "checkOutTime": "Check-out Time",
+      "receptionHours": "Reception Hours",
+      "phoneValidation": "Please enter a valid phone number",
+      "emailValidation": "Please enter a valid email address",
+      "websiteValidation": "Please enter a valid website URL"
+    }
+  }
+}

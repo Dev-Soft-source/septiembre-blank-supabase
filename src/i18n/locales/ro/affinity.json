@@ -1,0 +1,77 @@
+
+{
+  "affinity": {
+    "affinityStaysTitle": "Afinități\nHotel-Living",
+    "affinityDescription": "Alege hoteluri bazate pe interesele și preferințele tale pentru a împărtăși experiențe unice cu persoane cu aceleași interese.",
+    "exploreThemes": "Explorează teme și interese",
+    "joinAffinityGroups": "Alătură-te grupurilor tematice",
+    "createAffinityExperience": "Creează experiență tematică",
+    "howardSchultzQuote": "Când te înconjori de oameni care împărtășesc un angajament pasionat în jurul unui scop comun, totul este posibil",
+    "howardSchultzAuthor": "Howard Schultz",
+    "slogans": {
+      "notJustStay": "Cei dragi te așteaptă",
+      "meetShareBelong": "Cei care îți împărtășesc gusturile și mentalitatea.",
+      "stayWithThoseWhoGetYou": "Afinitățile Hotel-Living<br>vă ajută să vă întâlniți",
+      "tiredOfRandom": "Pentru că cele mai bune șederi<br>încep cu persoanele potrivite",
+      "stayAndConnect": "Afinități Hotel-Living.<br>Noua ta viață începe aici"
+    },
+    "faq": {
+      "whatAreAffinityHotels": {
+        "question": "Ce sunt Afinitățile Hotel-Living?",
+        "answer": "Sunt teme sau interese comune care permit oaspeților să se conecteze între ei și să împărtășească experiențe în timpul șederii lor."
+      },
+      "tiredOfTravelingAlone": {
+        "question": "Obosit să călătorești singur? Vrei să întâlnești oameni care te înțeleg cu adevărat?",
+        "answer": "Hotel-Living facilitează găsirea persoanelor care împart interesele tale, pentru ca șederea ta să fie mai socială și îmbogățitoare."
+      },
+      "whatExactlyIsAffinityHotel": {
+        "question": "Ce este exact un Hotel de Afinități?",
+        "answer": "Este un hotel care publică o temă și invită clienți interesați de o temă specifică, ajutând oaspeții cu afinități similare să se reunească."
+      },
+      "willIMakeFriends": {
+        "question": "Voi face prieteni?",
+        "answer": "Este foarte posibil. Hotelurile de afinități sunt concepute pentru a încuraja conexiunea între persoane cu gusturi și interese similare."
+      },
+      "doesHotelOrganizeActivities": {
+        "question": "Hotelul organizează activități?",
+        "answer": "Unele hoteluri pot oferi activități opționale legate de tema de afinitate, dar nu este obligatoriu să participi."
+      },
+      "isThereAlwaysGroupLeader": {
+        "question": "Există întotdeauna un coordonator sau gazda?",
+        "answer": "Nu neapărat. Unele hoteluri au un coordonator, dar altele pur și simplu creează mediul pentru ca conexiunile să curgă natural."
+      },
+      "isHotelDecoratedAroundTheme": {
+        "question": "Hotelul este decorat conform temei?",
+        "answer": "În general nu, dar în unele cazuri decorațiunea și atmosfera hotelului pot fi aliniate cu tema de afinitate aleasă."
+      },
+      "howLongAreStays": {
+        "question": "Cât de lungi sunt șederile?",
+        "answer": "Șederile, reînnoibile în funcție de disponibilitate, sunt de 8, 15, 22 sau 29 de zile, în funcție de planul pe care îl alegi și de hotel."
+      },
+      "canITryDifferentAffinities": {
+        "question": "Pot încerca afinități diferite în hoteluri diferite?",
+        "answer": "Desigur. Poți alege afinități diferite la fiecare ședere nouă sau chiar să combini mai multe în același hotel dacă este disponibil."
+      },
+      "whatIfJustWantToRelax": {
+        "question": "Și dacă vreau doar să mă relaxez?",
+        "answer": "Nu este nicio problemă. Participi doar la ceea ce îți place. Liniștea și intimitatea sunt garantate."
+      },
+      "isThisForSoloTravelers": {
+        "question": "Aceasta este doar pentru călătorii singuri?",
+        "answer": "Nu. Afinitățile sunt pentru toate tipurile de călători: singuri, în cuplu, în grup sau în familie."
+      },
+      "whatIfDontFindTheme": {
+        "question": "Și dacă nu găsesc o temă care să se potrivească intereselor mele?",
+        "answer": "Poți întotdeauna să alegi un hotel fără afinitate specifică și să te bucuri în mod egal de experiența Hotel-Living."
+      },
+      "areAffinityThemesAvailable": {
+        "question": "Temele de afinitate sunt disponibile în toate hotelurile asociate?",
+        "answer": "Nu în toate. Depinde de oferta fiecărui hotel, dar vei avea întotdeauna opțiuni de afinități în portal."
+      },
+      "canIConnectWithoutTheme": {
+        "question": "Pot să mă conectez chiar dacă nu există o temă specifică?",
+        "answer": "Da. Chiar și fără o temă specifică, mediul Hotel-Living încurajează întâlnirea și conexiunea între oameni."
+      }
+    }
+  }
+}

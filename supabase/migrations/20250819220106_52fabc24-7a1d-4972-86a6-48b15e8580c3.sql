@@ -1,0 +1,1 @@
+UPDATE hotels SET country = 'USA' WHERE country = 'United States';

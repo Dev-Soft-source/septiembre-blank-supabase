@@ -1,0 +1,46 @@
+{
+  "title": "Registro de Associação",
+  "subtitle": "Registre sua associação para acessar o painel de gestão",
+  "form": {
+    "associationName": "Nome da Associação",
+    "associationNamePlaceholder": "Ex: Associação Marítima",
+    "responsiblePersonName": "Nome completo do responsável",
+    "email": "Email",
+    "emailPlaceholder": "email@associacao.com",
+    "password": "Senha",
+    "passwordPlaceholder": "Criar uma senha",
+    "confirmPassword": "Confirmar Senha",
+    "confirmPasswordPlaceholder": "Confirme sua senha",
+    "country": "País",
+    "countryPlaceholder": "Selecione seu país",
+    "submitButton": "Registrar Associação",
+    "submittingButton": "Registrando..."
+  },
+  "countries": {
+    "Argentina": "Argentina",
+    "Brasil": "Brasil",
+    "Chile": "Chile",
+    "Colombia": "Colômbia",
+    "España": "Espanha",
+    "México": "México",
+    "Perú": "Peru",
+    "Uruguay": "Uruguai",
+    "Otro": "Outro"
+  },
+  "validation": {
+    "requiredFields": "Por favor, preencha todos os campos obrigatórios",
+    "passwordSecurity": "A senha não atende aos requisitos de segurança",
+    "passwordMismatch": "As senhas não coincidem",
+    "emailExists": "Este email já está registrado. Por favor, use outro email ou faça login.",
+    "registrationError": "Erro no registro",
+    "userCreationError": "Erro ao criar conta de usuário",
+    "associationCreationError": "Erro ao registrar associação",
+    "emailError": "Registro bem-sucedido, mas houve um problema ao enviar o email de confirmação. Por favor, entre em contato com o suporte.",
+    "emailSendError": "Registro bem-sucedido, mas não foi possível enviar o email de confirmação. Por favor, entre em contato com o suporte.",
+    "generalError": "Erro durante o registro. Por favor, tente novamente."
+  },
+  "success": {
+    "emailSent": "Registro bem-sucedido! Enviamos um email de confirmação para seu endereço.",
+    "completed": "Registro concluído! Verifique seu email para confirmar sua conta e acessar o painel da associação."
+  }
+}

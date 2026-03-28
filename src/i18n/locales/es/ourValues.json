@@ -1,0 +1,43 @@
+{
+  "ourValues": {
+    "title": "Nuestros Valores y Estándares",
+    "respect": {
+      "title": "Respeto",
+      "content": "Exigimos respeto en las interacciones entre nuestros empleados, clientes y socios. No aceptamos ninguna forma de acoso, discriminación, manipulación, violencia física o cualquier otro comportamiento abusivo o amenazante."
+    },
+    "community": {
+      "title": "Comunidad",
+      "content": "Al alojarse en un establecimiento o usar otros servicios de Hotel-Living.com, pedimos que considere la comunidad local. Trate de limitar o minimizar el ruido que pueda molestar al vecindario, respete las leyes y tradiciones locales, y sea consciente de su impacto en el medio ambiente."
+    },
+    "integrity": {
+      "title": "Integridad",
+      "content": "En Hotel-Living.com, esperamos que nuestros socios y clientes interactúen a través de nuestra plataforma con honestidad y profesionalismo, que no se representen falsamente y que respeten los acuerdos que alcancen."
+    },
+    "compliance": {
+      "title": "Cumplimiento de la Ley",
+      "content": "Hotel-Living.com no tolera el robo, vandalismo, actividades criminales o extorsión. Cualquier tipo de actividad ilegal o peligrosa puede resultar en el bloqueo de la cuenta o alojamiento."
+    },
+    "safety": {
+      "title": "Seguridad Física",
+      "content": "En Hotel-Living.com, la seguridad física de nuestros clientes, socios y empleados es nuestra prioridad. Por lo tanto, le pedimos que no participe o promueva actividades que puedan causar daño a otros o ser consideradas crueldad animal."
+    },
+    "personalInfo": {
+      "title": "Información Personal",
+      "content": "Hotel-Living.com no permite que sus socios o afiliados usen los datos personales de terceros de maneras que violen nuestro acuerdo o la ley aplicable."
+    },
+    "recordings": {
+      "title": "Grabaciones de Audio y Video",
+      "points": [
+        "Al proporcionar servicios a Hotel-Living.com o usar sus servicios, sea consciente del espacio personal, privacidad y pertenencias de otros. Si se está alojando en un hotel o en la casa de alguien, respete el alojamiento y las reglas de la casa.",
+        "Si un alojamiento instala cámaras, solo deben colocarse en áreas comunes, posicionadas donde puedan ser vistas, y los clientes deben ser informados antes de su estancia."
+      ]
+    },
+    "privacy": {
+      "title": "Privacidad",
+      "points": [
+        "En Hotel-Living.com, estamos comprometidos a proporcionar la mejor experiencia posible a quienes usan nuestros servicios de viaje. Esto significa que nos tomamos la privacidad muy en serio y estamos comprometidos a protegerla y salvaguardarla de acuerdo con nuestra Política de Privacidad y Cookies y la ley aplicable.",
+        "La seguridad de sus datos es importante para nosotros. Por eso, en Hotel-Living.com, protegemos sus datos personales e información de tarjeta de crédito de acuerdo con la ley aplicable, incluyendo GDPR y los Estándares de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS)."
+      ]
+    }
+  }
+}

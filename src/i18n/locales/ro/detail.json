@@ -1,0 +1,16 @@
+{
+  "hotel": "hotel",
+  "and": "și",
+  "location": "Locația",
+  "highlights": {
+    "propertyStyle": "Acest {{type}} este în stil {{style}}",
+    "stayDuration": "Oferă sejururi de {{days}} zile",
+    "mealPlanIncluded": "Cu {{plan}} inclus",
+    "laundryIncluded": "Serviciu de spălătorie inclus",
+    "laundryAvailable": "Serviciu de spălătorie disponibil",
+    "monthlyPrice": "Preț lunar USD {{price}}",
+    "clientAffinities": "Ideal pentru cei care se bucură de {{affinities}}",
+    "perfectActivitySingle": "Perfect pentru {{activities}}",
+    "perfectActivityPlural": "Perfect pentru {{activities}}"
+  }
+}

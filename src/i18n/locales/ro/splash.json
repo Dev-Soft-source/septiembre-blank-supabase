@@ -1,0 +1,30 @@
+{
+  "phrase1": "Călătorește. Conectează-te. Fă lumea a ta",
+  "phrase2": "Suntem revoluția de a trăi călătorind",
+  "phrase3": "Suntem noul mod de a locui și a fi",
+  "phrase1Desktop": {
+    "line1": "Călătorește.",
+    "line2": "Conectează-te."
+  },
+  "phrase2Desktop": {
+    "line1": "Suntem revoluția",
+    "line2": "de a trăi călătorind"
+  },
+  "phrase3Desktop": {
+    "line1": "Suntem noul mod",
+    "line2": "de a locui și a fi"
+  },
+  "phrase1Mobile": {
+    "line1": "Călătorește.",
+    "line2": "Conectează-te."
+  },
+  "phrase2Mobile": {
+    "line1": "Suntem revoluția",
+    "line2": "de a trăi călătorind"
+  },
+  "phrase3Mobile": {
+    "line1": "Suntem noul mod",
+    "line2": "de a locui și a fi"
+  },
+  "clickToSkip": "Atingeți pentru a sări"
+}

@@ -1,0 +1,9 @@
+{
+  "leaderRequests": {
+    "title": "Solicitări de Lideri",
+    "description": "Gestionează solicitările de lideri de grup de la hoteluri",
+    "noRequests": "Nu s-au găsit solicitări de lideri",
+    "approve": "Aprobă",
+    "reject": "Respinge"
+  }
+}

@@ -1,0 +1,202 @@
+
+/* Make sure footer stays at bottom but allows for filter dropdown expansion */
+.filter-dropdown-container {
+  overflow: visible;
+  z-index: 10;
+  position: relative;
+}
+
+/* Extra small text for legal stuff */
+.text-2xs {
+  font-size: 0.65rem;
+  line-height: 1rem;
+}
+
+/* Smaller text for content pages */
+.content-page p, 
+.content-page li,
+.content-page h2,
+.content-page h3,
+.content-page h4 {
+  font-size: 0.8em;
+}
+
+/* Specific reductions for FAQ */
+.faq-page h2 {
+  font-size: 0.8em;
+}
+
+.faq-page .customer-text {
+  font-size: 0.8em;
+}
+
+/* Reduced spacing for theme items */
+.theme-section .theme-item {
+  margin-bottom: 0.25rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+/* Ensure footer has spacing from content */
+footer {
+  margin-top: 20px;
+}
+
+/* Reduce spacing in property form steps */
+.glass-card .space-y-4 > * + * {
+  margin-top: 0.75rem;
+}
+
+.glass-card .space-y-2 > * + * {
+  margin-top: 0.5rem;
+}
+
+/* Reduce label to input spacing */
+.glass-card label + input,
+.glass-card label + textarea,
+.glass-card label + select,
+.glass-card label + .select-container {
+  margin-top: 0.25rem;
+}
+
+/* Mobile footer logo size adjustment */
+.footer-logo-mobile img {
+  height: 25px !important; /* This makes the logo 200% smaller than the default 51px height */
+}
+
+/* Association banner text mobile fix */
+@media (max-width: 768px) {
+  .association-banner-text {
+    white-space: normal !important;
+    word-break: break-word !important;
+    text-align: center;
+    max-width: 90%;
+    margin: 0 auto;
+  }
+}
+
+/* Mobile dashboard navigation grid layout */
+@media (max-width: 768px) {
+  /* Common styles for all dashboard layouts using attribute selectors */
+  aside[class*="lg:col-span-1"] nav {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 8px;
+    position: sticky;
+    top: 60px; /* Account for navbar height */
+    background-color: #7E26A6;
+    z-index: 15;
+    border-radius: 12px;
+    padding: 8px;
+    margin-bottom: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  aside[class*="lg:col-span-1"] nav button {
+    font-size: 0.8rem !important;
+    padding: 8px 6px !important;
+    text-align: center;
+    white-space: normal !important; /* Allow text wrapping */
+    word-break: break-word !important; /* Break long words */
+    min-height: 50px; /* Increase minimum height for wrapped text */
+    max-height: 80px; /* Prevent excessive height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    line-height: 1.2 !important;
+    overflow: hidden;
+  }
+  
+  aside[class*="lg:col-span-1"] nav button span {
+    font-size: 0.75rem;
+    line-height: 1.2;
+    text-align: center;
+    word-break: break-word;
+    hyphens: auto;
+    display: block;
+    width: 100%;
+  }
+  
+  aside[class*="lg:col-span-1"] nav button svg {
+    width: 14px !important;
+    height: 14px !important;
+    flex-shrink: 0;
+    margin-bottom: 2px;
+  }
+  
+  /* Hide the separator and help section on mobile */
+  aside[class*="lg:col-span-1"] nav .h-px,
+  aside[class*="lg:col-span-1"] div[class*="bg-"]:last-child {
+    display: none;
+  }
+  
+  /* Main content area adjustment for local dropdown expansion */
+  div[class*="lg:col-span-3"] {
+    position: relative;
+    z-index: 5;
+  }
+  
+  /* Dropdown content expansion animation */
+  .dashboard-dropdown {
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+  }
+  
+  .dashboard-dropdown.expanded {
+    max-height: 2000px;
+    opacity: 1;
+  }
+  
+  /* Specific styles for Association Dashboard tabs */
+  div[class*="grid-cols-5"] {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)) !important;
+    gap: 6px !important;
+    position: sticky !important;
+    top: 60px !important;
+    background-color: #7E26A6 !important;
+    z-index: 15 !important;
+    border-radius: 12px !important;
+    padding: 8px !important;
+    margin-bottom: 12px !important;
+  }
+  
+  div[class*="grid-cols-5"] button {
+    font-size: 0.7rem !important;
+    padding: 8px 4px !important;
+    text-align: center !important;
+    white-space: normal !important;
+    word-break: break-word !important;
+    min-height: 50px !important;
+    max-height: 70px !important;
+    line-height: 1.2 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+  
+  /* Promoter Dashboard specific adjustments */
+  .promoter-dashboard .dashboard-title {
+    position: sticky;
+    top: 0;
+    background-color: #7E00B3;
+    z-index: 20;
+    margin-bottom: 8px;
+    padding: 8px 0;
+  }
+  
+  /* Ensure proper layout for all dashboard content */
+  .dashboard-content {
+    padding-top: 8px;
+  }
+  
+  /* Add more spacing for mobile views */
+  main {
+    margin-bottom: 20px;
+  }
+}

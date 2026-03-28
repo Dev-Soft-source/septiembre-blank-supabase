@@ -1,0 +1,131 @@
+{
+  "terms": {
+    "title": "Términos y Condiciones",
+    "subtitle": "CONDICIONES DE SERVICIO PARA CLIENTES DE HOTEL-LIVING.COM",
+    "lastUpdated": "Actualizado el 12/11/2024",
+    "intro": "Al completar tu Reserva, estás aceptando estas Condiciones y cualquier otra disposición que se te haya proporcionado durante el proceso de reserva.",
+    "invalidProvision": "Si alguna disposición de estas Condiciones es (o se vuelve) inválida o inaplicable:",
+    "invalidPoints": [
+      "continuará teniendo efecto en la máxima medida permitida por la ley;",
+      "permanecerás obligado por el resto de las disposiciones de las Condiciones."
+    ],
+    "aboutHotelLiving": {
+      "title": "ACERCA DE HOTEL-LIVING",
+      "content1": "Cuando reservas alojamiento, Hotel-Living.com es el proveedor y responsable de la Plataforma, pero no de la Experiencia de Viaje en sí (ver sección A4.4).",
+      "content2": "Trabajamos con empresas que ofrecen servicios de atención local (p. ej., Atención al Cliente o gestión de cuentas). Ellas no:",
+      "points": [
+        "controlan o gestionan nuestra Plataforma;",
+        "tienen su propia plataforma;",
+        "formalizan una relación legal o contractual contigo;",
+        "ofrecen Experiencias de Viaje;",
+        "nos representan, o celebran contratos o aceptan documentos legales en nuestro nombre;",
+        "operan como nuestros \"agentes de servicio o proceso\"."
+      ],
+      "content3": "Tomamos precauciones razonables al ofrecer nuestra Plataforma, pero no podemos garantizar que todo el contenido sea preciso (obtenemos información de Proveedores de Servicios). En la medida permitida por la ley, no seremos responsables de errores, interrupciones, o si falta información, aunque haremos todo lo posible para corregir y resolver estas situaciones lo más rápido que podamos.",
+      "content4": "Nuestra Plataforma no implica la recomendación o aprobación de ningún Proveedor de Servicios o sus productos, servicios, instalaciones, vehículos, etc.",
+      "content5": "No somos parte del acuerdo de términos que tú y el Proveedor de Servicios celebren, y este último es únicamente responsable de la Experiencia de Viaje.",
+      "content6": "Es posible que necesites crear una Cuenta para hacer una Reserva. Asegúrate de que toda la información (incluidos los detalles de pago y contacto) sea correcta y esté actualizada, o es posible que no puedas acceder a tus Experiencias de Viaje. Eres únicamente responsable de todo lo que suceda con tu Cuenta, por lo que debes evitar que cualquier otra persona la use y mantener tu nombre de usuario y contraseña en secreto.",
+      "content7": "Te mostraremos las ofertas disponibles para ti en el idioma (que creemos que es) apropiado para ti. Sin embargo, puedes cambiarlo en cualquier momento.",
+      "content8": "A menos que se indique lo contrario, debes tener al menos 16 años para usar la Plataforma."
+    },
+    "ourValues": {
+      "title": "NUESTROS VALORES",
+      "content": "Te comprometes a:",
+      "points": [
+        "adherirte a Nuestros valores;",
+        "cumplir con todas las leyes aplicables;",
+        "cooperar en cualquier verificación antifraude/antilavado de dinero que necesitemos realizar;",
+        "no usar la Plataforma para causar daño o hacer Reservas falsas;",
+        "usar la Experiencia de Viaje y/o nuestra Plataforma para el propósito previsto;",
+        "no causar daño o daños y no comportarte de manera inapropiada con el personal del Proveedor de Servicios (o con nadie, en realidad)."
+      ]
+    },
+    "prices": {
+      "title": "PRECIOS",
+      "content1": "Cuando haces una Reserva, aceptas pagar el costo de la Experiencia de Viaje, incluidos todos los cargos e impuestos aplicables.",
+      "content2": "Algunos de los precios que ves pueden haber sido redondeados al número entero más cercano. El precio que pagues se basará en el precio original, no en el redondeado (aunque la diferencia real entre los dos será mínima).",
+      "content3": "Los errores obvios y erratas no son vinculantes. Por ejemplo, si reservas un auto de lujo o una noche en una suite de lujo que fue ofrecida erróneamente por €1, simplemente podemos cancelar la Reserva y reembolsar cualquier cantidad que hayas pagado.",
+      "content4": "Un precio tachado indica el precio de una Reserva equivalente sin la reducción de precio aplicada (\"equivalente\" significa mismas fechas, mismas condiciones, misma calidad de alojamiento/auto/clase de viaje, etc.)."
+    },
+    "payment": {
+      "title": "PAGO",
+      "content1": "Somos responsables de cobrarte un depósito no reembolsable por tu reserva. Nosotros (o, a veces, nuestro afiliado en el país de origen del pago) seremos responsables de gestionar el pago y asegurar que la transacción con el Proveedor de Servicios se complete.",
+      "content2": "Si la moneda seleccionada en la Plataforma no es la misma que la del Proveedor de Servicios, podemos:",
+      "paymentPoints": [
+        "mostrar precios en la moneda que elijas;",
+        "ofrecerte la opción de pagar en tu moneda."
+      ],
+      "content3": "Puedes ver nuestra Tasa de Cambio de Moneda durante el proceso de pago, en la información de tu Reserva desde tu Cuenta o, si no tienes una Cuenta, en el correo electrónico que te hemos enviado. Si te cobramos alguna tarifa en relación con alguno de estos servicios, encontrarás tal tarifa expresada como un porcentaje sobre las tasas del Banco Central Europeo. Tu emisor de tarjeta podría cobrarte una tarifa de transacción extranjera.",
+      "content4": "Almacenaremos los datos de tu Método de Pago para transacciones futuras una vez que nos hayas dado tu consentimiento para hacerlo."
+    },
+    "conditions": {
+      "title": "CONDICIONES",
+      "content1": "Cuando haces una Reserva, estás aceptando las condiciones aplicables mostradas durante el proceso de reserva. Encontrarás las condiciones de cancelación de los Proveedores de Servicios, así como cualquier otra condición (requisitos de edad, depósitos de daños/seguridad, suplementos adicionales para Reservas grupales, camas extra, desayuno, mascotas, tarjetas aceptadas, etc.), en nuestra Plataforma: en la página de información del Proveedor de Servicios, durante el proceso de reserva, en la sección \"Por favor nota\" y/o en el correo electrónico de confirmación o boleto (si aplica).",
+      "content2": "Si cancelas una Reserva o no te presentas, los cargos por cancelación o no presentación, así como cualquier reembolso, dependerán de las condiciones de cancelación y no presentación del Proveedor de Servicios.",
+      "content3": "Algunas Reservas no pueden cancelarse gratis, mientras que otras solo pueden cancelarse gratis antes de una fecha límite específica.",
+      "content4": "Si crees que no llegarás a tiempo, contacta al Proveedor de Servicios y diles cuándo podrás llegar, para que no cancelen la Reserva. Si llegas tarde, no seremos responsables de las consecuencias como, por ejemplo, la cancelación de la Reserva o cualquier cargo que el Proveedor de Servicios pueda cobrarte.",
+      "content5": "Como la persona que hace la Reserva, eres responsable de las acciones y comportamiento (en relación con la Experiencia de Viaje) de cada persona en tu grupo. También eres responsable de obtener su permiso antes de proporcionarnos sus datos personales."
+    },
+    "privacyAndCookies": {
+      "title": "PRIVACIDAD Y COOKIES",
+      "content": "Si reservas alojamiento, un vuelo o una atracción turística, consulta nuestra Política de Privacidad y Cookies para más información sobre privacidad, cookies, y cómo podemos contactarte y procesar tus datos personales."
+    },
+    "accessibilityRequests": {
+      "title": "SOLICITUDES DE ACCESIBILIDAD",
+      "content": "Si tienes alguna solicitud de accesibilidad:",
+      "points": [
+        "sobre nuestra Plataforma y/o nuestros servicios, contacta a nuestro equipo de Atención al Cliente;",
+        "sobre tu Experiencia de Viaje (acceso para sillas de ruedas, bañeras accesibles, etc.), contacta al Proveedor de Servicios, aeropuerto, estación de tren, etc."
+      ]
+    },
+    "intellectualProperty": {
+      "title": "DERECHOS DE PROPIEDAD INTELECTUAL",
+      "content1": "A menos que se indique lo contrario, todos los derechos de nuestra Plataforma (tecnología, contenido, marcas comerciales, apariencia, etc.) son propiedad de Hotel-Living.com (o sus licenciantes) y, al usar nuestra Plataforma, aceptas hacerlo solo para el propósito previsto y respetando las condiciones establecidas a continuación en los párrafos A14.2 y A14.3.",
+      "content2": "No puedes monitorear, copiar, extraer/rastrear, descargar, reproducir o usar nada en nuestra Plataforma para cualquier propósito comercial sin el permiso escrito de Hotel-Living.com o sus licenciantes.",
+      "content3": "Monitoreamos de cerca cada visita a nuestra Plataforma y bloquearemos a cualquiera (y cualquier sistema automatizado) que sospechemos:",
+      "monitoringPoints": [
+        "realiza un número irrazonable de búsquedas;",
+        "usa cualquier dispositivo o software para recopilar precios u otra información;",
+        "hace algo que pone una tensión indebida en nuestra Plataforma."
+      ],
+      "content4": "Al subir cualquier imagen a nuestra Plataforma (con un comentario, por ejemplo), estás confirmando que cumples con nuestros criterios y que:",
+      "uploadPoints": [
+        "es veraz (no has alterado la imagen, por ejemplo, o subido una imagen de un alojamiento diferente);",
+        "no contiene virus;",
+        "puedes compartirla con nosotros;",
+        "se nos permite usarla en nuestra plataforma y en relación con otros propósitos comerciales (incluso en un contexto promocional), en todas partes, para siempre (cuando nos digas que ya no podemos usarla, consideraremos cualquier solicitud razonable);",
+        "no infringe los derechos de privacidad de otras personas;",
+        "aceptas toda responsabilidad por cualquier reclamo legal contra Hotel-Living.com relacionado con esto."
+      ],
+      "content5": "Para evitar cualquier duda: no somos responsables de ninguna imagen subida a nuestra Plataforma y podemos eliminar cualquier imagen a nuestra discreción (por ejemplo, si detectamos que una imagen no cumple con los criterios anteriores)."
+    },
+    "demoDisclaimer": {
+      "content": "Algunas propiedades visibles en la plataforma son de demostración o están en proceso de incorporación/renovación, por lo que su información es solo ilustrativa y no implica participación activa inmediata."
+    },
+    "dictionary": {
+      "title": "DICCIONARIO",
+      "account": "\"Cuenta\" se refiere a una cuenta (con Hotel-Living.com o una Empresa del Grupo), a través de la cual puedes reservar Experiencias de Viaje en nuestra Plataforma.",
+      "accommodation": "\"Alojamiento\" se refiere a la provisión de un servicio de alojamiento por un Proveedor de Servicios (en la Sección B, \"Proveedor de Servicios\" se refiere al proveedor del servicio de alojamiento).",
+      "reservation": "\"Reserva\" se refiere a la reserva de una Experiencia de Viaje desde nuestra Plataforma, ya sea que pagues por ella inmediatamente o más tarde.",
+      "hotelLiving": "\"Hotel-Living.com\", \"nosotros\", \"nos\", o \"nuestro\" se refiere a Hotel-Living.com.",
+      "transferableCredit": "\"Crédito Transferible\" se refiere a un beneficio con valor monetario que puedes \"transferir\" al Método de Pago que has registrado con nosotros, o que puedes usar para pagar el monto de una futura Experiencia de Viaje.",
+      "credit": "\"Crédito\" se refiere a un beneficio con valor monetario. Hay \"Crédito Transferible\" y \"Crédito de Viaje\".",
+      "creditCardRefund": "\"Reembolso de Tarjeta de Crédito\" se refiere a un beneficio con valor monetario que puede ser canjeado en la tarjeta de crédito que has registrado con nosotros, pero que no puede ser usado para pagar el monto de una futura Experiencia de Viaje.",
+      "currencyExchangeRate": "\"Tasa de Cambio de Moneda\" se refiere a la tasa de cambio que usamos para convertir monedas; actualmente, es la Tasa de Cambio de Fin de Día WM/Refinitiv, pero puede cambiar.",
+      "eligibleReservation": "\"Reserva Elegible\" se refiere a una Reserva que cumple con los criterios para recibir una Recompensa.",
+      "particularRewardCriteria": "\"Criterios de Recompensa Particulares\" se refiere a las reglas que se aplican a ciertas Recompensas, además de los términos generales de \"Recompensas, Crédito y Billetera\" (A13) anteriores.",
+      "payInYourCurrency": "\"Pagar en Tu Moneda\" se refiere a la opción de pago que a veces ofrecemos cuando un Proveedor de Servicios no usa tu moneda. Esta opción te permite pagar en tu propia moneda.",
+      "paymentMethod": "\"Método de Pago\" se refiere al método (tarjeta de crédito, tarjeta de débito, cuenta bancaria, PayPal, ApplePay, etc.) usado para hacer un pago o transferir dinero.",
+      "platform": "\"Plataforma\" se refiere al sitio web o aplicación a través de la cual puedes reservar Experiencias de Viaje, ya sea propiedad de Hotel-Living.com o un afiliado externo, o gestionada por estos.",
+      "reward": "\"Recompensa\" se refiere a un beneficio que se te promete. En la mayoría de los casos, las Recompensas serán Crédito de Viaje, Crédito Transferible, Reembolsos de Tarjeta de Crédito, o un cupón para un artículo de algún tipo.",
+      "serviceProvider": "\"Proveedor de Servicios\" se refiere al proveedor de un producto o servicio relacionado con viajes desde la Plataforma, que incluye, entre otros: el propietario de un hotel u otro alojamiento.",
+      "conditions": "\"Condiciones\" se refiere a estas condiciones de servicio.",
+      "externalAggregator": "\"Agregador Externo\" se refiere a una empresa que actúa como (a) un intermediario entre tú y el Proveedor de Servicios o (b) un revendedor de la Experiencia de Viaje.",
+      "thirdPartyTerms": "\"Términos de Terceros\" (en la sección \"Vuelos\") se refiere tanto al Contrato de Intermediación como al Contrato de Transporte.",
+      "travelCredit": "\"Crédito de Viaje\" se refiere a un beneficio con valor monetario que puedes usar para pagar el monto de una futura Experiencia de Viaje, pero que no puedes \"transferir\".",
+      "advancePayment": "\"Pago Anticipado\" se refiere a un pago que haces cuando reservas un producto o servicio (en lugar de cuando realmente lo usas).",
+      "wallet": "\"Billetera\" se refiere a un panel en tu Cuenta que muestra tus Recompensas, Crédito y otros incentivos.",
+      "updateNote": "Actualizaremos estas condiciones de servicio regularmente (una o dos veces al año)."
+    }
+  }
+}

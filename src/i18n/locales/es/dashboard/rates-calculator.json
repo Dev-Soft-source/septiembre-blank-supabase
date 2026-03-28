@@ -1,0 +1,75 @@
+{
+  "utilities": "SERVICIOS PÚBLICOS",
+  "cleaning": "LIMPIEZA",
+  "meals": "COMIDAS",
+  "beforeStartingTitle": "ANTES DE COMENZAR: POR FAVOR LEE CUIDADOSAMENTE",
+  "beforeStartingDescription": "Construir tu modelo personalizado es un paso crucial para maximizar tus oportunidades de ingresos.<br />Recomendamos encarecidamente que revises primero cuidadosamente la sección \"CONSEJOS Y DIRECTRICES ESTRATÉGICAS\".<br />Estas recomendaciones te ayudarán a diseñar un modelo completamente adaptado a la categoría, capacidad y perfil de audiencia de tu hotel.<br /><b>Una vez que hayas estudiado las directrices, puedes proceder a descargar y usar la Calculadora en Línea ubicada a la derecha.</b>",
+  "buildYourModel": {
+    "title": "CONSTRUIR TU MODELO",
+    "description": "Crea un modelo de precios personalizado para tu hotel"
+  },
+  "utilitiesTitle": "PREVISIBILIDAD – RESPONSABILIDAD – EFICIENCIA",
+  "utilitiesGuestsNotTransients": "LOS HUÉSPEDES DE HOTEL-LIVING NO SON TURISTAS TRANSEÚNTES",
+  "utilitiesDescription1": "Son residentes respetuosos de larga estadía que permanecen por 8, 16, 24 o 32 días.",
+  "utilitiesSmartGuestsTitle": "HUÉSPEDES MÁS INTELIGENTES, USO MÁS INTELIGENTE DE RECURSOS",
+  "utilitiesDescription2": "Debido a la mayor duración de las estadías y la relación más personal que establecen con tu propiedad, estos huéspedes tienden a ser más conscientes en su uso de recursos.",
+  "utilitiesDescription3": "Se sienten más como inquilinos temporales que como visitantes de corta estadía — y eso marca toda la diferencia.",
+  "utilitiesLowerConsumption": "EL CONSUMO DE SERVICIOS PÚBLICOS ES MENOR Y MÁS ESTABLE",
+  "utilitiesEnergyEfficiency": "LOS SISTEMAS DE EFICIENCIA ENERGÉTICA (como iluminación LED y control moderado del clima) son aún más efectivos",
+  "utilitiesConservativeHabits": "SINTIÉNDOSE EN CASA, los huéspedes adoptan naturalmente hábitos más conservadores",
+  "utilitiesSharedResponsibility": "UN SENTIDO DE RESPONSABILIDAD COMPARTIDA",
+  "utilitiesResponsibilityDescription": "Dado que Hotel-Living ofrece tarifas accesibles, los huéspedes generalmente son conscientes y respetuosos de la oportunidad que se les brinda.\nSaben que este modelo depende del equilibrio, cuidado y sostenibilidad — y la mayoría actúa en consecuencia.",
+  "utilitiesOptimizedOperations": "OPERACIONES OPTIMIZADAS = CONSUMO OPTIMIZADO",
+  "utilitiesOptimizedDescription": "Gracias a la menor rotación de habitaciones y protocolos de limpieza simplificados, el uso de servicios públicos permanece constante y optimizado, con menos picos en la demanda de electricidad o agua.",
+  "cleaningModelTitle": "LIMPIEZA ESTILO HOGAR – COMODIDAD A LARGO PLAZO",
+  "cleaningHotelLivingStandard": "HOTEL-LIVING SIGNIFICA UN NUEVO ESTÁNDAR DE HOSPITALIDAD",
+  "cleaningFeelsLikeHome": "UNO QUE SE SIENTE MÁS COMO EN CASA.",
+  "cleaningDescription1": "A diferencia de los hoteles tradicionales con limpieza diaria, nuestro enfoque refleja el ritmo de la vida real.",
+  "cleaningDescription2": "Así como alguien que vive en casa podría recibir ayuda ligera unas pocas veces a la semana, nuestros huéspedes disfrutan de cuidado atento y discreto que respeta su independencia y comodidad.",
+  "cleaningCompleteTitle": "LIMPIEZA COMPLETA — UNA VEZ A LA SEMANA",
+  "cleaningCompleteDescription": "Una limpieza completa de la habitación cada 7 días garantiza higiene y frescura, con mínima intrusión.",
+  "cleaningLightRefresh": "REFRESCAMIENTO LIGERO DIARIO (BAJO SOLICITUD)",
+  "cleaningLightRefreshDescription": "Pequeños retoques opcionales — 🗑️ remoción de basura, 🧺 orden ligero, 🌬️ ventilación — están disponibles, respetando la privacidad y el estilo de vida.",
+  "cleaningBedChange": "CAMBIO DE ROPA DE CAMA — CADA 5 DÍAS",
+  "cleaningBedChangeDescription": "Las sábanas y toallas se renuevan regularmente, siguiendo estándares de comodidad hogareña.",
+  "cleaningOperationalBenefits": "BENEFICIOS OPERACIONALES",
+  "cleaningOperationalDescription": "Este modelo reduce los costos operacionales para hoteles, mientras ofrece a los huéspedes una experiencia residencial:\n\n•\tMenos interrupciones\n•\tMás privacidad\n•\tLa sensación de realmente pertenecer — no solo estar de paso.",
+  "strategicGuidelines": {
+    "section1": {
+      "title": "¿SU HOTEL TIENE QUE CERRAR POR LARGOS PERÍODOS CADA AÑO?",
+      "content": "La mayoría de los hoteles tienen ciertos períodos durante el año cuando la demanda cae significativamente, llevando a cierres parciales o totales. Al adoptar un modelo de vida flexible, mantendrá las habitaciones llenas durante estas temporadas bajas, estabilizando los ingresos y mejorando la eficiencia operativa durante todo el año."
+    },
+    "section2": {
+      "title": "CONSTRUYE UN MODELO QUE GARANTICE OCUPACIÓN COMPLETA",
+      "content": "El modelo Hotel Living está diseñado para asegurar 100% de ocupación durante todo el año y maximizar los ingresos a través del volumen. Al ofrecer paquetes de larga estadía con tarifas estratégicamente optimizadas—lo suficientemente bajas para mantener todas las habitaciones ocupadas pero lo suficientemente altas para asegurar ganancias sustanciales—los hoteles pueden transformar noches vacantes en ingresos predecibles y continuos. Este enfoque cambia el foco de tarifas nocturnas altas a grandes ganancias acumulativas impulsadas por estadías extendidas."
+    },
+    "section3": {
+      "title": "UTILICE AFINIDADES PARA DIFERENCIAR Y DIRIGIRSE A AUDIENCIAS",
+      "content": "Enfóquese en audiencias nicho (artistas, nómadas digitales, jubilados, etc.) para evitar competir directamente con ofertas hoteleras estándar y OTAs. Utilice afinidades para construir grupos de clientes leales y recurrentes adaptados a su categoría (ver sección \"Temas\")."
+    },
+    "section4": {
+      "title": "ADAPTA LA DURACIÓN DE ESTADÍA AL TAMAÑO Y DINÁMICAS DEL HOTEL",
+      "content": "Los hoteles más pequeños pueden beneficiarse de estadías mínimas más largas (ej., 1–3 meses), reduciendo costos de rotación. Los hoteles más grandes pueden experimentar con rotaciones—ej., \"club de 9 noches por mes\"—para optimizar mayor volumen y experiencia del huésped."
+    },
+    "section5": {
+      "title": "APROVECHE CONCEPTOS BOUTIQUE PARA HOTELES PEQUEÑOS DE ALTA GAMA",
+      "content": "Si maneja un hotel boutique o de lujo, diseñe experiencias personalizadas (bienestar, cultura, retiros de negocios) con tarifas premium. Estas pueden ser muy atractivas para profesionales remotos o huéspedes que buscan exclusividad y valor agregado."
+    },
+    "section6": {
+      "title": "APLICA LÓGICA DE VOLUMEN PARA HOTELES MÁS GRANDES",
+      "content": "Las propiedades más grandes pueden aprovechar la lógica de \"vivir a escala\"—descuentos para huéspedes recurrentes, planes flexibles (ej., semanas alternas), y asociaciones con instituciones o empresas para llenar bloques de habitaciones eficientemente."
+    },
+    "section7": {
+      "title": "ENTIENDE EL PODER DE LAS ESTADÍAS RECURRENTES Y ROTACIÓN DE CLIENTES",
+      "content": "Las estadías mensuales, multi-mensuales, o estilo club (donde los huéspedes regresan en días fijos cada mes) aumentan la previsibilidad mientras dan a los huéspedes estatus de \"hogar\". Esto aumenta la lealtad y puede transformar el modelo de negocio de tu hotel de manera predecible y positiva."
+    },
+    "section8": {
+      "title": "POLÍTICA DE PRECIOS DE HOTEL LIVING",
+      "content": "POLÍTICA DE PRECIOS DE HOTEL LIVING\n\nLa revolución Hotel-Living.com ha llegado para transformar la sociedad, multiplicar los beneficios económicos de los hoteles y actualizar los modos de vida anticuados de gran parte de la población, que en muchos casos les genera indeseadas labores domésticas, aislamiento, soledad, inseguridad, entre otros problemas.\n\nEs fundamental entender que el beneficio máximo se obtiene asegurando 100% de ocupación todas las noches del año, no por hacer descuentos pequeños que solo logren alquilar algunas pocas habitaciones más.\n\n🌐 Dos mentalidades para maximizar el éxito hotelero\nEn la gestión hotelera es fundamental comprender que existen dos mentalidades complementarias:\n\na) La mentalidad habitual:\nIntentar alquilar al mayor precio posible el mayor número de habitaciones posibles.\n\nb) La mentalidad Hotel-Living.com:\nAplicada a las habitaciones que tradicionalmente quedan vacías, donde la clave no es el precio alto, sino evitar el vacío.\n\nNuestro modelo se basa en:\n\nEstancias largas de 8, 15, 22 o 29 días.\n\nFechas de entrada y salida fijas, elegidas por el propio hotel, que eliminan noches sin ocupación, entre otras muchas ventajas.\n\nOptimización del personal y de los recursos, gracias a un calendario previsible.\n\nEs fundamental entender que el beneficio real para cada hotel no proviene de alquilar unas pocas habitaciones más, sino de lograr que el hotel esté lleno todas las noches del año.\nEse es el objetivo de la revolución Hotel-Living.com: hoteles llenos y clientes satisfechos.\n\nReglas de precios\n\nRegla general\nLa tarifa máxima que se puede cobrar a través de Hotel Living para estadías de 8, 15, 22 o 29 días será siempre, como máximo, el 60% de la tarifa estándar oficial del hotel por noche.\n\nServicios incluidos\nEsa tarifa debe incluir exactamente los mismos servicios que la tarifa oficial del hotel. Es decir:\n\nSi la tarifa oficial incluye solo alojamiento → el precio en Hotel Living será hasta el 60% de esa tarifa, con solo alojamiento.\n\nSi la tarifa oficial incluye desayuno → el precio en Hotel Living será hasta el 60% de esa tarifa, con desayuno incluido.\n\nSi la tarifa oficial incluye media pensión o pensión completa → el precio en Hotel Living será hasta el 60% de esa tarifa, con media pensión o pensión completa incluidas.\n\nRegla adicional para hoteles con tarifas \"Solo alojamiento\" o \"Alojamiento con desayuno\"\nEn caso de que un hotel cuya tarifa base no incluya media pensión o pensión completa desee ofrecerla a los huéspedes de Hotel Living, podrá hacerlo, pero en ningún caso el precio total podrá superar el 100% de su tarifa oficial habitual y, por supuesto, para beneficio del propio hotel, se recomienda que esta tarifa por 8, 15, 22 o 29 noches, idéntica al cliente tradicional por una sola noche, incluya pensión completa.\n\nEsto significa que un huésped que permanece 29 días nunca debe pagar lo mismo que alguien que se aloja solo una noche, salvo que disfrute de pensión completa incluida.\n\nRegla de descuentos adicionales\nEste porcentaje del 60% es el máximo. Utilizando nuestra Calculadora Hotel-Living (disponible en este mismo panel de hotel) podrá comprobar los grandes beneficios acumulados que se pueden obtener a través de descuentos mayores.\n\nRegla de verificación\nHotel Living verificará las tarifas oficiales de cada propiedad en otras plataformas de reservas.\nCualquier discrepancia o intento de inflar la tarifa base descalificará automáticamente al hotel de participar en Hotel Living."
+    }
+  },
+  "excelCalculator": {
+    "description": "PUEDE DESCARGAR AQUÍ NUESTRA CALCULADORA EXCEL PARA PROBAR DISTINTOS MODELOS DE SERVICIOS, PRECIOS Y BENEFICIOS.",
+    "buttonLabel": "DESCARGAR"
+  }
+}

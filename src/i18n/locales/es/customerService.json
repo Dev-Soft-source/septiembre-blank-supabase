@@ -1,0 +1,49 @@
+{
+  "customerService": {
+    "title": "Atención al Cliente",
+    "subtitle": "Estamos aquí para ayudarte en cada paso del camino",
+    "description": "Nuestro equipo de atención al cliente está disponible 24/7 para asistirte con cualquier pregunta o inquietud que puedas tener sobre tu experiencia en Hotel-Living.",
+    "contactOptions": {
+      "title": "Opciones de Contacto",
+      "email": {
+        "title": "Correo Electrónico",
+        "description": "Envíanos un correo y te responderemos dentro de 24 horas",
+        "address": "soporte@hotel-living.com"
+      },
+      "phone": {
+        "title": "Teléfono",
+        "description": "Llámanos para asistencia inmediata",
+        "number": "+1 (555) 123-4567"
+      },
+      "chat": {
+        "title": "Chat en Vivo",
+        "description": "Chatea con nuestros agentes de soporte en tiempo real",
+        "status": "Disponible 24/7"
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "Contáctanos a través de WhatsApp para una comunicación rápida",
+        "number": "+1 (555) 123-4567"
+      }
+    },
+    "supportAreas": {
+      "title": "Áreas de Soporte",
+      "booking": "Asistencia con reservas",
+      "payment": "Consultas sobre pagos",
+      "cancellation": "Cancelaciones y reembolsos",
+      "technical": "Soporte técnico",
+      "general": "Consultas generales",
+      "feedback": "Comentarios y sugerencias"
+    },
+    "hours": {
+      "title": "Horarios de Atención",
+      "description": "Nuestro equipo está disponible las 24 horas del día, los 7 días de la semana para brindarte la mejor asistencia posible."
+    },
+    "faqLink": "¿Buscas respuestas rápidas? Visita nuestras Preguntas Frecuentes",
+    "emergencyContact": {
+      "title": "Contacto de Emergencia",
+      "description": "Para emergencias durante tu estancia, contacta directamente al hotel o llama a nuestro número de emergencia 24/7.",
+      "number": "+1 (555) 911-HELP"
+    }
+  }
+}

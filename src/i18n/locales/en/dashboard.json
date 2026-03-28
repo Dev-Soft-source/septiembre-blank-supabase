@@ -1,0 +1,235 @@
+
+{
+  "dashboard": {
+    "quickGuide": "Quick Guide",
+    "autoSave": {
+      "success": "Auto-saved",
+      "error": "Auto-save failed",
+      "draftSaved": "Draft saved automatically",
+      "draftSaveFailed": "Failed to save draft",
+      "saving": "Saving...",
+      "savedAt": "Saved {time}",
+      "justNow": "just now",
+      "minutesAgo": "{minutes}m ago",
+      "draftLoaded": "Draft Loaded",
+      "draftLoadedDescription": "Your previous work has been restored"
+    },
+    "addProperty2Title": "Add Property 2",
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "overview": "Overview",
+    "statistics": "Statistics",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "account": "Account",
+    "welcomeOverview": "Welcome Overview",
+    "calculateModel": "CALCULATE MODEL",
+    "ratesAndProfits": "RATES AND PROFITS",
+    "properties": "Properties",
+    "advertising": "Advertising",
+    "bookings": "Bookings",
+    "guests": "Guests",
+    "adminMessages": "Admin Messages",
+    "finances": "Finances",
+    "reviews": "Reviews",
+    "analytics": "Analytics",
+    "settings": "Settings",
+    "standardEconomicModel": "CREATE YOUR OWN HOTEL-LIVING MODEL",
+    "costsAndProfits": "Long Stays\n=\nReduced Costs",
+    "buildOwnModel": "Build Your Own Hotel Living Model",
+    "costs": "COSTS",
+    "profits": "PROFITS",
+    "selectAll": "Select All",
+    "deselectAll": "Deselect All",
+    "hotelManagement": "HOTEL MANAGEMENT",
+    "logOut": "Log Out",
+    "needHelp": "Need Help?",
+    "supportDescription": "Our support team is available 24/7 to assist you with any questions.",
+    "contactSupport": "Contact Support",
+    "totalBookings": "Total Bookings",
+    "revenue": "Revenue",
+    "avgRating": "Average Rating",
+    "welcomeToHotelLiving": "Welcome to Hotel-Living!",
+    "welcomeMessage": "Get started by adding your first property or exploring the dashboard features.",
+    "addPropertyAction": "Add Property",
+    "addPropertyDescription": "List your first property on Hotel-Living",
+    "viewBookings": "View Bookings",
+    "viewBookingsDescription": "Manage your current and upcoming bookings",
+    "viewAnalytics": "View Analytics",
+    "viewAnalyticsDescription": "Track your performance and insights",
+    "manageReviews": "Manage Reviews",
+    "manageReviewsDescription": "Respond to guest reviews and feedback",
+    "recentReviews": "Recent Reviews",
+    "noReviews": "No reviews yet",
+    "noReviewsMessage": "Guest reviews will appear here",
+    "recentBookings": "Recent Bookings",
+    "noBookings": "No bookings yet",
+    "noBookingsMessage": "Your property bookings will appear here",
+    "guestManagement": "Guest Management",
+    "noGuestData": "No guest data yet",
+    "messagesFromAdmin": "Messages from Admin",
+    "noMessagesYet": "No messages yet",
+    "noMessagesMessage": "You haven't received any messages from the platform administrator yet.",
+    "financialOverview": "Financial Overview",
+    "financialDataMessage": "Your financial data and transaction history will appear here once you have bookings.",
+    "checkinOut": "Check-in/Check-out",
+    "autoPriceIncrease": "Auto Price Increase",
+    "checkinOutPolicy": "Check-in/Check-out Policy",
+    "checkInOutPolicy": "Check-in/Check-out Policy",
+    "advertising": {
+      "title": "Advertising & Promotion"
+    },
+    "images": {
+      "limitReached": "Image Limit Reached",
+      "maxImagesAllowed": "Maximum {max} images allowed per property",
+      "uploadRateLimitReached": "Upload Rate Limit",
+      "tooManyUploadsPerMinute": "Too many uploads. Maximum {max} uploads per minute",
+      "fileTooLarge": "{fileName} is too large. Maximum {maxSize}MB allowed",
+      "invalidFileType": "{fileName} is not a valid image file",
+      "imagesCount": "Images: {current}/{max}",
+      "remainingUploads": "Remaining uploads this minute: {remaining}",
+      "maxFileSize": "Max file size: {size}MB",
+      "selectedFiles": "Selected Files",
+      "uploading": "Uploading...",
+      "uploadPhotos": "Upload Photos",
+      "uploadedPhotos": "Uploaded Photos",
+      "mainImage": "Main",
+      "selectMainImage": "Select a main image"
+    },
+    "validation": {
+      "hotelNameRequired": "Hotel name is required",
+      "categoryRequired": "Category is required",
+      "propertyTypeRequired": "Property type is required",
+      "descriptionRequired": "Description is required",
+      "descriptionTooShort": "Description must be at least 50 characters",
+      "countryRequired": "Country is required",
+      "cityRequired": "City is required",
+      "invalidEmail": "Invalid email format",
+      "invalidPhone": "Invalid phone format",
+      "invalidLatitude": "Latitude must be between -90 and 90",
+      "invalidLongitude": "Longitude must be between -180 and 180",
+      "imagesRequired": "At least one hotel image is required",
+      "themesRequired": "At least one theme must be selected",
+      "activitiesRequired": "At least one activity must be selected",
+      "roomTypesRequired": "At least one room type must be defined"
+    },
+    "cancelEditing": "Cancel Editing",
+    "avatar": {
+      "upload": "Upload Avatar",
+      "uploading": "Uploading...",
+      "uploadSuccess": "Avatar uploaded successfully",
+      "uploadError": "Failed to upload avatar",
+      "remove": "Remove Avatar",
+      "removeSuccess": "Avatar removed successfully",
+      "removeError": "Failed to remove avatar",
+      "fileTooLarge": "File is too large. Maximum 5MB allowed",
+      "invalidFormat": "Invalid file format. Only JPG, PNG, and WEBP are allowed",
+      "dimensionsRecommendation": "Recommended dimensions: 512x512px"
+    },
+    "preferences": {
+      "title": "Preferences",
+      "notifications": "Notification Preferences",
+      "notificationBookings": "Booking notifications",
+      "notificationMessages": "Message notifications", 
+      "notificationPromotions": "Promotional notifications",
+      "affinities": "My Affinities",
+      "saveSuccess": "Preferences saved successfully",
+      "saveError": "Failed to save preferences"
+    },
+    "referrals": {
+      "title": "Refer Hotels – Earn Commissions",
+      "description": "Invite hotels to join Hotel-Living and earn commissions for each active booking they receive.",
+      "hotelSubmission": "Hotel submission",
+      "country": "Country",
+      "city": "City",
+      "hotelName": "Hotel name",
+      "addAnother": "Add another hotel",
+      "paymentInfo": "Payment Information",
+      "paymentInfoDescription": "To receive your commissions, please provide your banking details.",
+      "fullName": "Full name",
+      "bankName": "Bank name",
+      "bankCountry": "Bank country",
+      "ibanAccount": "IBAN / Account number",
+      "swiftBic": "SWIFT / BIC code",
+      "submittedHotels": "Hotels you submitted",
+      "remove": "Remove",
+      "confirmRemove": "Are you sure you want to remove this hotel?",
+      "successMessage": "Thank you! Your submission has been received.",
+      "errorMessage": "There was an error submitting the form. Please try again.",
+      "validation": {
+        "fullNameRequired": "Full name is required",
+        "bankNameRequired": "Bank name is required",
+        "bankCountryRequired": "Bank country is required",
+        "ibanRequired": "IBAN or account number is required",
+        "hotelNameRequired": "Hotel name is required",
+        "hotelsRequired": "At least one hotel must be submitted"
+      }
+    },
+    "tabs": {
+      "dashboard": "Dashboard",
+      "experience": "Experience",
+      "bookings": "Bookings",
+      "history": "History",
+      "saved": "Saved Hotels",
+      "payments": "Payments",
+      "getThreeNights": "Get Three Nights",
+      "becomeAmbassador": "Become Ambassador",
+      "profile": "Profile",
+      "settings": "Settings",
+      "notifications": "Notifications"
+    },
+    "guide": {
+      "tabTitle": "Quick Guide",
+      "section1": {
+        "title": "COMBINE BOTH SYSTEMS",
+        "content": [
+          "Traditional → continue filling rooms at the highest possible price.",
+          "Hotel-Living → fill the remaining rooms, traditionally empty at certain times of the year, with profitable long stays.",
+          "Objective: eliminate losses and multiply profits."
+        ]
+      },
+      "section2": {
+        "title": "IDENTIFY THE NUMBER OF TRADITIONALLY EMPTY ROOMS",
+        "content": [
+          "Locate at any time of the year rooms available for at least 7 consecutive nights.",
+          "Verify their availability for packages of 8, 15, 22 and 29 days."
+        ]
+      },
+      "section3": {
+        "title": "DECIDE YOUR UNIQUE WEEKLY DAY FOR CHECK-INS AND CHECK-OUTS",
+        "content": [
+          "Optimize staff work and eliminate unnecessary gaps."
+        ]
+      },
+      "section4": {
+        "title": "DECIDE YOUR BEST AFFINITIES AND ACTIVITIES",
+        "content": [
+          "Select what type of clients you want to attract based on the hotel or area characteristics.",
+          "No need to organize anything: clients with common interests will meet and interact.",
+          "TIP: In large hotels it may be convenient to organize activities.",
+          "TIP: It's possible to list nearby activities managed by third parties."
+        ]
+      },
+      "section5": {
+        "title": "DECIDE YOUR MEAL PLAN",
+        "content": [
+          "If necessary, you can collaborate with a nearby restaurant and outsource the weekly laundry service."
+        ]
+      },
+      "section6": {
+        "title": "USE OUR HOTEL-LIVING MODEL CALCULATOR",
+        "content": [
+          "Download the Excel file from your panel and verify rates, services and profits in minutes."
+        ]
+      },
+      "section7": {
+        "title": "UPLOAD THE INFORMATION TO THE PORTAL",
+        "content": [
+          "Create and manage your Availability Packages from your Hotel panel."
+        ]
+      }
+    }
+  }
+}

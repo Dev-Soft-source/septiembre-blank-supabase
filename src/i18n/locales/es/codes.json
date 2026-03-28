@@ -1,0 +1,54 @@
+{
+  "identification": {
+    "title": "Códigos de Identificación",
+    "description": "Gestionar códigos de identificación para diferentes tipos de entidades",
+    "entities": {
+      "agent": "Promotor",
+      "hotel": "Hotel", 
+      "association": "Asociación",
+      "leader": "Líder de Grupo",
+      "ambassador": "Embajador"
+    },
+    "formats": {
+      "commission": "7 caracteres: {prefix} + 5 dígitos + letra final (A-Z, excepto O)",
+      "nonCommission": "6 caracteres: {prefix} + 5 dígitos (sin letra final)",
+      "examples": "Ejemplos",
+      "requirements": "Requisitos de Formato"
+    },
+    "validation": {
+      "required": "El código es requerido",
+      "invalidLength": "El código debe tener exactamente {length} caracteres",
+      "invalidPrefix": "El código debe comenzar con '{prefix}'",
+      "noLetterO": "El código no puede contener la letra O",
+      "invalidDigits": "Los caracteres 2-6 deben ser dígitos (0-9)",
+      "invalidSuffix": "El último carácter debe ser una letra A-Z (excepto O)",
+      "notUnique": "Este código ya está en uso",
+      "valid": "Código de {entity} válido",
+      "checking": "Validando...",
+      "failed": "Error al validar el código"
+    },
+    "actions": {
+      "generate": "Generar Código de {entity}",
+      "generating": "Generando...",
+      "copy": "Copiar Código",
+      "copied": "¡Código copiado al portapapeles!"
+    },
+    "info": {
+      "startsWith": "Comenzar con \"{prefix}\" (para {entity})",
+      "followedBy": "Seguido de 5 dígitos (0-9)",
+      "endsWith": "Terminar con una letra (A-Z, excepto O)",
+      "noLetterO": "Sin letra \"O\" en ninguna parte del código",
+      "totalLength": "Longitud total: {length} caracteres"
+    },
+    "commission": {
+      "title": "Entidades con Comisión",
+      "description": "Las entidades que reciben comisiones usan códigos de 7 caracteres",
+      "types": "Hoteles, Asociaciones, Promotores"
+    },
+    "nonCommission": {
+      "title": "Entidades sin Comisión", 
+      "description": "Las entidades sin comisiones usan códigos de 6 caracteres",
+      "types": "Líderes de Grupo, Embajadores"
+    }
+  }
+}

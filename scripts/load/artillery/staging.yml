@@ -1,0 +1,72 @@
+# Artillery config to exercise listing, search, and booking flows on staging
+# Usage: ARTILLERY_TARGET=https://staging.your-domain.com artillery run scripts/load/artillery/staging.yml
+config:
+  target: "${ARTILLERY_TARGET:-https://staging.example.com}"
+  phases:
+    - duration: 180
+      arrivalRate: 10
+      name: warmup
+    - duration: 180
+      arrivalRate: 30
+      name: ramp
+  defaults:
+    headers:
+      Cache-Control: no-cache
+  plugins:
+    metrics-by-endpoint: {}
+
+scenarios:
+  - name: Hotel browse (multi-language)
+    flow:
+      - loop:
+          - get:
+              url: "/hotels"
+              headers:
+                Accept-Language: "es"
+          - get:
+              url: "/hotels"
+              headers:
+                Accept-Language: "en"
+          - get:
+              url: "/hotels"
+              headers:
+                Accept-Language: "pt"
+          - get:
+              url: "/hotels"
+              headers:
+                Accept-Language: "ro"
+        count: 5
+
+  - name: Availability search (multi-language)
+    flow:
+      - loop:
+          - get:
+              url: "/search?country=ES&month=2025-09"
+              headers:
+                Accept-Language: "es"
+          - get:
+              url: "/search?country=PT&month=2025-09"
+              headers:
+                Accept-Language: "pt"
+          - get:
+              url: "/search?country=RO&month=2025-09"
+              headers:
+                Accept-Language: "ro"
+          - get:
+              url: "/search?country=US&month=2025-09"
+              headers:
+                Accept-Language: "en"
+        count: 5
+
+  - name: Booking creation (stub - adjust to staging API)
+    flow:
+      - post:
+          url: "/api/bookings"
+          headers:
+            Content-Type: application/json
+            Accept-Language: "en"
+          json:
+            package_id: "00000000-0000-0000-0000-000000000000"
+            check_in: "2025-09-01"
+            check_out: "2025-09-29"
+            guest_count: 1

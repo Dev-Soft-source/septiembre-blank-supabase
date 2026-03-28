@@ -1,0 +1,171 @@
+{
+  "landing": {
+    "hero": {
+      "title": "Únete a Nuestra Red de Asociaciones Hoteleras",
+      "subtitle": "Conecta tu asociación hotelera con Nomad Heaven y comienza a generar comisiones por cada reserva realizada por nuestros nómadas digitales.",
+      "registerButton": "Registrar Mi Asociación"
+    },
+    "benefits": {
+      "globalNetwork": {
+        "title": "Red Global",
+        "description": "Accede a una red global de hoteles y aumenta tu visibilidad internacional."
+      },
+      "commissions": {
+        "title": "Comisiones Atractivas",
+        "description": "Genera ingresos adicionales con nuestro sistema de comisiones competitivas."
+      },
+      "digitalNomads": {
+        "title": "Nómadas Digitales",
+        "description": "Conecta con una comunidad creciente de profesionales remotos."
+      },
+      "secureManagement": {
+        "title": "Gestión Segura",
+        "description": "Panel de control seguro para gestionar hoteles y comisiones."
+      }
+    },
+    "howItWorks": {
+      "title": "¿Cómo Funciona?",
+      "steps": [
+        {
+          "title": "Regístrate",
+          "description": "Completa el formulario de registro con los datos de tu asociación hotelera."
+        },
+        {
+          "title": "Agrega Hoteles",
+          "description": "Añade los hoteles de tu asociación a nuestra plataforma desde tu panel."
+        },
+        {
+          "title": "Genera Comisiones",
+          "description": "Recibe comisiones automáticamente por cada reserva realizada en tus hoteles."
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para Comenzar?",
+      "subtitle": "Únete a nuestra red de asociaciones hoteleras y comienza a generar ingresos adicionales hoy mismo.",
+      "registerButton": "Registrar Asociación",
+      "dashboardButton": "Acceder al Panel"
+    },
+    "contact": {
+      "title": "¿Tienes Preguntas?",
+      "email": "asociaciones@nomadheaven.com"
+    }
+  },
+  "slogans": [
+    "SOMOS HOTEL-LIVING.COM",
+    "SOMOS POSIBLE OCUPACIÓN MASIVA PARA SUS HOTELES AFILIADOS",
+    "SOMOS UNA GRAN FUENTE DE INGRESOS PARA SU ASOCIACIÓN",
+    {
+      "lines": [
+        "SOMOS LA REVOLUCIÓN HOTELERA MUNDIAL",
+        "QUE SU ASOCIACIÓN PUEDE SER LA PRIMERA",
+        "EN COMUNICAR A SUS AFILIADOS"
+      ]
+    }
+  ],
+  "offers": {
+    "title": "Qué ofrecemos a su asociación",
+    "firstPeriod": {
+      "percentage": "4%",
+      "text": "de las reservas generadas",
+      "duration": "Durante los primeros 18 meses"
+    },
+    "secondPeriod": {
+      "percentage": "2%",
+      "text": "de las reservas generadas", 
+      "duration": "Durante los siguientes 12 meses"
+    },
+    "note": {
+      "highlight": "Este ingreso no afecta en nada a los hoteles",
+      "description": "Proviene de nuestro propio coste de gestión (10%) y puede ser reinvertido en beneficio de la asociación y sus miembros."
+    }
+  },
+  "calculator": {
+    "title": "Calculadora online",
+    "labels": {
+      "hotels": "¿CUÁNTOS HOTELES AFILIADOS?",
+      "rooms": "¿CUÁNTAS HABITACIONES VACÍAS DIARIAS DE MEDIA?",
+      "price": "¿PRECIO MENSUAL POR HABITACIÓN?"
+    },
+    "results": {
+      "hotelBenefits": "Beneficios para los hoteles *:",
+      "associationBenefits": "Beneficios para la asociación *:"
+    }
+  },
+  "accordion": {
+    "advantages": {
+      "title": "¿QUÉ VENTAJAS OBTIENEN SUS HOTELES ASOCIADOS POR REGISTRARSE A TRAVÉS DE SU ASOCIACIÓN?",
+      "items": [
+        "Posicionamiento preferente en los resultados",
+        "Publicación garantizada en 48 horas",
+        "Ficha destacada visualmente",
+        "Participación automática en campañas locales",
+        "Etiqueta oficial de \"hotel aliado\"",
+        "Derecho a feedback directo con el equipo de Hotel-Living",
+        "Inclusión en sorteos promocionales",
+        "Onboarding asistido personalizado",
+        "Revisión gratuita de su ficha",
+        "Traducción prioritaria de su ficha a otros idiomas",
+        "Beneficio acumulativo si refiere a otros hoteles (no pertenecientes a ninguna asociación)",
+        "Acceso anticipado a nuevos módulos del sistema Hotel-Living",
+        "Para probar funciones antes de su lanzamiento oficial",
+        "Atención prioritaria en soporte técnico y resolución de incidencias",
+        "Acceso gratuito a formaciones exclusivas sobre optimización de estancias largas y revenue management para su equipo",
+        "Una mención o publicación personalizada mensual (rotativa)",
+        "Etiqueta de \"Top Hotel Asociación\" en su ficha durante los 3 primeros meses",
+        "Mayor frecuencia de aparición en segmentos de afinidades personalizadas",
+        "Convocatoria preferente a encuentros o mesas redondas con otros hoteles aliados"
+      ]
+    },
+    "clients": {
+      "title": "CIENTOS DE MILLONES DE CLIENTES ESTÁN ESPERANDO",
+      "items": [
+        "Jubilados activos que quieren vivir de verdad",
+        "Trabajadores online y nómadas digitales",
+        "Profesionales en ciudades dormitorio",
+        "Inquilinos hartos de dificultades",
+        "Viajeros frecuentes buscando alma",
+        "Usuarios de apartamentos improvisados",
+        "Almas libres que quieren todo resuelto",
+        "Ciudadanos que desean romper la soledad y conocer afines"
+      ],
+      "conclusion": [
+        "Todos ellos tienen algo en común: buscan un nuevo modo de habitar.",
+        "Ya no se trata de alquilar. Ya no se trata de viajar.",
+        "Se trata de vivir distinto.",
+        "Y para todo eso, el hotel es la solución natural.",
+        "Hotel-Living llega para cambiarlo.",
+        "Modelo de larga duración",
+        "Desplegado en fases con módulos revolucionarios",
+        "Rentabiliza, posiciona y moderniza",
+        "Actualmente solo está desplegado en un 20% de su totalidad"
+      ]
+    }
+  },
+  "disclaimer": {
+    "text": [
+      "* Las cifras presentadas son estimaciones basadas en el potencial máximo de ocupación.",
+      "Los resultados reales pueden variar en función del número de paquetes efectivamente vendidos y del precio promedio mensual.",
+      "Este último —fijado en $1,300— representa una media ponderada que contempla estancias sin servicio de comidas, así como hoteles de distintas categorías, con ocupaciones tanto individuales como dobles."
+    ]
+  },
+  "benefits": {
+    "title": "Somos Hotel-Living y estos son algunos de los beneficios directos para sus miembros afiliados",
+    "items": [
+      "Acabamos con las temporadas medias y bajas.",
+      "Multiplicamos radicalmente los beneficios hoteleros.",
+      "Activamos el 100 % de la rentabilidad de las habitaciones vacías.",
+      "El hotel cobra por anticipado el 5 % de cada reserva, beneficio neto no reembolsable.",
+      "Sin suscripciones – Sin membresías – Sin cuotas mensuales – Sin contratos forzosos – Sin costes anticipados – Sin adaptaciones.",
+      "Recuperamos a clientes que optaron por los apartamentos turísticos.",
+      "Reducimos los costes operativos.",
+      "Traemos estancias más largas y rentables.",
+      "Unificamos entradas y salidas en un solo día semanal.",
+      "Simplificamos la gestión diaria.",
+      "Damos absoluta estabilidad de personal.",
+      "Llenamos de vida y atractivo los hoteles.",
+      "Llevamos a los hoteles sus clientes ideales según afinidades elegidas por el propio hotel.",
+      "Conectamos a su asociación con una nueva era de rentabilidad y estabilidad."
+    ]
+  }
+}

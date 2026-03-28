@@ -1,0 +1,41 @@
+{
+  "console": {
+    "userNotDetected": "No authenticated user detected",
+    "redirectingBasedOnRole": "Redirecting based on role",
+    "logoutButtonClicked": "Logout button clicked", 
+    "logoutSuccessful": "Logout successful",
+    "errorDuringLogout": "Error during logout",
+    "errorFetching": "Error fetching",
+    "errorCreating": "Error creating",
+    "errorDeleting": "Error deleting",
+    "errorUpdating": "Error updating",
+    "processingData": "Processing data",
+    "dataFetched": "Data fetched successfully"
+  },
+  "validation": {
+    "error": "Error",
+    "required": "Required",
+    "invalid": "Invalid",
+    "fieldRequired": "This field is required",
+    "invalidEmail": "Invalid email format",
+    "passwordTooShort": "Password too short",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "location": {
+    "notSpecified": "Location not specified",
+    "cityCountry": "{{city}}, {{country}}"
+  },
+  "pricing": {
+    "onRequest": "Price on request",
+    "perMonth": "per month",
+    "from": "From",
+    "currency": "EUR"
+  },
+  "state": {
+    "loading": "Loading...",
+    "noItems": "No items to display",
+    "noOptions": "No options found",
+    "noResults": "No results found",
+    "tryAgain": "Please try again"
+  }
+}

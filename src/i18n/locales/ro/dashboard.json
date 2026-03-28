@@ -1,0 +1,235 @@
+
+{
+  "dashboard": {
+    "quickGuide": "Ghid Rapid",
+    "autoSave": {
+      "success": "Salvat automat",
+      "error": "Eroare salvare automată",
+      "draftSaved": "Ciorna salvată automat",
+      "draftSaveFailed": "Eșec la salvarea ciornei",
+      "saving": "Se salvează...",
+      "savedAt": "Salvat {time}",
+      "justNow": "chiar acum",
+      "minutesAgo": "acum {minutes}m",
+      "draftLoaded": "Ciornă Încărcată",
+      "draftLoadedDescription": "Munca dvs. anterioară a fost restaurată"
+    },
+    "addProperty2Title": "Adaugă Proprietate 2",
+    "title": "Tablou de bord",
+    "welcome": "Bun venit",
+    "overview": "Prezentare generală",
+    "statistics": "Statistici",
+    "recentActivity": "Activitate recentă",
+    "quickActions": "Acțiuni rapide",
+    "notifications": "Notificări",
+    "profile": "Profil",
+    "account": "Cont",
+    "welcomeOverview": "Prezentare generală de bun venit",
+    "calculateModel": "CALCULEAZĂ MODELUL",
+    "ratesAndProfits": "TARIFE ȘI PROFITURI",
+    "properties": "Proprietăți",
+    "advertising": "Publicitate",
+    "bookings": "Rezervări",
+    "guests": "Oaspeți",
+    "adminMessages": "Mesaje admin",
+    "finances": "Finanțe",
+    "reviews": "Recenzii",
+    "analytics": "Analize",
+    "settings": "Setări",
+    "standardEconomicModel": "CREEAZĂ-ȚI PROPRIUL MODEL HOTEL-LIVING",
+    "costsAndProfits": "Șederi Lungi\n=\nCosturi Reduse",
+    "buildOwnModel": "Construiește-ți Propriul Model Hotel Living",
+    "costs": "COSTURI",
+    "profits": "PROFITURI",
+    "selectAll": "Selectează toate",
+    "deselectAll": "Deselectează toate",
+    "hotelManagement": "MANAGEMENT HOTELIER",
+    "logOut": "Deconectare",
+    "needHelp": "Ai nevoie de ajutor?",
+    "supportDescription": "Echipa noastră de suport este disponibilă 24/7 pentru a vă asista cu orice întrebări.",
+    "contactSupport": "Contactează suportul",
+    "totalBookings": "Total rezervări",
+    "revenue": "Venituri",
+    "avgRating": "Evaluare medie",
+    "welcomeToHotelLiving": "Bun venit la Hotel-Living!",
+    "welcomeMessage": "Începeți prin adăugarea primei proprietăți sau explorarea funcțiilor tabloului de bord.",
+    "addPropertyAction": "Adaugă proprietate",
+    "addPropertyDescription": "Listează prima ta proprietate pe Hotel-Living",
+    "viewBookings": "Vezi rezervările",
+    "viewBookingsDescription": "Gestionează rezervările curente și viitoare",
+    "viewAnalytics": "Vezi analizele",
+    "viewAnalyticsDescription": "Urmărește performanța și perspectivele",
+    "manageReviews": "Gestionează recenziile",
+    "manageReviewsDescription": "Răspunde la recenziile și feedback-ul oaspeților",
+    "recentReviews": "Recenzii recente",
+    "noReviews": "Încă nu există recenzii",
+    "noReviewsMessage": "Recenziile de la oaspeți vor apărea aici",
+    "recentBookings": "Rezervări recente",
+    "noBookings": "Încă nu există rezervări",
+    "noBookingsMessage": "Rezervările pentru proprietatea ta vor apărea aici",
+    "guestManagement": "Gestionarea Oaspeților",
+    "noGuestData": "Încă nu există date despre oaspeți",
+    "messagesFromAdmin": "Mesaje de la Administrator",
+    "noMessagesYet": "Încă nu există mesaje",
+    "noMessagesMessage": "Nu ați primit încă mesaje de la administratorul platformei.",
+    "financialOverview": "Prezentare Generală Financiară",
+    "financialDataMessage": "Datele dvs. financiare și istoricul tranzacțiilor vor apărea aici odată ce aveți rezervări.",
+    "checkinOut": "Check-in/Check-out",
+    "autoPriceIncrease": "Creștere Automată de Preț",
+    "checkinOutPolicy": "Politica de Check-in/Check-out",
+    "checkInOutPolicy": "Politica de Check-in/Check-out",
+    "advertising": {
+      "title": "Publicitate și Promoție"
+    },
+    "images": {
+      "limitReached": "Limita de Imagini Atinsă",
+      "maxImagesAllowed": "Maxim {max} imagini permise per proprietate",
+      "uploadRateLimitReached": "Limita de Încărcare",
+      "tooManyUploadsPerMinute": "Prea multe încărcări. Maxim {max} încărcări per minut",
+      "fileTooLarge": "{fileName} este prea mare. Maxim {maxSize}MB permis",
+      "invalidFileType": "{fileName} nu este un fișier imagine valid",
+      "imagesCount": "Imagini: {current}/{max}",
+      "remainingUploads": "Încărcări rămase în acest minut: {remaining}",
+      "maxFileSize": "Dimensiune maximă: {size}MB",
+      "selectedFiles": "Fișiere Selectate",
+      "uploading": "Se încarcă...",
+      "uploadPhotos": "Încărcare Fotografii",
+      "uploadedPhotos": "Fotografii Încărcate",
+      "mainImage": "Principală",
+      "selectMainImage": "Selectați imaginea principală"
+    },
+    "validation": {
+      "hotelNameRequired": "Numele hotelului este obligatoriu",
+      "categoryRequired": "Categoria este obligatorie",
+      "propertyTypeRequired": "Tipul proprietății este obligatoriu",
+      "descriptionRequired": "Descrierea este obligatorie",
+      "descriptionTooShort": "Descrierea trebuie să aibă cel puțin 50 de caractere",
+      "countryRequired": "Țara este obligatorie",
+      "cityRequired": "Orașul este obligatoriu",
+      "invalidEmail": "Format email invalid",
+      "invalidPhone": "Format telefon invalid",
+      "invalidLatitude": "Latitudinea trebuie să fie între -90 și 90",
+      "invalidLongitude": "Longitudinea trebuie să fie între -180 și 180",
+      "imagesRequired": "Este necesară cel puțin o imagine a hotelului",
+      "themesRequired": "Trebuie selectată cel puțin o temă",
+      "activitiesRequired": "Trebuie selectată cel puțin o activitate",
+      "roomTypesRequired": "Trebuie definit cel puțin un tip de cameră"
+    },
+    "cancelEditing": "Anulare Editare",
+    "avatar": {
+      "upload": "Încărcare Avatar",
+      "uploading": "Se încarcă...",
+      "uploadSuccess": "Avatar încărcat cu succes",
+      "uploadError": "Eroare la încărcarea avatar-ului",
+      "remove": "Elimină Avatar",
+      "removeSuccess": "Avatar eliminat cu succes",
+      "removeError": "Eroare la eliminarea avatar-ului",
+      "fileTooLarge": "Fișierul este prea mare. Maxim 5MB permis",
+      "invalidFormat": "Format de fișier invalid. Doar JPG, PNG și WEBP sunt permise",
+      "dimensionsRecommendation": "Dimensiuni recomandate: 512x512px"
+    },
+    "preferences": {
+      "title": "Preferințe",
+      "notifications": "Preferințe Notificări",
+      "notificationBookings": "Notificări rezervări",
+      "notificationMessages": "Notificări mesaje",
+      "notificationPromotions": "Notificări promoționale",
+      "affinities": "Afinitatile Mele",
+      "saveSuccess": "Preferințele au fost salvate cu succes",
+      "saveError": "Eroare la salvarea preferințelor"
+    },
+    "referrals": {
+      "title": "Recomandă Hoteluri – Câștigă Comisioane",
+      "description": "Invită hoteluri să se alăture Hotel-Living și câștigă comisioane pentru fiecare rezervare activă pe care o primesc.",
+      "hotelSubmission": "Trimiterea hotelului",
+      "country": "Țara",
+      "city": "Orașul",
+      "hotelName": "Numele hotelului",
+      "addAnother": "Adaugă alt hotel",
+      "paymentInfo": "Informații de Plată",
+      "paymentInfoDescription": "Pentru a-ți primi comisioanele, te rugăm să furnizezi detaliile bancare.",
+      "fullName": "Numele complet",
+      "bankName": "Numele băncii",
+      "bankCountry": "Țara băncii",
+      "ibanAccount": "IBAN / Numărul contului",
+      "swiftBic": "Codul SWIFT / BIC",
+      "submittedHotels": "Hotelurile pe care le-ai trimis",
+      "remove": "Elimină",
+      "confirmRemove": "Ești sigur că vrei să elimini acest hotel?",
+      "successMessage": "Mulțumim! Trimiterea ta a fost primită.",
+      "errorMessage": "A apărut o eroare la trimiterea formularului. Te rugăm să încerci din nou.",
+      "validation": {
+        "fullNameRequired": "Numele complet este obligatoriu",
+        "bankNameRequired": "Numele băncii este obligatoriu",
+        "bankCountryRequired": "Țara băncii este obligatorie",
+        "ibanRequired": "IBAN sau numărul contului este obligatoriu",
+        "hotelNameRequired": "Numele hotelului este obligatoriu",
+        "hotelsRequired": "Cel puțin un hotel trebuie trimis"
+      }
+    },
+    "tabs": {
+      "dashboard": "Dashboard",
+      "experience": "Experience",
+      "bookings": "Bookings",
+      "history": "History",
+      "saved": "Hoteluri Salvate",
+      "payments": "Payments",
+      "getThreeNights": "Get Three Nights",
+      "becomeAmbassador": "Become Ambassador",
+      "profile": "Profile",
+      "settings": "Settings",
+      "notifications": "Notifications"
+    },
+    "guide": {
+      "tabTitle": "Ghid Rapid",
+      "section1": {
+        "title": "COMBINAȚI AMBELE SISTEME",
+        "content": [
+          "Tradițional → continuați să umpleți camerele la cel mai mare preț posibil.",
+          "Hotel-Living → umpleți restul camerelor, tradițional goale în anumite momente ale anului, cu șederi lungi profitabile.",
+          "Obiectiv: eliminați pierderile și multiplicați profiturile."
+        ]
+      },
+      "section2": {
+        "title": "IDENTIFICAȚI NUMĂRUL DE CAMERE TRADIȚIONAL GOALE",
+        "content": [
+          "Localizați în orice moment al anului camere libere pentru cel puțin 7 nopți consecutive.",
+          "Verificați disponibilitatea lor pentru pachete de 8, 15, 22 și 29 de zile."
+        ]
+      },
+      "section3": {
+        "title": "DECIDEȚI ZIUA UNICĂ SĂPTĂMÂNALĂ PENTRU INTRĂRI ȘI IEȘIRI",
+        "content": [
+          "Optimizați munca personalului și eliminați golurile inutile."
+        ]
+      },
+      "section4": {
+        "title": "DECIDEȚI CELE MAI BUNE AFINITĂȚI ȘI ACTIVITĂȚI",
+        "content": [
+          "Selectați ce tip de clienți doriți să atrageți pe baza caracteristicilor hotelului sau zonei.",
+          "Nu este necesar să organizați nimic: clienții cu interese comune se vor cunoaște și vor interacționa.",
+          "SFAT: În hotelurile mari poate fi convenabil să organizați activități.",
+          "SFAT: Este posibil să listați activități din apropiere gestionate de terți."
+        ]
+      },
+      "section5": {
+        "title": "DECIDEȚI PLANUL DE MESE",
+        "content": [
+          "Dacă este necesar, puteți colabora cu un restaurant din apropiere și externaliza serviciul de spălătorie săptămânal."
+        ]
+      },
+      "section6": {
+        "title": "FOLOSIȚI CALCULATORUL NOSTRU DE MODEL HOTEL-LIVING",
+        "content": [
+          "Descărcați fișierul Excel din panoul dvs. și verificați tarifele, serviciile și profiturile în minute."
+        ]
+      },
+      "section7": {
+        "title": "ÎNCĂRCAȚI INFORMAȚIILE ÎN PORTAL",
+        "content": [
+          "Creați și gestionați Pachetele de Disponibilitate din panoul dvs. de Hotel."
+        ]
+      }
+    }
+  }
+}

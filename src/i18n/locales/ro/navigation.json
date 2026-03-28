@@ -1,0 +1,130 @@
+{
+  "navigation": {
+    "home": "Acasă",
+    "hotels": "Hoteluri",
+    "hotelGroups": "GRUPURI\nHOTELIERE",
+    "dashboard": "Panou",
+    "login": "Conectare",
+    "logout": "Deconectare",
+    "signup": "Înscrierea",
+    "profile": "Profil",
+    "settings": "Setări",
+    "bookings": "Rezervări",
+    "admin": "Admin",
+    "language": "Limbă",
+    "help": "Ajutor",
+    "faq": "Avantaje",
+    "contact": "Contact",
+    "videos": "Videoclipuri",
+    "ourLeaders": "Liderii Noștri",
+    "featuredHotels": "Hoteluri Recomandate",
+    "affinityStays": "Sejururi prin Afinitate",
+    "register": "Înregistrare",
+    "aboutUs": "Despre Noi",
+    "press": "Presă",
+    "dashboards": {
+      "admin": "Panou Admin",
+      "hotel": "Panou Hotel",
+      "association": "Panou Asociație",
+      "promoter": "Panou Promotor",
+      "agent": "Panou Agent",
+      "user": "Panou Utilizator",
+      "groupLeader": "Lider de Grup"
+    },
+    "menuRoles": {
+      "user": "Utilizator",
+      "hotel": "Hotel",
+      "groupLeader": "Lider de Grup",
+      "promoterLocal": "Promotor Local",
+      "association": "Asociație"
+    }
+  },
+  "panelLabels": {
+    "user": "Panou – Utilizator",
+    "hotel": "Panou – Hotel",
+    "admin": "Panou – Admin",
+    "association": "Dashboard – Asociație",
+    "promoter": "Panou – Promotor"
+  },
+  "mainNavigationContent": {
+    "faq": {
+      "line1": "CLIENȚI",
+      "line2": "HOTEL LIVING",
+      "mobile": "CLIENȚI HOTEL LIVING"
+    },
+    "affinityStays": {
+      "line1": "AFINITĂȚI",
+      "line2": "HOTEL-LIVING™",
+      "mobile": "AFINITĂȚI HOTEL-LIVING™"
+    },
+    "videos": {
+      "line1": "VIDEOCLIPURI",
+      "line2": "ȘI PRESĂ",
+      "mobile": "VIDEOCLIPURI ȘI PRESĂ"
+    },
+    "ambassador": {
+      "line1": "CREȘTI",
+      "line2": "CU NOI",
+      "mobile": "CREȘTI CU NOI"
+    },
+    "frequentQuestions": {
+      "line1": "ÎNTREBĂRI",
+      "line2": "FRECVENTE",
+      "mobile": "ÎNTREBĂRI FRECVENTE"
+    },
+    "signup": {
+      "line1": "DESCHIDE\nCONT",
+      "line2": "",
+      "mobile": "DESCHIDE CONT"
+    },
+    "login": {
+      "line1": "CONECTARE",
+      "line2": "",
+      "mobile": "CONECTARE"
+    },
+    "hotel": {
+      "line1": "HOTEL?",
+      "line2": "",
+      "mobile": "HOTEL?"
+    },
+    "featuredHotels": "HOTELURI RECOMANDATE",
+    "hotelDashboard": "Panou Hotel",
+    "adminDashboard": "Panou Admin",
+    "logout": "Deconectare",
+    "press": {
+      "line1": "PRESĂ",
+      "line2": "",
+      "mobile": "PRESĂ"
+    },
+    "growWithUs": {
+      "ambassador": "Ambasador",
+      "localPromoter": "Promotor Local"
+    },
+    "videosAndPress": {
+      "videos": "Videoclipuri",
+      "press": "Presă"
+    },
+    "mobileMenu": {
+      "aboutUs": "DESPRE NOI",
+      "legal": "LEGAL",
+      "ourTeam": "ECHIPĂ",
+      "ourValues": "VALORI",
+      "ourServices": "SERVICII",
+      "customerService": "SERVICIU CLIENȚI",
+      "contact": "CONTACT",
+      "intellectualProperty": "PROPRIETATE INTELECTUALĂ",
+      "termsAndConditions": "TERMENI ȘI CONDIȚII",
+      "privacyAndCookies": "CONFIDENȚIALITATE ȘI COOKIES"
+    },
+    "mobileSimple": {
+      "customers": "CLIENȚI",
+      "affinities": "AFINITĂȚI",
+      "press": "PRESĂ",
+      "videos": "VIDEOCLIPURI",
+      "groupLeader": "LIDER DE GRUP",
+      "ambassador": "AMBASADOR",
+      "promoter": "PROMOTOR",
+      "hotel": "HOTEL?"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "dashboard": {
+    "propertyForm": {
+      "title": "Informații Proprietate",
+      "basicInfo": "Informații de Bază",
+      "hotelName": "Nume Hotel",
+      "hotelNamePlaceholder": "Introduceți numele hotelului",
+      "totalRooms": "Total Camere",
+      "totalRoomsPlaceholder": "Introduceți numărul total de camere",
+      "propertyType": "Tip Proprietate",
+      "selectPropertyType": "Selectați tipul proprietății",
+      "hotelCategory": "Categoria Hotel",
+      "description": "Descriere",
+      "descriptionPlaceholder": "Descrieți proprietatea...",
+      "hotelDescription": "DESCRIEREA HOTELULUI",
+      "shortDescription": "Descriere Scurtă",
+      "longDescription": "Descriere Detaliată",
+      "features": "Caracteristici",
+      "amenities": "Facilități",
+      "services": "Servicii",
+      "accessibility": "Caracteristici de Accesibilitate",
+      "idealGuestsEnjoy": "OASPEȚII IDEALI SE BUCURĂ DE...",
+      "idealGuestsPlaceholder": "Descrieți oaspeții ideali și interesele lor",
+      "atmosphereIs": "ATMOSFERA ESTE…",
+      "atmospherePlaceholder": "Descrieți atmosfera proprietății",
+      "locationPerfectFor": "LOCAȚIA NOASTRĂ ESTE PERFECTĂ PENTRU…",
+      "locationPlaceholder": "Descrieți ce face specială locația dvs.",
+      "defineRoomTypesStayDurations": "Vă rugăm să definiți tipurile de camere, duratele șederii și planurile de masă în Pasul 3 înainte de a stabili prețurile.",
+      "styleOfProperty": "STILUL PROPRIETĂȚII",
+      "selectPropertyStyle": "Selectați stilul proprietății",
+      "propertyStyles": {
+        "classic": "Clasic",
+        "classicElegant": "Clasic Elegant",
+        "modern": "Modern",
+        "fusion": "Fuziune",
+        "urban": "Urban",
+        "rural": "Rural",
+        "minimalist": "Minimalist",
+        "luxury": "Lux"
+      },
+      "validation": {
+        "required": "Acest câmp este obligatoriu",
+        "minLength": "Lungimea minimă este {min} caractere",
+        "maxLength": "Lungimea maximă este {max} caractere",
+        "invalidFormat": "Format invalid",
+        "invalidEmail": "Adresă de email invalidă",
+        "invalidPhone": "Număr de telefon invalid",
+        "invalidUrl": "Format URL invalid"
+      },
+      "errors": {
+        "submitFailed": "Submisia informațiilor proprietății a eșuat",
+        "loadFailed": "Încărcarea datelor proprietății a eșuat",
+        "saveFailed": "Salvarea modificărilor a eșuat",
+        "devModeUserCreationFailed": "Eșec la crearea utilizatorului de dezvoltare pentru înregistrare",
+        "foreignKeyConstraint": "Eroare de restricție a bazei de date. Datele dumneavoastră au fost salvate local pentru reîncercare."
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "header": {
+    "line1": "VIITORUL ESTE DEJA AICI",
+    "line2": "A trăi în și printre hoteluri, bucurându-se de o viață socială vibrantă, este acum posibil pentru toată lumea.",
+    "line3": "...și devine o nouă formă de viață"
+  },
+  "introduction": {
+    "paragraph1": "Hotel-Living.com, creată în SUA, propune un model revoluționar: transformarea camerelor goale de hotel în oportunități de viață. Cu șederi de 8, 15, 22 sau 29 de zile, oferă călătorilor libertate și comunitate, iar hotelurilor beneficiu imediat. O alternativă clară la Airbnb și Booking.",
+    "stats": [
+      "+5 miliarde de nopți de hotel goale în lume în fiecare an.",
+      "Până la 12 miliarde USD în profituri potențiale anuale.",
+      "Abordare internațională globală"
+    ],
+    "quotes": [
+      "Airbnb și Booking se concentrează pe nopți individuale; Hotel Living creează șederi lungi cu sens.",
+      "Hotel-Living.com: platforma care transformă șederile lungi în afaceri pentru hoteluri și libertate pentru călători",
+      "Revoluția nu este să călătorești, ci să rămâi: a trăi între hoteluri este noua alternativă locativă.",
+      "Startup-ul global transformă camerele goale de hotel într-un nou stil de viață",
+      "Revoluția turismului prelungit: a trăi între hoteluri ca alternativă la Airbnb",
+      "Nu este turism, este un nou mod de viață: a trăi în hoteluri fără treburi casnice sau singurătate.",
+      "De la pierderi la profituri: un sistem creat în SUA umple camerele goale din întreaga lume",
+      "Peste 500 de milioane de călători potențiali caută libertate și comunitate în locul chiriilor."
+    ]
+  },
+  "video": {
+    "title": "Video Comunicat de Presă",
+    "placeholder": "R8u7a3bYTJQ"
+  },
+  "pressKit": {
+    "title": "Descărcare Kit de Presă",
+    "buttons": {
+      "english": "English",
+      "spanish": "Español"
+    }
+  },
+  "headlines": {
+    "title": "Titluri Principale",
+    "items": [
+      "Hilton lansează LivSmart Studios: peste 300 de hoteluri concepute pentru șederi de 20 de nopți sau mai mult",
+      "Piața extended-stay va crește de la 62,8 miliarde $ la 143,2 miliarde $ până în 2034",
+      "Marriott, Hyatt și Wyndham concurează pentru a conduce segmentul cu noile lor mărci",
+      "Mii de pensionari, lucrători la distanță și nomazi digitali aleg hotelurile ca domiciliu permanent",
+      "Hotelurile extended-stay obțin ocupare mai mare cu mai puțin personal și mai multă profitabilitate",
+      "The Social Hub, Hoxton și Soho House combină hotelul, coworking-ul și comunitatea: noul model hibrid",
+      "În Hong Kong, hotelurile tradiționale se transformă în coliving pentru a asigura profitabilitatea stabilă",
+      "Designul hotelier evoluează: camerele convertite în spații pentru a trăi, lucra și socializa"
+    ]
+  },
+  "keyFigures": {
+    "title": "Cifre Cheie",
+    "items": [
+      "+232.000 nopți extended-stay adăugate în SUA în 2024",
+      "+50% creștere în portofoliul extended-stay printre principalele lanțuri hoteliere în ultimul deceniu",
+      "+200 hoteluri ECHO anunțate de Wyndham",
+      "$9,31 → costul mediu al forței de muncă per cameră ocupată în hotelurile extended-stay",
+      "$20,34 → echivalentul în hotelurile tradiționale",
+      "2.038 camere de hotel convertite în coliving în Hong Kong",
+      "+60% din Millennials și Gen Z preferă șederile flexibile cu servicii incluse"
+    ]
+  },
+  "brands": {
+    "title": "Mărci Hoteliere",
+    "major": ["Hilton", "Marriott", "Hyatt", "Wyndham", "Accor", "WaterWalk"],
+    "specialized": ["The Manner", "The Social Hub", "StudioRes", "Gaiastays", "Echo", "LivSmart"]
+  },
+  "pressCoverage": {
+    "title": "Acoperire Media",
+    "items": [
+      {
+        "media": "New York Times",
+        "link": "https://www.nytimes.com/2023/11/12/style/hotel-living-nomads.html"
+      },
+      {
+        "media": "Financial Times",
+        "link": "https://www.ft.com/content/6ccdb850-53ea-4778-9383-73dd711c859d"
+      },
+      {
+        "media": "New York Post",
+        "link": "https://nypost.com/2024/12/05/business/amar-lalvani-is-pioneering-a-new-style-of-luxury-at-the-manner/"
+      },
+      {
+        "media": "Livingetc",
+        "link": "https://www.livingetc.com/features/resort-core"
+      },
+      {
+        "media": "HospitalityNet",
+        "link": "https://www.hospitalitynet.org/opinion/4127709.html"
+      },
+      {
+        "media": "EHL Insights",
+        "link": "https://hospitalityinsights.ehl.edu/hotel-guest-community-integration"
+      }
+    ]
+  },
+  "closing": {
+    "line1": "Industria hotelieră nu se schimbă doar...",
+    "line2": "evoluează către o nouă modalitate de a locui în lume."
+  },
+  "legal": {
+    "disclaimer": "Toate mărcile, logo-urile și referințele citate pe această pagină aparțin proprietarilor lor respectivi și sunt incluse exclusiv în scopuri informative, editoriale sau comparative. Hoteldiving nu este afiliat cu sau avizat de astfel de entități."
+  }
+}

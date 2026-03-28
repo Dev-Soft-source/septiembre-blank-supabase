@@ -1,0 +1,26 @@
+
+{
+  "footer": {
+    "sections": {
+      "aboutUs": "ABOUT US",
+      "legal": "LEGAL"
+    },
+    "links": {
+      "ourTeam": "TEAM",
+      "ourValues": "VALUES",
+      "ourServices": "SERVICES",
+      "customerService": "CUSTOMER SERVICE",
+      "contact": "CONTACT",
+      "intellectualProperty": "INTELLECTUAL PROPERTY",
+      "terms": "TERMS & CONDITIONS",
+      "privacy": "PRIVACY & COOKIES"
+    },
+    "buttons": {
+      "register": "SIGN UP",
+      "signIn": "SIGN IN",
+      "hotel": "HOTEL?"
+    },
+    "copyright": "© 2025 Hotel-Living.com. All rights reserved. This is a Beta version, subject to continuous updates.",
+    "disclaimer": "Some properties may be examples used to demonstrate Hotel-Living functionality."
+  }
+}

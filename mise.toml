@@ -1,0 +1,4 @@
+
+[settings]
+idiomatic_version_file_enable_tools = ["node"]
+approve_build_tools = ["@swc/core", "esbuild"]

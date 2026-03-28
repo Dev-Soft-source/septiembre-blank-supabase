@@ -1,0 +1,91 @@
+{
+  "title": "Líder de Grupo",
+  "description": "Torna-te um Líder de Grupo do Hotel Living. Organiza estadias inesquecíveis, conecta-te com pessoas afins e gera rendimentos partilhando o teu estilo de vida.",
+  "cards": {
+    "card2": {
+      "title": "ÉS EMPÁTICO, SOCIÁVEL E DE BOM CARÁCTER?",
+      "line1": "Se a resposta é sim, já tens o mais importante para seres um líder de grupo excecional no Hotel Living.",
+      "line2": "Não precisas de experiência prévia nem de seres influencer. Apenas uma atitude calorosa, vontade de te conectares com as pessoas e capacidade de criar momentos únicos. O sistema cuida do resto."
+    },
+    "card3": {
+      "title": "SIM. SER LÍDER DE GRUPO PODE SER O GRANDE FUTURO DE QUALQUER UM",
+      "line1": "Qualquer pessoa, jovem, adulta ou reformada pode tornar-se Líder de Grupo e multiplicar a sua vida e a de muitos outros.",
+      "line2": "O Líder de Grupo Hotel-Living é:",
+      "bullets": {
+        "future": "💡 Atividade de futuro que nenhuma inteligência artificial poderá substituir jamais.",
+        "utility": "🏨 Absoluta utilidade para o hotel: atrai clientes, organiza-os e é até mesmo o seu porta-voz.",
+        "fundamental": "🌍 Fundamental para milhões de pessoas que desejam viajar, relacionar-se e partilhar atividades.",
+        "treasure": "✨ Um tesouro cada dia mais necessário: aquele que produz a interação e a conversação, a sociabilidade e a riqueza humanas."
+      },
+      "conclusion1": "Ser Líder de Grupo significa acompanhar, integrar e criar comunidade.",
+      "conclusion2": "Significa multiplicar a vida própria e a de muitos mais."
+    }
+  },
+  "cta": {
+    "register": "Registar-me como Líder"
+  },
+  "faq": {
+    "whoCanBecome": {
+      "question": "QUEM PODE TORNAR-SE LÍDER DE GRUPO?",
+      "answer": "Qualquer pessoa de qualquer idade com vontade de ter uma vida privilegiada, conectar pessoas e organizar algo bonito. Não é preciso ser influencer nem ter experiência prévia. Apenas precisas de atitude calorosa e capacidade de chegar às pessoas."
+    },
+    "whatLeaderDoes": {
+      "question": "O QUE FAZ UM LÍDER DE GRUPO?",
+      "answer": "Organiza um grupo de pessoas que se alojam no mesmo hotel, durante estadias de 8, 15, 22 ou 29 dias, todas renováveis e segundo os pacotes já disponíveis na plataforma. Nada mais e nada menos que reunir pessoas para viver melhor!"
+    },
+    "howMuchEarn": {
+      "question": "COMO E QUANTO GANHO COMO LÍDER?",
+      "answer": "Por cada pessoa que reserva usando o teu código, o sistema dá-te automaticamente 5% do total. Quando juntas várias pessoas, podes até cobrir a tua própria estadia e depois começar a receber bonificações em dinheiro todas as segundas-feiras ou no dia semanal acordado com o hotel.\n\nO teu objetivo de ganhos defines tu. Um hotel imenso permitir-te-á tocar o céu, mas lembra-te que o contacto humano é fundamental, e para grupos muito grandes (mais de 30-40 pessoas) é necessário contar com ajudas suplementares que, claro, podes organizar com amigos e pessoas de confiança."
+    },
+    "howSystemKnows": {
+      "question": "E COMO SABE O SISTEMA QUEM VEIO ATRAVÉS DE MIM?",
+      "answer": "Muito fácil: cada líder tem um código único (por exemplo, XXXXX). Apenas tens de o partilhar com o teu grupo. Quando alguém reserva e o introduz, a tua bonificação é automaticamente ativada."
+    },
+    "themeGroup": {
+      "question": "É MELHOR ESCOLHER UMA TEMÁTICA PARA O GRUPO?",
+      "answer": "Sim, ajuda imenso. Há pessoas que se juntam por afinidade: grupos de yoga, caminhadas, culinária local, conversação em inglês, espanhol ou qualquer outro idioma. Não há limite para a imaginação."
+    },
+    "organizeActivities": {
+      "question": "TENHO DE ORGANIZAR ATIVIDADES?",
+      "answer": "Não é obrigatório, mas soma imenso. Um jantar, um passeio juntos ou uma excursão simples podem fazer a diferença e fazer o teu grupo crescer pelo passa-palavra. Podes acordar com excursões, teatros, restaurantes, etc., as comissões ou benefícios que achares apropriados. São teus!"
+    },
+    "stayDuration": {
+      "question": "AS ESTADIAS SÃO SEMPRE DA MESMA DURAÇÃO?",
+      "answer": "Sim, no Hotel Living trabalhamos sempre com durações fixas: 8, 15, 22 ou 29 dias. Mas tu decides se organizas apenas um bloco... ou ficas vários meses para ampliar as possibilidades de estadia de muitas pessoas diferentes!"
+    },
+    "groupSize": {
+      "question": "QUANTA GENTE PODE JUNTAR-SE AO MEU GRUPO?",
+      "answer": "Toda a que quiseres! O único limite é a disponibilidade do hotel nessas datas."
+    },
+    "experienceNeeded": {
+      "question": "TENHO DE TER EXPERIÊNCIA A ORGANIZAR VIAGENS?",
+      "answer": "Não, de forma alguma. Trata-se apenas de te moveres, motivares outras pessoas e manteres boa energia. O sistema ajuda-te em tudo."
+    },
+    "multipleHotels": {
+      "question": "POSSO ORGANIZAR GRUPOS EM HOTÉIS DIFERENTES E DE AFINIDADES DIFERENTES?",
+      "answer": "Claro. Os limites defines tu. É apenas uma questão de te organizares com tempo."
+    },
+    "declareIncome": {
+      "question": "TENHO DE DECLARAR ESTES RENDIMENTOS?",
+      "answer": "Enquanto não ultrapassares certos níveis, não é preciso. Mas se em algum momento ganhares muito, podes declará-los como rendimentos esporádicos. Mas consulta sempre a legalidade vigente no teu país. Esta informação pode mudar e não está garantida."
+    },
+    "becomeAutonomous": {
+      "question": "DEVO TORNAR-ME TRABALHADOR INDEPENDENTE OU REGISTAR-ME COMO EMPRESA?",
+      "answer": "Não. Não estás a vender nada nem a prestar serviços. Estás simplesmente a receber uma bonificação por mover pessoas. Não precisas de te registar enquanto tudo se mantiver dentro do habitual. Mas consulta sempre a legalidade vigente no teu país. Esta informação pode mudar e não está garantida."
+    },
+    "promotorAmbassador": {
+      "question": "POSSO SER TAMBÉM PROMOTOR OU EMBAIXADOR?",
+      "answer": "Sim, mas com um email diferente. Cada papel no Hotel Living está vinculado a um email, por razões técnicas. Se quiseres ter vários papéis, usa contas diferentes."
+    },
+    "groupBenefits": {
+      "question": "QUE BENEFÍCIOS TÊM AS PESSOAS QUE SE JUNTAM AO MEU GRUPO?",
+      "answer": "Primeiro, fundamental: estes benefícios só se ativam para as pessoas que introduzem o teu código ao fazer a reserva. Tens de ter muito cuidado em lembrar-te e pôr o teu código em todo o lado, pois se não incluírem o teu código ao fazer a reserva depois não o poderão fazer e perderás a tua bonificação correspondente. Podes incluir todos os benefícios que quiseres. Entre outros:",
+      "benefits": {
+        "exclusiveActivities": "• Acesso a atividades exclusivas do grupo\nOs teus convidados podem participar em jantares conjuntos, passeios, conversas informais, excursões ou atividades que proponhas. Não é preciso fazer algo complicado: o importante é criar momentos partilhados.",
+        "personalizedWelcome": "• Boas-vindas personalizadas\nTu és o seu ponto de referência no hotel. Dás-lhes as boas-vindas, integra-los no grupo e ajudas-os a sentirem-se acompanhados desde o primeiro momento.",
+        "localRecommendations": "• Recomendações locais de confiança\nConheces o lugar, ou pelo menos investigaste bem. Assim podes partilhar os teus sítios favoritos: restaurantes autênticos, zonas tranquilas, mercadinhos, atividades diferentes ou segredos do destino. Isso vale ouro!",
+        "commonAffinity": "• Um grupo com uma afinidade em comum (se tu decidires)\nPara muitos, a grande razão pela qual escolhem juntar-se a um grupo."
+      }
+    }
+  }
+}

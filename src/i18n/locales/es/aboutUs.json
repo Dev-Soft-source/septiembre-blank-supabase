@@ -1,0 +1,117 @@
+{
+  "pageTitle": "Acerca de Nosotros – Hotel Living",
+  "intro": {
+    "visible": "Hotel Living es una empresa estadounidense fundada en California por un equipo multidisciplinario con amplia experiencia en el sector hotelero.",
+    "readMore": "Leer más",
+    "readLess": "Leer menos",
+    "hidden": [
+      "Desde 2021, hemos estado desarrollando el modelo Hotel-Living para resolver múltiples desafíos de la sociedad moderna y la industria hotelera simultáneamente.",
+      "Este modelo no solo aborda la masiva subutilización de habitaciones de hotel en todo el mundo, sino que también elimina uno de los mayores problemas sociales de hoy: la soledad. Los modelos de vida tradicionales están desactualizados, basados en grandes hogares familiares que ya no existen, dejando a millones de personas aisladas en ubicaciones fijas mientras la vida moderna exige flexibilidad, movilidad y experiencias compartidas.",
+      "Hotel Living propone una transformación completa de la forma en que vivimos y viajamos, creando mejores estilos de vida para personas que quieren más libertad y conexión social, mientras da a los hoteles una nueva oportunidad de usar completamente sus recursos.",
+      "Hoy, lo que ves públicamente es solo el 20% del modelo completo. Con el tiempo, se desplegarán módulos y servicios completamente nuevos—nunca antes vistos en el sector—ofreciendo soluciones únicas tanto para huéspedes como para hoteles, con el objetivo de remodelar la industria global del alojamiento."
+    ]
+  },
+  "whoWeAre": {
+    "title": "Quiénes Somos",
+    "content": "Somos un grupo pionero de profesionales con profunda experiencia en hospitalidad, software y negocios globales. Con un enfoque humano claro y una pasión por los viajes, hemos vivido dentro de los desafíos de la industria hotelera mientras observamos cómo ha evolucionado la sociedad. Algo tenía que cambiar — y lo estamos construyendo."
+  },
+  "welcomingTalent": {
+    "title": "Damos la Bienvenida a Nuevo Talento",
+    "content": "Esto es solo el comienzo. Estamos construyendo activamente nuestro equipo fundador y abriendo oportunidades únicas para personas brillantes que quieren dar forma al futuro de cómo los humanos viven, se conectan y se mueven."
+  },
+  "necessaryRevolution": {
+    "title": "Hotel Living: Una Revolución Necesaria",
+    "content1": "Hotel Living es una revolución — de alineación, humanidad y riqueza compartida. No es solo un nuevo modelo de estilo de vida; es una reorganización de la sociedad que coloca al ser humano — no la propiedad — en el centro.",
+    "content2": "Por primera vez en la historia: Vivir en hoteles ya no es solo para millonarios y la realeza. Hemos venido a democratizar el concepto de vida hotelera — la idea misma de hacer de un hotel tu hogar — y hacerlo accesible, lógico y socialmente significativo."
+  },
+  "newAlignment": {
+    "title": "Una Nueva Alineación",
+    "points": [
+      "Las familias son más pequeñas.",
+      "Millones de personas viven solas.",
+      "El trabajo remoto y la movilidad global son ahora la norma.",
+      "Las personas quieren mejores vidas, con menos carga y más significado.",
+      "Sin embargo, las casas y hoteles no han evolucionado.",
+      "Y millones de habitaciones de hotel permanecen vacías."
+    ],
+    "conclusion": "Hotel Living conecta estas realidades desconectadas. Transforma el espacio hotelero subutilizado en ecosistemas centrados en el ser humano — donde las personas viven estadías más largas, comparten experiencias y prosperan por afinidad."
+  },
+  "whyDidThisEmerge": {
+    "title": "¿Por Qué Surgió Esto?",
+    "intro": "Porque tenía que ser alguien con:",
+    "points": [
+      "Conocimiento profundo de operaciones hoteleras",
+      "Una vida de viajes y observación social",
+      "Suficiente experiencia para entender sistemas",
+      "Suficiente independencia de pensamiento para trascenderlos"
+    ],
+    "conclusion": "Hotel Living solo podía venir de alguien de adentro — que miró hacia afuera."
+  },
+  "whatWeOffer": {
+    "title": "Lo Que Ofrecemos",
+    "toHotels": {
+      "subtitle": "A los hoteles:",
+      "points": [
+        "Ocupación permanente durante todo el año",
+        "Nuevos ingresos sin interrumpir las operaciones tradicionales",
+        "Mayor relevancia social y visibilidad",
+        "Mejor uso de recursos, mayor rentabilidad"
+      ]
+    },
+    "toPeople": {
+      "subtitle": "A las personas:",
+      "points": [
+        "Una forma de vivir más social y apoyada",
+        "Menos aislamiento, más conexión",
+        "Un estilo de vida con menos cargas domésticas",
+        "Acceso a comunidades temáticas (artes, idiomas, bienestar, etc.)",
+        "Asequibilidad, flexibilidad y bienestar mejorado"
+      ]
+    }
+  },
+  "jobsInnovation": {
+    "title": "Empleos, Innovación, Futuro",
+    "intro": "Hotel Living también genera nuevas profesiones y empleo real:",
+    "points": [
+      "Facilitadores de grupos",
+      "Coordinadores de experiencias",
+      "Profesionales de hospitalidad en roles en evolución",
+      "Creación de empleos intersectoriales en bienes raíces, hospitalidad, entretenimiento y logística"
+    ],
+    "conclusion": "También desbloqueará alternativas de vivienda, impulsará nuevos modelos inmobiliarios y empoderará a las personas para vivir global, asequible y significativamente."
+  },
+  "technologyWithPurpose": {
+    "title": "Tecnología con Propósito Humano",
+    "content1": "Hotel Living utiliza tecnología avanzada no para reemplazar a las personas, sino para conectarlas. Nuestra plataforma conecta a individuos a través de sus pasiones, estilos de vida y preferencias de viaje — cerrando la brecha entre la conveniencia digital y la conexión emocional.",
+    "content2": "Creemos en usar la tecnología para mejorar la humanidad, no aislarla."
+  },
+  "intellectualPositioning": {
+    "title": "Declaración de Posicionamiento Intelectual",
+    "paragraphs": [
+      "Lo que ves aquí es solo el comienzo.",
+      "Hotel Living no es solo un concepto — es la capa visible de un sistema mucho más amplio y sofisticado que ya hemos diseñado, estructurado, documentado y registrado internacionalmente.",
+      "Lo que presentamos ahora es solo el primer módulo de lanzamiento de una arquitectura completa, compuesta por múltiples ideas originales, cada una con su propia lógica interna e implementación práctica.",
+      "Estos son modelos profundos y poderosos, diseñados para generar utilidad real y rentabilidad en todas las capas de partes interesadas — desde hoteles y socios hasta usuarios y comunidades locales.",
+      "Cada elemento:"
+    ],
+    "elementPoints": [
+      "Es completamente innovador",
+      "Ha sido desarrollado con cuidado durante años",
+      "Está protegido internacionalmente",
+      "Se desplegará progresivamente, en etapas claramente definidas",
+      "Forma parte de un marco estratégico e intelectual mucho más amplio"
+    ],
+    "conclusion": [
+      "Esta no es solo una estructura funcional — es un sistema conceptual. No algo que se pueda recrear fácilmente — es un mecanismo social con coherencia interna y diseño de alto nivel.",
+      "Este proyecto no puede reproducirse simplemente con lo que es visible. Lo que hace único a Hotel Living es lo que viene después — y ya está construido.",
+      "Estamos lanzando nuestros módulos uno por uno — y estamos listos."
+    ]
+  },
+  "joinUs": {
+    "title": "¿Quieres Unirte a Nosotros?",
+    "intro": "Si te sientes alineado con esta visión y quieres ayudar a hacerla realidad, queremos escucharte.",
+    "applyTitle": "Aplica para unirte a nuestro equipo fundador:",
+    "contactIntro": "No dudes en contactarnos en",
+    "contactEmail": "grand_soiree@yahoo.com"
+  }
+}

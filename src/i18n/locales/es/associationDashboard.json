@@ -1,0 +1,58 @@
+{
+  "title": "Panel de Asociación",
+  "subtitle": "Gestione sus hoteles y comisiones",
+  "logoutButton": "Cerrar Sesión",
+  "tabs": {
+    "registeredHotels": "Hoteles Registrados",
+    "commissions": "Comisiones",
+    "suggestedLetter": "Carta Sugerida",
+    "analytics": "Analíticas",
+    "calculadora": "Calculadora",
+    "myData": "Mis Datos",
+    "foundingAssociation": "Asociación Fundadora"
+  },
+  "analytics": {
+    "totalBookings": "Reservas Totales",
+    "commissions": "Comisiones",
+    "activeHotels": "Hoteles Activos",
+    "growth": "Crecimiento",
+    "monthlyPerformance": "Rendimiento Mensual",
+    "hotelPerformance": "Rendimiento por Hotel",
+    "bookings": "reservas",
+    "months": {
+      "jan": "Ene",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Abr",
+      "may": "May",
+      "jun": "Jun"
+    }
+  },
+  "commissions": {
+    "totalCommissions": "Total Comisiones",
+    "thisMonth": "Este Mes",
+    "bookings": "Reservas",
+    "history": "Historial de Comisiones",
+    "noCommissions": "No hay comisiones registradas aún",
+    "paid": "Pagado",
+    "bookingDate": "Fecha de reserva"
+  },
+  "hotels": {
+    "uploadHotelList": "Subir Lista de Hoteles",
+    "dragDropCsv": "Arrastre un archivo CSV aquí o haga clic para seleccionar",
+    "expectedFormat": "Formato esperado: hotel_name, city, contact_email",
+    "selectCsvFile": "Seleccionar archivo CSV",
+    "pasteCsvData": "O pegue los datos CSV directamente:",
+    "processData": "Procesar Texto",
+    "provideCsvData": "Por favor, proporcione datos CSV para procesar",
+    "processingCsvData": "Procesando datos CSV..."
+  },
+  "foundingAssociation": {
+    "title": "Asociación Fundadora",
+    "description": "Conviértase en Asociación Fundadora de Hotel Living. Al decir Sí, se beneficiará de publicidad gratuita en nuestro portal y del reconocimiento público, así como de los beneficios correspondientes a una entidad fundadora en nuestro proyecto.",
+    "no": "No",
+    "yes": "Sí",
+    "notificationSent": "Notificación enviada exitosamente",
+    "notificationError": "Error al enviar la notificación"
+  }
+}

@@ -1,0 +1,3 @@
+
+# Config for the send-notification function
+verify_jwt = true

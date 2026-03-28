@@ -1,0 +1,81 @@
+{
+  "heroSection": {
+    "revolutionHasCome": "THE FUTURE HAS ARRIVED",
+    "liveInHotels": "LIVE IN HOTELS",
+    "boostYourLife": "Boost Your Life",
+    "slogans": {
+      "block1": [
+        "Revolutionize your way of living",
+        "Forget household chores",
+        "Multiply your standard of living",
+        "The life you always dreamed of"
+      ],
+      "block2": [
+        "Boost your social life",
+        "Find your kind of people",
+        "Choose themes, not just hotels",
+        "Join groups, join life"
+      ],
+      "block3": [
+        "Make the most of every moment",
+        "Live traveling, travel living",
+        "Enjoy the Hotel-Living revolution",
+        "Hotels, your homes around the world"
+      ]
+    }
+  },
+  "filters": {
+    "search": "Search"
+  },
+  "bubbleCounter": {
+    "home": "{{count}} people are exploring Hotel-Living right now!",
+    "hotel": "{{count}} people are browsing this hotel right now!"
+  },
+  "helpAssistant": {
+    "message": "Hi!\nI can help you?",
+    "mainMessage": "Speak or write your question to me.",
+    "inputLabel": "Type your message here...",
+    "avatars": {
+      "antonio": { 
+        "name": "Antonio", 
+        "description": "Retired",
+        "greeting": "I'm Antonio!\nRETIRED\nLet's talk!"
+      },
+      "luisa": { 
+        "name": "Luisa", 
+        "description": "Retired",
+        "greeting": "I'm Luisa!\nRETIRED\nLet's talk!"
+      },
+      "john": { 
+        "name": "John", 
+        "description": "Remote Worker",
+        "greeting": "I'm John!\nONLINE WORKER\nLet's talk!"
+      },
+      "teresa": { 
+        "name": "Teresa", 
+        "description": "Travel Lover",
+        "greeting": "I'm Teresa!\nLOVE TRAVELING\nLet's talk!"
+      },
+      "juan": { 
+        "name": "Juan", 
+        "description": "Ex-Landlord",
+        "greeting": "I'm Juan!\nNO LONGER RENT TOURIST APARTMENTS\nLet's talk!"
+      },
+      "ion": { 
+        "name": "Ion", 
+        "description": "Former Renter",
+        "greeting": "I'm Ion!\nEX-RENTER\nLet's talk!"
+      },
+      "maria": { 
+        "name": "María", 
+        "description": "Suburban Resident",
+        "greeting": "I'm María!\nEX-COMMUTER\nLet's talk!"
+      },
+      "martin": { 
+        "name": "Martin", 
+        "description": "Hotel Owner",
+        "greeting": "I'm Martin!\nHOTELIER\nLet's talk!"
+      }
+    }
+  }
+}

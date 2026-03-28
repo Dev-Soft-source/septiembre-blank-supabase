@@ -1,0 +1,6 @@
+
+# Config for the process-hotel-referral function
+# This function processes hotel registrations and grants rewards for successful referrals
+
+[functions.process-hotel-referral]
+verify_jwt = true

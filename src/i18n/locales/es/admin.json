@@ -1,0 +1,37 @@
+{
+  "priceCorrector": {
+    "title": "Corrector Global de Precios",
+    "description": "Actualizar todos los precios de paquetes de hoteles según la Tabla de Precios Sagrada",
+    "runButton": "Ejecutar Corrector Global de Precios",
+    "running": "Ejecutando Corrector...",
+    "success": "¡Corrector Global de Precios completado!",
+    "successDescription": "Corregidos {{count}} paquetes en {{hotels}} hoteles.",
+    "failed": "Falló la corrección de precios",
+    "rules": {
+      "title": "Reglas de Precios Sagradas",
+      "mealPlans": "Porcentajes de Planes de Comida:",
+      "accommodationOnly": "Solo alojamiento → 40% (mínimo)",
+      "breakfast": "Desayuno → 60% del precio máximo",
+      "halfBoard": "Media pensión → 80% del precio máximo",
+      "fullBoard": "Pensión completa → 100% (máximo)",
+      "priceEndings": "Terminaciones de Precios:",
+      "endingsRule": "Todos los precios deben terminar en 0, 5 o 9",
+      "categoryBased": "Basado en categoría del hotel (3★, 4★, 5★)",
+      "durations": "Duraciones de estancia: 8, 15, 22, 29 días",
+      "occupancy": "Ocupación: Habitaciones Dobles o Individuales"
+    },
+    "stats": {
+      "hotelsProcessed": "Hoteles Procesados",
+      "packagesChecked": "Paquetes Verificados",
+      "packagesCorrected": "Paquetes Corregidos"
+    },
+    "results": {
+      "title": "Resultados de Corrección",
+      "corrected": "corregidos",
+      "errors": "errores",
+      "correctionsApplied": "Correcciones Aplicadas:",
+      "errorsFound": "Errores Encontrados:"
+    },
+    "lastRun": "Última ejecución: {{date}}"
+  }
+}

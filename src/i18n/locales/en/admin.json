@@ -1,0 +1,52 @@
+{
+  "priceCorrector": {
+    "title": "Global Price Corrector",
+    "description": "Update all hotel package prices according to the Sacred Pricing Table",
+    "runButton": "Run Global Price Corrector",
+    "running": "Running Corrector...",
+    "success": "Global Price Corrector completed!",
+    "successDescription": "Corrected {{count}} packages across {{hotels}} hotels.",
+    "failed": "Price correction failed",
+    "rules": {
+      "title": "Sacred Pricing Rules",
+      "mealPlans": "Meal Plan Percentages:",
+      "accommodationOnly": "Accommodation only → 40% (minimum)",
+      "breakfast": "Breakfast → 60% of max price",
+      "halfBoard": "Half board → 80% of max price", 
+      "fullBoard": "Full board → 100% (maximum)",
+      "priceEndings": "Price Endings:",
+      "endingsRule": "All prices must end in 0, 5, or 9",
+      "categoryBased": "Based on hotel category (3★, 4★, 5★)",
+      "durations": "Stay durations: 8, 15, 22, 29 days",
+      "occupancy": "Occupancy: Double or Single rooms"
+    },
+    "stats": {
+      "hotelsProcessed": "Hotels Processed",
+      "packagesChecked": "Packages Checked", 
+      "packagesCorrected": "Packages Corrected"
+    },
+    "results": {
+      "title": "Correction Results",
+      "corrected": "corrected",
+      "errors": "errors",
+      "correctionsApplied": "Corrections Applied:",
+      "errorsFound": "Errors:"
+    },
+    "lastRun": "Last run: {{date}}"
+  },
+  "packageCreator": {
+    "title": "Missing Package Creator",
+    "description": "Create missing availability packages for hotels that have none in the database",
+    "runButton": "Create Missing Packages",
+    "running": "Creating Missing Packages...",
+    "hotelsProcessed": "Hotels Processed",
+    "packagesCreated": "Packages Created",
+    "hotelsSkipped": "Hotels Skipped",
+    "results": "Creation Results",
+    "error": "Error",
+    "errors": "Errors",
+    "success": "Success",
+    "failed": "Failed",
+    "skipped": "Skipped"
+  }
+}

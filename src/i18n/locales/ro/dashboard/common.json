@@ -1,0 +1,85 @@
+
+{
+  "dashboard": {
+    "ratesCalculator": {
+      "utilities": "UTILITĂȚI",
+      "cleaning": "CURĂȚENIE", 
+      "meals": "MESE",
+      "utilitiesContent": {
+        "title": "**PREDICTIBILITATE – RESPONSABILITATE – EFICIENȚĂ**",
+        "hotelLivingGuests": "⚙️ OASPEȚII HOTEL-LIVING NU SUNT TURIȘTI TRANZITORII",
+        "respectfulResidents": "Sunt rezidenți respectuoși cu șederi lungi care rămân pentru 8, 16, 24 sau 32 de zile.",
+        "smarterGuests": "🌿 OASPEȚI MAI DEȘTEPȚI, UTILIZARE MAI INTELIGENTĂ A RESURSELOR",
+        "consciousUse": "Datorită duratei mai lungi a șederilor și relației mai personale pe care o stabilesc cu proprietatea dumneavoastră, acești oaspeți tind să fie mai conștienți în utilizarea resurselor.",
+        "temporaryTenants": "Se simt mai mult ca chiriași temporari decât ca vizitatori de scurtă durată — și asta face toată diferența.",
+        "utilityConsumption": "⚡ CONSUMUL DE UTILITĂȚI ESTE MAI MIC ȘI MAI STABIL",
+        "energyEfficiency": "💡 SISTEMELE DE EFICIENȚĂ ENERGETICĂ (cum ar fi iluminatul LED și controlul climatic moderat) sunt și mai eficiente",
+        "feelingAtHome": "🌱 SIMȚINDU-SE ACASĂ, oaspeții adoptă în mod natural obiceiuri mai conservatoare",
+        "sharedResponsibility": "💜 UN SIMȚ AL RESPONSABILITĂȚII PARTAJATE",
+        "accessibleRates": "Deoarece Hotel-Living oferă tarife accesibile, oaspeții sunt de obicei conștienți și respectuoși față de oportunitatea care li se oferă.",
+        "balanceAndCare": "Știu că acest model depinde de echilibru, grijă și sustenabilitate — și cei mai mulți acționează în consecință.",
+        "optimizedOperations": "🔄 OPERAȚIUNI OPTIMIZATE = CONSUM OPTIMIZAT",
+        "lowerTurnover": "Datorită rotației mai mici a camerelor și protocoalelor de curățenie simplificate, utilizarea utilităților rămâne constantă și optimizată, cu mai puține vârfuri în cererea de electricitate sau apă."
+      },
+      "cleaningContent": {
+        "title": "**CURĂȚENIE STIL CASNIC – CONFORT PE TERMEN LUNG**",
+        "newStandard": "🧼 HOTEL-LIVING ÎNSEAMNĂ UN NOU STANDARD DE OSPITALITATE",
+        "feelsLikeHome": "🏡 UNUL CARE SE SIMTE MAI MULT CA ACASĂ.",
+        "approachDescription": "Spre deosebire de hotelurile tradiționale cu curățenie zilnică, abordarea noastră reflectă ritmul vieții reale.",
+        "lightHelp": "Exact ca cineva care trăiește acasă și ar putea primi ajutor ușor de câteva ori pe săptămână, oaspeții noștri se bucură de îngrijire atentă și discretă care le respectă independența și confortul.",
+        "completeCleaning": "🧹 CURĂȚENIE COMPLETĂ — O DATĂ PE SĂPTĂMÂNĂ",
+        "completeCleaningDesc": "O curățenie completă a camerei la fiecare 7 zile asigură igiena și prospețimea, cu intruziune minimă.",
+        "lightRefresh": "🔄 ÎMPROSPĂTARE UȘOARĂ ZILNICĂ (LA CERERE)",
+        "lightRefreshDesc": "Mici retușuri opționale — 🗑️ îndepărtarea gunoiului, 🧺 aranjare ușoară, 🌬️ ventilație — sunt disponibile, respectând intimitatea și stilul de viață.",
+        "beddingChange": "🛏️ SCHIMBAREA LENJERIEI — LA FIECARE 5 ZILE",
+        "beddingChangeDesc": "Cearșafurile și prosoapele sunt înnoite regulat, urmând standardele de confort de acasă.",
+        "operationalBenefits": "💼 BENEFICII OPERAȚIONALE",
+        "benefitsDescription": "Acest model reduce costurile operaționale pentru hoteluri, oferind în același timp oaspeților o experiență rezidențială:",
+        "fewerInterruptions": "• Mai puține întreruperi",
+        "morePrivacy": "• Mai multă intimitate",
+        "feelingBelonging": "• Sentimentul de a aparține cu adevărat — nu doar de a sta."
+      },
+      "mealsContent": {
+        "title": "MODELUL DE MESE HOTEL-LIVING: SIMPLU, SĂNĂTOS, STIL CASNIC",
+        "luxuryException": "Cu excepția hotelurilor de lux, boutique-urilor de înaltă categorie sau șederilor scurte de 8 zile axate pe gastronomie sau experiențe culinare, Hotel-Living nu se bazează pe bucătărie gourmet sau buffet-uri luxoase.",
+        "comfortBased": "În majoritatea cazurilor, experiența Hotel-Living se bazează pe confort, simplicitate și sustenabilitate.",
+        "notForLuxury": "Oaspeții noștri nu sunt aici pentru lux.",
+        "residents": "Nu sunt turiști. Sunt rezidenți cu șederi lungi care caută o rutină de mese fiabilă, sănătoasă și accesibilă — ceva care seamănă cu viața reală de acasă.",
+        "foodModelTitle": "🔧 DE ACEEA MODELUL NOSTRU ALIMENTAR ESTE:",
+        "balanced": "✅ 🥗 Echilibrat, stil casnic și ușor de preparat",
+        "moderation": "✅ 🍎 Conceput pentru moderație și bunăstare, nu exces",
+        "compatible": "✅ 👨‍🍳 Compatibil cu bucătăria și personalul existent al hotelului dumneavoastră",
+        "lowWaste": "✅ ♻️ Risipă mică și cost redus — fără a sacrifica calitatea sau grija",
+        "flexibleMeals": "🍳 PLANURI DE MESE FLEXIBILE",
+        "mealPlansDesc": "Fie că oferiți doar micul dejun sau pensiune completă, planurile de mese Hotel-Living sunt concepute pentru:",
+        "consistency": "• 🧘 Consistență",
+        "comfort": "• 🏡 Confort",
+        "satisfaction": "• 🙂 Satisfacția oaspeților — nu expoziții culinare.",
+        "operationalAdvantages": "💼 AVANTAJE OPERAȚIONALE:",
+        "lowerComplexity": "🧑‍🍳 Complexitate operațională mai mică",
+        "predictableCosts": "🧾 Costuri previzibile și controlul porțiilor",
+        "relaxedDining": "😊 O experiență gastronomică relaxată și familiară pe care oaspeții dumneavoastră o apreciază cu adevărat",
+        "budgetBenefits": "📊 BENEFICII DE BUGET ȘI PLANIFICARE:",
+        "advanceBookings": "Deoarece toate rezervările se fac în avans și cu durată fixă:",
+        "knowGuests": "✅ 📅 Veți ști exact câți oaspeți vin — și pentru cât timp.",
+        "zeroWaste": "✅ 🚫 Risipa de mâncare poate ajunge practic la zero.",
+        "kitchenStrategy": "🔁 STRATEGIE DE BUCĂTĂRIE SIMPLĂ ȘI EFICIENTĂ:",
+        "strategyDesc": "Pentru bucătării simple, există o strategie dovedită și profitabilă:",
+        "rotatingMenus": "🔄 MENIURI SĂPTĂMÂNALE ROTATIVE",
+        "fixedMenus": "Unde fiecare zi a săptămânii are un meniu fix care poate fi repetat săptămânal, permitând:",
+        "bulkPurchasing": "• 🛒 Achiziții în vrac",
+        "simplifiedPrep": "• 🍳 Preparare simplificată",
+        "costReduction": "• 💰 Reducere suplimentară a costurilor",
+        "result": "🔑 REZULTATUL:",
+        "hotelSaves": "🏨 Hotelul dumneavoastră economisește",
+        "guestsAtHome": "🏡 Oaspeții dumneavoastră se simt acasă",
+        "scalableExperience": "🌍 Și întreaga experiență devine scalabilă, sustenabilă și profund umană."
+      },
+      "disclaimer": "Aceste cifre reprezintă un exemplu al costurilor incrementale medii per cameră ocupată suplimentară în hoteluri de 3, 4 și 5 stele pe piețele occidentale. Costurile reale pot varia și trebuie ajustate în funcție de categoria, nivelul de servicii, locația și modelul operațional al fiecărui hotel.",
+      "buildYourModel": {
+        "title": "Construiește-ți Modelul",
+        "description": "Personalizează tarifele și calculează profiturile pentru nevoile specifice ale hotelului tău."
+      }
+    }
+  }
+}

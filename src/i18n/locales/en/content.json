@@ -1,0 +1,51 @@
+
+{
+  "content": {
+    "welcomeMessage": "Welcome to Hotel-Living",
+    "exploreHotels": "Explore our curated selection of themed hotels",
+    "bookYourStay": "Book your perfect stay today",
+    "discoverExperiences": "Discover unique experiences",
+    "whyChooseUs": "Why Choose Hotel-Living?",
+    "ourMission": "Our mission is to revolutionize the way people live and travel"
+  },
+  "videosContent": {
+    "nativeVideos": [
+      {
+        "title": "",
+        "url": "https://youtu.be/NEn7uG_fb8M"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/ZzaoV58t_SM"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/MV6uoOWM4Oo"
+      }
+    ],
+    "spanishVideos": [
+      {
+        "title": "",
+        "url": "https://youtu.be/sMoXvOw_B8U"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/e-lLTZ_64k0"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/R8u7a3bYTJQ"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/FGStOitWN7k"
+      }
+    ]
+  },
+  "featuredHotelsContent": {
+    "pageTitle": "Featured Hotels",
+    "wantToBeFirst": "Want your hotel to appear first?",
+    "featureDescription": "We can feature your property right here — no big fees, just smart collaboration.",
+    "loginForInfo": "Log in to your hotel dashboard for more information."
+  }
+}

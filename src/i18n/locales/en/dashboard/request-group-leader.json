@@ -1,0 +1,24 @@
+{
+  "requestGroupLeader": {
+    "title": "Why Request a Group Leader?",
+    "subtitle": "The Group Leader is essential for your hotel success",
+    "benefit1": "They bring clients to your hotel",
+    "benefit2": "They organize activities for guests",
+    "benefit3": "They take care of the group all day",
+    "benefit4": "They act as the unique link between guests and hotel",
+    "commission": "Commission:",
+    "commissionText": "The Leader only works based on a 5% bonus: initially to cover their own expenses, and once those are covered, the remaining is a cash bonus.",
+    "formTitle": "Request a Group Leader",
+    "formDescription": "Fill out the form below to request a group leader for your hotel",
+    "affinity": "Affinity",
+    "affinityPlaceholder": "e.g., SEA, Technology, Arts",
+    "dates": "Requested Dates",
+    "datesPlaceholder": "e.g., June, July, August 2024",
+    "rooms": "Number of Rooms Requested",
+    "roomsPlaceholder": "e.g., 40",
+    "email": "Contact Email Address",
+    "emailPlaceholder": "your.email@example.com",
+    "submitting": "Submitting...",
+    "submit": "Submit Request"
+  }
+}

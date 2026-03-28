@@ -1,0 +1,108 @@
+/* Force Blue Glow - Override any conflicting styles with maximum specificity */
+
+/* Hotel Card Blue Glow - Use extremely high specificity to override Tailwind */
+.blue-glow-force,
+.blue-glow-force.shadow-sm,
+.blue-glow-force.shadow,
+.blue-glow-force.shadow-md,
+.blue-glow-force.shadow-lg,
+.blue-glow-force.shadow-xl,
+.blue-glow-force.shadow-2xl,
+.blue-glow-force:hover,
+.blue-glow-force:hover.shadow-sm,
+.blue-glow-force:hover.shadow,
+.blue-glow-force:hover.shadow-md,
+.blue-glow-force:hover.shadow-lg,
+.blue-glow-force:hover.shadow-xl,
+.blue-glow-force:hover.shadow-2xl,
+div.blue-glow-force:hover,
+div.blue-glow-force.shadow-lg:hover,
+.bg-gradient-to-b.blue-glow-force:hover {
+  box-shadow: 0 0 32px rgba(0,200,255,0.4) !important, 
+              0 0 64px rgba(0,200,255,0.32) !important, 
+              0 0 96px rgba(0,200,255,0.24) !important;
+  border: 1px solid rgba(0,200,255,0.12) !important;
+}
+
+/* Filter Sidebar Blue Glow - Use extremely high specificity */
+.blue-glow-filter-force,
+.blue-glow-filter-force.shadow-sm,
+.blue-glow-filter-force.shadow,
+.blue-glow-filter-force.shadow-md,
+.blue-glow-filter-force.shadow-lg,
+.blue-glow-filter-force.shadow-xl,
+.blue-glow-filter-force.shadow-2xl,
+.blue-glow-filter-force:hover,
+div.blue-glow-filter-force,
+div.blue-glow-filter-force:hover {
+  box-shadow: 0 0 80px rgba(0,200,255,1) !important, 
+              0 0 160px rgba(0,200,255,0.8) !important, 
+              0 0 240px rgba(0,200,255,0.6) !important;
+  border: 1px solid rgba(0,200,255,0.2) !important;
+}
+
+/* Nuclear option - Override ALL possible shadow utilities */
+[class*="blue-glow-force"],
+[class*="blue-glow-filter-force"] {
+  box-shadow: 0 0 32px rgba(0,200,255,0.4) !important, 
+              0 0 64px rgba(0,200,255,0.32) !important, 
+              0 0 96px rgba(0,200,255,0.24) !important;
+}
+
+/* Override any nested elements */
+.blue-glow-force *,
+.blue-glow-filter-force * {
+  box-shadow: inherit !important;
+}
+
+/* SECOND LAYER BLUE GLOW - OUTER LINE APPROACH */
+/* Create a wrapper with pseudo-element for outer glow */
+.blue-glow-outer-wrapper {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.blue-glow-outer-wrapper::before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+  border-radius: 12px;
+  background: transparent;
+  border: 2px solid rgba(0, 200, 255, 0.8);
+  box-shadow: 
+    0 0 20px rgba(0, 200, 255, 1),
+    0 0 40px rgba(0, 200, 255, 0.8),
+    0 0 60px rgba(0, 200, 255, 0.6),
+    0 0 80px rgba(0, 200, 255, 0.4);
+  z-index: -1;
+  pointer-events: none;
+}
+
+.blue-glow-filter-outer-wrapper {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.blue-glow-filter-outer-wrapper::before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+  border-radius: 8px;
+  background: transparent;
+  border: 2px solid rgba(0, 200, 255, 0.8);
+  box-shadow: 
+    0 0 20px rgba(0, 200, 255, 1),
+    0 0 40px rgba(0, 200, 255, 0.8),
+    0 0 60px rgba(0, 200, 255, 0.6),
+    0 0 80px rgba(0, 200, 255, 0.4);
+  z-index: -1;
+  pointer-events: none;
+}

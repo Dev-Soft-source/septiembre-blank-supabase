@@ -1,0 +1,26 @@
+{
+  "dashboard": {
+    "rates": {
+      "title": "Tarife și Prețuri",
+      "mealPlans": {
+        "room_only": "Doar cazare",
+        "breakfast": "Mic dejun inclus",
+        "half_board": "Demipensiune",
+        "full_board": "Pensiune completă",
+        "all_inclusive": "All inclusive"
+      },
+      "roomTypes": {
+        "single": "Preț per persoană (cameră single)",
+        "double": "Preț per persoană (cameră dublă)"
+      },
+      "priceRounding": {
+        "enabled": true,
+        "rule": "Rotunjire în sus la cel mai apropiat 5 sau 10"
+      },
+      "maxPriceEnforcement": {
+        "enabled": true,
+        "range": "50-90% din maximul permis"
+      }
+    }
+  }
+}

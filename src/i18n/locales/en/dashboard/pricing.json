@@ -1,0 +1,32 @@
+
+{
+  "dashboard": {
+    "pricing": {
+      "title": "Pricing & Rates",
+      "baseRate": "Base Rate",
+      "seasonalRates": "Seasonal Rates",
+      "packages": "Packages",
+      "specialOffers": "Special Offers",
+      "discounts": "Discounts",
+      "surcharges": "Surcharges",
+      "taxes": "Taxes & Fees",
+      "currency": "Currency",
+      "pricePerNight": "Price per Night",
+      "pricePerWeek": "Price per Week",
+      "pricePerMonth": "Price per Month",
+      "dynamicPricing": "Dynamic Pricing",
+      "enableDynamicPricing": "Enable Dynamic Pricing",
+      "maximumPriceIncrease": "Maximum Price Increase",
+      "maxPriceIncreaseDescription": "Set the maximum percentage increase allowed for dynamic pricing",
+      "howDynamicPricingWorks": "How Dynamic Pricing Works",
+      "priceAdjustments": "Price Adjustments",
+      "demandBasedPricing": "Demand-Based Pricing",
+      "occupancyRates": "Occupancy Rates",
+      "minimumRate": "Minimum Rate",
+      "maximumRate": "Maximum Rate",
+      "rateRestrictions": "Rate Restrictions",
+      "priceIncreaseDescription": "Set the maximum percentage increase allowed for dynamic pricing based on demand",
+      "priceIncreaseExample": "For example: If you set 20%, a base rate of €100 can increase to a maximum of €120 during high demand periods"
+    }
+  }
+}

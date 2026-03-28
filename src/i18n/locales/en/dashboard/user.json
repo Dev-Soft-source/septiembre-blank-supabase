@@ -1,0 +1,225 @@
+{
+  "userDashboard": {
+    "title": "User Dashboard",
+    "help": {
+      "needHelp": "Need Help?",
+      "supportDescription": "Our support team is available 24/7 to assist you with any questions.",
+      "contactSupport": "Contact Support"
+    },
+    "navigation": {
+      "dashboard": "Dashboard",
+      "bookings": "Bookings", 
+      "threeNights": "Get Three Nights",
+      "becomeAmbassador": "Become Ambassador",
+      "history": "History",
+      "payments": "Payments",
+      "profile": "Profile"
+    },
+    "dashboard": {
+      "welcome": "Welcome back",
+      "myExperience": "My Experience", 
+      "discoverJourney": "Discover your journey with Hotel-Living and see how far you've traveled.",
+      "yourMilestones": "Your Milestones",
+      "startJourney": "Start your journey to unlock achievements!",
+      "travelSummary": "Travel Summary",
+      "totalStays": "Total Stays",
+      "citiesVisited": "Cities Visited",
+      "daysBooked": "Days Booked", 
+      "totalSpent": "Total Spent",
+      "topAffinities": "Top Affinities",
+      "addAffinities": "Add affinities to your profile to see your preferences here.",
+      "visitedDestinations": "Visited Destinations",
+      "travelDestinations": "Your travel destinations will appear here after your first stay.",
+      "timelineBookings": "Timeline of Bookings",
+      "bookingHistory": "Your booking history will appear here after your first stay.",
+      "readyNextAdventure": "Ready for your next adventure?",
+      "exploreHotels": "Explore Hotels",
+      "stats": {
+        "totalBookings": "Total Bookings",
+        "savedHotels": "Saved Hotels", 
+        "reviewsWritten": "Reviews Written",
+        "freeNights": "Free Nights"
+      },
+      "welcome": {
+        "title": "Welcome to Hotel-Living!",
+        "subtitle": "Discover amazing hotels tailored to your preferences. Update your affinities in your profile to get personalized recommendations.",
+        "expertWelcome": "Welcome back, Hotel-Living Expert! Discover new destinations and enjoy exclusive features."
+      },
+      "quickActions": {
+        "title": "Quick Actions",
+        "browseHotels": "Browse Hotels",
+        "browseHotelsDesc": "Discover amazing places to stay.",
+        "myBookings": "My Bookings", 
+        "myBookingsDesc": "View and manage your reservations.",
+        "savedHotels": "Saved Hotels",
+        "savedHotelsDesc": "See your favorite properties.",
+        "writeReview": "Write Review",
+        "writeReviewDesc": "Share your experience with others."
+      },
+      "recentActivity": {
+        "recentBookings": "Recent Bookings",
+        "noBookings": "No bookings yet",
+        "noBookingsDesc": "Start exploring hotels to make your first booking",
+        "savedHotelsSection": "Saved Hotels", 
+        "noSavedHotels": "No saved hotels yet",
+        "noSavedHotelsDesc": "Save hotels you like to easily find them later"
+      }
+    },
+    "groups": {
+      "title": "Join a Group",
+      "myGroupMemberships": "My Group Memberships", 
+      "noGroupsYet": "You haven't joined any groups yet. Browse available groups below to get started!",
+      "availableGroups": "Available Groups",
+      "joinGroupLeaderCode": "Join Group with Leader Code",
+      "enterGroupCode": "Enter group code (e.g., HT245)",
+      "groupName": "Group name",
+      "requestJoinGroup": "Request to Join Group",
+      "subtitle": "Connect with fellow travelers and discover group travel opportunities.",
+      "noGroups": "No groups available",
+      "noGroupsDesc": "Check back later for new group travel opportunities."
+    },
+    "threeNights": {
+      "title": "Three Free Nights Program",
+      "subtitle": "Our Three Free Nights program rewards you for helping us grow the Hotel-Living community. For every hotel you personally present to our platform and that joins within 15 days, you'll earn three free nights.",
+      "howItWorks": "How it works:",
+      "benefits": "Benefits:",
+      "benefit1": "Earn three free nights per successful referral",
+      "benefit2": "No limit on how many hotels you can refer", 
+      "benefit3": "Help your favorite hotels gain exposure",
+      "benefit4": "Enjoy free stays at exceptional properties",
+      "referHotel": "Refer a Hotel",
+      "hotelName": "Hotel Name",
+      "enterHotelName": "Enter the hotel name",
+      "cityOptional": "City (Optional)",
+      "enterCity": "Enter city name",
+      "contactPerson": "Contact Person",
+      "enterContactPerson": "Enter contact person name",
+      "contactEmail": "Contact Email", 
+      "enterContactEmail": "Enter contact email",
+      "programDescription": "Our Three Free Nights program rewards you for helping us grow the Hotel-Living community. For each hotel you personally introduce to our platform that joins within 15 days, you'll earn three free nights.",
+      "step1": "Recommend hotels you love and personally introduce them to Hotel-Living",
+      "step2": "The hotel must register on our platform within 15 calendar days from your referral", 
+      "step3": "Once verified, you'll receive credits for three free nights",
+      "step4": "Redeem your free nights at any participating hotel on our platform",
+      "additionalInfo": "This program rewards your personal connections and referrals. The 15-day window ensures timely registrations. There's no limit to how many hotels you can refer or how many free nights you can earn!"
+    },
+    "ambassador": {
+      "title": "Become an Ambassador",
+      "subtitle": "Get rewarded for successful referrals",
+      "earnRewards": "Earn Rewards",
+      "earnRewardsDesc": "Get rewarded for successful referrals", 
+      "shareHotels": "Share Hotels",
+      "shareHotelsDesc": "Recommend amazing hotels to travelers",
+      "buildNetwork": "Build Network",
+      "buildNetworkDesc": "Connect with hotels and travelers",
+      "ambassadorApplication": "Ambassador Application",
+      "name": "Name",
+      "email": "Email",
+      "additionalMessage": "Additional Message (Optional)",
+      "interestedBecoming": "I'm interested in becoming an ambassador and learning more about this opportunity.",
+      "submitApplication": "Submit Application",
+      "applicationTitle": "Ambassador Application",
+      "placeholder": "Tell us why you'd like to become an ambassador or any relevant experience...",
+      "interestMessage": "I'm interested in becoming an ambassador and would like to be contacted about this opportunity.",
+      "applicationSubmitted": "Application Submitted",
+      "applicationSuccess": "Your ambassador application has been submitted successfully. We'll contact you soon!",
+      "submissionFailed": "Submission Failed",
+      "submissionError": "There was an error submitting your application. Please try again.",
+      "agreementRequired": "Agreement Required",
+      "agreementMessage": "Please confirm your interest in becoming an ambassador."
+    },
+    "settings": {
+      "title": "Settings",
+      "subtitle": "Customize your account settings and privacy preferences.",
+      "themePreferences": "Theme Preferences",
+      "selectThemesDesc": "Select themes that interest you to get personalized hotel recommendations",
+      "favoriteThemes": "Your Favorite Themes",
+      "noThemesSelected": "No themes selected yet",
+      "selectTheme": "Select a Theme",
+      "browseAvailableThemes": "Browse Available Themes",
+      "exploreCollection": "Explore our curated collection of themed hotel experiences",
+      "natureOutdoors": "Nature & Outdoors",
+      "culturalExperiences": "Cultural Experiences",
+      "wellnessLifestyle": "Wellness & Lifestyle", 
+      "professionalEducation": "Professional & Education",
+      "specialInterests": "Special Interests",
+      "suggestNewTheme": "Suggest a New Theme",
+      "suggestThemeDesc": "Don't see a theme that matches your interests? Suggest a new one!",
+      "themeName": "Theme Name",
+      "themeDescription": "Theme Description", 
+      "submitThemeSuggestion": "Submit Theme Suggestion",
+      "languagePreferences": "Language Preferences",
+      "chooseLanguage": "Choose your preferred language for the application",
+      "preferredLanguage": "Preferred Language"
+    },
+    "navigation": {
+      "dashboard": "Dashboard",
+      "bookings": "Bookings",
+      "threeNights": "Get Three Nights",
+      "becomeAmbassador": "Become an Ambassador",
+      "history": "History",
+      "payments": "Payments",
+      "profile": "Profile",
+      "logout": "Logout"
+    },
+    "support": {
+      "helpDesk": "Help Desk",
+      "supportTeamAvailable": "Our support team is available 24/7 to help with any questions or concerns.",
+      "contactSupport": "Contact Support",
+      "needHelp": "Need Help?",
+      "supportDescription": "Our support team is available 24/7 to assist you with any questions."
+    },
+    "bookings": {
+      "title": "Bookings",
+      "subtitle": "Manage your hotel reservations and upcoming stays",
+      "noBookings": "No bookings found",
+      "noBookingsDesc": "You haven't made any bookings yet. Start exploring our hotels!",
+      "loading": "Loading bookings...",
+      "viewDetails": "View Details",
+      "leaveReview": "Leave Review",
+      "status": {
+        "confirmed": "Confirmed",
+        "pending": "Pending", 
+        "cancelled": "Cancelled",
+        "completed": "Completed"
+      }
+    },
+    "history": {
+      "title": "History",
+      "subtitle": "View your complete booking and activity history",
+      "loading": "Loading history...",
+      "noHistory": "No stay history",
+      "noHistoryDesc": "You don't have any past stays yet.",
+      "errorLoading": "Error loading stay history",
+      "errorDescription": "We couldn't load your stay history. Please try again later."
+    },
+    "payments": {
+      "title": "Payments",
+      "subtitle": "Manage your payment methods and billing information"
+    },
+    "profile": {
+      "title": "Profile",
+      "subtitle": "Manage your personal information and preferences"
+    },
+    "upcomingStay": {
+      "title": "Upcoming Stay",
+      "noUpcomingStays": "No upcoming stays",
+      "noUpcomingStaysDesc": "Book your next thematic hotel experience.",
+      "browseHotels": "Browse Hotels",
+      "viewDetails": "View Details",
+      "contactHotel": "Contact Hotel",
+      "checkIn": "Check-in",
+      "checkOut": "Check-out", 
+      "duration": "Duration",
+      "days": "days"
+    },
+    "savedHotels": {
+      "noSavedHotels": "No saved hotels",
+      "noSavedHotelsDesc": "You haven't saved any hotels yet.",
+      "browseHotels": "Browse Hotels"
+    },
+    "actions": {
+      "logOut": "Log Out"
+    }
+  }
+}

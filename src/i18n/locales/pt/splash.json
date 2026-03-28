@@ -1,0 +1,30 @@
+{
+  "phrase1": "Viaja. Conecta. Faz do mundo o teu lar",
+  "phrase2": "Somos a revolução de viver viajando",
+  "phrase3": "Somos a nova forma de habitar e ser",
+  "phrase1Desktop": {
+    "line1": "Viaja. Conecta.",
+    "line2": "Faz do mundo o teu lar"
+  },
+  "phrase2Desktop": {
+    "line1": "Somos a revolução",
+    "line2": "de viver viajando"
+  },
+  "phrase3Desktop": {
+    "line1": "Somos a nova forma",
+    "line2": "de habitar e ser"
+  },
+  "phrase1Mobile": {
+    "line1": "Viaja. Conecta.",
+    "line2": "Faz do mundo o teu lar"
+  },
+  "phrase2Mobile": {
+    "line1": "Somos a revolução",
+    "line2": "de viver viajando"
+  },
+  "phrase3Mobile": {
+    "line1": "Somos a nova forma",
+    "line2": "de habitar e ser"
+  },
+  "clickToSkip": "Toque para pular"
+}

@@ -1,0 +1,62 @@
+{
+  "booking": {
+    "title": "Rezervă-ți sejurul",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Oaspeți",
+    "rooms": "Camere",
+    "adults": "Adulți",
+    "children": "Copii",
+    "bookNow": "Rezervă acum",
+    "totalPrice": "Preț total",
+    "pricePerNight": "pe noapte",
+    "selectDates": "Selectează datele",
+    "selectGuests": "Selectează oaspeții",
+    "availability": "Disponibilitate",
+    "noAvailability": "Fără disponibilitate pentru datele selectate",
+    "modifySearch": "Modifică căutarea",
+    "status": {
+      "pending": "În așteptare",
+      "confirmed": "Confirmată",
+      "cancelled": "Anulată",
+      "completed": "Finalizată"
+    },
+    "actions": {
+      "modify": "Modifică Rezervarea",
+      "cancel": "Anulează Rezervarea",
+      "confirmCancel": "Sigur vrei să anulezi această rezervare? Această acțiune nu poate fi anulată.",
+      "confirmModify": "Salvezi modificările la această rezervare?",
+      "modifying": "Se modifică...",
+      "cancelling": "Se anulează..."
+    },
+    "messages": {
+      "cancelSuccess": "Rezervarea a fost anulată cu succes",
+      "cancelError": "Eroare la anularea rezervării",
+      "modifySuccess": "Rezervarea a fost modificată cu succes",
+      "modifyError": "Eroare la modificarea rezervării",
+      "cannotModify": "Această rezervare nu poate fi modificată",
+      "cannotCancel": "Această rezervare nu poate fi anulată"
+    },
+    "modify": {
+      "title": "Modifică Rezervarea",
+      "newCheckIn": "Data nouă de Check-in",
+      "newCheckOut": "Data nouă de Check-out",
+      "save": "Salvează Modificările",
+      "cancel": "Anulează Modificările"
+    },
+    "roomUsage": "Utilizare Cameră",
+    "singleRoom": "Cameră Individuală",
+    "doubleRoom": "Cameră Dublă",
+    "singleOccupancy": "Ocupare individuală (1 oaspete)",
+    "doubleOccupancy": "Ocupare dublă (2 oaspeți)",
+    "pricePerPerson": "Preț pe persoană",
+    "reserve": "Rezervă",
+    "reservePackage": "Rezervă Pachet",
+    "packageBooking": "Rezervare Pachet",
+    "paymentOnArrival": "Plata va fi necesară la sosire sau prin Hotel Living odată ce gateway-ul de plată este activat."
+  },
+  "weeklyCheckIn": "Ziua săptămânală de check-in/check-out",
+  "meals": "Mese",
+  "tariffsPerPerson": "TARIFE PE PERSOANĂ",
+  "and": "și"
+}

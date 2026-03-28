@@ -1,0 +1,17 @@
+
+{
+  "customerService": {
+    "title": "Atendimento ao Cliente",
+    "description": "Por favor, preenche o formulário abaixo para contactar a nossa equipa de atendimento ao cliente. Entraremos em contacto contigo o mais breve possível.",
+    "form": {
+      "name": "Nome",
+      "email": "Endereço de Email",
+      "country": "País",
+      "city": "Cidade",
+      "message": "A Tua Mensagem",
+      "sending": "Enviando...",
+      "send": "Enviar Mensagem"
+    },
+    "success": "Obrigado pela tua mensagem! Entraremos em contacto contigo em breve."
+  }
+}

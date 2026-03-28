@@ -1,0 +1,51 @@
+
+{
+  "content": {
+    "welcomeMessage": "Bun venit la Hotel-Living",
+    "exploreHotels": "Explorează selecția noastră de hoteluri tematice",
+    "bookYourStay": "Rezervă-ți sejurul perfect astăzi",
+    "discoverExperiences": "Descoperă experiențe unice",
+    "whyChooseUs": "De ce să alegi Hotel-Living?",
+    "ourMission": "Misiunea noastră este să revoluționăm modul în care oamenii trăiesc și călătoresc"
+  },
+  "videosContent": {
+    "nativeVideos": [
+      {
+        "title": "",
+        "url": "https://youtu.be/NEn7uG_fb8M"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/R8u7a3bYTJQ"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/FGStOitWN7k"
+      }
+    ],
+    "spanishVideos": [
+      {
+        "title": "",
+        "url": "https://youtu.be/sMoXvOw_B8U"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/e-lLTZ_64k0"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/R8u7a3bYTJQ"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/FGStOitWN7k"
+      }
+    ]
+  },
+  "featuredHotelsContent": {
+    "pageTitle": "Hoteluri Recomandate",
+    "wantToBeFirst": "Vrei ca hotelul tău să apară primul?",
+    "featureDescription": "Putem să-ți promovăm proprietatea chiar aici — fără taxe mari, doar colaborare inteligentă.",
+    "loginForInfo": "Conectează-te la panoul hotelului tău pentru mai multe informații."
+  }
+}

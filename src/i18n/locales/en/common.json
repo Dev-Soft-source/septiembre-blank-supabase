@@ -1,0 +1,18 @@
+
+{
+  "intro": {
+    "welcome": "THE REVOLUTION\nHAS ARRIVED",
+    "tagline": "BOOST YOUR LIFE!",
+    "experience": "FORGET ABOUT\nHOUSEHOLD CHORES",
+    "style": "LIVE IN HOTELS\nALL YEAR ROUND",
+    "community": "ENJOY THE STYLE\nYOU DESERVE",
+    "people": "SURROUND YOURSELF\nWITH LIKE-MINDED PEOPLE",
+    "passion": "MAKE YOUR PASSIONS\nYOUR DAILY LIFE"
+  },
+  "noHotelsInCountry": {
+    "title": "We need hotels in this country",
+    "description": "Know a great hotel here? Help us grow! You can recommend your favorite hotels directly from your user panel and we'll get in touch with them to send them our customers.",
+    "recommendButton": "Recommend a hotel"
+  },
+  "liveVisitors": "{{count}} people are browsing now"
+}

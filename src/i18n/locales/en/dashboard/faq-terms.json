@@ -1,0 +1,12 @@
+
+{
+  "dashboard-faq-terms": {
+    "title": "FAQ & Terms and Conditions",
+    "frequentlyAskedQuestions": "Frequently Asked Questions",
+    "questionPlaceholder": "Enter your question here...",
+    "answerPlaceholder": "Enter the answer here...",
+    "addQuestion": "Add Question",
+    "hotelLivingTerms": "Hotel-Living Terms and Conditions",
+    "termsContent": "Here are the specific hotel terms and conditions..."
+  }
+}

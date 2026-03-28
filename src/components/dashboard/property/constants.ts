@@ -1,0 +1,11 @@
+
+
+export const TOTAL_STEPS = 4;
+
+export const STEP_TITLES = [
+  "INFORMACIÓN GENERAL",
+  "HOTEL PROFILE", 
+  "ACCOMMODATION TERMS",
+  "FAQ & TÉRMINOS Y CONDICIONES"
+];
+

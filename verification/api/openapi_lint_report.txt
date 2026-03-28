@@ -1,0 +1,6 @@
+OpenAPI Lint Report (summary)
+- Info: Servers base URL includes /api/v2 OK
+- Idempotency-Key parameter defined OK
+- Price fields: ensure type: integer across components (manual review needed)
+- LocalizedMessage schema present with en/es/pt/ro required OK
+- ETag responses described for public GETs OK

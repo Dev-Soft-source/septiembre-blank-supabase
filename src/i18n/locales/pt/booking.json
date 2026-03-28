@@ -1,0 +1,70 @@
+{
+  "booking": {
+    "title": "Reserve sua estadia",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Hóspedes",
+    "rooms": "Quartos",
+    "dates": "Datas",
+    "duration": "Duração",
+    "total": "Total",
+    "bookNow": "Reservar agora",
+    "availability": "Disponibilidade",
+    "selectDates": "Selecionar datas",
+    "summary": "Resumo da reserva",
+    "bookYourStay": "Reserve sua estadia",
+    "adults": "Adultos",
+    "children": "Crianças",
+    "totalPrice": "Preço total",
+    "confirmBooking": "Confirmar reserva",
+    "bookingConfirmed": "Reserva confirmada",
+    "bookingFailed": "Erro na reserva",
+    "reservationNumber": "Número da reserva",
+    "viewBooking": "Ver reserva",
+    "cancelBooking": "Cancelar reserva",
+    "bookingDetails": "Detalhes da reserva",
+    "roomUsage": "Uso do Quarto",
+    "singleRoom": "Quarto Individual",
+    "doubleRoom": "Quarto Duplo",
+    "singleOccupancy": "Ocupação individual (1 hóspede)",
+    "doubleOccupancy": "Ocupação dupla (2 hóspedes)",
+    "pricePerPerson": "Preço por pessoa",
+    "reserve": "Reservar",
+    "reservePackage": "Reservar Pacote",
+    "packageBooking": "Reserva de Pacote",
+    "paymentOnArrival": "O pagamento será necessário na chegada ou através do Hotel Living assim que a gateway de pagamento for ativada.",
+    "status": {
+      "pending": "Pendente",
+      "confirmed": "Confirmada",
+      "cancelled": "Cancelada",
+      "completed": "Concluída"
+    },
+    "actions": {
+      "modify": "Modificar Reserva",
+      "cancel": "Cancelar Reserva",
+      "confirmCancel": "Tem certeza de que deseja cancelar esta reserva? Esta ação não pode ser desfeita.",
+      "confirmModify": "Salvar alterações nesta reserva?",
+      "modifying": "Modificando...",
+      "cancelling": "Cancelando..."
+    },
+    "messages": {
+      "cancelSuccess": "Reserva cancelada com sucesso",
+      "cancelError": "Falha ao cancelar reserva",
+      "modifySuccess": "Reserva modificada com sucesso",
+      "modifyError": "Falha ao modificar reserva",
+      "cannotModify": "Esta reserva não pode ser modificada",
+      "cannotCancel": "Esta reserva não pode ser cancelada"
+    },
+    "modify": {
+      "title": "Modificar Reserva",
+      "newCheckIn": "Nova Data de Check-in",
+      "newCheckOut": "Nova Data de Check-out",
+      "save": "Salvar Alterações",
+      "cancel": "Cancelar Alterações"
+    }
+  },
+  "weeklyCheckIn": "Dia semanal de check-in/check-out",
+  "meals": "Refeições",
+  "tariffsPerPerson": "TARIFAS POR PESSOA",
+  "and": "e"
+}

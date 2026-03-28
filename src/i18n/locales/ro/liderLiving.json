@@ -1,0 +1,91 @@
+{
+  "title": "Lider de Grup",
+  "description": "Devino un Lider de Grup Hotel Living. Organizează șederi de neuitat, conectează-te cu oameni cu aceleași gânduri și generează venituri împărtășind stilul tău de viață.",
+  "cards": {
+    "card2": {
+      "title": "EȘTI EMPATIC, SOCIABIL ȘI DE CARACTER BUN?",
+      "line1": "Dacă răspunsul este da, deja ai cel mai important lucru pentru a fi un lider de grup excepțional la Hotel Living.",
+      "line2": "Nu ai nevoie de experiență anterioară sau să fii influencer. Doar o atitudine caldă, dorința de a te conecta cu oamenii și capacitatea de a crea momente unice. Sistemul se ocupă de restul."
+    },
+    "card3": {
+      "title": "DA. A FI LIDER DE GRUP POATE FI MARELE VIITOR AL ORICUI",
+      "line1": "Orice persoană, tânără, adultă sau pensionară poate deveni Lider de Grup și să își multiplice viața și pe cea a multor altora.",
+      "line2": "Liderul de Grup Hotel-Living este:",
+      "bullets": {
+        "future": "💡 Activitate de viitor pe care nicio inteligență artificială nu o va putea înlocui niciodată.",
+        "utility": "🏨 Utilitate absolută pentru hotel: atrage clienți, îi organizează și este chiar purtătorul lor de cuvânt.",
+        "fundamental": "🌍 Fundamental pentru milioane de oameni care doresc să călătorească, să se relacioneze și să împărtășească activități.",
+        "treasure": "✨ O comoară din ce în ce mai necesară în fiecare zi: cea care produce interacțiunea și conversația, sociabilitatea și bogăția umană."
+      },
+      "conclusion1": "A fi Lider de Grup înseamnă să însoțești, să integrezi și să creezi comunitate.",
+      "conclusion2": "Înseamnă să îți multiplici propria viață și pe cea a multor altora."
+    }
+  },
+  "cta": {
+    "register": "Înregistrează-te ca Lider"
+  },
+  "faq": {
+    "whoCanBecome": {
+      "question": "CINE POATE DEVENI LIDER DE GRUP?",
+      "answer": "Oricine de orice vârstă care vrea să aibă o viață privilegiată, să conecteze oameni și să organizeze ceva frumos. Nu trebuie să fii influencer sau să ai experiență anterioară. Ai nevoie doar de o atitudine caldă și capacitatea de a ajunge la oameni."
+    },
+    "whatLeaderDoes": {
+      "question": "CE FACE UN LIDER DE GRUP?",
+      "answer": "Organizează un grup de oameni care stau la același hotel, în timpul șederii de 8, 15, 22 sau 29 de zile, toate reînnoibile și conform pachetelor deja disponibile pe platformă. Nimic mai mult și nimic mai puțin decât să aduci oamenii împreună pentru a trăi mai bine!"
+    },
+    "howMuchEarn": {
+      "question": "CUM ȘI CÂT CÂȘTIG CA LIDER?",
+      "answer": "Pentru fiecare persoană care rezervă folosind codul tău, sistemul îți dă automat 5% din total. Când aduci mai multe persoane împreună, poți chiar să îți acoperi propria ședere și apoi să începi să primești bonusuri în numerar în fiecare luni sau în ziua săptămânală convenită cu hotelul.\n\nÎți stabilești propriul obiectiv de câștiguri. Un hotel imens îți va permite să atingi cerul, dar amintește-ți că contactul uman este fundamental, și pentru grupuri foarte mari (mai mult de 30-40 de persoane) este necesară ajutorul suplimentar, pe care desigur îl poți organiza cu prieteni și persoane de încredere."
+    },
+    "howSystemKnows": {
+      "question": "ȘI CUM ȘTIE SISTEMUL CINE A VENIT PRIN MINE?",
+      "answer": "Foarte ușor: fiecare lider are un cod unic (de exemplu, XXXXX). Trebuie doar să îl împărtășești cu grupul tău. Când cineva rezervă și îl introduce, bonusul tău este activat automat."
+    },
+    "themeGroup": {
+      "question": "ESTE MAI BINE SĂ ALEG O TEMĂ PENTRU GRUP?",
+      "answer": "Da, ajută foarte mult. Sunt oameni care se alătură prin afinitate: grupuri de yoga, drumeții, gătit local, conversație în engleză, spaniolă sau orice altă limbă. Nu există limite pentru imaginație."
+    },
+    "organizeActivities": {
+      "question": "TREBUIE SĂ ORGANIZEZ ACTIVITĂȚI?",
+      "answer": "Nu este obligatoriu, dar adaugă foarte mult. O cină, o plimbare împreună sau o excursie simplă pot face diferența și pot face grupul tău să crească prin vorbire. Poți aranja cu excursii, teatre, restaurante, etc., comisioanele sau beneficiile pe care le consideri potrivite. Sunt ale tale!"
+    },
+    "stayDuration": {
+      "question": "ȘEDEREA SUNT ÎNTOTDEAUNA DE ACEEAȘI DURATĂ?",
+      "answer": "Da, la Hotel Living lucrăm întotdeauna cu durate fixe: 8, 15, 22 sau 29 de zile. Dar tu decizi dacă organizezi doar un bloc... sau stai câteva luni pentru a extinde posibilitățile de ședere pentru multe persoane diferite!"
+    },
+    "groupSize": {
+      "question": "CÂȚI OAMENI SE POT ALĂTURA GRUPULUI MEU?",
+      "answer": "Câți vrei tu! Singura limită este disponibilitatea hotelului în acele date."
+    },
+    "experienceNeeded": {
+      "question": "TREBUIE SĂ AM EXPERIENȚĂ ÎN ORGANIZAREA CĂLĂTORIILOR?",
+      "answer": "Nu, absolut deloc. Este doar despre a te mișca, a motiva alți oameni și a menține energie bună. Sistemul te ajută cu totul."
+    },
+    "multipleHotels": {
+      "question": "POT ORGANIZA GRUPURI ÎN HOTELURI DIFERITE ȘI CU AFINITĂȚI DIFERITE?",
+      "answer": "Desigur. Tu stabilești limitele. Este doar o chestiune de a te organiza cu timp."
+    },
+    "declareIncome": {
+      "question": "TREBUIE SĂ DECLAR ACESTE VENITURI?",
+      "answer": "Atâta timp cât nu depășești anumite niveluri, nu este necesar. Dar dacă la un moment dat câștigi mult, le poți declara ca venituri sporadice. Dar consultă întotdeauna legalitatea actuală în țara ta. Aceste informații se pot schimba și nu sunt garantate."
+    },
+    "becomeAutonomous": {
+      "question": "TREBUIE SĂ DEVIN INDEPENDENT SAU SĂ MĂ ÎNREGISTREZ CA COMPANIE?",
+      "answer": "Nu. Nu vinzi nimic și nu prestezi servicii. Primești pur și simplu un bonus pentru a mișca oamenii. Nu trebuie să te înregistrezi atâta timp cât totul rămâne în limitele obișnuite. Dar consultă întotdeauna legalitatea actuală în țara ta. Aceste informații se pot schimba și nu sunt garantate."
+    },
+    "promotorAmbassador": {
+      "question": "POT FI ȘI PROMOTOR SAU AMBASADOR?",
+      "answer": "Da, dar cu un email diferit. Fiecare rol în Hotel Living este legat de un email, din motive tehnice. Dacă vrei să ai mai multe roluri, folosește conturi diferite."
+    },
+    "groupBenefits": {
+      "question": "CE BENEFICII AU OAMENII CARE SE ALĂTURĂ GRUPULUI MEU?",
+      "answer": "Primul, fundamental: aceste beneficii sunt activate doar pentru persoanele care introduc codul tău când fac rezervarea. Trebuie să ai foarte mare grijă să îți amintești și să îți pui codul peste tot, pentru că dacă nu includ codul tău când fac rezervarea nu vor putea face asta mai târziu și vei pierde bonusul corespunzător. Poți include toate beneficiile pe care le dorești. Printre altele:",
+      "benefits": {
+        "exclusiveActivities": "• Acces la activități exclusive ale grupului\nOaspeții tăi pot participa la cine comune, plimbări, discuții informale, excursii sau activități pe care le propui. Nu trebuie să faci ceva complicat: important este să creezi momente împărtășite.",
+        "personalizedWelcome": "• Bun venit personalizat\nTu ești punctul lor de referință la hotel. Îi întâmpini, îi integrezi în grup și îi ajuți să se simtă însoțiți din primul moment.",
+        "localRecommendations": "• Recomandări locale de încredere\nCunoști locul, sau cel puțin ai cercetat bine. Așa că poți împărtăși locurile tale favorite: restaurante autentice, zone liniștite, piețe mici, activități diferite sau secrete ale destinației. Asta valorează aur!",
+        "commonAffinity": "• Un grup cu o afinitate comună (dacă tu decizi)\nPentru mulți, marele motiv pentru care aleg să se alăture unui grup."
+      }
+    }
+  }
+}

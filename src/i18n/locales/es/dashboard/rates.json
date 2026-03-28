@@ -1,0 +1,26 @@
+{
+  "dashboard": {
+    "rates": {
+      "title": "Tarifas y Precios",
+      "mealPlans": {
+        "room_only": "Solo alojamiento",
+        "breakfast": "Desayuno incluido",
+        "half_board": "Media pensión", 
+        "full_board": "Pensión completa",
+        "all_inclusive": "Todo incluido"
+      },
+      "roomTypes": {
+        "single": "Precio por persona (habitación individual)",
+        "double": "Precio por persona (habitación doble)"
+      },
+      "priceRounding": {
+        "enabled": true,
+        "rule": "Redondear hacia arriba al 5 o 10 más cercano"
+      },
+      "maxPriceEnforcement": {
+        "enabled": true,
+        "range": "50-90% del máximo permitido"
+      }
+    }
+  }
+}

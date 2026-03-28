@@ -1,0 +1,29 @@
+{
+  "contact": {
+    "title": "Contacto",
+    "welcomeMessage": {
+      "listening": "Estamos aquí para escuchar.",
+      "feelFree": "No dudes en contactarnos en",
+      "loveToHear": "— nos encantaría saber de ti."
+    },
+    "form": {
+      "departmentInstruction": "Seleccione una de las siguientes áreas para asegurarnos de que su mensaje llegue al equipo adecuado:",
+      "departments": {
+        "customerService": "Atención al Cliente",
+        "technicalSupport": "Soporte Técnico",
+        "pressMedia": "Prensa y Medios",
+        "businessPartnerships": "Alianzas Comerciales",
+        "otherInquiries": "Otras Consultas"
+      },
+      "name": "Su Nombre",
+      "email": "Su Email",
+      "message": "Su Mensaje",
+      "department": "Departamento",
+      "send": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "¡Gracias por su mensaje! Nos pondremos en contacto pronto.",
+      "error": "Lo sentimos, hubo un error enviando su mensaje. Por favor intente de nuevo.",
+      "emailDestination": "Su mensaje será enviado a:"
+    }
+  }
+}

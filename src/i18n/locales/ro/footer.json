@@ -1,0 +1,25 @@
+{
+  "footer": {
+    "sections": {
+      "aboutUs": "DESPRE NOI",
+      "legal": "LEGAL"
+    },
+    "links": {
+      "ourTeam": "ECHIPĂ",
+      "ourValues": "VALORI",
+      "ourServices": "SERVICII",
+      "customerService": "SERVICIU CLIENȚI",
+      "contact": "CONTACT",
+      "intellectualProperty": "PROPRIETATE INTELECTUALĂ",
+      "terms": "TERMENI ȘI CONDIȚII",
+      "privacy": "CONFIDENȚIALITATE ȘI COOKIES"
+    },
+    "buttons": {
+      "register": "ÎNREGISTRARE",
+      "signIn": "CONECTARE",
+      "hotel": "HOTEL?"
+    },
+    "copyright": "© 2025 Hotel-Living.com. Toate drepturile rezervate. Aceasta este o versiune Beta, supusă actualizărilor continue.",
+    "disclaimer": "Unele proprietăți pot fi exemple folosite pentru a demonstra funcționalitatea Hotel Living."
+  }
+}

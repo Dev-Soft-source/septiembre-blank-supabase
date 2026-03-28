@@ -1,0 +1,117 @@
+{
+  "pageTitle": "Despre Noi – Hotel Living",
+  "intro": {
+    "visible": "Hotel Living este o companie americană înființată în California de o echipă multidisciplinară cu experiență vastă în sectorul hotelier.",
+    "readMore": "Citește mai mult",
+    "readLess": "Citește mai puțin",
+    "hidden": [
+      "Din 2021, am dezvoltat modelul Hotel-Living pentru a rezolva multiple provocări ale societății moderne și ale industriei hoteliere simultan.",
+      "Acest model nu doar că abordează subutilizarea masivă a camerelor de hotel la nivel mondial, dar elimină și una dintre cele mai mari probleme sociale de astăzi: singurătatea. Modelele de viață tradiționale sunt depășite, bazate pe gospodării mari familiale care nu mai există, lăsând milioane de oameni izolați în locații fixe în timp ce viața modernă cere flexibilitate, mobilitate și experiențe comune.",
+      "Hotel Living propune o transformare completă a modului în care trăim și călătorim, creând stiluri de viață mai bune pentru oamenii care vor mai multă libertate și conexiune socială, oferind în același timp hotelurilor o nouă oportunitate de a-și folosi complet resursele.",
+      "Astăzi, ceea ce vedeți public este doar 20% din modelul complet. În timp, vor fi implementate module și servicii complet noi—niciodată văzute înainte în sector—oferind soluții unice atât pentru oaspeți cât și pentru hoteluri, cu scopul de a remodela industria globală de cazare."
+    ]
+  },
+  "whoWeAre": {
+    "title": "Cine Suntem",
+    "content": "Suntem un grup pionier de profesioniști cu experiență profundă în ospitalitate, software și afaceri globale. Cu un focus uman clar și o pasiune pentru călătorii, am trăit în interiorul provocărilor industriei hoteliere în timp ce am observat cum a evoluat societatea. Ceva trebuia să se schimbe — și noi o construim."
+  },
+  "welcomingTalent": {
+    "title": "Primim Talente Noi", 
+    "content": "Aceasta este doar începutul. Construim activ echipa noastră fondatoare și deschidem oportunități unice pentru oameni străluciți care vor să modeleze viitorul modului în care oamenii trăiesc, se conectează și se mișcă."
+  },
+  "necessaryRevolution": {
+    "title": "Hotel Living: O Revoluție Necesară",
+    "content1": "Hotel Living este o revoluție — una de aliniere, umanitate și bogăție comună. Nu este doar un nou model de stil de viață; este o reorganizare a societății care pune ființa umană — nu proprietatea — în centru.",
+    "content2": "Pentru prima dată în istorie: A trăi în hoteluri nu mai este doar pentru miliardari și regalitate. Am venit să democratizăm conceptul de viață hotelieră — ideea însăși de a face dintr-un hotel casa ta — și să o facem accesibilă, logică și semnificativă social."
+  },
+  "newAlignment": {
+    "title": "O Nouă Aliniere",
+    "points": [
+      "Familiile sunt mai mici.",
+      "Milioane de oameni trăiesc singuri.",
+      "Munca la distanță și mobilitatea globală sunt acum norma.", 
+      "Oamenii vor vieți mai bune, cu mai puține poveri și mai mult sens.",
+      "Totuși casele și hotelurile nu au evoluat.",
+      "Și milioane de camere de hotel rămân goale."
+    ],
+    "conclusion": "Hotel Living conectează aceste realități deconectate. Transformă spațiul hotelier subutilizat în ecosisteme centrate pe om — unde oamenii trăiesc șederi mai lungi, împărtășesc experiențe și prosperă prin afinitate."
+  },
+  "whyDidThisEmerge": {
+    "title": "De Ce A Apărut Acest Lucru?",
+    "intro": "Pentru că trebuia să fie cineva cu:",
+    "points": [
+      "Cunoștințe profunde despre operațiunile hoteliere",
+      "O viață de călătorii și observație socială",
+      "Suficientă experiență pentru a înțelege sistemele",
+      "Suficientă independență de gândire pentru a le transcende"
+    ],
+    "conclusion": "Hotel Living putea să vină doar de la cineva din interior — care a privit în exterior."
+  },
+  "whatWeOffer": {
+    "title": "Ce Oferim",
+    "toHotels": {
+      "subtitle": "Hotelurilor:",
+      "points": [
+        "Ocupare permanentă tot anul",
+        "Venituri noi fără să întrerupă operațiunile tradiționale",
+        "Relevanță socială și vizibilitate îmbunătățite", 
+        "Utilizarea mai bună a resurselor, profitabilitate mai mare"
+      ]
+    },
+    "toPeople": {
+      "subtitle": "Oamenilor:",
+      "points": [
+        "O modalitate de viață mai socială și susținută",
+        "Mai puțină izolare, mai multă conexiune",
+        "Un stil de viață cu mai puține poveri domestice",
+        "Acces la comunități tematice (arte, limbi, wellness, etc.)",
+        "Accesibilitate, flexibilitate și bunăstare îmbunătățită"
+      ]
+    }
+  },
+  "jobsInnovation": {
+    "title": "Locuri de Muncă, Inovație, Viitor",
+    "intro": "Hotel Living generează și noi profesii și ocuparea forței de muncă reale:",
+    "points": [
+      "Facilitatori de grup",
+      "Coordonatori de experiență", 
+      "Profesioniști în ospitalitate în roluri în evoluție",
+      "Crearea de locuri de muncă intersectorială în imobiliare, ospitalitate, divertisment și logistică"
+    ],
+    "conclusion": "Va debloca și alternative de locuințe, va conduce noi modele imobiliare și va împuternici indivizii să trăiască global, accesibil și semnificativ."
+  },
+  "technologyWithPurpose": {
+    "title": "Tehnologie cu Scop Uman",
+    "content1": "Hotel Living folosește tehnologia avansată nu pentru a înlocui oamenii, ci pentru a-i conecta. Platforma noastră potrivește indivizii prin pasiunile lor, stilurile de viață și preferințele de călătorie — închizând golul dintre conveniența digitală și conexiunea emoțională.",
+    "content2": "Credem în folosirea tehnologiei pentru a îmbunătăți umanitatea, nu pentru a o izola."
+  },
+  "intellectualPositioning": {
+    "title": "Declarația de Poziționare Intelectuală",
+    "paragraphs": [
+      "Ce vedeți aici este doar începutul.",
+      "Hotel Living nu este doar un concept — este stratul vizibil al unui sistem mult mai amplu și sofisticat pe care l-am proiectat, structurat, documentat și înregistrat deja la nivel internațional.",
+      "Ce prezentăm acum este doar primul modul de lansare al unei arhitecturi complete, compusă din multiple idei originale, fiecare cu logica sa internă și implementarea practică.",
+      "Acestea sunt modele profunde și puternice, proiectate să genereze utilitate reală și profitabilitate pe toate straturile părților interesate — de la hoteluri și parteneri la utilizatori și comunități locale.",
+      "Fiecare element:"
+    ],
+    "elementPoints": [
+      "Este complet inovator",
+      "A fost dezvoltat cu grijă de-a lungul anilor",
+      "Este protejat internațional",
+      "Va fi lansat progresiv, în etape clar definite",
+      "Face parte dintr-un cadru strategic și intelectual mult mai mare"
+    ],
+    "conclusion": [
+      "Aceasta nu este doar o structură funcțională — este un sistem conceptual. Nu ceva ce poate fi recreat cu ușurință — este un mecanism social cu coerență internă și design de înalt nivel.",
+      "Acest proiect nu poate fi reprodus pur și simplu cu ceea ce este vizibil. Ce face Hotel Living unic este ce urmează — și este deja construit.",
+      "Lansăm modulele noastre unul câte unul — și suntem gata."
+    ]
+  },
+  "joinUs": {
+    "title": "Vrei să Te Alături Nouă?",
+    "intro": "Dacă te simți aliniat cu această viziune și vrei să ajuți să o aduci la viață, vrem să auzim de la tine.",
+    "applyTitle": "Aplică pentru a te alătura echipei noastre fondatoare:",
+    "contactIntro": "Nu ezita să ne contactezi la",
+    "contactEmail": "grand_soiree@yahoo.com"
+  }
+}

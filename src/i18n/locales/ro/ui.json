@@ -1,0 +1,57 @@
+{
+  "leaders": {
+    "seeOurLeaders": "Vezi liderii noștri →",
+    "slogans": {
+      "1": "Trăiește gratuit în hoteluri",
+      "2": "Călătorește prin lume",
+      "3": "Lucrează în libertate",
+      "4": "Multiplică-ți lumea",
+      "5": "Multiplică-ți nivelul de trai",
+      "6": "Multiplică-ți viața socială"
+    }
+  },
+  "navigation": {
+    "previousPage": "Pagina Anterioară",
+    "nextPage": "Pagina Următoare",
+    "toggleSidebar": "Comută Bara Laterală",
+    "toggleMenu": "Comută meniul"
+  },
+  "actions": {
+    "close": "Închide",
+    "more": "Mai mult"
+  },
+  "carousel": {
+    "previousSlide": "Diapozitivul anterior",
+    "nextSlide": "Următorul diapozitiv"
+  },
+  "pagination": {
+    "morePages": "Mai multe pagini",
+    "goToPreviousPage": "Mergi la pagina anterioară",
+    "goToNextPage": "Mergi la următoarea pagină"
+  },
+  "modal": {
+    "close": "Închide modalul"
+  },
+  "search": {
+    "searchFaqs": "Caută FAQ-uri",
+    "clearSearch": "Șterge căutarea",
+    "searchGuests": "Caută oaspeți după nume"
+  },
+  "gallery": {
+    "previousImage": "Imaginea anterioară",
+    "nextImage": "Următoarea imagine"
+  },
+  "accessibility": {
+    "breadcrumb": "traseu de navigare",
+    "pagination": "paginare",
+    "virtualizedList": "Listă virtualizată"
+  },
+  "state": {
+    "loading": "Se încarcă...",
+    "error": "Eroare",
+    "noItems": "Nu există elemente de afișat"
+  },
+  "emoji": {
+    "smile": "zâmbet"
+  }
+}

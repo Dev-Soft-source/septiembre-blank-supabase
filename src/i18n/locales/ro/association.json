@@ -1,0 +1,171 @@
+{
+  "landing": {
+    "hero": {
+      "title": "Alăturați-vă Rețelei Noastre de Asociații Hoteliere",
+      "subtitle": "Conectați asociația dumneavoastră hotelieră cu Nomad Heaven și începeți să generați comisioane pentru fiecare rezervare făcută de nomazi digitali.",
+      "registerButton": "Înregistrați Asociația Mea"
+    },
+    "benefits": {
+      "globalNetwork": {
+        "title": "Rețea Globală",
+        "description": "Accesați o rețea globală de hoteluri și măriți vizibilitatea internațională."
+      },
+      "commissions": {
+        "title": "Comisioane Atractive",
+        "description": "Generați venituri suplimentare cu sistemul nostru de comisioane competitive."
+      },
+      "digitalNomads": {
+        "title": "Nomazi Digitali",
+        "description": "Conectați-vă cu o comunitate în creștere de profesioniști la distanță."
+      },
+      "secureManagement": {
+        "title": "Management Securizat",
+        "description": "Panou de control securizat pentru gestionarea hotelurilor și comisioanelor."
+      }
+    },
+    "howItWorks": {
+      "title": "Cum Funcționează?",
+      "steps": [
+        {
+          "title": "Înregistrați-vă",
+          "description": "Completați formularul de înregistrare cu datele asociației dumneavoastră hoteliere."
+        },
+        {
+          "title": "Adăugați Hoteluri",
+          "description": "Adăugați hotelurile asociației pe platforma noastră din panoul dumneavoastră."
+        },
+        {
+          "title": "Generați Comisioane",
+          "description": "Primiți comisioane automat pentru fiecare rezervare făcută la hotelurile dumneavoastră."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Gata să Începeți?",
+      "subtitle": "Alăturați-vă rețelei noastre de asociații hoteliere și începeți să generați venituri suplimentare astăzi.",
+      "registerButton": "Înregistrați Asociația",
+      "dashboardButton": "Accesați Panoul"
+    },
+    "contact": {
+      "title": "Aveți Întrebări?",
+      "email": "asociatii@nomadheaven.com"
+    }
+  },
+  "slogans": [
+    "SUNTEM HOTEL-LIVING.COM",
+    "SUNTEM POSIBILĂ OCUPARE MASIVĂ PENTRU HOTELURILE DUMNEAVOASTRĂ AFILIATE",
+    "SUNTEM O MARE SURSĂ DE VENITURI PENTRU ASOCIAȚIA DUMNEAVOASTRĂ",
+    {
+      "lines": [
+        "SUNTEM REVOLUȚIA HOTELIERĂ MONDIALĂ",
+        "PE CARE ASOCIAȚIA DUMNEAVOASTRĂ POATE FI PRIMA",
+        "SĂ O COMUNICE AFILIAȚILOR SĂI"
+      ]
+    }
+  ],
+  "offers": {
+    "title": "Ce oferim asociației dumneavoastră",
+    "firstPeriod": {
+      "percentage": "4%",
+      "text": "din rezervările generate",
+      "duration": "În primele 18 luni"
+    },
+    "secondPeriod": {
+      "percentage": "2%",
+      "text": "din rezervările generate",
+      "duration": "În următoarele 12 luni"
+    },
+    "note": {
+      "highlight": "Acest venit nu afectează deloc hotelurile",
+      "description": "Provine din propriul nostru cost de management (10%) și poate fi reinvestit în beneficiul asociației și membrilor săi."
+    }
+  },
+  "calculator": {
+    "title": "Calculator online",
+    "labels": {
+      "hotels": "CÂTE HOTELURI AFILIATE?",
+      "rooms": "CÂTE CAMERE GOALE ZILNIC ÎN MEDIE?",
+      "price": "PREȚ LUNAR PE CAMERĂ?"
+    },
+    "results": {
+      "hotelBenefits": "Beneficii pentru hoteluri *:",
+      "associationBenefits": "Beneficii pentru asociație *:"
+    }
+  },
+  "accordion": {
+    "advantages": {
+      "title": "CE AVANTAJE OBȚIN HOTELURILE DUMNEAVOASTRĂ ASOCIATE PRIN ÎNREGISTRAREA PRIN ASOCIAȚIA DUMNEAVOASTRĂ?",
+      "items": [
+        "Poziționare preferențială în rezultate",
+        "Publicare garantată în 48 de ore",
+        "Fișă evidențiată vizual",
+        "Participare automată la campanii locale",
+        "Etichetă oficială de \"hotel aliat\"",
+        "Dreptul la feedback direct cu echipa Hotel-Living",
+        "Includere în trageri la sorți promoționale",
+        "Onboarding asistat personalizat",
+        "Revizuire gratuită a fișei lor",
+        "Traducere prioritară a fișei lor în alte limbi",
+        "Beneficiu cumulativ dacă recomandă alte hoteluri (care nu aparțin niciunei asociații)",
+        "Acces anticipat la noi module ale sistemului Hotel-Living",
+        "Pentru a testa funcții înainte de lansarea lor oficială",
+        "Atenție prioritară în suportul tehnic și rezolvarea incidentelor",
+        "Acces gratuit la instruiri exclusive despre optimizarea șederii lungi și revenue management pentru echipa lor",
+        "O mențiune sau publicație personalizată lunară (rotativă)",
+        "Eticheta \"Top Hotel Asociație\" pe fișa lor în primele 3 luni",
+        "Frecvență mai mare de apariție în segmente de afinități personalizate",
+        "Convocare preferențială la întâlniri sau mese rotunde cu alte hoteluri aliate"
+      ]
+    },
+    "clients": {
+      "title": "SUTE DE MILIOANE DE CLIENȚI AȘTEAPTĂ",
+      "items": [
+        "Pensionari activi care vor să trăiască cu adevărat",
+        "Lucrători online și nomazi digitali",
+        "Profesioniști în orașe dormitor",
+        "Chiriași sătui de dificultăți",
+        "Călători frecvenți care caută suflet",
+        "Utilizatori de apartamente improvizate",
+        "Suflete libere care vor totul rezolvat",
+        "Cetățeni care doresc să rupă singurătatea și să întâlnească persoane cu aceleași afinități"
+      ],
+      "conclusion": [
+        "Toți au ceva în comun: caută un nou mod de a locui.",
+        "Nu mai e vorba de închiriere. Nu mai e vorba de călătorie.",
+        "E vorba de a trăi diferit.",
+        "Și pentru toate acestea, hotelul este soluția naturală.",
+        "Hotel-Living vine să schimbe asta.",
+        "Model de lungă durată",
+        "Implementat în faze cu module revoluționare",
+        "Rentabilizează, poziționează și modernizează",
+        "În prezent implementat doar la 20% din totalitate"
+      ]
+    }
+  },
+  "disclaimer": {
+    "text": [
+      "* Cifrele prezentate sunt estimări bazate pe potențialul maxim de ocupare.",
+      "Rezultatele reale pot varia în funcție de numărul de pachete efectiv vândute și de prețul mediu lunar.",
+      "Acesta din urmă —fixat la $1.300— reprezintă o medie ponderată care contemplă șederi fără serviciu de mese, precum și hoteluri de diferite categorii, cu ocupări atât individuale cât și duble."
+    ]
+  },
+  "benefits": {
+    "title": "Suntem Hotel-Living și acestea sunt câteva dintre beneficiile directe pentru membrii dumneavoastră afiliați",
+    "items": [
+      "Eliminăm sezoanele medii și joase.",
+      "Multiplicăm radical profiturile hoteliere.",
+      "Activăm 100% din rentabilitatea camerelor libere.",
+      "Hotelul încasează în avans 5% din fiecare rezervare, profit net nerambursabil.",
+      "Fără abonamente – Fără membru­rii – Fără taxe lunare – Fără contracte forțate – Fără costuri anticipate – Fără adaptări.",
+      "Recuperăm clienții care au optat pentru apartamentele turistice.",
+      "Reducem costurile operaționale.",
+      "Aducem șederi mai lungi și mai profitabile.",
+      "Unificăm intrările și ieșirile într-o singură zi săptămânală.",
+      "Simplificăm managementul zilnic.",
+      "Oferim stabilitate absolută a personalului.",
+      "Umplem hotelurile cu viață și atracție.",
+      "Aducem hotelurilor clienții lor ideali conform afinităților alese de hotelul însuși.",
+      "Conectăm asociația dumneavoastră cu o nouă eră de profitabilitate și stabilitate."
+    ]
+  }
+}

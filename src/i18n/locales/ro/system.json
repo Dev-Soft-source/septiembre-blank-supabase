@@ -1,0 +1,41 @@
+{
+  "console": {
+    "userNotDetected": "Utilizator autentificat nedetectat",
+    "redirectingBasedOnRole": "Redirecționare pe baza rolului",
+    "logoutButtonClicked": "Butonul de logout apăsat",
+    "logoutSuccessful": "Logout reușit",
+    "errorDuringLogout": "Eroare în timpul logout-ului",
+    "errorFetching": "Eroare la obținere",
+    "errorCreating": "Eroare la creare",
+    "errorDeleting": "Eroare la ștergere",
+    "errorUpdating": "Eroare la actualizare",
+    "processingData": "Procesează datele",
+    "dataFetched": "Date obținute cu succes"
+  },
+  "validation": {
+    "error": "Eroare",
+    "required": "Obligatoriu",
+    "invalid": "Invalid",
+    "fieldRequired": "Acest câmp este obligatoriu",
+    "invalidEmail": "Format email invalid",
+    "passwordTooShort": "Parola prea scurtă",
+    "passwordMismatch": "Parolele nu se potrivesc"
+  },
+  "location": {
+    "notSpecified": "Locația nu este specificată",
+    "cityCountry": "{{city}}, {{country}}"
+  },
+  "pricing": {
+    "onRequest": "Preț la cerere",
+    "perMonth": "pe lună",
+    "from": "De la",
+    "currency": "EUR"
+  },
+  "state": {
+    "loading": "Se încarcă...",
+    "noItems": "Nu există elemente de afișat",
+    "noOptions": "Nu s-au găsit opțiuni",
+    "noResults": "Nu s-au găsit rezultate",
+    "tryAgain": "Vă rugăm să încercați din nou"
+  }
+}

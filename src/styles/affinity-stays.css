@@ -1,0 +1,6 @@
+/* Affinity Stays - mobile-only fix to preserve golden slogan backgrounds */
+@media (max-width: 768px) {
+  .affinity-slogan-block {
+    background-color: #FFC700 !important;
+  }
+}

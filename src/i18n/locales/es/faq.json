@@ -1,0 +1,105 @@
+{
+  "title": "Preguntas Frecuentes",
+  "subtitle": "Encuentra respuestas a las preguntas más comunes",
+  "searchPlaceholder": "Buscar en las preguntas frecuentes...",
+  "noResults": "No se encontraron resultados",
+  "search": "Buscar en preguntas frecuentes...",
+  "categories": {
+    "general": "General",
+    "booking": "Reservas",
+    "payment": "Pagos",
+    "cancellation": "Cancelaciones",
+    "policies": "Políticas",
+    "technical": "Técnico",
+    "account": "Cuenta",
+    "support": "Soporte"
+  },
+  "accordion": {
+    "stillRenting": "¿Aún alquilas?",
+    "hotel": "¿Hotel?",
+    "retired": "¿Jubilado?",
+    "commuter": "¿Viajero diario?",
+    "onlineWorker": "¿Trabajador online?",
+    "freeSoul": "GRAN VIAJERO",
+    "society": "¿Sociedad?"
+  },
+  "avatarMessage": "Aquí estoy.\nSi me necesitas,\npregunta lo que quieras.",
+  "identifyHeader": "¿CON QUIÉN TE IDENTIFICAS?\nHAZ CLIC PARA SABER MÁS",
+  "linkText": "Retrato de la Crisis Hotelera",
+  "avatars": {
+    "antonio": {
+      "shortMessage": "¡Soy Antonio, jubilado!",
+      "fullMessage": "¡Soy Antonio, jubilado! Podemos hablar"
+    },
+    "luisa": {
+      "shortMessage": "¡Soy Luisa, jubilada!",
+      "fullMessage": "¡Soy Luisa, jubilada! Podemos hablar"
+    },
+    "john": {
+      "shortMessage": "¡Soy John, trabajo online!",
+      "fullMessage": "¡Soy John, trabajo online! Podemos hablar"
+    },
+    "teresa": {
+      "shortMessage": "¡Soy Teresa! Amo viajar.",
+      "fullMessage": "¡Soy Teresa! Amo viajar. Podemos hablar"
+    },
+    "juan": {
+      "shortMessage": "¡Soy Juan! ¡Adiós apartamentos!",
+      "fullMessage": "¡Soy Juan! Ya no alquilo apartamentos. Podemos hablar"
+    },
+    "ion": {
+      "shortMessage": "¡Soy Ion! Antes de alquiler.",
+      "fullMessage": "¡Soy Ion! Antes de alquiler. Podemos hablar"
+    },
+    "maria": {
+      "shortMessage": "¡Soy María! Vivía afuera.",
+      "fullMessage": "¡Soy María! Vivía afuera. Podemos hablar"
+    },
+    "martin": {
+      "shortMessage": "¡Soy Martín! Soy hotelero.",
+      "fullMessage": "¡Soy Martín! Soy hotelero. Podemos hablar"
+    }
+  },
+  "generalQuestions": {
+    "whatIsHotelLiving": {
+      "question": "¿Qué es Hotel-Living?",
+      "answer": "Hotel-Living es una plataforma innovadora que conecta a viajeros con hoteles temáticos para estancias de larga duración, ofreciendo experiencias únicas basadas en intereses y afinidades personales."
+    },
+    "howItWorks": {
+      "question": "¿Cómo funciona?",
+      "answer": "Simplemente selecciona tus afinidades e intereses, explora hoteles que coincidan con tu perfil, y reserva estancias que se alineen perfectamente con tu estilo de vida y pasiones."
+    },
+    "minimumStay": {
+      "question": "¿Cuál es la estancia mínima?",
+      "answer": "La estancia mínima varía según el hotel, pero generalmente es de 30 días para obtener las mejores tarifas y experiencias de largo plazo."
+    }
+  },
+  "bookingQuestions": {
+    "howToBook": {
+      "question": "¿Cómo puedo hacer una reserva?",
+      "answer": "Puedes hacer una reserva directamente en nuestro sitio web seleccionando el hotel, las fechas y completando el proceso de reserva en línea."
+    },
+    "modifyBooking": {
+      "question": "¿Puedo modificar mi reserva?",
+      "answer": "Sí, puedes modificar tu reserva sujeto a disponibilidad y las políticas del hotel. Contacta nuestro equipo de soporte para asistencia."
+    },
+    "confirmation": {
+      "question": "¿Recibiré una confirmación de reserva?",
+      "answer": "Sí, recibirás un correo electrónico de confirmación inmediatamente después de completar tu reserva con todos los detalles importantes."
+    }
+  },
+  "paymentQuestions": {
+    "paymentMethods": {
+      "question": "¿Qué métodos de pago aceptan?",
+      "answer": "Aceptamos todas las principales tarjetas de crédito, transferencias bancarias y métodos de pago digital seguros."
+    },
+    "paymentSecurity": {
+      "question": "¿Es seguro mi pago?",
+      "answer": "Absolutamente. Utilizamos encriptación de nivel bancario y cumplimos con todos los estándares de seguridad PCI DSS para proteger tu información financiera."
+    },
+    "refunds": {
+      "question": "¿Cómo funcionan los reembolsos?",
+      "answer": "Los reembolsos se procesan según la política de cancelación del hotel y típicamente se reflejan en tu método de pago original dentro de 5-10 días hábiles."
+    }
+  }
+}

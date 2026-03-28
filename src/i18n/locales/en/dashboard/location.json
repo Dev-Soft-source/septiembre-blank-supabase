@@ -1,0 +1,42 @@
+
+{
+  "dashboard": {
+    "location": {
+      "title": "Location Information",
+      "address": "Address",
+      "fullAddress": "Full Address",
+      "streetAddress": "Street Address",
+      "city": "City",
+      "state": "State/Province",
+      "country": "Country",
+      "postalCode": "Postal Code",
+      "zipCode": "ZIP Code",
+      "coordinates": "Coordinates",
+      "latitude": "Latitude",
+      "longitude": "Longitude",
+      "mapLocation": "Map Location",
+      "selectLocation": "Select Location on Map",
+      "searchAddress": "Search Address",
+      "nearbyAttractions": "Nearby Attractions",
+      "transportation": "Transportation",
+      "airportDistance": "Airport Distance",
+      "trainStationDistance": "Train Station Distance",
+      "publicTransport": "Public Transport Access",
+      "parkingAvailable": "Parking Available",
+      "valetParking": "Valet Parking",
+      "selfParking": "Self Parking",
+      "paidParking": "Paid Parking",
+      "freeParking": "Free Parking",
+      "selectCountry": "Select Country",
+      "selectCity": "Select City",
+      "postalZipCode": "Postal/ZIP Code",
+      "locationOnMap": "Location on Map",
+      "dragMarker": "Drag marker to adjust location",
+      "searchLocation": "Search for location",
+      "currentLocation": "Use Current Location",
+      "addressValidation": "Please enter a valid address",
+      "countryRequired": "Country is required",
+      "cityRequired": "City is required"
+    }
+  }
+}

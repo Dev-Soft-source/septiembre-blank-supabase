@@ -1,0 +1,3 @@
+
+# Config for the resend-verification-email function
+verify_jwt = false

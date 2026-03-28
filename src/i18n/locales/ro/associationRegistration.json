@@ -1,0 +1,46 @@
+{
+  "title": "Înregistrarea Asociației",
+  "subtitle": "Înregistrați asociația pentru a accesa panoul de gestionare",
+  "form": {
+    "associationName": "Numele Asociației",
+    "associationNamePlaceholder": "Ex: Asociația Maritimă",
+    "responsiblePersonName": "Numele complet al persoanei responsabile",
+    "email": "Email",
+    "emailPlaceholder": "email@asociatie.com",
+    "password": "Parola",
+    "passwordPlaceholder": "Creați o parolă",
+    "confirmPassword": "Confirmați Parola",
+    "confirmPasswordPlaceholder": "Confirmați parola",
+    "country": "Țara",
+    "countryPlaceholder": "Selectați țara",
+    "submitButton": "Înregistrează Asociația",
+    "submittingButton": "Se înregistrează..."
+  },
+  "countries": {
+    "Argentina": "Argentina",
+    "Brasil": "Brazilia",
+    "Chile": "Chile",
+    "Colombia": "Columbia",
+    "España": "Spania",
+    "México": "Mexic",
+    "Perú": "Peru",
+    "Uruguay": "Uruguay",
+    "Otro": "Altele"
+  },
+  "validation": {
+    "requiredFields": "Vă rugăm să completați toate câmpurile obligatorii",
+    "passwordSecurity": "Parola nu îndeplinește cerințele de securitate",
+    "passwordMismatch": "Parolele nu se potrivesc",
+    "emailExists": "Acest email este deja înregistrat. Vă rugăm să folosiți un alt email sau să vă conectați.",
+    "registrationError": "Eroare la înregistrare",
+    "userCreationError": "Eroare la crearea contului de utilizator",
+    "associationCreationError": "Eroare la înregistrarea asociației",
+    "emailError": "Înregistrarea a fost reușită, dar a fost o problemă la trimiterea emailului de confirmare. Vă rugăm să contactați suportul.",
+    "emailSendError": "Înregistrarea a fost reușită, dar emailul de confirmare nu a putut fi trimis. Vă rugăm să contactați suportul.",
+    "generalError": "Eroare în timpul înregistrării. Vă rugăm să încercați din nou."
+  },
+  "success": {
+    "emailSent": "Înregistrare reușită! Am trimis un email de confirmare la adresa dumneavoastră.",
+    "completed": "Înregistrarea finalizată! Verificați emailul pentru a confirma contul și a accesa panoul asociației."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "register": {
+    "title": "Înregistrează-te ca Lider de Grup",
+    "subtitle": "Creează-ți contul de Lider de Grup și începe să construiești comunități",
+    "form": {
+      "firstName": "Prenume",
+      "firstNamePlaceholder": "Prenume",
+      "lastName": "Nume de familie",
+      "lastNamePlaceholder": "Nume de familie",
+      "email": "Adresa de email",
+      "emailPlaceholder": "Adresa de email",
+      "phone": "Telefon (opțional)",
+      "phonePlaceholder": "Telefon (opțional)",
+      "password": "Parola (min. 6 caractere)",
+      "passwordPlaceholder": "Parola (min. 6 caractere)",
+      "confirmPassword": "Confirmă parola",
+      "confirmPasswordPlaceholder": "Confirmă parola",
+      "acceptTerms": "Accept",
+      "termsAndConditions": "Termenii și Condițiile",
+      "createAccount": "Creează cont de Lider de Grup",
+      "alreadyHaveAccount": "Ai deja un cont de Lider de Grup?",
+      "signInHere": "Autentifică-te aici"
+    },
+    "validation": {
+      "fillRequiredFields": "Te rog să completezi toate câmpurile obligatorii",
+      "passwordsDoNotMatch": "Parolele nu se potrivesc",
+      "passwordTooShort": "Parola trebuie să aibă cel puțin 6 caractere",
+      "acceptTermsRequired": "Te rog să accepți Termenii și Condițiile",
+      "emailAlreadyExists": "Acest email este deja înregistrat cu un alt rol. Fiecare email poate avea doar un rol.",
+      "emailAlreadyRegistered": "Acest email este deja înregistrat. Te rog să folosești pagina de autentificare.",
+      "passwordRequirements": "Parola nu îndeplinește cerințele. Te rog să alegi o parolă mai puternică."
+    },
+    "success": {
+      "registrationSuccessful": "Înregistrare reușită! Te rog să verifici emailul pentru linkul de verificare.",
+      "redirecting": "Redirecționare către panoul tău de control..."
+    },
+    "backToHome": "Înapoi la început"
+  }
+}

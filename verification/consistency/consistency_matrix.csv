@@ -1,0 +1,3 @@
+feature_id,expected_panels,actual_panels,consistency,status,notes
+free_nights_banner,user|hotel_owner,user_admin_only,INCONSISTENT,MAJOR,Present in admin user detail; missing in user/hotel dashboards
+commissions_overview,admin|association|promoter,admin_only,INCONSISTENT,MAJOR,Verify panels

@@ -1,0 +1,86 @@
+/* CRITICAL: Hotel Registration Form Fixes - Remove @layer components wrapper */
+
+/* 1. Text Color Fixes - Force white text on all form fields with purple backgrounds */
+.bg-white\/10 input,
+.bg-white\/10 textarea,
+.bg-white\/10 select,
+input.bg-white\/10,
+textarea.bg-white\/10,
+select.bg-white\/10,
+.border-white\/30 input,
+.border-white\/30 textarea,
+.border-white\/30 select,
+input.border-white\/30,
+textarea.border-white\/30,
+select.border-white\/30 {
+  color: #FFFFFF !important;
+  caret-color: #FFFFFF !important;
+}
+
+/* Placeholder text for purple background forms */
+.bg-white\/10 input::placeholder,
+.bg-white\/10 textarea::placeholder,
+input.bg-white\/10::placeholder,
+textarea.bg-white\/10::placeholder,
+.border-white\/30 input::placeholder,
+.border-white\/30 textarea::placeholder,
+input.border-white\/30::placeholder,
+textarea.border-white\/30::placeholder {
+  color: rgba(255, 255, 255, 0.5) !important;
+  opacity: 1 !important;
+}
+
+/* Focus states for purple background forms */
+.bg-white\/10 input:focus,
+.bg-white\/10 textarea:focus,
+.bg-white\/10 select:focus,
+input.bg-white\/10:focus,
+textarea.bg-white\/10:focus,
+select.bg-white\/10:focus,
+.border-white\/30 input:focus,
+.border-white\/30 textarea:focus,
+.border-white\/30 select:focus,
+input.border-white\/30:focus,
+textarea.border-white\/30:focus,
+select.border-white\/30:focus {
+  color: #FFFFFF !important;
+  caret-color: #FFFFFF !important;
+}
+
+/* Select option styling for better visibility */
+.bg-white\/10 select option,
+select.bg-white\/10 option,
+.border-white\/30 select option,
+select.border-white\/30 option {
+  background-color: #640091 !important;
+  color: #FFFFFF !important;
+}
+
+/* Hotel registration specific overrides */
+.hotel-registration-form input,
+.hotel-registration-form textarea,
+.hotel-registration-form select {
+  color: #FFFFFF !important;
+  caret-color: #FFFFFF !important;
+}
+
+.hotel-registration-form input::placeholder,
+.hotel-registration-form textarea::placeholder {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+
+/* Target nested form structures */
+.bg-white\/5 .bg-white\/10 input,
+.bg-white\/5 .bg-white\/10 textarea,
+.bg-white\/5 .border-white\/30 input,
+.bg-white\/5 .border-white\/30 textarea {
+  color: #FFFFFF !important;
+  caret-color: #FFFFFF !important;
+}
+
+/* FormLabel styling to ensure white text */
+.text-white label,
+.text-white .form-label,
+label.text-white {
+  color: #FFFFFF !important;
+}

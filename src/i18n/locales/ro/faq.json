@@ -1,0 +1,60 @@
+
+{
+  "title": "Întrebări Frecvente",
+  "subtitle": "Găsiți răspunsuri la cele mai comune întrebări despre Hotel-Living",
+  "search": "Căutați întrebări frecvente...",
+  "categories": {
+    "general": "General",
+    "booking": "Rezervări",
+    "payment": "Plăți",
+    "accommodation": "Cazare",
+    "cancellation": "Anulare",
+    "support": "Suport"
+  },
+  "accordion": {
+    "stillRenting": "Încă închiriezi?",
+    "hotel": "Hotel?",
+    "retired": "Pensionar?",
+    "commuter": "Navetist?",
+    "onlineWorker": "Lucrător online?",
+    "freeSoul": "MARE CĂLĂTOR",
+    "society": "Societate?"
+  },
+  "avatarMessage": "Sunt aici.\nDacă ai nevoie de mine,\nîntreabă-mă orice.",
+  "identifyHeader": "CU CINE TE IDENTIFICI?\nAPASĂ PENTRU A AFLA MAI MULT",
+  "linkText": "Portretul Crizei Hoteliere",
+  "avatars": {
+    "antonio": {
+      "shortMessage": "Sunt Antonio, pensionar!",
+      "fullMessage": "Sunt Antonio, pensionar! Dacă vrei, putem discuta"
+    },
+    "luisa": {
+      "shortMessage": "Sunt Luisa, pensionară!",
+      "fullMessage": "Sunt Luisa, pensionară! Dacă vrei, putem discuta"
+    },
+    "john": {
+      "shortMessage": "Sunt John, lucrez online!",
+      "fullMessage": "Sunt John, lucrez online! Dacă vrei, putem discuta"
+    },
+    "teresa": {
+      "shortMessage": "Sunt Teresa! Îmi place să călătoresc.",
+      "fullMessage": "Sunt Teresa! Îmi place să călătoresc. Dacă vrei, putem discuta"
+    },
+    "juan": {
+      "shortMessage": "Sunt Juan! Gata cu apartamentele!",
+      "fullMessage": "Sunt Juan! Nu mai închiriez apartamente. Dacă vrei, putem discuta"
+    },
+    "ion": {
+      "shortMessage": "Sunt Ion! Înainte în chirie.",
+      "fullMessage": "Sunt Ion! Înainte în chirie. Dacă vrei, putem discuta"
+    },
+    "maria": {
+      "shortMessage": "Sunt María! Locuiam afară.",
+      "fullMessage": "Sunt María! Locuiam afară. Dacă vrei, putem discuta"
+    },
+    "martin": {
+      "shortMessage": "Sunt Martín! Sunt hotelier.",
+      "fullMessage": "Sunt Martín! Sunt hotelier. Dacă vrei, putem discuta"
+    }
+  }
+}

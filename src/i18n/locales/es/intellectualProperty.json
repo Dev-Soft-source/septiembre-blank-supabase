@@ -1,0 +1,23 @@
+{
+  "intellectualProperty": {
+    "title": "Derechos de Propiedad Intelectual",
+    "content1": "Hotel-Living.com y todo su contenido, características y funcionalidad (incluyendo pero no limitado a toda la información, software, texto, pantallas, imágenes, video y audio, y el diseño, selección y disposición de los mismos) son propiedad de Hotel-Living.com, sus licenciantes u otros proveedores de dicho material y están protegidos por derechos de autor internacionales, marcas registradas, patentes, secretos comerciales y otras leyes de propiedad intelectual o derechos propietarios.",
+    "content2": "Este sitio, así como su innovador sistema de reservas, están registrados y protegidos internacionalmente tanto como Modelos de Utilidad como por Derechos de Autor. Cualquier reproducción o copia del sistema será perseguida legalmente. Los interesados en franquicias nacionales pueden contactarnos.",
+    "trademarks": {
+      "title": "Marcas Registradas",
+      "content": "El nombre Hotel-Living, logo y todos los nombres relacionados, logos, nombres de productos y servicios, diseños y eslóganes son marcas registradas de Hotel-Living.com o sus afiliados o licenciantes. No debe usar dichas marcas sin el permiso previo por escrito de Hotel-Living.com."
+    },
+    "copyright": {
+      "title": "Aviso de Derechos de Autor",
+      "content": "© {year} Hotel-Living.com. Todos los derechos reservados. Ninguna parte de este sitio web puede ser reproducida, distribuida o transmitida en cualquier forma o por cualquier medio, incluyendo fotocopiado, grabación u otros métodos electrónicos o mecánicos, sin el permiso previo por escrito del propietario."
+    },
+    "patent": {
+      "title": "Información de Patentes",
+      "content": "Varios aspectos de la plataforma Hotel-Living.com y el sistema de reservas están protegidos por patentes o pendientes de patente. El uso, reproducción o distribución no autorizada de estas tecnologías está estrictamente prohibido."
+    },
+    "contact": {
+      "title": "Información de Contacto",
+      "content": "Para consultas sobre derechos de propiedad intelectual, permisos u oportunidades de franquicia, no dude en contactarnos completando el formulario que encontrará en {contactLink}"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "content": {
+    "welcomeMessage": "Bienvenido a Hotel-Living",
+    "exploreHotels": "Explora nuestra selección curada de hoteles temáticos",
+    "bookYourStay": "Reserva tu estancia perfecta hoy",
+    "discoverExperiences": "Descubre experiencias únicas",
+    "whyChooseUs": "¿Por qué Elegir Hotel-Living?",
+    "ourMission": "Nuestra misión es revolucionar la forma en que las personas viven y viajan"
+  },
+  "videosContent": {
+    "clientsTitle": "CLIENTES HOTEL-LIVING",
+    "hotelsTitle": "HOTELES HOTEL-LIVING",
+    "clientsVideos": [
+      {
+        "title": "VIVE HOTEL LIVING",
+        "url": "https://youtu.be/e-lLTZ_64k0"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/R8u7a3bYTJQ"
+      }
+    ],
+    "hotelsVideos": [
+      {
+        "title": "",
+        "url": "https://youtu.be/sMoXvOw_B8U"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/FGStOitWN7k"
+      }
+    ],
+    "nativeVideos": [],
+    "spanishVideos": []
+  },
+  "footer": {
+    "links": {
+      "faq": "VENTAJAS",
+      "affinityStays": "¿AFINIDADES?",
+      "hotel": "¿Hotel?",
+      "videos": "VIDEOS",
+      "featuredHotels": "HOTELES DESTACADOS",
+      "ourServices": "NUESTROS SERVICIOS",
+      "ourValues": "NUESTROS VALORES",
+      "customerService": "ATENCIÓN AL CLIENTE",
+      "contact": "CONTACTO",
+      "terms": "TÉRMINOS Y CONDICIONES",
+      "privacy": "PRIVACIDAD Y COOKIES",
+      "intellectualProperty": "PROPIEDAD INTELECTUAL",
+      "ourTeam": "NUESTRO EQUIPO"
+    },
+    "buttons": {
+      "register": "Registrarse",
+      "signIn": "Iniciar Sesión",
+      "hotel": "¿Hotel?"
+    },
+    "copyright": "© 2025 Hotel-Living.com. Todos los derechos reservados. Esta es una versión Beta, sujeta a actualizaciones continuas.",
+    "disclaimer": "Algunas propiedades pueden ser ejemplos utilizados para demostrar la funcionalidad de Hotel Living."
+  },
+  "faq": "FAQ",
+  "affinityStays": "Affinity Stays",
+  "hotels": "Hoteles",
+  "videos": "Videos",
+  "contact": "Contacto",
+  "ourServices": "Nuestros Servicios",
+  "ourValues": "Nuestros Valores",
+  "terms": "Términos y Condiciones",
+  "privacy": "Privacidad y Cookies",
+  "intellectualProperty": "Propiedad Intelectual",
+  "ourTeam": "Nuestro Equipo",
+  "featuredHotelsContent": {
+    "pageTitle": "Hoteles Destacados",
+    "wantToBeFirst": "¿Quiere que su hotel aparezca primero?",
+    "featureDescription": "Podemos destacar su propiedad aquí mismo — sin grandes tarifas, solo colaboración inteligente.",
+    "loginForInfo": "Inicie sesión en su panel de hotel para más información."
+  }
+}

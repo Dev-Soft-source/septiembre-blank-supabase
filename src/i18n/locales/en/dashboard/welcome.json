@@ -1,0 +1,26 @@
+
+{
+  "dashboard": {
+    "welcome": {
+      "title": "Welcome to Hotel-Living",
+      "subtitle": "Your Partner Dashboard",
+      "greeting": "Welcome back",
+      "getStarted": "Get Started",
+      "quickActions": "Quick Actions",
+      "recentActivity": "Recent Activity",
+      "notifications": "Notifications",
+      "alerts": "Alerts",
+      "updates": "Updates",
+      "news": "News",
+      "announcements": "Announcements",
+      "tips": "Tips",
+      "help": "Help",
+      "support": "Support",
+      "documentation": "Documentation",
+      "tutorials": "Tutorials",
+      "faq": "FAQ",
+      "contactUs": "Contact Us",
+      "feedback": "Feedback"
+    }
+  }
+}

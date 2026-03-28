@@ -1,0 +1,51 @@
+
+{
+  "content": {
+    "welcomeMessage": "Bem-vindo ao Hotel-Living",
+    "exploreHotels": "Explore nossa seleção curada de hotéis temáticos",
+    "bookYourStay": "Reserve sua estadia perfeita hoje",
+    "discoverExperiences": "Descubra experiências únicas",
+    "whyChooseUs": "Por que escolher Hotel-Living?",
+    "ourMission": "Nossa missão é revolucionar a forma como as pessoas vivem e viajam"
+  },
+  "videosContent": {
+    "nativeVideos": [
+      {
+        "title": "",
+        "url": "https://youtu.be/NEn7uG_fb8M"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/R8u7a3bYTJQ"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/FGStOitWN7k"
+      }
+    ],
+    "spanishVideos": [
+      {
+        "title": "",
+        "url": "https://youtu.be/sMoXvOw_B8U"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/e-lLTZ_64k0"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/R8u7a3bYTJQ"
+      },
+      {
+        "title": "",
+        "url": "https://youtu.be/FGStOitWN7k"
+      }
+    ]
+  },
+  "featuredHotelsContent": {
+    "pageTitle": "Hotéis em Destaque",
+    "wantToBeFirst": "Quer que seu hotel apareça em primeiro lugar?",
+    "featureDescription": "Podemos destacar sua propriedade aqui mesmo — sem grandes taxas, apenas colaboração inteligente.",
+    "loginForInfo": "Faça login no painel do seu hotel para mais informações."
+  }
+}

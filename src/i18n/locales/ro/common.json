@@ -1,0 +1,26 @@
+
+{
+  "intro": {
+    "welcome": "REVOLUȚIA\nA SOSIT",
+    "tagline": "TRĂIEȘTE DIN PLIN!",
+    "experience": "UITĂ DE\nTREBURILE CASNICE",
+    "style": "TRĂIEȘTE ÎN HOTELURI\nTOT ANUL",
+    "community": "BUCURĂ-TE DE STILUL\nPE CARE ÎL MERIȚI",
+    "people": "ÎNCONJOARĂ-TE CU OAMENI\nCA TINE",
+    "passion": "FACEȚI DIN PASIUNILE VOASTRE\nVIAȚA VOASTRĂ ZILNICĂ"
+  },
+  "noHotelsInCountry": {
+    "title": "Avem nevoie de hoteluri în această țară",
+    "description": "Cunoști un hotel grozav aici? Ajută-ne să creștem! Poți recomanda hotelurile tale preferate direct din panoul de utilizator și ne vom pune în legătură cu ei pentru a le trimite clienții noștri.",
+    "recommendButton": "Recomandă un hotel"
+  },
+  "noHotelsAvailable": {
+    "caseA": "Avem o cerere mare pentru această țară, dar nu avem încă niciun hotel disponibil. Puteți participa activ:",
+    "caseB": "Criteriul dvs. de căutare (\"{criterio}\") nu a returnat rezultate și avem o cerere mare pentru acest tip de hotel. Puteți participa activ ajutându-ne să le incorporăm:",
+    "promoterLink": "Deveniți promotor Hotel-Living",
+    "ambassadorLink": "Deveniți ambasador Hotel-Living",
+    "promoterBenefit": "(obțineți beneficii lunare pasive)",
+    "or": "sau"
+  },
+  "liveVisitors": "{{count}} persoane se uită acum"
+}

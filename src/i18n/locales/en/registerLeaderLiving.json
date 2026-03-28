@@ -1,0 +1,39 @@
+{
+  "register": {
+    "title": "Register as Group Leader",
+    "subtitle": "Create your Group Leader account and start building communities",
+    "form": {
+      "firstName": "First Name",
+      "firstNamePlaceholder": "First Name",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Last Name", 
+      "email": "Email address",
+      "emailPlaceholder": "Email address",
+      "phone": "Phone (optional)",
+      "phonePlaceholder": "Phone (optional)",
+      "password": "Password (min. 6 characters)",
+      "passwordPlaceholder": "Password (min. 6 characters)",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Confirm Password",
+      "acceptTerms": "I accept the",
+      "termsAndConditions": "Terms and Conditions",
+      "createAccount": "Create Group Leader Account",
+      "alreadyHaveAccount": "Already have a Group Leader account?",
+      "signInHere": "Sign in here"
+    },
+    "validation": {
+      "fillRequiredFields": "Please fill in all required fields",
+      "passwordsDoNotMatch": "Passwords do not match",
+      "passwordTooShort": "Password must be at least 6 characters long",
+      "acceptTermsRequired": "Please accept the Terms and Conditions",
+      "emailAlreadyExists": "This email is already registered with another role. Each email can only have one role.",
+      "emailAlreadyRegistered": "This email is already registered. Please use the login page instead.",
+      "passwordRequirements": "Password does not meet requirements. Please choose a stronger password."
+    },
+    "success": {
+      "registrationSuccessful": "Registration successful! Please check your email for verification link.",
+      "redirecting": "Redirecting to your dashboard..."
+    },
+    "backToHome": "Back to Home"
+  }
+}

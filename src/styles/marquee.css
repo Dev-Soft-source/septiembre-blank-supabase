@@ -1,0 +1,44 @@
+/* Scrolling Marquee Animations */
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.marquee-scroll {
+  animation-play-state: running;
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  .marquee-scroll {
+    animation: none !important;
+    transform: none !important;
+  }
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  .marquee-scroll {
+    font-size: 21px !important;
+    line-height: 21px !important;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    /* Remove horizontal padding that freezes the animation */
+  }
+}
+
+/* Pause animation when tab is not visible */
+.marquee-scroll {
+  animation-play-state: running;
+}
+
+/* Smooth hardware acceleration */
+.marquee-scroll {
+  backface-visibility: hidden;
+  perspective: 1000px;
+}

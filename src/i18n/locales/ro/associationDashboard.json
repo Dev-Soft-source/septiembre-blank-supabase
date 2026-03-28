@@ -1,0 +1,58 @@
+{
+  "title": "Panoul de Asociaţie",
+  "subtitle": "Gestionează hotelurile și comisioanele",
+  "logoutButton": "Ieșire",
+  "tabs": {
+    "registeredHotels": "Hoteluri Înregistrate",
+    "commissions": "Comisioane",
+    "suggestedLetter": "Scrisoare Sugerată",
+    "analytics": "Analize",
+    "calculadora": "Calculator",
+    "myData": "Datele Mele",
+    "foundingAssociation": "Asociație Fondatoare"
+  },
+  "analytics": {
+    "totalBookings": "Total Rezervări",
+    "commissions": "Comisioane",
+    "activeHotels": "Hoteluri Active",
+    "growth": "Creștere",
+    "monthlyPerformance": "Performanță Lunară",
+    "hotelPerformance": "Performanța pe Hotel",
+    "bookings": "rezervări",
+    "months": {
+      "jan": "Ian",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Apr",
+      "may": "Mai",
+      "jun": "Iun"
+    }
+  },
+  "commissions": {
+    "totalCommissions": "Total Comisioane",
+    "thisMonth": "Luna Aceasta",
+    "bookings": "Rezervări",
+    "history": "Istoric Comisioane",
+    "noCommissions": "Niciun comision înregistrat încă",
+    "paid": "Plătit",
+    "bookingDate": "Data rezervării"
+  },
+  "hotels": {
+    "uploadHotelList": "Încărcare Listă Hoteluri",
+    "dragDropCsv": "Trageți un fișier CSV aici sau faceți clic pentru a selecta",
+    "expectedFormat": "Format așteptat: hotel_name, city, contact_email",
+    "selectCsvFile": "Selectați fișierul CSV",
+    "pasteCsvData": "Sau lipiți datele CSV direct:",
+    "processData": "Procesare Date",
+    "provideCsvData": "Vă rugăm să furnizați date CSV pentru procesare",
+    "processingCsvData": "Se procesează datele CSV..."
+  },
+  "foundingAssociation": {
+    "title": "Asociație Fondatoare",
+    "description": "Deveniți o Asociație Fondatoare a Hotel Living. Prin selectarea opțiunii Da, veți beneficia de publicitate gratuită pe portalul nostru și de recunoaștere publică, precum și de avantajele corespunzătoare unei entități fondatoare în proiectul nostru.",
+    "no": "Nu",
+    "yes": "Da",
+    "notificationSent": "Notificare trimisă cu succes",
+    "notificationError": "Eroare la trimiterea notificării"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "identification": {
+    "title": "Identification Codes",
+    "description": "Manage identification codes for different entity types",
+    "entities": {
+      "agent": "Promoter",
+      "hotel": "Hotel", 
+      "association": "Association",
+      "leader": "Group Leader",
+      "ambassador": "Ambassador"
+    },
+    "formats": {
+      "commission": "7 characters: {prefix} + 5 digits + suffix letter (A-Z, except O)",
+      "nonCommission": "6 characters: {prefix} + 5 digits (no suffix)",
+      "examples": "Examples",
+      "requirements": "Format Requirements"
+    },
+    "validation": {
+      "required": "Code is required",
+      "invalidLength": "Code must be exactly {length} characters",
+      "invalidPrefix": "Code must start with '{prefix}'",
+      "noLetterO": "Code cannot contain the letter O",
+      "invalidDigits": "Characters 2-6 must be digits (0-9)",
+      "invalidSuffix": "Last character must be a letter A-Z (except O)",
+      "notUnique": "This code is already in use",
+      "valid": "Valid {entity} code",
+      "checking": "Validating...",
+      "failed": "Failed to validate code"
+    },
+    "actions": {
+      "generate": "Generate {entity} Code",
+      "generating": "Generating...",
+      "copy": "Copy Code",
+      "copied": "Code copied to clipboard!"
+    },
+    "info": {
+      "startsWith": "Start with \"{prefix}\" (for {entity})",
+      "followedBy": "Followed by 5 digits (0-9)",
+      "endsWith": "End with a letter (A-Z, except O)",
+      "noLetterO": "No letter \"O\" anywhere in the code",
+      "totalLength": "Total length: {length} characters"
+    },
+    "commission": {
+      "title": "Commission Entities",
+      "description": "Entities that receive commissions use 7-character codes",
+      "types": "Hotels, Associations, Promoters"
+    },
+    "nonCommission": {
+      "title": "Non-Commission Entities", 
+      "description": "Entities without commissions use 6-character codes",
+      "types": "Group Leaders, Ambassadors"
+    }
+  }
+}

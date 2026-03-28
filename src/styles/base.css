@@ -1,0 +1,113 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* CRITICAL: All colors must be HSL to prevent yellow/white conflicts */
+    --background: 268 67% 35%;
+    --foreground: 280 10% 98%;
+
+    --card: 268 67% 35%;
+    --card-foreground: 280 10% 98%;
+
+    --popover: 268 67% 35%;
+    --popover-foreground: 280 10% 98%;
+
+    /* Brand Purple as Primary */
+    --primary: 268 67% 35%;
+    --primary-foreground: 280 10% 98%;
+
+    --secondary: 268 67% 40%;
+    --secondary-foreground: 280 10% 98%;
+
+    --muted: 268 67% 40%;
+    --muted-foreground: 280 10% 60%;
+
+    --accent: 311 90% 60%;
+    --accent-foreground: 280 10% 98%;
+
+    --destructive: 0 62.8% 50.6%;
+    --destructive-foreground: 280 10% 98%;
+
+    --border: 268 67% 40%;
+    --input: 268 67% 35%;
+    --ring: 268 67% 35%;
+
+    --radius: 1rem;
+  }
+
+  * {
+    border-color: hsl(var(--border));
+  }
+
+  html, body {
+    @apply overflow-x-hidden max-w-[100vw];
+    overflow-y: auto;
+    font-size: 16px;
+    min-font-size: 14px;
+    zoom: 1 !important;
+    transform: none !important;
+  }
+
+  /* Mobile-only: Hide horizontal scrollbar only */
+  @media (max-width: 768px) {
+    html, body {
+      @apply overflow-x-hidden;
+      overflow-y: auto;
+      width: 100vw;
+      max-width: 100vw;
+    }
+  }
+
+  body {
+    @apply antialiased;
+    background: hsl(var(--background));
+    color: hsl(var(--foreground));
+    position: relative;
+  }
+
+  /* CRITICAL: Global input field styling fix - Corporate purple background with white text */
+  input[type="text"],
+  input[type="email"],
+  input[type="number"],
+  input[type="tel"],
+  input[type="date"],
+  input[type="password"],
+  input[type="url"],
+  input[type="search"],
+  textarea,
+  select,
+  /* Target any input elements that might have text-base class */
+  input.text-base,
+  textarea.text-base {
+    background-color: #68178D !important;
+    color: #ffffff !important;
+    border: 1px solid #9a3ec0 !important;
+  }
+
+  input::placeholder,
+  textarea::placeholder {
+    color: #ffffff !important;
+    opacity: 0.8;
+  }
+
+  /* Ensure focus states maintain readability */
+  input[type="text"]:focus,
+  input[type="email"]:focus,
+  input[type="number"]:focus,
+  input[type="tel"]:focus,
+  input[type="date"]:focus,
+  input[type="password"]:focus,
+  input[type="url"]:focus,
+  input[type="search"]:focus,
+  textarea:focus,
+  select:focus {
+    background-color: #68178D !important;
+    color: #ffffff !important;
+    border-color: #9a3ec0 !important;
+    outline: 2px solid #9a3ec0;
+    outline-offset: 2px;
+  }
+}
